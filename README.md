@@ -1,10 +1,10 @@
-# FSMODBOX - FromSoftware MOD Translation Studio Box
+# FSMODTSBOX - FromSoftware MOD Translation Studio Box
 
-![GitHub Release](https://img.shields.io/github/v/release/benbakc/FSMODBOX)
+![GitHub Release](https://img.shields.io/github/v/release/benbakc/FSMODTSBOX)
 ![License](https://img.shields.io/badge/license-GPLv3-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
 
-**FSMODBOX** 是一款基于 WPF .NET8 的 FromSoftware 游戏 MOD 翻译工具，支持一键汉化游戏 MOD 文本。前身为闭源版，现已全面开源免费。
+**FSMODTSBOX** 是一款基于 WPF .NET8 的 FromSoftware 游戏 MOD 翻译工具，支持一键汉化游戏 MOD 文本。前身为 FSMODBOX（闭源版），现已全面开源免费。
 
 ## 支持的游戏
 
@@ -39,22 +39,18 @@
 
 ### 📁 项目结构
 ```
-FSMODBOX/
-├── FSMODBOX/            # 源码目录
-│   ├── FSMODBOX.csproj  # .NET8 项目文件
-│   ├── App.xaml         # 应用入口
-│   ├── MainWindow.xaml  # 主界面
-│   ├── Models/          # 数据模型
-│   └── Services/        # 核心服务
-├── i18n/                # 多语言翻译缓存
-├── tools/               # Yabber 解包工具
-└── icon/                # 应用图标
+FSMODTSBOX_Release/
+├── FSMODTSBOX.exe      # 主程序
+├── FSMODTSBOX.dll      # 核心库
+├── FSMODTSBOX.pdb      # 调试符号
+├── tools/Yabber/       # Yabber 解包工具
+└── i18n/               # 多语言资源文件
 ```
 
 ## 快速开始
 
 ### 下载
-从 [Releases](https://github.com/benbakc/FSMODBOX/releases) 下载最新版本的 `FSMODTSBOX_Release.zip`，解压即可使用。
+从 [Releases](https://github.com/benbakc/FSMODTSBOX/releases) 下载最新版本的 `FSMODTSBOX_Release.zip`，解压即可使用。
 
 ### 使用方法
 1. 解压 `FSMODTSBOX_Release.zip`
@@ -100,12 +96,12 @@ ui:
 
 ### 构建步骤
 ```bash
-git clone https://github.com/benbakc/FSMODBOX.git
-cd FSMODBOX
-dotnet publish FSMODBOX/FSMODBOX.csproj -c Release -r win-x64 --self-contained true
+git clone https://github.com/benbakc/FSMODTSBOX.git
+cd FSMODTSBOX
+dotnet publish -c Release -r win-x64 --self-contained true
 ```
 
-发布产物位于 `FSMODBOX/bin/Release/net8.0-windows/win-x64/publish/`。
+发布产物位于 `bin/Release/net8.0-windows/win-x64/publish/`。
 
 ## 开源协议
 
@@ -118,4 +114,4 @@ dotnet publish FSMODBOX/FSMODBOX.csproj -c Release -r win-x64 --self-contained t
 
 ---
 
-**FSMODBOX** - 让 MOD 翻译变得简单。Made with ❤️ by forget909
+**FSMODTSBOX** - 让 MOD 翻译变得简单。Made with ❤️ by forget909
