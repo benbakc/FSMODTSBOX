@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3030">Degree of stick tilt affects camera speed</text>
+<text id="40000">Downloadable content</text>
+<text id="130100">Cannot choose this target due to one or more team members not owning the downloadable content.
+
+All team members must have the following downloadable content:
+
+&lt;?requiredDlcList?&gt;</text>
+<text id="130101">Certain targets are restricted due to team members not owning the downloadable content.
+
+All team members must have the following downloadable content:
+
+&lt;?requiredDlcList?&gt;</text>
+<text id="131123">Event will not occur as relevant downloadable content not owned by all players.</text>
+<text id="131124">Event will not occur as relevant downloadable content not owned by all players.</text>
+<text id="401130">The following downloadable content cannot be found:
+
+&lt;?requiredDlcList?&gt;
+
+This profile cannot be loaded until the required downloadable content is reinstalled.</text>
+<text id="401131">The Forsaken Hollows</text>
+<text id="506080">Player without the downloadable content joined.
+Ready state cancelled.</text>
+<text id="506081">One or more players do not have access to the downloadable content.
+Ready state cancelled.</text>
+</entries>
+</fmg>

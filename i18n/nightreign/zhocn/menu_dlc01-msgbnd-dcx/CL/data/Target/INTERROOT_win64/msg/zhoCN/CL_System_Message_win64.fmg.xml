@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2100">个人资料</text>
+<text id="2500">移除自定义设置</text>
+<text id="3000">设置控制器的振动强度</text>
+<text id="3001">%null%</text>
+<text id="3002">%null%</text>
+<text id="3003">%null%</text>
+<text id="3004">%null%</text>
+<text id="3005">%null%</text>
+<text id="3006">%null%</text>
+<text id="3007">%null%</text>
+<text id="3008">%null%</text>
+<text id="3009">%null%</text>
+<text id="3010">自定义控制器的按钮对应的操作</text>
+<text id="3011">%null%</text>
+<text id="3012">%null%</text>
+<text id="3013">%null%</text>
+<text id="3014">%null%</text>
+<text id="3015">%null%</text>
+<text id="3016">%null%</text>
+<text id="3017">%null%</text>
+<text id="3018">%null%</text>
+<text id="3019">%null%</text>
+<text id="3020">请按下想设置成的按钮</text>
+<text id="4101">您未连接至网络。
+&lt;?errorHandling?&gt;</text>
+<text id="4102">与游戏服务器断开。
+&lt;?errorHandling?&gt;</text>
+<text id="4160">与Steam联机中断。
+&lt;?errorHandling?&gt;</text>
+<text id="4161">未达联机模式游玩所需的帧率。
+&lt;?errorHandling?&gt;</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">发生联机问题。
+&lt;?errorHandling?&gt;</text>
+<text id="4171">与Epic Online Services联机失败：&lt;?errcodeEOS?&gt;
+&lt;?errorHandling?&gt;</text>
+<text id="4172">与Steamworks联机失败：&lt;?errcodeSteam?&gt;
+&lt;?errorHandling?&gt;</text>
+<text id="4190">发生网络联机错误。
+&lt;?errorHandling?&gt;</text>
+<text id="4191">保存数据损毁，
+游戏进度保存失败。
+
+如要重试，请按“是”。
+
+不保存游戏进度，直接返回首页画面，
+请按“否”。</text>
+<text id="4192">保存数据损毁，
+游戏进度保存失败。
+
+将返回首页画面。</text>
+<text id="4193">保存数据损毁，
+游戏进度保存失败。</text>
+<text id="4194">在一定时间内没有进行任何操作，已离开联机。
+&lt;?errorHandling?&gt;</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">将返回首页画面。</text>
+<text id="4201">改以脱机模式继续游玩。
+
+如要变更为联机模式，请返回首页画面。</text>
+<text id="4202">发生错误，将关闭战果的显示画面。</text>
+<text id="4203">将关闭战果记录的显示画面，改以脱机模式继续游玩。</text>
+<text id="4204">改以脱机模式继续游玩。
+
+本次深夜的联机结果将不会反映在进行度上。
+
+如要变更为联机模式，请返回首页画面。</text>
+<text id="100010">玩家代号</text>
+<text id="100011">玩家名称</text>
+<text id="101000">请按任一按钮</text>
+<text id="110000">控制器设置</text>
+<text id="110001">%null%</text>
+<text id="110002">%null%</text>
+<text id="110003">%null%</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">控制器振动</text>
+<text id="111030">按钮设置</text>
+<text id="111031">%null%</text>
+<text id="111032">%null%</text>
+<text id="111033">%null%</text>
+<text id="111034">%null%</text>
+<text id="111035">按钮设置</text>
+<text id="200100">含有不可使用的文字。
+不可使用的文字将替换成“＊”。</text>
+<text id="280000">此设置无法更动。</text>
+<text id="280001">%null%</text>
+<text id="280002">有部分设置重复，请再次确认。</text>
+<text id="280003">有部分设置重复。
+确定不保存设置，直接关闭？</text>
+<text id="280004">有菜单操作相关的设置尚未完成，请再次确认。</text>
+<text id="280005">%null%</text>
+<text id="280006">%null%</text>
+<text id="280007">按钮设置将恢复成默认，
+您确定吗？</text>
+<text id="322000">将返回首页画面，参加队伍联机。
+您确定吗？
+
+如果参加联机，目前的进度将会消失。</text>
+<text id="322001">将返回圆桌厅堂，参加队伍联机。
+您确定吗？
+
+如果参加联机，目前的进度将会消失。</text>
+<text id="322002">%null%</text>
+<text id="322003">%null%</text>
+<text id="322004">%null%</text>
+<text id="322005">%null%</text>
+<text id="322006">%null%</text>
+<text id="322007">%null%</text>
+<text id="322008">%null%</text>
+<text id="322009">%null%</text>
+<text id="322010">将返回首页画面，参加队伍联机。
+确定不保存设置，直接关闭？</text>
+<text id="322011">将返回圆桌厅堂，参加队伍联机。
+您确定吗？
+
+如果参加联机，目前的进度将会消失。</text>
+<text id="322012">%null%</text>
+<text id="322013">%null%</text>
+<text id="322014">%null%</text>
+<text id="322015">%null%</text>
+<text id="322016">%null%</text>
+<text id="322017">%null%</text>
+<text id="322018">%null%</text>
+<text id="322019">%null%</text>
+<text id="322020">将结束教学、返回首页画面，参加队伍联机。
+您确定吗？
+
+※稍后能再次确认教学。</text>
+<text id="322021">将结束教学，参加队伍联机。
+您确定吗？
+
+※稍后能再次确认教学。</text>
+<text id="322050">找不到游戏进度资料，
+无法参加队伍联机。</text>
+<text id="322051">%null%</text>
+<text id="322052">%null%</text>
+<text id="322053">%null%</text>
+<text id="322054">%null%</text>
+<text id="322055">%null%</text>
+<text id="322056">%null%</text>
+<text id="322057">%null%</text>
+<text id="322058">%null%</text>
+<text id="322059">%null%</text>
+<text id="322060">队伍联机的人数已达上限，无法参加。</text>
+<text id="322061">找不到队伍联机，无法参加。</text>
+<text id="322062">规则的版本不一致，无法参加队伍联机。
+
+请返回首页画面，取得最新的规则。</text>
+<text id="322063">队伍联机已经出击，无法参加。</text>
+<text id="322100">正在等待加入队伍联机……</text>
+<text id="322101">无法参加队伍联机。</text>
+<text id="322102">在菜单画面关闭以前，无法参加队伍联机。</text>
+<text id="322103">目前正在多人联机游玩，无法参加队伍联机。</text>
+<text id="400003">前一次结束游戏时，您可能未从系统菜单选择
+“返回首页画面”或“返回桌面”。
+如果想结束游玩，请从系统菜单选择
+“返回首页画面”或“返回桌面”。
+
+如未选择，有可能无法从结束游玩的进度继续游玩。</text>
+<text id="401102">无法建立保存数据。
+如要重试，请按“确定”。</text>
+<text id="401103">无法加载保存数据。
+如要重试，请按“确定”。</text>
+<text id="401104">%null%</text>
+<text id="401105">%null%</text>
+<text id="401106">保存数据损毁，
+游戏进度保存失败。</text>
+<text id="401107">保存数据损毁。
+要删除损毁的保存数据，建立新的保存数据吗？</text>
+<text id="401108">%null%</text>
+<text id="401109">%null%</text>
+<text id="401110">正在确认保存数据……</text>
+<text id="401111">正在建立保存数据……</text>
+<text id="401112">正在更新保存数据……</text>
+<text id="401113">游戏版本与保存数据版本不相符。
+
+请结束游戏，从Steam客户端更新版本后，
+重新启动游戏。</text>
+<text id="401114">%null%</text>
+<text id="401115">%null%</text>
+<text id="401116">%null%</text>
+<text id="401117">%null%</text>
+<text id="401118">%null%</text>
+<text id="401119">%null%</text>
+<text id="401120">正在确认网络连接状态……</text>
+<text id="401150">正在登录游戏服务器……</text>
+<text id="401151">%null%</text>
+<text id="401152">%null%</text>
+<text id="401153">%null%</text>
+<text id="401154">%null%</text>
+<text id="401155">%null%</text>
+<text id="401156">%null%</text>
+<text id="401157">%null%</text>
+<text id="401158">%null%</text>
+<text id="401159">%null%</text>
+<text id="401160">正在从游戏服务器取得资料……</text>
+<text id="401161">%null%</text>
+<text id="401162">%null%</text>
+<text id="401163">%null%</text>
+<text id="401164">%null%</text>
+<text id="401165">正在游戏服务器端记录资料……</text>
+<text id="401166">%null%</text>
+<text id="401167">%null%</text>
+<text id="401168">%null%</text>
+<text id="401169">%null%</text>
+<text id="401170">将以脱机模式开始游玩。
+
+如要使用网络功能，请确定联机环境后，
+选择首页菜单的“登录”。</text>
+<text id="401171">将返回首页画面。</text>
+<text id="401172">《ELDEN RING NIGHTREIGN Network Test Ver.》
+此版本只能联机游玩。
+将返回首页画面。</text>
+<text id="401201">无法连接至网络，
+请确认网络设置。</text>
+<text id="401202">无法确认网络连接状态。</text>
+<text id="401310">已安装新的附加内容。
+在返回首页画面后，才能套用附加内容。
+
+如要返回首页画面，请按“确定”。</text>
+<text id="401400">已发现帧率问题，
+不能以联机模式开始游戏。
+
+如果要以联机模式开始游戏，
+请解决问题后，再次启动游戏。</text>
+<text id="401401">发生联机问题，
+无法使用联机模式。</text>
+<text id="401402">发生联机问题，
+将返回首页画面。</text>
+<text id="401403">无法联机至Epic Online Services：&lt;?errcodeEOS?&gt;
+无法使用联机模式。</text>
+<text id="401404">无法联机至Steamworks：&lt;?errcodeSteam?&gt;
+无法使用联机模式。</text>
+<text id="401405">无法联机至Epic Online Services：&lt;?errcodeEOS?&gt;
+将返回首页画面。</text>
+<text id="401502">目前您的帐户已被永久封号，
+无法使用游戏服务器的服务。</text>
+<text id="401503">无法登录游戏服务器。
+如要重试，请按“确定”。</text>
+<text id="401504">已有新版本的更新资料。
+
+如果要进行联机游玩，
+请安装更新后，重新启动游戏。</text>
+<text id="401505">游戏服务器正在维修或停止服务，
+无法登录游戏服务器。</text>
+<text id="401506">%null%</text>
+<text id="401507">此帐户由VAC（Valve Anti-Cheat）侦测到作弊行为，
+故不能使用游戏服务器的服务。</text>
+<text id="401601">无法取得信息。
+如要重试，请按“确定”。</text>
+<text id="401701">不能再建立新的角色档案。
+要删除旧有的角色档案，建立新的角色档案吗？</text>
+<text id="401721">保存数据损毁，
+无法加载保存数据。</text>
+<text id="401722">%null%</text>
+<text id="401723">%null%</text>
+<text id="401724">%null%</text>
+<text id="401725">%null%</text>
+<text id="401726">%null%</text>
+<text id="401727">%null%</text>
+<text id="401728">%null%</text>
+<text id="401729">%null%</text>
+<text id="401730">%null%</text>
+<text id="401731">联机游玩的角色设置失败。</text>
+<text id="401820">正在确认是否能重返联机……</text>
+<text id="401821">联机已经解散，
+无法重返先前游玩的联机。</text>
+<text id="401822">已找到先前游玩的联机。
+要重返联机，请按“确定”。
+
+如果不重返联机，
+有可能会暂时无法进行多人联机游玩。</text>
+<text id="401823">无法重返联机。
+如要重试，请按“确定”。</text>
+<text id="401824">目前不是联机模式，无法重返先前游玩的联机。
+要改为联机模式，重返联机吗？
+
+如果以脱机模式开始游玩，会无法重返先前游玩的联机，
+也有可能会暂时无法进行多人联机游玩。</text>
+<text id="401825">联机已经解散，无法重返先前游玩的联机。
+
+将返回首页画面。</text>
+<text id="401826">已找到先前游玩的联机。
+要重返联机，请按“确定”。</text>
+<text id="401827">没有正常开始多人联机游玩，
+无法重返联机。
+
+另外，由于此举可能会影响其他玩家正常游玩，
+已受到惩罚。</text>
+<text id="401991">发生错误，
+将返回首页画面。</text>
+<text id="506030">与Steam联机中断，无法出击。</text>
+<text id="606001">同意</text>
+<text id="606002">不同意</text>
+</entries>
+</fmg>

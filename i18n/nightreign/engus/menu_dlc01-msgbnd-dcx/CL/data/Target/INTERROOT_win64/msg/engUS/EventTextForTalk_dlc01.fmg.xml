@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+  <compression>None</compression>
+  <version>DarkSouls3</version>
+  <bigendian>False</bigendian>
+  <entries>
+    <text id="21090000">Did you see it?</text>
+    <text id="21091000">I shall pray</text>
+    <text id="21091001">Whose footsteps do I hear...</text>
+    <text id="21091002">Unable to resist urges. Absorb the power of the Night?</text>
+    <text id="21091003">"Conspectus Adherents of the Gate Town of Liurnia"
+It's the book that the Scholar often reads.</text>
+    <text id="21091004">I am horribly parched...I must absorb power...</text>
+    <text id="21092000">...</text>
+    <text id="21092001">I cannot say</text>
+    <text id="21092002">How can I help?</text>
+    <text id="21092003">I'm sorry</text>
+    <text id="21092004">I do apologise</text>
+    <text id="21092005">What is it?</text>
+    <text id="21092006">Why give this glass to me?</text>
+    <text id="21100000">A scrap of paper that reads "Tear"</text>
+    <text id="21100001">I have something I'd like to ask of you</text>
+    <text id="21100002">I have something I'd like to ask of you</text>
+    <text id="21100003">Vassal's Journal</text>
+    <text id="21100004">Oneself</text>
+    <text id="21100005">Headband of the Golden Ones</text>
+    <text id="21100006">Returned Leather Case</text>
+    <text id="21100007">Ask to be shown to the Great Hollow</text>
+    <text id="21100008">Purchase</text>
+    <text id="21100009">My gratitude for the rescue</text>
+    <text id="21100010">Cleansing Tear</text>
+    <text id="21101000">A passage from a letter.
+"The ailment spreads. Too many victims to count.
+Might it be the work of the Cuckoos?"</text>
+    <text id="21101001">A passage from a letter.
+"Don't you dare try the medicine on yourself. Why go to such lengths to save the Albinaurics?"</text>
+    <text id="21101002">An excerpt from a notice.
+"The Cleansing Tear has brought the sickness to heel.
+Your efforts are deeply appreciated."</text>
+    <text id="21101003">A line from a memo.
+"I will stay here with the original elixir.
+The power of the crystal will preserve it until it is once again required."</text>
+    <text id="21101004">From the conclusion of the research findings.
+"The Cleansing Tear was never found.
+That is my only regret."</text>
+    <text id="21101005">From the conclusion of the research findings.
+"The Cleansing Tear could not change our fate.
+But it still changed the course of history."</text>
+    <text id="21101006">A loud sound was heard coming from the chapel</text>
+    <text id="21101007">She requires time to calm herself. Let's look around.</text>
+    <text id="21101008">What's this I hear? An echo in my head, not unlike an invitation...
+Perhaps there is something I must investigate more closely...</text>
+    <text id="21101009">Now I know what to check. There is much to be done.</text>
+    <text id="21101010">...First, I must determine the source of that noise...</text>
+    <text id="21102000">Something happened in the far chamber</text>
+    <text id="21102001">I intend to leave the Roundtable Hold</text>
+    <text id="21102002">Tell them all that I died without reawakening</text>
+    <text id="21102003">You are the only one I dare depend on</text>
+    <text id="21102004">Give a copy of my research</text>
+    <text id="21102005">Please, stand witness to our legacy</text>
+    <text id="21102006">I don't know when the chance will come</text>
+    <text id="21102007">One day my kind will ask you for answers</text>
+    <text id="21102008">You are the only one I dare depend on</text>
+    <text id="22100000">Where is the Dreglord?</text>
+    <text id="22100001">About the Dreglord</text>
+    <text id="22100002">What is this room?</text>
+    <text id="22100003">Why did the Dreglord appear?</text>
+    <text id="22100004">What is the Dreglord?</text>
+    <text id="22100005">About the message from the Small Jar Merchant</text>
+    <text id="22100006">About the message</text>
+    <text id="22101000">A voice is heard from within the light.
+"We shall descend when the world desires balance."</text>
+    <text id="22101001">Indicates the door, perhaps concerned </text>
+    <text id="26100025">The Great Hollow</text>
+    <text id="26101025">特定の評価閾値に達すると、「深さ」が増加します。評価が継続して低下すると「深さ」が減少しますが、深さ2に到達すると深さ1に戻ることはできません。</text>
+    <text id="26101045">Shifting Earth: The Great Hollow is already in effect.
+Conjure this event regardless?
+Required Sovereign Sigils: 2</text>
+    <text id="27570500">I wish to cleanse the rite of blood</text>
+    <text id="27570501">%null%</text>
+    <text id="27570502">%null%</text>
+    <text id="27570503">%null%</text>
+    <text id="27570504">%null%</text>
+    <text id="27570505">%null%</text>
+    <text id="27570506">%null%</text>
+    <text id="27570507">%null%</text>
+    <text id="27570508">%null%</text>
+    <text id="27570509">%null%</text>
+    <text id="27570510">Pay &lt;?evntAcquittalPrice?&gt; runes
+to acquire a Purifying Crystal Tear?</text>
+  </entries>
+</fmg>

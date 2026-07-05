@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="8500">A finger torn from the Primordial Nightlord. Lacking the life-giving spark of blood, it is instead saturated with Night.
+
+The Undertaker held a faint glimmer of hope. That she might finally shed the dreadful power that enshrouds her.
+
+But she knew her hopes were only fantasies. And so she became determined to at least find comfort.
+
+The Night was brought to an end, but the loathsome hex would be hers forever.</text>
+<text id="9660">%null%</text>
+<text id="9900">%null%</text>
+<text id="9901">%null%</text>
+<text id="9902">%null%</text>
+<text id="9903">%null%</text>
+<text id="9904">%null%</text>
+<text id="9905">%null%</text>
+<text id="9906">%null%</text>
+<text id="9907">%null%</text>
+<text id="9908">%null%</text>
+<text id="9909">%null%</text>
+<text id="9910">%null%</text>
+<text id="9911">%null%</text>
+<text id="9912">%null%</text>
+<text id="9913">%null%</text>
+<text id="9914">%null%</text>
+<text id="11027">A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Purifies the curse from the Lord of Blood's terrifying rite of blood.</text>
+<text id="40800">%null%</text>
+<text id="40801">%null%</text>
+<text id="40802">%null%</text>
+<text id="40803">%null%</text>
+<text id="40804">%null%</text>
+<text id="40805">%null%</text>
+<text id="40806">%null%</text>
+<text id="40807">%null%</text>
+<text id="40808">%null%</text>
+<text id="40809">%null%</text>
+<text id="40810">Acquire Dawn garb</text>
+<text id="40811">%null%</text>
+<text id="40812">%null%</text>
+<text id="40813">%null%</text>
+<text id="40814">%null%</text>
+<text id="40815">%null%</text>
+<text id="40816">%null%</text>
+<text id="40817">%null%</text>
+<text id="40818">%null%</text>
+<text id="40819">%null%</text>
+<text id="40820">Acquire Darkness garb</text>
+<text id="40821">%null%</text>
+<text id="40822">%null%</text>
+<text id="40823">%null%</text>
+<text id="40824">%null%</text>
+<text id="40825">%null%</text>
+<text id="40826">%null%</text>
+<text id="40827">%null%</text>
+<text id="40828">%null%</text>
+<text id="40829">%null%</text>
+<text id="40830">%null%</text>
+<text id="40850">Acquire Pardoner garb</text>
+<text id="40851">%null%</text>
+<text id="40852">%null%</text>
+<text id="40853">%null%</text>
+<text id="40854">%null%</text>
+<text id="40855">%null%</text>
+<text id="40856">%null%</text>
+<text id="40857">%null%</text>
+<text id="40858">%null%</text>
+<text id="40859">%null%</text>
+<text id="40860">Acquire Xanthous garb</text>
+<text id="40900">%null%</text>
+<text id="40901">%null%</text>
+<text id="40902">%null%</text>
+<text id="40903">%null%</text>
+<text id="40904">%null%</text>
+<text id="40905">%null%</text>
+<text id="40906">%null%</text>
+<text id="40907">%null%</text>
+<text id="40908">%null%</text>
+<text id="40909">%null%</text>
+<text id="40910">Acquire Dawn garb</text>
+<text id="40911">%null%</text>
+<text id="40912">%null%</text>
+<text id="40913">%null%</text>
+<text id="40914">%null%</text>
+<text id="40915">%null%</text>
+<text id="40916">%null%</text>
+<text id="40917">%null%</text>
+<text id="40918">%null%</text>
+<text id="40919">%null%</text>
+<text id="40920">Acquire Darkness garb</text>
+<text id="40921">%null%</text>
+<text id="40922">%null%</text>
+<text id="40923">%null%</text>
+<text id="40924">%null%</text>
+<text id="40925">%null%</text>
+<text id="40926">%null%</text>
+<text id="40927">%null%</text>
+<text id="40928">%null%</text>
+<text id="40929">%null%</text>
+<text id="40930">%null%</text>
+<text id="40950">Acquire Brass garb</text>
+<text id="40951">%null%</text>
+<text id="40952">%null%</text>
+<text id="40953">%null%</text>
+<text id="40954">%null%</text>
+<text id="40955">%null%</text>
+<text id="40956">%null%</text>
+<text id="40957">%null%</text>
+<text id="40958">%null%</text>
+<text id="40959">%null%</text>
+<text id="40960">Acquire Lord's Blade garb</text>
+<text id="10001000">A well-worn leather case for storing a monocle. The scuffs and crease marks are proof of its owner's adoration.
+
+The Scholar left evidence of his own death to the Undertaker. It was the always-candid Scholar's form of a farewell.
+
+"Now...what do I do?"</text>
+<text id="10001001">The primal core extracted from the Scholar's body. A silver organ with pulsing veins.
+
+Still pumping despite its detachment, its flesh writhes with desire for a new host.
+
+The core is undeniable evidence that the Scholar is an entirely different form of life.</text>
+<text id="10001002">A wondrously clear crystal received from the Scholar. Inside are the floating, wavering signs of Night.
+
+The spread of the blotches has neatly ceased, as if the crystal has found its peace.
+
+Perhaps there is no longer anything to fear. Presuming his words can be trusted.</text>
+<text id="10001003">A journal written by a man who served the royal family
+and enlisted in the army to survey the frontlines firsthand.
+
+It describes the status of the regiment at the garrison.
+Two words are scribbled haphazardly in the field tactics report:
+
+MEDICINE    ALBINAURICS</text>
+<text id="10001004">Fast-acting medicine for a disease that afflicted the Albinaurics that works by removing invasive contaminants.
+
+The vassal who developed the medicine did so by testing it on his own body. It was successful, and used to treat patients, but the vassal himself passed, his sickness already too advanced.
+
+Both the disease and the cure are not mentioned in the annals of history, and the person responsible for their omission is unknown.
+</text>
+<text id="10001005">A small leather case for storing the Scholar's monocle. Handed to the Undertaker, and later returned.
+
+When the case was handed back to him, it reminded him of his mentor's words, spoken to him on the day that the monocle was first given to him to take on his travels.
+
+"This lens reveals the truth."</text>
+<text id="10001006">A headband worn by the denizens of the lands of Gold. This commonplace accessory in the Lands Between signifies one's faith and gratitude for the Grace of Gold.
+
+The Scholar was certain of the purpose that lay before him. To weave the past into being.</text>
+<text id="10001007">A note left by the Scholar for someone, intended to summarize the events that transpired in Limveld.
+
+Normally he would have taken the notes back himself, but the subtle smile on his wrinkled face betrayed the impossibility of such a wish.</text>
+</entries>
+</fmg>

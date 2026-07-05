@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2700430">&lt;?leaveName?&gt;がこの世界を離れました</text>
+<text id="2701430">接続に問題が発生しました。この世界から離れます</text>
+<text id="3000002">%null%</text>
+</entries>
+</fmg>

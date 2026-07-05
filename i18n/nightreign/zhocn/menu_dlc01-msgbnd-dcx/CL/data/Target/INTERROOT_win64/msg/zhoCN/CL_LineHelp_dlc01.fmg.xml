@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110024">设置是否根据操作杆倾斜度，加快运镜速度</text>
+<text id="110025">%null%</text>
+<text id="110026">%null%</text>
+<text id="110027">%null%</text>
+<text id="110028">设置学者发动技艺“探索”时，镜头的运镜速度</text>
+<text id="110029">设置学者发动技艺“探索”时，鼠标操作镜头的运镜速度</text>
+</entries>
+</fmg>

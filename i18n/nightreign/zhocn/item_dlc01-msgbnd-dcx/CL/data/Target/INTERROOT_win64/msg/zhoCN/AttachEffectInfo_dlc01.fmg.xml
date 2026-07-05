@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="8320500">能提升在近距离使用武器攻击时的攻击力</text>
+<text id="8320600">能提升冲刺攻击的攻击力</text>
+<text id="8320700">能提升在翻滚、后跃之后
+使出攻击时的攻击力</text>
+<text id="8360000">战斗时，能加快绝招量表的自然累积速度</text>
+<text id="8880000">使出蓄力攻击时，能刮起冰风暴
+并让武器缠绕冻伤寒气</text>
+<text id="8880200">使出蓄力攻击时，能喷洒黑焰
+并让武器缠绕黑焰</text>
+<text id="8880300">使出蓄力攻击时，能形成幻影进行攻击</text>
+<text id="8881000">使出蓄力攻击时，能释放黄金冲击波
+并让武器带有圣属性</text>
+<text id="8881200">使出蓄力攻击时，能将敌人拉近自己</text>
+<text id="8881500">使出蓄力攻击时，能形成熔岩
+并让武器带有火属性</text>
+<text id="8882100">使出蓄力攻击时，能释放雷电
+并让武器带有雷属性</text>
+<text id="8882500">使出蓄力攻击时，能形成催眠烟雾
+并让武器带有催眠属性</text>
+<text id="8885200">维持防御时，能阶段性提升
+魔法、祷告的攻击力与缩短咏唱时间</text>
+<text id="9990900">通过学者的不甘，提升智力与感应</text>
+<text id="9991000">通过送葬者的不甘，提升力气与信仰</text>
+</entries>
+</fmg>

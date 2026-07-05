@@ -1,0 +1,1902 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">チュートリアル１の本文
+2行目
+3行目
+4行目
+5行目
+6行目
+7行目
+8行目
+9行目
+10行目</text>
+<text id="101090">&lt;?keyicon@106?&gt;長押し＋&lt;?keyMove?&gt;：ダッシュ</text>
+<text id="101110">&lt;?keyicon@112?&gt;：ターゲットの固定／解除
+ターゲット固定中に&lt;?keyControlCamera?&gt;：ターゲットの変更</text>
+<text id="101111">%null%</text>
+<text id="101112">%null%</text>
+<text id="101113">%null%</text>
+<text id="101114">%null%</text>
+<text id="101115">%null%</text>
+<text id="101116">%null%</text>
+<text id="101117">%null%</text>
+<text id="101118">%null%</text>
+<text id="101119">%null%</text>
+<text id="101120">&lt;?keyicon@119?&gt;：ガード
+&lt;?keyMove?&gt;＋&lt;?keyicon@106?&gt;：回避</text>
+<text id="101200">&lt;?keyMove?&gt;：&lt;?keyActName@101?&gt;
+&lt;?keyControlCamera?&gt;：カメラ操作</text>
+<text id="101201">%null%</text>
+<text id="101202">%null%</text>
+<text id="101203">%null%</text>
+<text id="101204">%null%</text>
+<text id="101205">%null%</text>
+<text id="101206">%null%</text>
+<text id="101207">%null%</text>
+<text id="101208">%null%</text>
+<text id="101209">%null%</text>
+<text id="101210">&lt;?keyicon@117?&gt;：攻撃
+&lt;?keyicon@118?&gt;：強攻撃</text>
+<text id="101211">%null%</text>
+<text id="101212">%null%</text>
+<text id="101213">%null%</text>
+<text id="101214">%null%</text>
+<text id="101215">%null%</text>
+<text id="101216">%null%</text>
+<text id="101217">%null%</text>
+<text id="101218">%null%</text>
+<text id="101219">%null%</text>
+<text id="101220">&lt;?keyicon@107?&gt;：&lt;?keyActFullName@107?&gt;
+ジャンプ中、段差に向かって&lt;?keyMove?&gt;：よじ登り</text>
+<text id="101240">&lt;?keyMove?&gt;＋&lt;?keyicon@105?&gt;：疾走</text>
+<text id="101241">%null%</text>
+<text id="101242">%null%</text>
+<text id="101243">%null%</text>
+<text id="101244">%null%</text>
+<text id="101245">%null%</text>
+<text id="101246">%null%</text>
+<text id="101247">%null%</text>
+<text id="101248">%null%</text>
+<text id="101249">%null%</text>
+<text id="101250">ジャンプ中、壁に向かって&lt;?keyicon@107?&gt;：壁ジャンプ</text>
+<text id="101251">%null%</text>
+<text id="101252">%null%</text>
+<text id="101253">%null%</text>
+<text id="101254">%null%</text>
+<text id="101255">%null%</text>
+<text id="101256">%null%</text>
+<text id="101257">%null%</text>
+<text id="101258">%null%</text>
+<text id="101259">%null%</text>
+<text id="101260">&lt;?keyicon@121?&gt;：&lt;?keyActFullName@121?&gt;</text>
+<text id="101261">%null%</text>
+<text id="101262">%null%</text>
+<text id="101263">%null%</text>
+<text id="101264">%null%</text>
+<text id="101265">%null%</text>
+<text id="101266">%null%</text>
+<text id="101267">%null%</text>
+<text id="101268">%null%</text>
+<text id="101269">%null%</text>
+<text id="101270">&lt;?keyicon@113?&gt;：&lt;?keyActFullName@113?&gt;
+&lt;?keyicon@114?&gt;：&lt;?keyActFullName@114?&gt;
+&lt;?keyicon@130?&gt;：&lt;?keyActFullName@130?&gt;</text>
+<text id="101271">%null%</text>
+<text id="101272">%null%</text>
+<text id="101273">%null%</text>
+<text id="101274">%null%</text>
+<text id="101275">取得したアイテムは
+アイテムスロットに装備される
+
+アイテムには豊富な種類がある
+自分に特殊効果を与えるものから
+攻撃として使用できるものまで、様々である
+
+アイテムは、ほとんどが使用により消費されるが
+ＦＰを消費して繰り返し使用できるものがある
+
+また、一部のアイテムは空中でも使用できる
+
+&lt;?keyicon@113?&gt;：&lt;?keyActFullName@113?&gt;
+&lt;?keyicon@114?&gt;：&lt;?keyActFullName@114?&gt;
+&lt;?keyicon@130?&gt;：&lt;?keyActFullName@130?&gt;</text>
+<text id="101276">%null%</text>
+<text id="101277">%null%</text>
+<text id="101278">%null%</text>
+<text id="101279">%null%</text>
+<text id="101280">スキルとは
+プレイキャラクターが持つ固有の技術である
+
+キャラクターごとに異なる特性を持つアクションで
+再使用するために、クールタイムが発生する
+
+追跡者のスキルは「クローショット」
+鉤爪を投射し、敵を引き寄せる
+また、自らを素早く移動させる
+
+&lt;?keyicon@127?&gt;：&lt;?keyActFullName@127?&gt;
+※"＋"表記がある場合
+　片方を入力しながら、もう片方を入力する</text>
+<text id="101281">%null%</text>
+<text id="101282">%null%</text>
+<text id="101283">%null%</text>
+<text id="101284">%null%</text>
+<text id="101285">&lt;?keyicon@127?&gt;：&lt;?keyActFullName@127?&gt;
+
+※"＋"表記がある場合
+　片方を入力しながら、もう片方を入力する</text>
+<text id="101286">%null%</text>
+<text id="101287">%null%</text>
+<text id="101288">%null%</text>
+<text id="101289">%null%</text>
+<text id="101290">ＨＰをすべて失うと「瀕死」状態になる
+瀕死状態は、移動以外の行動ができなくなり
+しばらくすると死亡する
+
+夜に飲まれる猶予として瀕死ゲージが表示され
+攻撃で払うことができれば「救助」となり
+死亡することなく活動を再開できる
+
+ゲージ量は、連続して瀕死状態になると増加し
+生存状態を継続するほど減少する
+また、祝福に近づけば増加をリセットできる</text>
+<text id="101291">%null%</text>
+<text id="101292">%null%</text>
+<text id="101293">%null%</text>
+<text id="101294">%null%</text>
+<text id="101295">瀕死の味方を攻撃：救助</text>
+<text id="101296">%null%</text>
+<text id="101297">%null%</text>
+<text id="101298">%null%</text>
+<text id="101299">%null%</text>
+<text id="101300">死亡すると、付近の場所に復活する
+また、レベルが１下がってしまう
+
+下がったレベル分も含めた所持ルーンを落とし
+死亡した場所で回収できる
+回収前にもう一度死亡すると、失われてしまう
+
+付近の敵が、落としたルーンを盗むこともあるが
+その敵を倒せば回収できる</text>
+<text id="101301">%null%</text>
+<text id="101302">%null%</text>
+<text id="101303">%null%</text>
+<text id="101304">%null%</text>
+<text id="101305">%null%</text>
+<text id="101306">%null%</text>
+<text id="101307">%null%</text>
+<text id="101308">%null%</text>
+<text id="101309">%null%</text>
+<text id="101310">アーツとは
+プレイキャラクターが持つ固有の切り札である
+
+アーツゲージが溜まりきると、使用できる
+戦況を大きく変える力を持つ
+
+追跡者のアーツは「襲撃の楔」
+鉄杭を爆発と共に打ち出して、強力な一撃を放つ
+
+&lt;?keyicon@126?&gt;：&lt;?keyActFullName@126?&gt;
+※"＋"表記がある場合
+　片方を入力しながら、もう片方を入力する</text>
+<text id="101311">%null%</text>
+<text id="101312">%null%</text>
+<text id="101313">%null%</text>
+<text id="101314">%null%</text>
+<text id="101315">&lt;?keyicon@126?&gt;：&lt;?keyActFullName@126?&gt;</text>
+<text id="101316">%null%</text>
+<text id="101317">%null%</text>
+<text id="101318">%null%</text>
+<text id="101319">%null%</text>
+<text id="101320">ＨＰをすべて失うと「瀕死」状態になる
+
+瀕死状態は、移動以外の行動ができなくなる
+
+瀕死状態のまましばらくすると
+プレイキャラクターは死亡する</text>
+<text id="101321">%null%</text>
+<text id="101322">%null%</text>
+<text id="101323">%null%</text>
+<text id="101324">%null%</text>
+<text id="101325">%null%</text>
+<text id="101326">%null%</text>
+<text id="101327">%null%</text>
+<text id="101328">%null%</text>
+<text id="101329">%null%</text>
+<text id="101330">&lt;?keyicon@1?&gt;：装備メニューを開く
+&lt;?keyicon@116?&gt;／&lt;?keyicon@115?&gt;：武器切り替え</text>
+<text id="101331">%null%</text>
+<text id="101332">%null%</text>
+<text id="101333">%null%</text>
+<text id="101334">%null%</text>
+<text id="101335">%null%</text>
+<text id="101336">%null%</text>
+<text id="101337">%null%</text>
+<text id="101338">%null%</text>
+<text id="101339">%null%</text>
+<text id="101340">地図メニュー以外でも行えるピン操作がある
+
+味方プレイヤーがピンを打つと、強調表示される
+それらを画面の中心にとらえることで
+直接同じ位置に自分のピンを打つことができる
+
+強調表示された味方のピンを
+画面中心にとらえて&lt;?keyicon@311?&gt;長押し：ピンを重ねる
+
+素早く何かを知らせたい時は
+自分の位置に簡易なピンを打つこともできる
+&lt;?keyicon@128?&gt;：自分の位置にクイックピンを打つ</text>
+<text id="101341">%null%</text>
+<text id="101342">%null%</text>
+<text id="101343">%null%</text>
+<text id="101344">%null%</text>
+<text id="101345">%null%</text>
+<text id="101346">%null%</text>
+<text id="101347">%null%</text>
+<text id="101348">%null%</text>
+<text id="101349">%null%</text>
+<text id="101350">ピンとは、場所に目印をつける機能である
+行動の指針に、または味方との情報共有に用いる
+
+地図メニュー上にピンが打たれ
+フィールド上にも光柱として配置される
+
+ピンは方位計に表示され
+味方プレイヤー間で共有される
+
+自分の打ったピンに再びピンを打つと
+取り消すことができる
+
+地図メニュー上で
+&lt;?keyControlCamera?&gt;：カーソル移動
+&lt;?keyicon@311?&gt;：ピンを打つ</text>
+<text id="201020">各地には、攻略拠点が点在する
+
+敵や仕掛けにより阻まれることがあるが
+装備品やルーンを獲得しやすい
+
+各拠点は、地図に表示されている
+地図を確認しながら、フィールドを探索して
+自身を強化していくことができる
+
+&lt;?keyicon@2?&gt;：&lt;?keyActFullName@2?&gt;</text>
+<text id="201021">%null%</text>
+<text id="201022">%null%</text>
+<text id="201023">%null%</text>
+<text id="201024">%null%</text>
+<text id="201025">&lt;?keyicon@2?&gt;：&lt;?keyActFullName@2?&gt;メニューを開く</text>
+<text id="201100">武器は、右手と左手に３個ずつ装備でき
+切り替えて使用できる
+
+右手と左手を同じ武器種別で揃えると
+二刀持ち状態となり、二刀攻撃ができる
+
+また、武器は両手持ちできる
+両手持ちにより、攻撃が盾に弾かれ難くなり
+与えるダメージを高めることができる
+（一部例外あり）
+
+&lt;?keyicon@116?&gt;：&lt;?keyActFullName@116?&gt;
+&lt;?keyicon@115?&gt;：&lt;?keyActFullName@115?&gt;
+二刀持ち状態で&lt;?keyicon@119?&gt;：二刀攻撃
+&lt;?keyicon@124?&gt;／&lt;?keyicon@125?&gt;：武器両手持ち</text>
+<text id="201101">%null%</text>
+<text id="201102">%null%</text>
+<text id="201103">%null%</text>
+<text id="201104">%null%</text>
+<text id="201105">&lt;?keyicon@120?&gt;：&lt;?keyActFullName@120?&gt;
+&lt;?keyicon@124?&gt;：右手武器の両手持ち
+&lt;?keyicon@125?&gt;：左手武器の両手持ち</text>
+<text id="201106">%null%</text>
+<text id="201107">%null%</text>
+<text id="201108">%null%</text>
+<text id="201109">%null%</text>
+<text id="201110">夜の雨が降り注いでいるエリアでは
+ＨＰが徐々に減少していく
+
+長く留まるべきではない</text>
+<text id="201111">夜の雨が降り注いでいるエリアでは
+ＨＰが徐々に減少していく
+
+夜が深まるにつれて、減少量が増える
+
+また、長く雨にさらされていると
+減少量は更に増え、まともに耐えられなくなる
+
+長く留まるべきではない</text>
+<text id="201112">%null%</text>
+<text id="201113">%null%</text>
+<text id="201114">%null%</text>
+<text id="201115">%null%</text>
+<text id="201116">%null%</text>
+<text id="201117">%null%</text>
+<text id="201118">%null%</text>
+<text id="201119">%null%</text>
+<text id="201120">拾える装備品には
+「レアリティ」と「付帯効果」の概念が存在する
+
+レアリティが高いほど、装備品の性能は高くなる
+プレイキャラクターのレベルが低いと
+十分な性能を発揮できない場合がある
+
+付帯効果は、装備品を所持するだけで効果を発揮し
+入手するほど効果が重複していく（一部例外あり）
+入手した装備品は装備メニューで確認できる
+
+&lt;?keyicon@1?&gt;：装備メニューを開く</text>
+<text id="201250">ジャンプ中、壁に向かって再度ジャンプすれば
+「壁ジャンプ」ができる
+
+壁ジャンプは、&lt;?keyMove?&gt;により任意方向へ跳躍できる
+また、壁の高さ次第でよじ登りを行える
+
+ジャンプ中、壁に向かって&lt;?keyicon@107?&gt;：壁ジャンプ</text>
+<text id="252520">敵の攻撃をガードした直後に
+カウンター攻撃ができる
+
+ガードカウンターは、敵の体勢を崩しやすい
+
+攻撃をガード直後に&lt;?keyicon@118?&gt;：ガードカウンター</text>
+<text id="252550">一部の敵は、暗がりを纏った強力な攻撃を行う
+
+この攻撃に合わせてローリング回避を行うと
+暗がりを奪い取り、アーツゲージを増加させ
+反撃のチャンスに繋げることができる
+
+青暗く光る敵の攻撃に合わせて
+&lt;?keyMove?&gt;＋&lt;?keyicon@106?&gt;：相乗回避</text>
+<text id="252570">杖や聖印などの触媒を装備すれば
+ＦＰを消費して、魔術や祈祷を使用できる
+
+触媒にはそれぞれ２つの魔法が込められており
+使い分けることができる
+
+右手に触媒を装備して
+&lt;?keyicon@117?&gt;：１つ目の魔術／祈祷の使用
+&lt;?keyicon@118?&gt;：２つ目の魔術／祈祷の使用
+
+※左手装備時は&lt;?keyicon@119?&gt;および&lt;?keyicon@120?&gt;</text>
+<text id="252571">%null%</text>
+<text id="252572">%null%</text>
+<text id="252573">%null%</text>
+<text id="252574">%null%</text>
+<text id="252575">%null%</text>
+<text id="252576">%null%</text>
+<text id="252577">%null%</text>
+<text id="252578">%null%</text>
+<text id="252579">%null%</text>
+<text id="252580">弓を装備し、矢を撃つことができる
+矢弾に制限はない
+
+弓を両手持ちしている間
+正確に狙いをつける精密射撃が使用できる
+
+大弓やクロスボウ、バリスタも
+同じように扱うことができる
+
+弓を両手持ちして
+&lt;?keyicon@119?&gt;長押し：精密射撃
+&lt;?keyControlCamera?&gt;：精密射撃の照準移動</text>
+<text id="252581">%null%</text>
+<text id="252582">%null%</text>
+<text id="252583">%null%</text>
+<text id="252584">%null%</text>
+<text id="252585">%null%</text>
+<text id="252586">%null%</text>
+<text id="252587">%null%</text>
+<text id="252588">%null%</text>
+<text id="252589">%null%</text>
+<text id="252590">落ちているアイテムが近くにあるとき
+素早く選んだり、すぐに使用することができる
+
+アイテムの所持スロット数は
+特定の方法によって最大８つまで拡張できる
+
+&lt;?keyicon@122?&gt;：アイテムの取得
+&lt;?keyicon@132?&gt;／&lt;?keyicon@131?&gt;：取得対象の切り替え
+&lt;?keyicon@129?&gt;：アイテムをその場で使用する</text>
+<text id="252591">%null%</text>
+<text id="252592">%null%</text>
+<text id="252593">%null%</text>
+<text id="252594">%null%</text>
+<text id="252595">%null%</text>
+<text id="252596">%null%</text>
+<text id="252597">%null%</text>
+<text id="252598">%null%</text>
+<text id="252599">%null%</text>
+<text id="252600">攻撃により、敵の体勢が崩れることがあり
+致命の一撃のチャンスとなる
+
+タメ攻撃、ジャンプ攻撃や
+敵が苦手とする攻撃属性は
+特に敵の体勢を崩しやすい
+
+また、敵から攻撃を受けた時に
+プレイキャラクターが怯まない場合がある
+
+重い武器を両手で振るうなど
+強靭度が高いと、敵の攻撃に怯み難くなる
+
+&lt;?keyicon@118?&gt;長押し：タメ攻撃
+ジャンプ中に&lt;?keyicon@118?&gt;：ジャンプ攻撃
+体勢を崩した敵に近づいて&lt;?keyicon@117?&gt;：致命の一撃</text>
+<text id="252601">%null%</text>
+<text id="252602">%null%</text>
+<text id="252603">%null%</text>
+<text id="252604">%null%</text>
+<text id="252605">%null%</text>
+<text id="252606">%null%</text>
+<text id="252607">%null%</text>
+<text id="252608">%null%</text>
+<text id="252609">%null%</text>
+<text id="252610">武器や魔法、アイテム、敵の攻撃の中には
+状態異常の効果を持つものがある
+
+状態異常の効果を持つ攻撃を受けると
+プレイキャラクターや敵にゲージが溜まっていく
+ゲージが溜まりきると、状態異常が発動する
+
+状態異常は、７種類に大別される
+
+&lt;?image@4300##11?&gt;毒　　　：継続ダメージを与える
+&lt;?image@4301##11?&gt;朱い腐敗：継続ダメージを与える
+&lt;?image@4302##11?&gt;出血　　：最大ＨＰに比例したダメージを与える
+&lt;?image@4303##11?&gt;凍傷　　：最大ＨＰに比例したダメージを与え
+　　　　　　　 一定時間、被ダメージを増加させる
+&lt;?image@4304##11?&gt;睡眠　　：ＦＰにダメージを与え
+　　　　　　　 一時的に無防備な状態になる
+&lt;?image@4305##11?&gt;発狂　　：ＨＰとＦＰに大ダメージを与える
+&lt;?image@4306##11?&gt;死　　　：死亡する
+
+状態異常に対する耐性は
+キャラクターや敵ごとに異なる</text>
+<text id="252611">%null%</text>
+<text id="252612">%null%</text>
+<text id="252613">%null%</text>
+<text id="252614">%null%</text>
+<text id="252615">%null%</text>
+<text id="252616">%null%</text>
+<text id="252617">%null%</text>
+<text id="252618">%null%</text>
+<text id="252619">%null%</text>
+<text id="252620">武器や魔法、アイテム、敵の攻撃には
+いずれかの攻撃属性が決まっている
+
+攻撃属性は、物理属性と
+それ以外の４種類に大別される
+
+物理属性は
+標準／打撃／斬撃／刺突を内包しており
+武器の攻撃部や扱い方でいずれかになる
+
+それ以外は
+&lt;?image@4401##12?&gt;炎
+&lt;?image@4400##12?&gt;魔力
+&lt;?image@4402##12?&gt;雷
+&lt;?image@4403##12?&gt;聖
+となる
+
+苦手な属性を持つ敵に対してはダメージを増やし
+特定の条件下において、怯ませたりすることがある
+使い分けることで、戦闘を優位に進められる</text>
+<text id="252640">ＨＰは、生きる力である
+
+ダメージを受けると減っていき
+すべて失うと死亡する
+プレイキャラクターは「瀕死」状態になる
+
+減ってしまったＨＰは
+聖杯瓶の使用や、祝福に触れるなどで回復できる
+
+&lt;?keyicon@121?&gt;：聖杯瓶の使用</text>
+<text id="252641">%null%</text>
+<text id="252642">%null%</text>
+<text id="252643">%null%</text>
+<text id="252644">%null%</text>
+<text id="252645">%null%</text>
+<text id="252646">%null%</text>
+<text id="252647">%null%</text>
+<text id="252648">%null%</text>
+<text id="252649">%null%</text>
+<text id="252650">スタミナは
+様々なアクションを実行し続ける力である
+
+プレイキャラクターは攻撃や回避など
+特定のアクションを行う度にスタミナを消費する
+スタミナが不足していると、それらは使用できない
+
+スタミナは、時間経過によって自動回復する
+
+交戦状態でない場合、スタミナは消費されない</text>
+<text id="252651">%null%</text>
+<text id="252652">%null%</text>
+<text id="252653">%null%</text>
+<text id="252654">%null%</text>
+<text id="252655">%null%</text>
+<text id="252656">%null%</text>
+<text id="252657">%null%</text>
+<text id="252658">%null%</text>
+<text id="252659">%null%</text>
+<text id="252660">ＦＰは
+魔術や祈祷、戦技などを使うための力である
+
+魔術や祈祷、戦技などの使用に消費され
+ＦＰが不足していると、効果が発揮されない
+
+減ってしまったＦＰは
+特定アイテムの使用や、祝福に触れるなどで
+回復できる</text>
+<text id="252661">%null%</text>
+<text id="252662">%null%</text>
+<text id="252663">%null%</text>
+<text id="252664">%null%</text>
+<text id="252665">%null%</text>
+<text id="252666">%null%</text>
+<text id="252667">%null%</text>
+<text id="252668">%null%</text>
+<text id="252669">%null%</text>
+<text id="252670">キャラクターたちは８つの能力値を持っている
+
+キャラクターごとに能力値が定められており
+武器や魔法の扱いに、得手不得手がある
+
+各能力値は、レベルアップにより自動で上昇し
+一部の能力値は武器や魔法の性能に影響する
+
+生命力：ＨＰを高める
+精神力：ＦＰを高める
+持久力：スタミナを高める
+筋力　：重い武器の攻撃力を高める
+技量　：高度な武器の攻撃力を高める
+知力　：魔術の攻撃力を高める
+信仰　：祈祷の攻撃力や回復力を高める
+神秘　：すべての状態異常の蓄積量を増やす</text>
+<text id="252671">%null%</text>
+<text id="252672">%null%</text>
+<text id="252673">%null%</text>
+<text id="252674">%null%</text>
+<text id="252675">%null%</text>
+<text id="252676">%null%</text>
+<text id="252677">%null%</text>
+<text id="252678">%null%</text>
+<text id="252679">%null%</text>
+<text id="252680">アビリティとは
+各キャラクターが持つ固有の能力である
+
+その力は、プレイキャラクターに常に発揮される
+使いこなせば、攻略の一助となる</text>
+<text id="252681">%null%</text>
+<text id="252682">%null%</text>
+<text id="252683">%null%</text>
+<text id="252684">%null%</text>
+<text id="252685">%null%</text>
+<text id="252686">%null%</text>
+<text id="252687">%null%</text>
+<text id="252688">%null%</text>
+<text id="252689">%null%</text>
+<text id="252690">プレイキャラクターは複数の移動手段を持つ
+
+ダッシュでの消費は少ないが
+疾走はスタミナを大きく消費する
+
+&lt;?keyMove?&gt;：&lt;?keyActName@101?&gt;
+&lt;?keyMove?&gt;+&lt;?keyicon@106?&gt;長押し：ダッシュ
+&lt;?keyMove?&gt;+&lt;?keyicon@105?&gt;：疾走</text>
+<text id="252691">%null%</text>
+<text id="252692">%null%</text>
+<text id="252693">%null%</text>
+<text id="252694">%null%</text>
+<text id="252695">%null%</text>
+<text id="252696">%null%</text>
+<text id="252697">%null%</text>
+<text id="252698">%null%</text>
+<text id="252699">%null%</text>
+<text id="252700">周囲を見渡したり
+敵に注目したままにするターゲット固定ができる
+
+&lt;?keyControlCamera?&gt;：カメラ操作
+&lt;?keyicon@112?&gt;：ターゲットの固定／解除
+ターゲット固定中に&lt;?keyControlCamera?&gt;：ターゲットの変更</text>
+<text id="252701">%null%</text>
+<text id="252702">%null%</text>
+<text id="252703">%null%</text>
+<text id="252704">%null%</text>
+<text id="252705">%null%</text>
+<text id="252706">%null%</text>
+<text id="252707">%null%</text>
+<text id="252708">%null%</text>
+<text id="252709">%null%</text>
+<text id="252710">ジャンプで起伏や段差を飛び越えられる
+
+ジャンプで僅かに届かない段差は
+「よじ登り」で乗り越えられる
+
+ジャンプ中、壁に向かって再度ジャンプすれば
+「壁ジャンプ」ができる
+
+壁ジャンプは、&lt;?keyMove?&gt;により任意方向へ跳躍できる
+また、壁の高さ次第でよじ登りを行える
+
+&lt;?keyicon@107?&gt;：&lt;?keyActFullName@107?&gt;
+ジャンプ中、段差に向かって&lt;?keyMove?&gt;：よじ登り
+ジャンプ中、壁に向かって&lt;?keyicon@107?&gt;：壁ジャンプ</text>
+<text id="252711">%null%</text>
+<text id="252712">%null%</text>
+<text id="252713">%null%</text>
+<text id="252714">%null%</text>
+<text id="252715">%null%</text>
+<text id="252716">%null%</text>
+<text id="252717">%null%</text>
+<text id="252718">%null%</text>
+<text id="252719">%null%</text>
+<text id="252720">かつて恵みの雫を受領したという
+黄金の聖杯を模した瓶
+ 
+緋色の雫を満たし、使用によりＨＰを回復する
+プレイキャラクターは必ず聖杯瓶を所持する
+
+祝福に近づいたり、死亡後に補充される
+また、時間の経過でもゆっくりと補充されるが
+深い夜の時間や、特定の戦闘中は補充されない
+ 
+&lt;?keyicon@121?&gt;：&lt;?keyActFullName@121?&gt;</text>
+<text id="252721">%null%</text>
+<text id="252722">%null%</text>
+<text id="252723">%null%</text>
+<text id="252724">%null%</text>
+<text id="252725">%null%</text>
+<text id="252726">%null%</text>
+<text id="252727">%null%</text>
+<text id="252728">%null%</text>
+<text id="252729">%null%</text>
+<text id="252730">プレイキャラクターは複数の攻撃手段を持つ
+
+武器の振るい方や、隙の大きさ
+与えるダメージや体勢の崩しやすさが異なる
+
+いずれの攻撃も、ダッシュやジャンプなど
+別のアクションから繋げて行える場合があり
+左手の武器で攻撃することもできる
+
+&lt;?keyicon@117?&gt;：&lt;?keyActFullName@117?&gt;
+&lt;?keyicon@118?&gt;：&lt;?keyActFullName@118?&gt;
+&lt;?keyicon@118?&gt;長押し：タメ攻撃
+&lt;?keyicon@119?&gt;：左手に持った武器で攻撃</text>
+<text id="252731">%null%</text>
+<text id="252732">%null%</text>
+<text id="252733">%null%</text>
+<text id="252734">%null%</text>
+<text id="252735">%null%</text>
+<text id="252736">%null%</text>
+<text id="252737">%null%</text>
+<text id="252738">%null%</text>
+<text id="252739">%null%</text>
+<text id="252740">ローリングあるいはバックステップで
+敵の攻撃を回避できる
+ただし、どちらもスタミナを消費する
+
+&lt;?keyMove?&gt;+&lt;?keyicon@106?&gt;：回避
+&lt;?keyicon@106?&gt;：バックステップ
+
+
+一部の敵は、暗がりを纏った強力な攻撃を行う
+その攻撃に合わせた回避に成功すると
+暗がりを奪い取り、アーツゲージを増加させる
+
+青暗く光る敵の攻撃に合わせて
+&lt;?keyMove?&gt;+&lt;?keyicon@106?&gt;：回避</text>
+<text id="252741">%null%</text>
+<text id="252742">%null%</text>
+<text id="252743">%null%</text>
+<text id="252744">%null%</text>
+<text id="252745">%null%</text>
+<text id="252746">%null%</text>
+<text id="252747">%null%</text>
+<text id="252748">%null%</text>
+<text id="252749">%null%</text>
+<text id="252750">左手の武器、あるいは両手持ちの武器で
+敵の攻撃をガードできる
+特に、盾によるガードは効果が大きい
+
+ガードにはスタミナが消費され
+スタミナが尽きると体勢が崩れてしまう
+
+&lt;?keyicon@119?&gt;：ガード</text>
+<text id="252751">%null%</text>
+<text id="252752">%null%</text>
+<text id="252753">%null%</text>
+<text id="252754">%null%</text>
+<text id="252755">%null%</text>
+<text id="252756">%null%</text>
+<text id="252757">%null%</text>
+<text id="252758">%null%</text>
+<text id="252759">%null%</text>
+<text id="252760">スキルとは
+プレイキャラクターが持つ固有の技術である
+
+キャラクターごとに異なる特性を持つアクションで
+再使用するために、クールタイムが発生する
+
+詳細はキャラクター選択メニューや
+図録メニューのキャラクター項目から確認できる
+ 
+&lt;?keyicon@127?&gt;：&lt;?keyActFullName@127?&gt;
+※"＋"表記がある場合
+　片方を入力しながら、もう片方を入力する</text>
+<text id="252761">%null%</text>
+<text id="252762">%null%</text>
+<text id="252763">%null%</text>
+<text id="252764">%null%</text>
+<text id="252765">%null%</text>
+<text id="252766">%null%</text>
+<text id="252767">%null%</text>
+<text id="252768">%null%</text>
+<text id="252769">%null%</text>
+<text id="252770">アーツとは
+プレイキャラクターが持つ固有の切り札である
+アーツゲージが溜まりきると、使用できる
+ 
+詳細はキャラクター選択メニューや
+図録メニューのキャラクター項目から確認できる
+ 
+&lt;?keyicon@126?&gt;：&lt;?keyActFullName@126?&gt;
+※"＋"表記がある場合
+　片方を入力しながら、もう片方を入力する</text>
+<text id="252810">各種能力値がバランス良く成長するが、
+中でも、HPや筋力、技量に優れ、
+近接攻撃役としての強みがあるヒーロー
+
+第六感に優れ、危機的な一撃に対して
+体が自然と回避行動をとることがある
+
+得意武器は大剣
+</text>
+<text id="252811">%null%</text>
+<text id="252812">%null%</text>
+<text id="252813">%null%</text>
+<text id="252814">%null%</text>
+<text id="252815">%null%</text>
+<text id="252816">%null%</text>
+<text id="252817">%null%</text>
+<text id="252818">%null%</text>
+<text id="252819">%null%</text>
+<text id="252820">ＨＰやスタミナに優れ、
+盾を装備した際にはハイガードと呼ばれる
+強力なガードを行うことができ、
+仲間を守る盾役としての強みがあるヒーロー
+
+得意武器は斧槍
+
+ハイガード：盾ガード中に&lt;?keyMove?&gt;＋&lt;?keyicon@106?&gt;</text>
+<text id="252821">%null%</text>
+<text id="252822">%null%</text>
+<text id="252823">%null%</text>
+<text id="252824">%null%</text>
+<text id="252825">%null%</text>
+<text id="252826">%null%</text>
+<text id="252827">%null%</text>
+<text id="252828">%null%</text>
+<text id="252829">%null%</text>
+<text id="252830">技量に優れ、
+弓の扱いに長けているため、
+遠距離攻撃役としての強みがあるヒーロー
+
+物資調達も得意であり、敵からの
+ドロップ率を向上させるシナジーも持つ
+
+得意武器は弓</text>
+<text id="252831">%null%</text>
+<text id="252832">%null%</text>
+<text id="252833">%null%</text>
+<text id="252834">%null%</text>
+<text id="252835">%null%</text>
+<text id="252836">%null%</text>
+<text id="252837">%null%</text>
+<text id="252838">%null%</text>
+<text id="252839">%null%</text>
+<text id="252840">素早く連続回避を行うことができるなど、
+身のこなしに長けたヒーロー
+
+技量や、知力にある程度優れているため、
+魔術剣士として器用に立ち回ることもできる
+
+得意武器は短剣</text>
+<text id="252841">%null%</text>
+<text id="252842">%null%</text>
+<text id="252843">%null%</text>
+<text id="252844">%null%</text>
+<text id="252845">%null%</text>
+<text id="252846">%null%</text>
+<text id="252847">%null%</text>
+<text id="252848">%null%</text>
+<text id="252849">%null%</text>
+<text id="252850">高いＨＰや筋力、
+多少の攻撃ではひるまない強靭さを生かした
+豪快な攻めによる強みがあるヒーロー
+
+また、ダッシュやジャンプにおいて
+タメ攻撃をすることが可能であったり、
+タメ攻撃中に攻撃を受けると
+より攻撃力が高まるといった強みも持つ
+
+得意武器は大斧、大槌、特大斧槌
+</text>
+<text id="252851">%null%</text>
+<text id="252852">%null%</text>
+<text id="252853">%null%</text>
+<text id="252854">%null%</text>
+<text id="252855">%null%</text>
+<text id="252856">%null%</text>
+<text id="252857">%null%</text>
+<text id="252858">%null%</text>
+<text id="252859">%null%</text>
+<text id="252860">自身のステータスはあまり高くないものの、
+霊体を召喚し、使役することができたり、
+敵の死体を操り味方にすることができるなどの
+強みを持つヒーロー
+
+得意武器は呪爪</text>
+<text id="252861">%null%</text>
+<text id="252862">%null%</text>
+<text id="252863">%null%</text>
+<text id="252864">%null%</text>
+<text id="252865">%null%</text>
+<text id="252866">%null%</text>
+<text id="252867">%null%</text>
+<text id="252868">%null%</text>
+<text id="252869">%null%</text>
+<text id="252870">知力、信仰、神秘に優れ、
+あらゆる魔術の扱いに長けたヒーロー
+
+またスキルの使用により、ＦＰを回復するため
+惜しみなく魔術を使用していくことができる</text>
+<text id="252871">%null%</text>
+<text id="252872">%null%</text>
+<text id="252873">%null%</text>
+<text id="252874">%null%</text>
+<text id="252875">%null%</text>
+<text id="252876">%null%</text>
+<text id="252877">%null%</text>
+<text id="252878">%null%</text>
+<text id="252879">%null%</text>
+<text id="252880">自身の持つ妖刀を扱い、
+敵の攻撃を弾き、いなすことが可能であり、
+テクニカルな攻防が強みであるヒーロー
+
+また坩堝の身体により、
+状態異常の快復時に活性効果を得られる
+
+技量と神秘に優れる
+
+得意武器は刀</text>
+<text id="252900">隠者のスキル「混成魔法」は
+属性痕を３つ集めると使用できる
+
+集めた属性により、発動する魔法が変化する
+
+&lt;?image@4201##9?&gt; 【魔力のみ】
+魔力の核を敵に纏わせ
+一定間隔で弾け回り、ダメージを与える
+
+&lt;?image@4200##9?&gt; 【炎のみ】
+渦巻く炎を投げつける
+炎は着弾後小範囲に燃え広がり、しばらく持続する
+
+&lt;?image@4202##9?&gt; 【雷のみ】
+雷を纏い、一定時間、回避アクションを強化する
+
+&lt;?image@4203##9?&gt; 【聖のみ】
+聖なる光を纏い
+一定時間、強靭度とカット率を高める</text>
+<text id="252901">%null%</text>
+<text id="252902">%null%</text>
+<text id="252903">隠者のスキル「混成魔法」は
+属性痕を３つ集めると使用できる
+
+集めた属性により、発動する魔法が変化する
+
+&lt;?image@4204##9?&gt; 【魔力と炎】
+敵を追尾して攻撃する、鬼火を飛ばす
+
+&lt;?image@4207##9?&gt; 【魔力と雷】
+魔力の刃で前方を一閃する
+長押しにより、構えながら移動できる
+
+&lt;?image@4208##9?&gt; 【魔力と聖】
+魔力の幕で周囲を覆い
+自身と周囲の味方の消費ＦＰがゼロになる
+短時間持続する</text>
+<text id="252904">隠者のスキル「混成魔法」は
+属性痕を３つ集めると使用できる
+
+集めた属性により、発動する魔法が変化する
+
+&lt;?image@4205##9?&gt; 【炎と雷】
+火球となって前方に素早く突進し
+自分を中心に雷を落とし、周囲を攻撃する
+
+&lt;?image@4206##9?&gt; 【炎と聖】
+炬火を掲げ、一定時間
+周囲の味方の最大ＨＰを増加させ、敵は低下させる
+また、状態異常ゲージの蓄積を減らす
+
+&lt;?image@4209##9?&gt; 【雷と聖】
+雷光の膜を纏い、敵の攻撃を自動でパリィする
+一定時間持続する</text>
+<text id="252905">%null%</text>
+<text id="252906">%null%</text>
+<text id="252907">隠者のスキル「混成魔法」は
+属性痕を３つ集めると使用できる
+
+集めた属性により、発動する魔法が変化する
+集める順番に制限はない
+
+&lt;?image@4210##9?&gt; 【魔力／炎／雷】
+重力球を生み、敵を引き寄せながら大きくなり
+爆発して大ダメージを与える
+
+&lt;?image@4211##9?&gt; 【魔力／炎／聖】
+混じり合う属性のブレスを吐き出す
+触れる敵にはダメージを与え
+触れる味方にはＨＰとＦＰを回復する
+
+&lt;?image@4212##9?&gt; 【炎／雷／聖】
+避雷針を作り出し、前方に打ち込む
+一定時間後、白雷が避雷針へ落とされる
+
+&lt;?image@4213##9?&gt; 【魔力／雷／聖】
+広範囲を包む冷気の嵐を発生させながら
+氷塊の中に閉じこもり、無敵になる</text>
+<text id="301020">祝福に近づけば
+ＨＰ、ＦＰ、状態異常などが全て回復し
+聖杯瓶も補充される
+
+また、祝福ではレベルアップを行うことができる</text>
+<text id="301900">円卓は、ゲームを進めるための活動拠点である
+
+大祝福から狭間の地へ出撃できるほか
+プレイキャラクターの変更や、遺物儀式など
+出撃に向けた準備が行える
+
+円卓メニューから、各設備に直接移動もできる
+&lt;?keyicon@2?&gt;：円卓メニュー
+
+※こうした説明は
+　円卓内にある図録で、いつでも再読できる</text>
+<text id="301901">ネットワークテスト版では
+狭間の地で「三つ首の獣」を倒すことが
+目的となります
+
+円卓では、大祝福から狭間の地へ出撃できるほか
+プレイキャラクターの変更など
+出撃に向けた準備が行えます
+
+円卓メニューから、各設備に直接移動もできます
+&lt;?keyicon@2?&gt;：円卓メニュー
+
+※こうした説明は
+　円卓内にある図録で、いつでも再読できます</text>
+<text id="301902">プレイいただきありがとうございます
+
+ネットワークテスト版のプレイ範囲は
+ここまでとなります
+製品版を楽しみにしていただければ幸いです
+
+※テスト版期間中は、引き続きプレイ可能です</text>
+<text id="301903">%null%</text>
+<text id="301904">%null%</text>
+<text id="301905">訓練場では、操作方法の確認や
+戦闘の練習を行うことができる
+
+訓練装備メニューでは装備品を
+訓練設定メニューでは訓練用の設定を変更できる
+
+訓練場で変更した装備品は
+出撃でリセットされ、持ち出すことはできない
+
+&lt;?keyicon@2?&gt;：訓練設定メニュー</text>
+<text id="301920">出撃メニューに「深き夜」が追加された
+
+標的を指定できず、深度に応じて高難易度化する
+勝利してレートを上昇させれば
+次なる深度へ進むことができる
+
+際限のない暗闇が、どこまでも続いてゆく</text>
+<text id="301921">%null%</text>
+<text id="301922">%null%</text>
+<text id="301923">%null%</text>
+<text id="301924">%null%</text>
+<text id="301925">%null%</text>
+<text id="301926">%null%</text>
+<text id="301927">%null%</text>
+<text id="301928">%null%</text>
+<text id="301929">%null%</text>
+<text id="301930">物置が整理されて、化粧台が置かれた
+
+化粧台では、入手した衣装に着替えることができる
+また、化粧台から別の衣装を購入できる
+
+衣装の変更メニューは
+円卓メニューからも直接移動できる
+&lt;?keyicon@2?&gt;：円卓メニュー</text>
+<text id="301931">%null%</text>
+<text id="301932">%null%</text>
+<text id="301933">%null%</text>
+<text id="301934">%null%</text>
+<text id="301935">%null%</text>
+<text id="301936">%null%</text>
+<text id="301937">%null%</text>
+<text id="301938">%null%</text>
+<text id="301939">%null%</text>
+<text id="301940">入手した遺物は、遺物儀式を通じて
+秘められた思いを力にすることができる
+
+儀式に使われた遺物は消費されず
+何度でも儀式に使用できる
+
+遺物儀式メニューは
+円卓メニューからも直接移動できる
+&lt;?keyicon@2?&gt;：円卓メニュー</text>
+<text id="301941">%null%</text>
+<text id="301942">%null%</text>
+<text id="301943">%null%</text>
+<text id="301944">%null%</text>
+<text id="301945">%null%</text>
+<text id="301946">%null%</text>
+<text id="301947">%null%</text>
+<text id="301948">%null%</text>
+<text id="301949">%null%</text>
+<text id="301950">深き夜に触れ、献器の深層が露わになった
+
+深層の遺物は、献器の新たな場所へ配置できる
+またその力は深き夜でしか効果を発揮しない
+</text>
+<text id="301951">%null%</text>
+<text id="301952">%null%</text>
+<text id="301953">%null%</text>
+<text id="301954">%null%</text>
+<text id="301955">%null%</text>
+<text id="301956">%null%</text>
+<text id="301957">%null%</text>
+<text id="301958">%null%</text>
+<text id="301959">%null%</text>
+<text id="301960">円卓の戦士として、レディが加わった
+
+他のキャラクター同様に
+出撃キャラクターから変更できる
+
+レディは
+素早く連続回避を行うことができるなど
+身のこなしに長けたキャラクターである
+
+</text>
+<text id="301961">%null%</text>
+<text id="301962">%null%</text>
+<text id="301963">%null%</text>
+<text id="301964">%null%</text>
+<text id="301965">%null%</text>
+<text id="301966">%null%</text>
+<text id="301967">%null%</text>
+<text id="301968">%null%</text>
+<text id="301969">%null%</text>
+<text id="301970">円卓の戦士として、復讐者が加わった
+
+他のキャラクター同様に
+出撃キャラクターから変更できる
+
+復讐者は
+霊体を召喚し、連携して戦うことができる
+タクティカルなキャラクターである
+</text>
+<text id="301971">%null%</text>
+<text id="301972">%null%</text>
+<text id="301973">%null%</text>
+<text id="301974">%null%</text>
+<text id="301975">%null%</text>
+<text id="301976">%null%</text>
+<text id="301977">%null%</text>
+<text id="301978">%null%</text>
+<text id="301979">%null%</text>
+<text id="301980">夜の王を倒すなどをきっかけに
+狭間の地に環境変化をもたらすことがある
+
+それらは「地変」と呼ばれ
+環境ごとに有用なものが得られるとされる
+
+発生した地変はしばらくの間継続し
+幾度かの出撃を行うか
+円卓で時間を経過させることで収まる
+
+時間の経過：寝台を調べる</text>
+<text id="302000">記憶の断片の中には
+その記憶を呼び起こし
+追体験することが可能なものがある
+
+ジャーナルから
+「追憶の開始」を選択すれば
+追憶の世界に入ることができる</text>
+<text id="302001">%null%</text>
+<text id="302002">%null%</text>
+<text id="302003">%null%</text>
+<text id="302004">%null%</text>
+<text id="302005">%null%</text>
+<text id="302006">%null%</text>
+<text id="302007">%null%</text>
+<text id="302008">%null%</text>
+<text id="302009">%null%</text>
+<text id="302010">追憶の世界では
+キャラクターごとのシナリオを進められる
+
+シナリオの達成条件を満たすことで
+追憶が完了し、現在の世界に戻る
+
+ジャーナルから「追憶の中断」を選択すれば
+シナリオの途中で現在の世界に戻ることもできる
+
+シナリオを進めて現在の世界に変化があった時
+追憶が中断される場合がある</text>
+<text id="302011">%null%</text>
+<text id="302012">%null%</text>
+<text id="302013">%null%</text>
+<text id="302014">%null%</text>
+<text id="302015">%null%</text>
+<text id="302016">%null%</text>
+<text id="302017">%null%</text>
+<text id="302018">%null%</text>
+<text id="302019">%null%</text>
+<text id="302020">追憶の世界でシナリオ達成条件を満たすことで
+「追憶の出口」が出現する
+
+追憶の出口から
+追憶を完了して、現在の世界に戻ることができる</text>
+<text id="302021">%null%</text>
+<text id="302022">%null%</text>
+<text id="302023">%null%</text>
+<text id="302024">%null%</text>
+<text id="302025">%null%</text>
+<text id="302026">%null%</text>
+<text id="302027">%null%</text>
+<text id="302028">%null%</text>
+<text id="302029">%null%</text>
+<text id="302030">追憶の世界のシナリオを進行すると
+狭間の地で達成すべき
+「個人的な目標」が追加されることがある
+
+追憶の世界から出撃して
+個人的な目標を達成することで
+キャラクターごとのシナリオが進行する
+
+個人的な目標は、１度の出撃につき
+１人のプレイヤーのみに発生する
+
+※標的が撃破目標の場合を除く</text>
+<text id="302031">%null%</text>
+<text id="302032">%null%</text>
+<text id="302033">%null%</text>
+<text id="302034">%null%</text>
+<text id="302035">%null%</text>
+<text id="302036">%null%</text>
+<text id="302037">%null%</text>
+<text id="302038">%null%</text>
+<text id="302039">%null%</text>
+<text id="302040">ゲームクリア後は
+原初の夜の王を倒す前の円卓に戻る
+
+入手した遺物やマークなどは
+クリア時の状況を引き継いでおり
+引き続きゲームをプレイできる</text>
+<text id="302041">%null%</text>
+<text id="302042">%null%</text>
+<text id="302043">%null%</text>
+<text id="302044">%null%</text>
+<text id="302045">%null%</text>
+<text id="302046">%null%</text>
+<text id="302047">%null%</text>
+<text id="302048">%null%</text>
+<text id="302049">%null%</text>
+<text id="302050">追憶の世界では
+円卓の中でキャラクターごとのシナリオを
+進めることができる
+
+シナリオの達成条件を満たすことで
+追憶が完了し、現在の世界に戻る
+
+また、ジャーナルメニューから
+シナリオの途中で現在の世界に戻ることもできる</text>
+<text id="302051">%null%</text>
+<text id="302052">%null%</text>
+<text id="302053">%null%</text>
+<text id="302054">%null%</text>
+<text id="302055">%null%</text>
+<text id="302056">%null%</text>
+<text id="302057">%null%</text>
+<text id="302058">%null%</text>
+<text id="302059">%null%</text>
+<text id="302060">王の証とは
+常夜の王が持っていた王の資質である
+
+その光に吸い寄せられるようにして
+取引を持ち掛ける者が円卓に現れた
+
+希少なものを提供する代わりに
+それらを欲しているようだが…</text>
+<text id="302061">%null%</text>
+<text id="302062">%null%</text>
+<text id="302063">%null%</text>
+<text id="302064">%null%</text>
+<text id="302065">%null%</text>
+<text id="302066">%null%</text>
+<text id="302067">%null%</text>
+<text id="302068">%null%</text>
+<text id="302069">%null%</text>
+<text id="302070">図録にある「手引書」や「指南書」では
+操作方法や攻略拠点の詳細など
+戦いを進める上で役立つ情報を確認できる
+
+思うようにうまく進められない時は
+それらに目を通すことも、有効だろう</text>
+<text id="302430">戦技とは、武器の持つ特殊な技である
+
+敵の攻撃を逸らす「パリィ」や
+強力な攻撃から、一時的な特殊効果まで幅広く
+その使用にはＦＰが消費される
+
+&lt;?keyicon@120?&gt;：&lt;?keyActFullName@120?&gt;</text>
+<text id="400000">手引書では
+基本的なアクションや操作方法を学べ
+探索に有用な知識も得られる
+
+また、この説明が表示されている間
+&lt;?keyicon@209?&gt;からゲームプレイ冒頭の
+チュートリアルを再度プレイできる
+
+&lt;?keyicon@209?&gt;：チュートリアルリプレイを開始</text>
+<text id="402020">装備メニューでは
+所持している装備品を確認できる
+それらを入れ替えたり、捨てたりできる
+
+&lt;?keyicon@1?&gt;：装備メニューを開く／閉じる
+&lt;?keyicon@204?&gt;：入れ替え
+&lt;?keyicon@209?&gt;：捨てる</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">ステータスメニューでは
+自分や味方の装備品、特殊効果などを確認できる
+
+基礎力や武器の攻撃力には
+特殊効果による影響も反映される
+
+特殊効果は詳細な内容も確認できる
+ステータスメニューで&lt;?keyicon@210?&gt;：特殊効果の詳細表示</text>
+<text id="402100">地図メニューでは味方の位置や
+攻略拠点の情報を確認できる
+
+任意の場所にピンを打ち、探索の目印としたり
+味方と位置情報を共有することができる
+
+詳細表示では、拠点の補足情報が確認できる
+
+地図メニューで
+&lt;?keyicon@311?&gt;：目的地ピンを配置
+&lt;?keyicon@308?&gt;：詳細表示に切り替える</text>
+<text id="402200">レベルアップメニューでは
+ルーンを消費してレベルを上げられる
+
+レベルが１上がると、複数の能力値が上昇する
+能力値の上昇量は、キャラクターにより異なる
+
+レベルが高くなるほど
+レベルアップに必要なルーンは多くなる</text>
+<text id="402300">ショップでは
+ルーンを消費してアイテムを購入できる
+
+商人たちは、同じアイテムを販売し
+販売数が限られているアイテムもある
+
+しかし、商人たちの中には
+異なるアイテムを販売する者がいる</text>
+<text id="402390">武器強化メニューでは
+鍛石を消費して武器を強化することができる
+
+１段階の強化につき、鍛石が１つ消費される
+
+鍛石【１】：
+　コモン武器をアンコモン武器に強化できる
+
+鍛石【２】：
+　アンコモン武器をレア武器に強化できる</text>
+<text id="402391">%null%</text>
+<text id="402392">%null%</text>
+<text id="402393">%null%</text>
+<text id="402394">%null%</text>
+<text id="402395">この地のどこかで
+類まれなる鍛冶術が残された
+特別な鍛冶台を見ることができる
+
+その鍛冶台では
+あらゆるレアリティの武器を
+レジェンド武器に強化できる
+
+特別な鍛冶台は、一度の出撃につき
+各プレイヤーが一度だけ使用できる</text>
+<text id="403020">出撃メニューでは
+標的とするボスを指定して出撃できる
+
+出撃を選択すると
+同じボスを標的とする仲間が自動的に集められる
+マッチングが行われ、設定人数が集まると出撃する
+
+設定人数などの変更は
+マッチング設定から変更できる
+
+出撃までの間、円卓内では自由に活動できる</text>
+<text id="403021">出撃メニューでは
+マッチングにより仲間が自動的に集められる
+３人集まると出撃する
+
+出撃までの間、円卓内では自由に活動できる</text>
+<text id="403022">チームの出撃では
+チームに招待したプレイヤーが代表して
+標的の指定などを行う
+
+全員が準備完了すると出撃する
+
+※メンバー間のゲーム進行度が異なる場合
+　未知のゲーム内容が露見する可能性に注意</text>
+<text id="403023">%null%</text>
+<text id="403024">%null%</text>
+<text id="403025">%null%</text>
+<text id="403026">%null%</text>
+<text id="403027">%null%</text>
+<text id="403028">%null%</text>
+<text id="403029">%null%</text>
+<text id="403030">%null%</text>
+<text id="403031">出撃キャラクターメニューでは
+プレイするキャラクターを変更できる
+
+キャラクターの詳しい情報や特性は
+図録や訓練場で確認できる</text>
+<text id="403032">%null%</text>
+<text id="403033">%null%</text>
+<text id="403034">%null%</text>
+<text id="403035">%null%</text>
+<text id="403036">%null%</text>
+<text id="403037">%null%</text>
+<text id="403038">%null%</text>
+<text id="403039">%null%</text>
+<text id="403040">衣装の変更メニューでは
+キャラクターの外見を変更できる
+
+外見の変更は、キャラクターの性能に影響しない</text>
+<text id="403041">%null%</text>
+<text id="403042">%null%</text>
+<text id="403043">%null%</text>
+<text id="403044">%null%</text>
+<text id="403045">%null%</text>
+<text id="403046">%null%</text>
+<text id="403047">%null%</text>
+<text id="403048">%null%</text>
+<text id="403049">%null%</text>
+<text id="403050">遺物儀式メニューでは
+入手した遺物から、遺物儀式を通じて
+秘められた思いを力にすることができる
+その力は出撃時から効果が得られ、消費もしない
+
+しかし、遺物を配置する献器には制限があり
+色が合致する場所にしか配置できない
+献器はキャラクターごとに異なり
+小壺商人から購入するなどで、増やすことができる
+
+また、入手した遺物を売却することもできる</text>
+<text id="403051">遺物儀式メニューでは
+入手した遺物から、遺物儀式を通じて
+秘められた思いを力にすることができる
+その力は出撃時から効果が得られ、消費もしない
+
+しかし、遺物を配置する献器には制限があり
+色が合致する場所にしか配置できない
+
+また、入手した遺物を売却することもできる</text>
+<text id="403052">%null%</text>
+<text id="403053">%null%</text>
+<text id="403054">%null%</text>
+<text id="403055">%null%</text>
+<text id="403056">%null%</text>
+<text id="403057">%null%</text>
+<text id="403058">%null%</text>
+<text id="403059">%null%</text>
+<text id="403060">図録メニューでは、ゲームプレイの統計情報や
+各種データが閲覧できる
+
+手引書は、基本的な説明や基礎知識を
+指南書は、戦闘に関する詳細な情報が確認できる
+
+戦果履歴では
+出撃した記録を振り返ることができる</text>
+<text id="403061">図録メニューでは
+これまでに確認した説明だけでなく
+探索に役立つ様々な情報を確認できる</text>
+<text id="403062">%null%</text>
+<text id="403063">%null%</text>
+<text id="403064">%null%</text>
+<text id="403065">%null%</text>
+<text id="403066">%null%</text>
+<text id="403067">%null%</text>
+<text id="403068">%null%</text>
+<text id="403069">%null%</text>
+<text id="403070">ジャーナルでは
+キャラクターごとのシナリオ進行を確認できる
+
+プレイキャラクターである夜渡りの戦士たちは
+長い戦いの結果、その記憶の一部を失っている
+
+欠落した「記憶の断片」を回収することで
+明らかになった内容がジャーナルに記録される
+
+記憶の断片は、戦い続けることで見つけられる
+時として、円卓の仲間を必要とする場合がある</text>
+<text id="403071">%null%</text>
+<text id="403072">%null%</text>
+<text id="403073">%null%</text>
+<text id="403074">%null%</text>
+<text id="403075">%null%</text>
+<text id="403076">%null%</text>
+<text id="403077">%null%</text>
+<text id="403078">%null%</text>
+<text id="403079">%null%</text>
+<text id="403080">小壺商人のバザーでは
+マークを消費して、アイテムを購入できる
+
+ここで購入したアイテムは
+出撃しても無くなることはない</text>
+<text id="403091">訓練装備メニューでは
+様々な武器やアイテムを装備し、試すことができる
+
+指南書からは
+戦闘に関するヒントや説明を確認できる</text>
+<text id="403092">訓練設定メニューでは
+ステータスやＨＰ、ＦＰなどの状態を変更できる
+
+また、プレイキャラクターも変更できる</text>
+<text id="403130">攻略拠点は、以下のアイコンで表示される
+
+&lt;?image@4007##6?&gt;：村
+&lt;?image@4003##6?&gt;：教会
+&lt;?image@4018##6?&gt;：小砦
+&lt;?image@4151##6?&gt;：大教会
+&lt;?image@4017##6?&gt;：魔術師塔
+&lt;?image@4150##6?&gt;：古い魔術師塔
+&lt;?image@4024##6?&gt;：大野営地
+&lt;?image@4005##6?&gt;：遺跡
+&lt;?image@4009##6?&gt;：封牢
+&lt;?image@4025##6?&gt;：砦</text>
+<text id="403131">%null%</text>
+<text id="403132">%null%</text>
+<text id="403133">%null%</text>
+<text id="403134">%null%</text>
+<text id="403135">%null%</text>
+<text id="403136">%null%</text>
+<text id="403137">%null%</text>
+<text id="403138">%null%</text>
+<text id="403139">%null%</text>
+<text id="403140">フィールド情報は、以下のアイコンで表示される
+
+&lt;?image@4001##6?&gt;：祝福
+&lt;?image@4055##6?&gt;：霊鷹の止まり木
+&lt;?image@4137##6?&gt;：霊脈
+&lt;?image@4016##6?&gt;：フィールドボス
+&lt;?image@4058##6?&gt;：スカラベ
+&lt;?image@4092##6?&gt;：行動目標
+&lt;?image@4152##6?&gt;：坑道の入り口
+&lt;?image@4153##6?&gt;：埋もれ宝</text>
+<text id="403141">%null%</text>
+<text id="403142">%null%</text>
+<text id="403143">%null%</text>
+<text id="403144">%null%</text>
+<text id="403145">地図メニューの詳細表示では
+各拠点にある武器やアイテムなどの入手傾向が
+以下のアイコンで表示される
+
+&lt;?image@4160##6?&gt;：聖杯瓶の使用回数
+&lt;?image@4161##6?&gt;：周辺に隠されている情報
+&lt;?image@4162##6?&gt;：商人と鍛冶台
+&lt;?image@4164##6?&gt;：弓の入手
+&lt;?image@4163##6?&gt;：杖の入手
+&lt;?image@4165##6?&gt;：聖印の入手
+
+地図メニュー上で&lt;?keyicon@308?&gt;：詳細表示</text>
+<text id="403170">武器複製メニューでは
+所持している武器のうち１つを選択し
+同じ性能のものをもう一つ入手することができる
+
+武器複製は、一度の出撃につき
+各プレイヤーが一度だけ使用できる</text>
+<text id="403171">%null%</text>
+<text id="403172">%null%</text>
+<text id="403173">%null%</text>
+<text id="403174">%null%</text>
+<text id="403175">%null%</text>
+<text id="403176">%null%</text>
+<text id="403177">%null%</text>
+<text id="403178">%null%</text>
+<text id="403179">%null%</text>
+<text id="403180">円卓内の広間には
+他世界で標的を撃破した幻影が流れ着く
+
+彼らの持ち物から戦いを想像すれば
+参考にできることもあるだろう
+
+※オンラインモード限定</text>
+<text id="403181">%null%</text>
+<text id="403182">%null%</text>
+<text id="403183">%null%</text>
+<text id="403184">%null%</text>
+<text id="403185">%null%</text>
+<text id="403186">%null%</text>
+<text id="403187">%null%</text>
+<text id="403188">%null%</text>
+<text id="403189">%null%</text>
+<text id="403190">攻略拠点は、以下のアイコンで表示される
+
+&lt;?image@4018##6?&gt;：小砦
+兵を伴う前哨地
+作戦地図から周囲に隠された情報が得られる
+
+&lt;?image@4151##6?&gt;：大教会
+朽ち果てた教会
+信仰していた者たちの聖印が遺されている
+
+&lt;?image@4024##6?&gt;：大野営地
+ある勢力の駐屯地
+強力な敵が多く留まっている
+
+&lt;?image@4005##6?&gt;：遺跡
+古い時代の面影を残す遺跡
+強力な敵が留まり、隠された地下室がある</text>
+<text id="403191">%null%</text>
+<text id="403192">%null%</text>
+<text id="403193">%null%</text>
+<text id="403194">%null%</text>
+<text id="403195">%null%</text>
+<text id="403196">%null%</text>
+<text id="403197">%null%</text>
+<text id="403198">%null%</text>
+<text id="403199">%null%</text>
+<text id="403200">攻略拠点は、以下のアイコンで表示される
+
+&lt;?image@4152##6?&gt;：坑道の入り口
+採掘中の坑道
+武器を鍛え上げる鉱石が得られる
+
+&lt;?image@4025##6?&gt;：砦
+脅威が蔓延る城砦
+腕に覚えある者だけが挑むべき牙城である
+
+&lt;?image@4016##6?&gt;：フィールドボス
+彷徨う強敵
+強さを見誤れば、恐るべき相手となる
+
+&lt;?image@4009##6?&gt;：封牢
+虜囚が封じられた牢
+封印の力は、時間と共に弱まっていく
+</text>
+<text id="403201">%null%</text>
+<text id="403202">%null%</text>
+<text id="403203">%null%</text>
+<text id="403204">%null%</text>
+<text id="403205">%null%</text>
+<text id="403206">%null%</text>
+<text id="403207">%null%</text>
+<text id="403208">%null%</text>
+<text id="403209">%null%</text>
+<text id="403210">攻略拠点は、以下のアイコンで表示される
+
+&lt;?image@4007##6?&gt;：村
+寂れた安全な場所
+商人は希少な品物を取り扱っている
+
+&lt;?image@4003##6?&gt;：教会
+巡礼者の教会
+聖杯瓶の使用回数を増やすことができる
+
+&lt;?image@4017##6?&gt;：魔術師塔
+魔術師が研究に用いていた塔
+暗号により、その成果が保管されている
+稀に、古の魔術師が過ごした塔が見られる
+</text>
+<text id="403211">%null%</text>
+<text id="403212">%null%</text>
+<text id="403213">%null%</text>
+<text id="403214">%null%</text>
+<text id="403215">%null%</text>
+<text id="403216">%null%</text>
+<text id="403217">%null%</text>
+<text id="403218">%null%</text>
+<text id="403219">%null%</text>
+<text id="403220">フィールド環境は、以下のアイコンで表示される
+
+&lt;?image@4001##6?&gt;：祝福
+戦士たちの安らぎ
+回復と聖杯瓶の補充をもたらす
+また、ルーンを消費してレベルアップを行える
+
+&lt;?image@4055##6?&gt;：霊鷹の止まり木
+霊鷹が羽を休める木
+霊道に沿って、戦士たちを空へ運ぶ
+霊道は、地図から確認できる
+
+&lt;?image@4137##6?&gt;：霊脈
+大地の裂け目から漏れ出る力
+共鳴する者を高所へと導く</text>
+<text id="403221">%null%</text>
+<text id="403222">%null%</text>
+<text id="403223">%null%</text>
+<text id="403224">%null%</text>
+<text id="403225">%null%</text>
+<text id="403226">%null%</text>
+<text id="403227">%null%</text>
+<text id="403228">%null%</text>
+<text id="403229">%null%</text>
+<text id="403230">他のフィールド情報は、以下のアイコンで表示される
+
+&lt;?image@4058##6?&gt;：スカラベ
+貴重なものの運び手
+タリスマンを奪うことができる
+
+&lt;?image@4153##6?&gt;：埋もれ宝
+隠された宝箱
+誰かが秘密にしたかった希少品が眠る
+
+&lt;?image@4092##6?&gt;：行動目標
+夜渡りの戦士たちが目指すべきもの
+それは、状況により示される
+</text>
+<text id="403300">落ちているアイテムに、ピンを打つことができる
+味方にアイテム情報と位置を共有できる
+
+地図メニューからも、アイテムの詳細が確認できる
+
+落ちているアイテムの上で&lt;?keyicon@128?&gt;：アイテムピン</text>
+<text id="403301">%null%</text>
+<text id="403302">%null%</text>
+<text id="403303">%null%</text>
+<text id="403304">%null%</text>
+<text id="403305">%null%</text>
+<text id="403306">%null%</text>
+<text id="403307">%null%</text>
+<text id="403308">%null%</text>
+<text id="403309">%null%</text>
+<text id="403310">狭間の地の各所で、木の実や花、蝶など
+様々な素材が採取できる
+
+それらは、一時的な効果をもたらす
+
+味方が採取した素材は、しばらく活性化しており
+その場へ行けば、同様に効果を得られる
+
+草花などの近くで&lt;?keyicon@122?&gt;：素材を採る</text>
+<text id="403311">%null%</text>
+<text id="403312">%null%</text>
+<text id="403313">%null%</text>
+<text id="403314">%null%</text>
+<text id="403315">%null%</text>
+<text id="403316">%null%</text>
+<text id="403317">%null%</text>
+<text id="403318">%null%</text>
+<text id="403319">%null%</text>
+<text id="403320">狭間の地では
+まれにプレイキャラクターの幻影を見ることがある
+他世界の名残である
+
+それらは、すぐに消えてしまうが
+触れることで共鳴し、アーツゲージを増加させる
+
+また、死亡幻影からは
+死亡した時のプレイキャラクターの装備品を
+取り出すことができる
+無念の力は蓄積し、入手した者に思いを託す
+
+※オンラインモードで名残は共有される
+※名残が共有された状態なら
+　オフラインモードでも幻影を見ることができる</text>
+<text id="403321">%null%</text>
+<text id="403322">%null%</text>
+<text id="403323">%null%</text>
+<text id="403324">%null%</text>
+<text id="403325">%null%</text>
+<text id="403326">%null%</text>
+<text id="403327">%null%</text>
+<text id="403328">%null%</text>
+<text id="403329">%null%</text>
+<text id="403330">武器は、取得する時や装備メニューから
+攻撃力や付帯効果を確認できる
+
+攻撃力は、その時点でのステータスを反映する
+
+装備メニューから、戦技や付帯効果の
+詳細説明も確認できる
+
+装備メニューで&lt;?keyicon@210?&gt;：詳細表示</text>
+<text id="403331">%null%</text>
+<text id="403332">%null%</text>
+<text id="403333">%null%</text>
+<text id="403334">%null%</text>
+<text id="403335">%null%</text>
+<text id="403336">%null%</text>
+<text id="403337">%null%</text>
+<text id="403338">%null%</text>
+<text id="403339">%null%</text>
+<text id="403340">地図メニューでは
+地下空間となっている坑道を階層表示できる
+
+環境によっては、坑道以外の地下空間を
+表示できる場合がある
+
+地図メニュー上で
+&lt;?keyicon@307?&gt;：坑道を表示</text>
+<text id="403360">自身や味方はピンが打てる
+ピンに対して、自分のピンを重ねることが可能
+
+画面中心にとらえて&lt;?keyicon@311?&gt;長押し：ピンを重ねる</text>
+<text id="403361">%null%</text>
+<text id="403362">%null%</text>
+<text id="403363">%null%</text>
+<text id="403364">%null%</text>
+<text id="403365">%null%</text>
+<text id="403366">%null%</text>
+<text id="403367">%null%</text>
+<text id="403368">%null%</text>
+<text id="403369">%null%</text>
+<text id="403370">装備メニューから使えるジェスチャーで
+簡単なポーズをとることができる
+
+小壺商人のバザーで購入するなどして
+新たに入手できる場合がある
+
+装備メニューを開いて&lt;?keyicon@208?&gt;：ジェスチャーを表示</text>
+<text id="403371">%null%</text>
+<text id="403372">%null%</text>
+<text id="403373">%null%</text>
+<text id="403374">%null%</text>
+<text id="403375">%null%</text>
+<text id="403376">%null%</text>
+<text id="403377">%null%</text>
+<text id="403378">%null%</text>
+<text id="403379">%null%</text>
+<text id="403380">狭間の地で敵を倒すと「ルーン」が手に入る
+ルーンは、プレイキャラクターのレベルアップや
+アイテムの購入に使用される
+
+出撃すると、円卓では「マーク」が手に入る
+マークは、小壺商人のバザーなどで
+アイテムの購入に使用できる
+
+ルーンは出撃の度に失われるが
+マークは使用以外に失われることはない
+
+</text>
+<text id="403381">%null%</text>
+<text id="403382">%null%</text>
+<text id="403383">%null%</text>
+<text id="403384">%null%</text>
+<text id="403385">%null%</text>
+<text id="403386">%null%</text>
+<text id="403387">%null%</text>
+<text id="403388">%null%</text>
+<text id="403389">%null%</text>
+<text id="403390">災域とは、夜の滲む領域である
+
+集中的な夜の汚濁により
+取り込まれた者たちに自我はなく
+恐ろしい力を引き出すとされる
+
+また、災域は他世界との繋がりがあるとされ
+夜を渡れずにいた者たちが襲い掛かるという
+
+高位な装備品や多くのルーンを得られるが
+危険が付き纏う、注意すべき場所である</text>
+<text id="403391">%null%</text>
+<text id="403392">%null%</text>
+<text id="403393">%null%</text>
+<text id="403394">%null%</text>
+<text id="403395">%null%</text>
+<text id="403396">%null%</text>
+<text id="403397">%null%</text>
+<text id="403398">%null%</text>
+<text id="403399">%null%</text>
+<text id="403400">外なる神の力によって変異した森
+朱い腐敗が充満しており、あらゆるものを腐らせる
+
+だが残された者たちは、抗う術を模索した
+森の中で、一時的に腐敗状態を癒す素材を育て
+腐敗の瘴気をはらう火の灯台を築いた
+
+灯台の中には
+森に秘められた加護の手掛かりがあるという
+
+また、宝を求めてさまよい死した者たちの遺産も
+そこかしこに見ることができるだろう</text>
+<text id="403401">%null%</text>
+<text id="403402">%null%</text>
+<text id="403403">%null%</text>
+<text id="403404">%null%</text>
+<text id="403405">%null%</text>
+<text id="403406">%null%</text>
+<text id="403407">%null%</text>
+<text id="403408">%null%</text>
+<text id="403409">%null%</text>
+<text id="403410">一夜にして壊滅した隠された都
+地下に封じられていたが、地表へ姿を現した
+
+巨大な都に、もはや生命の気配はなく
+死者と呪いが蔓延っている
+それらはかつて、永遠の都に隠されたという
+秘宝を求めた者たちの、成れの果てである
+
+古い時代に遺されたものが祀られており
+あらゆる武器を複製する力があったとされる</text>
+<text id="403411">%null%</text>
+<text id="403412">%null%</text>
+<text id="403413">%null%</text>
+<text id="403414">%null%</text>
+<text id="403415">%null%</text>
+<text id="403416">%null%</text>
+<text id="403417">%null%</text>
+<text id="403418">%null%</text>
+<text id="403419">%null%</text>
+<text id="403420">原初の山
+弱肉強食により淘汰され続けた厳冬の環境に
+冷気を支配する竜が君臨している
+
+頂にあるとされる加護には、冷気を操る力が秘され
+それを奪おうとする侵入者を、竜は阻むだろう</text>
+<text id="403421">%null%</text>
+<text id="403422">%null%</text>
+<text id="403423">%null%</text>
+<text id="403424">%null%</text>
+<text id="403425">%null%</text>
+<text id="403426">%null%</text>
+<text id="403427">%null%</text>
+<text id="403428">%null%</text>
+<text id="403429">%null%</text>
+<text id="403430">燻る神秘の火口
+神事であった鍛冶術を奉っていた
+古い神殿が露わになっている
+
+度重なる噴火により、ほとんどは失われたが
+未だその火口のそばに
+最も古い鍛冶術のひとつが残されている
+
+辿り着くことができれば
+伝説の武器を鍛えられるという</text>
+<text id="403500">深き夜では、勝敗によりレートが増減する
+
+一定のレートを超える度、深度が増加していく
+レートが減少し続けると、深度も減少するが
+深度２から深度１になることはない
+深度３からは一定回数だけ深度の減少を免れる
+
+深度は５段階である
+
+　&lt;?image@4500##17?&gt;深度１：レート０～
+　&lt;?image@4501##17?&gt;深度２：レート１０００～
+　&lt;?image@4502##17?&gt;深度３：レート２０００～
+　&lt;?image@4503##17?&gt;深度４：レート４０００～
+　&lt;?image@4504##17?&gt;深度５：レート６０００～
+
+マッチングは同じ深度のメンバーを募るが
+マッチングに時間がかかった場合は
+異なる深度のメンバーと合流する場合がある</text>
+</entries>
+</fmg>

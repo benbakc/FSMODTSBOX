@@ -1,0 +1,15 @@
+# Build artifacts
+GameHanBox/bin/
+GameHanBox/obj/
+*.user
+*.suo
+*.vs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,1461 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4000">能释放魔力石砾
+可以走动施展，也能连续施展</text>
+<text id="4001">能释放大块魔力石砾
+可以走动施展，也能连续施展</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">能快速释放魔力石砾
+可以接在其他动作后，立刻衔接使用</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">能释放魔力彗星
+可以走动施展，也能连续施展
+借由蓄力能提升威力</text>
+<text id="4021">能释放魔力大彗星
+可以走动施展，也能连续施展
+借由蓄力能提升威力</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">能释放以漩涡状飞出的两道石砾
+可以走动施展，也能连续施展
+借由蓄力能提升威力</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">能释放三道流星
+可以走动施展，借由蓄力能提升威力</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">能释放六道流星
+可以走动施展，借由蓄力能提升威力</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">能连续释放辉石结晶碎片
+借由蓄力能提升威力</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">能释放横向扩散的魔力弯弧
+可以走动施展，也能连续施展</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">能释放以拋物线飞去的魔力炮弹
+借由蓄力能提升威力</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">能同时释放大量辉石结晶碎片
+可以走动施展，借由蓄力能提升威力</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">将手杖刺入地面，引发魔力冲击波
+仅限一次，能使出追击</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">将手杖刺入地面，引发魔力冲击波
+持续施展的期间，能将灌注魔力的手杖尾端
+向前指，并刺向敌人</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">能形成魔力大槌，使出敲击
+仅限一次，能使出追击</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">能在地面画出学院的魔法阵
+在魔法阵内的人物能提升魔力攻击力</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">能释放浮空的小颗星光，照亮四周
+可以走动施展</text>
+<text id="4200">能释放极大型彗星
+持续施展能一直释放</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">一定时间内，降下磅礡的星雨
+可以走动施展，借由蓄力能提升威力</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">能释放十二道深色流星
+可以走动施展，借由蓄力能提升威力</text>
+<text id="4300">能形成魔力辉剑排成的圆阵
+辉剑会自动飞向、攻击附近的敌人
+可以走动施展</text>
+<text id="4301">能形成大量魔力辉剑排成的圆阵
+辉剑会自动飞向、攻击附近的敌人
+可以走动施展</text>
+<text id="4302">能形成巨型魔力辉剑排成的圆阵
+辉剑会自动飞向、攻击附近的敌人</text>
+<text id="4360">能呼唤满月降临自身，月亮将朝敌人飞去
+满月能消除所有触碰到的魔法
+被命中的人物会暂时降低魔力属性减伤率</text>
+<text id="4361">能呼唤冰冷暗月降临自身，月亮将朝敌人飞去
+暗月能消除所有触碰到的魔法
+被命中的人物会暂时降低魔力属性减伤率</text>
+<text id="4362">%null%</text>
+<text id="4363">%null%</text>
+<text id="4364">%null%</text>
+<text id="4365">%null%</text>
+<text id="4366">%null%</text>
+<text id="4367">%null%</text>
+<text id="4368">%null%</text>
+<text id="4369">%null%</text>
+<text id="4370">能放出浮空魔力块，再降下魔力球
+可以走动施展，借由蓄力能延长有效时间</text>
+<text id="4371">%null%</text>
+<text id="4372">%null%</text>
+<text id="4373">%null%</text>
+<text id="4374">%null%</text>
+<text id="4375">%null%</text>
+<text id="4376">%null%</text>
+<text id="4377">%null%</text>
+<text id="4378">%null%</text>
+<text id="4379">%null%</text>
+<text id="4380">能形成魔力大弓，射出大箭
+借由蓄力能强化威力
+持续施展的期间会维持拉弓的状态
+不会射出大箭</text>
+<text id="4381">能形成魔力大弓，同时射出四支大箭
+借由蓄力能强化威力
+持续施展的期间会维持拉弓的状态
+不会射出大箭</text>
+<text id="4382">%null%</text>
+<text id="4383">%null%</text>
+<text id="4384">%null%</text>
+<text id="4385">%null%</text>
+<text id="4386">%null%</text>
+<text id="4387">%null%</text>
+<text id="4388">%null%</text>
+<text id="4389">%null%</text>
+<text id="4390">能形成延后现形、飞向敌人的辉剑
+可以走动施展，借由蓄力能延后辉剑形成的时间</text>
+<text id="4391">%null%</text>
+<text id="4392">%null%</text>
+<text id="4393">%null%</text>
+<text id="4394">%null%</text>
+<text id="4395">%null%</text>
+<text id="4396">%null%</text>
+<text id="4397">%null%</text>
+<text id="4398">%null%</text>
+<text id="4399">%null%</text>
+<text id="4400">能释放冰冷的魔力块
+可以走动施展，也能连续施展</text>
+<text id="4401">%null%</text>
+<text id="4402">%null%</text>
+<text id="4403">%null%</text>
+<text id="4404">%null%</text>
+<text id="4405">%null%</text>
+<text id="4406">%null%</text>
+<text id="4407">%null%</text>
+<text id="4408">%null%</text>
+<text id="4409">%null%</text>
+<text id="4410">能在周围形成寒气风暴
+借由蓄力能提升威力</text>
+<text id="4411">%null%</text>
+<text id="4412">%null%</text>
+<text id="4413">%null%</text>
+<text id="4414">%null%</text>
+<text id="4415">%null%</text>
+<text id="4416">%null%</text>
+<text id="4417">%null%</text>
+<text id="4418">%null%</text>
+<text id="4419">%null%</text>
+<text id="4420">能朝前方形成冰冷寒雾
+可以走动施展，借由蓄力能扩大寒雾的范围</text>
+<text id="4421">%null%</text>
+<text id="4422">%null%</text>
+<text id="4423">%null%</text>
+<text id="4424">%null%</text>
+<text id="4425">%null%</text>
+<text id="4426">%null%</text>
+<text id="4427">%null%</text>
+<text id="4428">%null%</text>
+<text id="4429">%null%</text>
+<text id="4430">能形成魔力大剑，使出横扫
+可以连续施展</text>
+<text id="4431">能形成冰冷魔力大剑
+使出横扫的同时，释放寒气刀刃
+可以连续施展</text>
+<text id="4432">%null%</text>
+<text id="4433">%null%</text>
+<text id="4434">%null%</text>
+<text id="4435">%null%</text>
+<text id="4436">%null%</text>
+<text id="4437">%null%</text>
+<text id="4438">%null%</text>
+<text id="4439">%null%</text>
+<text id="4440">能形成魔力剑，使出快速横扫
+可以接在其他动作后，立刻衔接使用</text>
+<text id="4441">%null%</text>
+<text id="4442">%null%</text>
+<text id="4443">%null%</text>
+<text id="4444">%null%</text>
+<text id="4445">%null%</text>
+<text id="4446">%null%</text>
+<text id="4447">%null%</text>
+<text id="4448">%null%</text>
+<text id="4449">%null%</text>
+<text id="4450">能形成魔力大剑，使出突刺
+借由蓄力能增加向前推进的距离</text>
+<text id="4451">%null%</text>
+<text id="4452">%null%</text>
+<text id="4453">%null%</text>
+<text id="4454">%null%</text>
+<text id="4455">%null%</text>
+<text id="4456">%null%</text>
+<text id="4457">%null%</text>
+<text id="4458">%null%</text>
+<text id="4459">%null%</text>
+<text id="4460">能在右手武器附加魔力属性攻击力
+可以走动施展
+
+只能用左手施展的魔法</text>
+<text id="4461">%null%</text>
+<text id="4462">%null%</text>
+<text id="4463">%null%</text>
+<text id="4464">%null%</text>
+<text id="4465">%null%</text>
+<text id="4466">%null%</text>
+<text id="4467">%null%</text>
+<text id="4468">%null%</text>
+<text id="4469">%null%</text>
+<text id="4470">能提升左手盾牌的减伤率
+可以走动施展
+
+只能用右手施展的魔法</text>
+<text id="4471">%null%</text>
+<text id="4472">%null%</text>
+<text id="4473">%null%</text>
+<text id="4474">%null%</text>
+<text id="4475">%null%</text>
+<text id="4476">%null%</text>
+<text id="4477">%null%</text>
+<text id="4478">%null%</text>
+<text id="4479">%null%</text>
+<text id="4480">能减轻催眠、发狂量表的累积
+可以走动施展</text>
+<text id="4481">%null%</text>
+<text id="4482">%null%</text>
+<text id="4483">%null%</text>
+<text id="4484">%null%</text>
+<text id="4485">%null%</text>
+<text id="4486">%null%</text>
+<text id="4487">%null%</text>
+<text id="4488">%null%</text>
+<text id="4489">%null%</text>
+<text id="4490">能在右手武器附加异常状态冻伤
+可以走动施展
+
+只能用左手施展的魔法</text>
+<text id="4491">%null%</text>
+<text id="4492">%null%</text>
+<text id="4493">%null%</text>
+<text id="4494">%null%</text>
+<text id="4495">%null%</text>
+<text id="4496">%null%</text>
+<text id="4497">%null%</text>
+<text id="4498">%null%</text>
+<text id="4499">%null%</text>
+<text id="4500">能形成结晶块，粉碎后朝前方释放
+借由蓄力能提升威力</text>
+<text id="4501">%null%</text>
+<text id="4502">%null%</text>
+<text id="4503">%null%</text>
+<text id="4504">%null%</text>
+<text id="4505">%null%</text>
+<text id="4506">%null%</text>
+<text id="4507">%null%</text>
+<text id="4508">%null%</text>
+<text id="4509">%null%</text>
+<text id="4510">能向空中浮起结晶块，再连续降下结晶碎片</text>
+<text id="4511">%null%</text>
+<text id="4512">%null%</text>
+<text id="4513">%null%</text>
+<text id="4514">%null%</text>
+<text id="4515">%null%</text>
+<text id="4516">%null%</text>
+<text id="4517">%null%</text>
+<text id="4518">%null%</text>
+<text id="4519">%null%</text>
+<text id="4520">能形成结晶块，连续释放结晶碎片
+持续施展的期间会继续释放</text>
+<text id="4600">能释放会从远方偷袭敌人背后的石砾
+可以连续施展</text>
+<text id="4601">%null%</text>
+<text id="4602">%null%</text>
+<text id="4603">%null%</text>
+<text id="4604">%null%</text>
+<text id="4605">%null%</text>
+<text id="4606">%null%</text>
+<text id="4607">%null%</text>
+<text id="4608">%null%</text>
+<text id="4609">%null%</text>
+<text id="4610">能快速释放难以辨识的魔力石砾
+可以接在其他动作后，立刻衔接使用</text>
+<text id="4611">%null%</text>
+<text id="4612">%null%</text>
+<text id="4613">%null%</text>
+<text id="4614">%null%</text>
+<text id="4615">%null%</text>
+<text id="4616">%null%</text>
+<text id="4617">%null%</text>
+<text id="4618">%null%</text>
+<text id="4619">%null%</text>
+<text id="4620">能释放难以辨识的魔力彗星
+可以走动施展，也能连续施展
+借由蓄力能提升威力</text>
+<text id="4621">%null%</text>
+<text id="4622">%null%</text>
+<text id="4623">%null%</text>
+<text id="4624">%null%</text>
+<text id="4625">%null%</text>
+<text id="4626">%null%</text>
+<text id="4627">%null%</text>
+<text id="4628">%null%</text>
+<text id="4629">%null%</text>
+<text id="4630">能形成魔力力场，拨开魔法与祷告
+持续施展的期间会接连形成力场</text>
+<text id="4631">%null%</text>
+<text id="4632">%null%</text>
+<text id="4633">%null%</text>
+<text id="4634">%null%</text>
+<text id="4635">%null%</text>
+<text id="4636">%null%</text>
+<text id="4637">%null%</text>
+<text id="4638">%null%</text>
+<text id="4639">%null%</text>
+<text id="4640">能消除魔法与祷告后，再借力形成辉剑</text>
+<text id="4641">%null%</text>
+<text id="4642">%null%</text>
+<text id="4643">%null%</text>
+<text id="4644">%null%</text>
+<text id="4645">%null%</text>
+<text id="4646">%null%</text>
+<text id="4647">%null%</text>
+<text id="4648">%null%</text>
+<text id="4649">%null%</text>
+<text id="4650">能形成黑暗，吸引魔法与祷告
+可以走动施展</text>
+<text id="4651">%null%</text>
+<text id="4652">%null%</text>
+<text id="4653">%null%</text>
+<text id="4654">%null%</text>
+<text id="4655">%null%</text>
+<text id="4656">%null%</text>
+<text id="4657">%null%</text>
+<text id="4658">%null%</text>
+<text id="4659">%null%</text>
+<text id="4660">能完全消除右手武器的模样
+可以走动施展
+
+只能用左手施展的魔法</text>
+<text id="4661">%null%</text>
+<text id="4662">%null%</text>
+<text id="4663">%null%</text>
+<text id="4664">%null%</text>
+<text id="4665">%null%</text>
+<text id="4666">%null%</text>
+<text id="4667">%null%</text>
+<text id="4668">%null%</text>
+<text id="4669">%null%</text>
+<text id="4670">将难以辨识施展者的身影
+可以走动施展</text>
+<text id="4700">能从虚无空间召唤小颗陨石，引发坠落
+持续施展的期间，陨石会不停坠落</text>
+<text id="4701">能从虚无空间召唤大量小颗陨石，引发坠落
+持续施展的期间，陨石会不停坠落</text>
+<text id="4702">%null%</text>
+<text id="4703">%null%</text>
+<text id="4704">%null%</text>
+<text id="4705">%null%</text>
+<text id="4706">%null%</text>
+<text id="4707">%null%</text>
+<text id="4708">%null%</text>
+<text id="4709">%null%</text>
+<text id="4710">能从地面召唤、释放岩石块</text>
+<text id="4711">%null%</text>
+<text id="4712">%null%</text>
+<text id="4713">%null%</text>
+<text id="4714">%null%</text>
+<text id="4715">%null%</text>
+<text id="4716">%null%</text>
+<text id="4717">%null%</text>
+<text id="4718">%null%</text>
+<text id="4719">%null%</text>
+<text id="4720">能释放重力球，命中的对象会被拉向自己
+借由蓄力能提升威力</text>
+<text id="4721">能释放多颗重力球，命中的对象会被拉向自己
+借由蓄力能提升威力</text>
+<text id="4800">能释放命中后会爆炸的熔岩球
+借由蓄力能提升威力</text>
+<text id="4801">%null%</text>
+<text id="4802">%null%</text>
+<text id="4803">%null%</text>
+<text id="4804">%null%</text>
+<text id="4805">%null%</text>
+<text id="4806">%null%</text>
+<text id="4807">%null%</text>
+<text id="4808">%null%</text>
+<text id="4809">%null%</text>
+<text id="4810">能从地面引起熔岩喷发，洒向四周
+借由蓄力能延长喷发时间</text>
+<text id="4811">%null%</text>
+<text id="4812">%null%</text>
+<text id="4813">%null%</text>
+<text id="4814">%null%</text>
+<text id="4815">%null%</text>
+<text id="4816">%null%</text>
+<text id="4817">%null%</text>
+<text id="4818">%null%</text>
+<text id="4819">%null%</text>
+<text id="4820">能释放命中后会延迟爆炸的熔岩球
+借由蓄力能强化威力，并延迟爆炸时间</text>
+<text id="4821">%null%</text>
+<text id="4822">%null%</text>
+<text id="4823">%null%</text>
+<text id="4824">%null%</text>
+<text id="4825">%null%</text>
+<text id="4826">%null%</text>
+<text id="4827">%null%</text>
+<text id="4828">%null%</text>
+<text id="4829">%null%</text>
+<text id="4830">能释放受熏烧的怨魂，在飞行的轨迹上
+引发延迟性的连续爆炸</text>
+<text id="4900">能用罪恶荆棘伤害自己，在周围召唤鲜血大荆棘
+可以连续施展最多三次</text>
+<text id="4901">%null%</text>
+<text id="4902">%null%</text>
+<text id="4903">%null%</text>
+<text id="4904">%null%</text>
+<text id="4905">%null%</text>
+<text id="4906">%null%</text>
+<text id="4907">%null%</text>
+<text id="4908">%null%</text>
+<text id="4909">%null%</text>
+<text id="4910">能用责罚荆棘伤害自己
+召唤爬走地面的鲜血荆棘
+可以连续施展</text>
+<text id="5000">能召唤穷追不舍的怨魂群
+借由蓄力能强化威力</text>
+<text id="5001">能召唤大量穷追不舍的怨魂群
+借由蓄力能强化威力</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">能引发灵火爆炸，大范围燃烧四周</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">能朝前方形成死亡烟雾
+烟雾具有引发异常状态死亡的效果
+可以走动施展，借由蓄力能扩大烟雾的范围</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">能召唤因死迷途的人群
+施展后，三位迷途者会在远方现身
+攻击敌人后会消失</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">能在周围降下剧烈的死亡落雷
+雷电具有引发异常状态死亡的效果
+借由蓄力能延长降下落雷的时间</text>
+<text id="5100">能释放数个小型的魔力泡泡
+借由蓄力能延长泡泡的维持时间</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">能释放一个大型的魔力泡泡
+借由蓄力能延长泡泡的维持时间</text>
+<text id="5500">辉石魔砾</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">辉石弯弧</text>
+<text id="6000">能从手中引发瞬间燃烧的火焰
+可以接在其他动作后，立刻衔接使用</text>
+<text id="6001">能从手中引发瞬间剧烈燃烧的火焰
+借由蓄力能强化威力</text>
+<text id="6002">%null%</text>
+<text id="6003">%null%</text>
+<text id="6004">%null%</text>
+<text id="6005">%null%</text>
+<text id="6006">%null%</text>
+<text id="6007">%null%</text>
+<text id="6008">%null%</text>
+<text id="6009">%null%</text>
+<text id="6010">能丢掷燃烧的火焰球
+借由蓄力能强化威力，并追加爆炸效果</text>
+<text id="6011">%null%</text>
+<text id="6012">%null%</text>
+<text id="6013">%null%</text>
+<text id="6014">%null%</text>
+<text id="6015">%null%</text>
+<text id="6016">%null%</text>
+<text id="6017">%null%</text>
+<text id="6018">%null%</text>
+<text id="6019">%null%</text>
+<text id="6020">能一口气丢掷多颗火焰球
+借由蓄力能强化威力，并追加爆炸效果</text>
+<text id="6021">%null%</text>
+<text id="6022">%null%</text>
+<text id="6023">%null%</text>
+<text id="6024">%null%</text>
+<text id="6025">%null%</text>
+<text id="6026">%null%</text>
+<text id="6027">%null%</text>
+<text id="6028">%null%</text>
+<text id="6029">%null%</text>
+<text id="6030">能朝前方横扫持续喷出、漩涡状燃烧的火焰
+借由蓄力能强化威力，并扩大燃烧范围</text>
+<text id="6031">%null%</text>
+<text id="6032">%null%</text>
+<text id="6033">%null%</text>
+<text id="6034">%null%</text>
+<text id="6035">%null%</text>
+<text id="6036">%null%</text>
+<text id="6037">%null%</text>
+<text id="6038">%null%</text>
+<text id="6039">%null%</text>
+<text id="6040">在自身体内燃起火焰，燃烧病原
+能减轻中毒、猩红腐败量表的累积
+治愈上述异常状态</text>
+<text id="6041">%null%</text>
+<text id="6042">%null%</text>
+<text id="6043">%null%</text>
+<text id="6044">%null%</text>
+<text id="6045">%null%</text>
+<text id="6046">%null%</text>
+<text id="6047">%null%</text>
+<text id="6048">%null%</text>
+<text id="6049">%null%</text>
+<text id="6050">能在自身体内燃起火焰
+提升物理攻击力与火属性攻击力</text>
+<text id="6051">%null%</text>
+<text id="6052">%null%</text>
+<text id="6053">%null%</text>
+<text id="6054">%null%</text>
+<text id="6055">%null%</text>
+<text id="6056">%null%</text>
+<text id="6057">%null%</text>
+<text id="6058">%null%</text>
+<text id="6059">%null%</text>
+<text id="6060">能在自身体内燃起火焰
+大幅提升火属性减伤率</text>
+<text id="6100">能丢掷燃烧的巨大火焰球
+借由蓄力能强化威力，并追加爆炸效果</text>
+<text id="6101">%null%</text>
+<text id="6102">%null%</text>
+<text id="6103">%null%</text>
+<text id="6104">%null%</text>
+<text id="6105">%null%</text>
+<text id="6106">%null%</text>
+<text id="6107">%null%</text>
+<text id="6108">%null%</text>
+<text id="6109">%null%</text>
+<text id="6110">能丢掷据说有恶神寄宿其中，熊熊燃烧的火焰球
+火焰球会缓慢朝目标飞去
+引发爆炸之后，燃烧四周</text>
+<text id="6111">%null%</text>
+<text id="6112">%null%</text>
+<text id="6113">%null%</text>
+<text id="6114">%null%</text>
+<text id="6115">%null%</text>
+<text id="6116">%null%</text>
+<text id="6117">%null%</text>
+<text id="6118">%null%</text>
+<text id="6119">%null%</text>
+<text id="6120">能在自身周围燃起接连形成的火焰柱
+借由蓄力能增加火焰柱的数量</text>
+<text id="6210">能丢掷燃烧的黑焰球
+借由蓄力能强化威力，并追加爆炸效果</text>
+<text id="6211">%null%</text>
+<text id="6212">%null%</text>
+<text id="6213">%null%</text>
+<text id="6214">%null%</text>
+<text id="6215">%null%</text>
+<text id="6216">%null%</text>
+<text id="6217">%null%</text>
+<text id="6218">%null%</text>
+<text id="6219">%null%</text>
+<text id="6220">能朝前方喷出持续并剧烈燃烧的火焰
+可以走动执行，持续执行能继续喷火</text>
+<text id="6221">%null%</text>
+<text id="6222">%null%</text>
+<text id="6223">%null%</text>
+<text id="6224">%null%</text>
+<text id="6225">%null%</text>
+<text id="6226">%null%</text>
+<text id="6227">%null%</text>
+<text id="6228">%null%</text>
+<text id="6229">%null%</text>
+<text id="6230">能朝前方大幅度横扫黑焰
+借由蓄力能扩大横扫的范围</text>
+<text id="6231">%null%</text>
+<text id="6232">%null%</text>
+<text id="6233">%null%</text>
+<text id="6234">%null%</text>
+<text id="6235">%null%</text>
+<text id="6236">%null%</text>
+<text id="6237">%null%</text>
+<text id="6238">%null%</text>
+<text id="6239">%null%</text>
+<text id="6240">能在自身周围燃起环绕的黑焰柱
+借由蓄力能扩大火柱环绕的范围</text>
+<text id="6241">%null%</text>
+<text id="6242">%null%</text>
+<text id="6243">%null%</text>
+<text id="6244">%null%</text>
+<text id="6245">%null%</text>
+<text id="6246">%null%</text>
+<text id="6247">%null%</text>
+<text id="6248">%null%</text>
+<text id="6249">%null%</text>
+<text id="6250">能在右手武器缠绕黑焰
+可以接在其他动作后，立刻衔接使用
+
+只能用左手执行的祷告</text>
+<text id="6251">%null%</text>
+<text id="6252">%null%</text>
+<text id="6253">%null%</text>
+<text id="6254">%null%</text>
+<text id="6255">%null%</text>
+<text id="6256">%null%</text>
+<text id="6257">%null%</text>
+<text id="6258">%null%</text>
+<text id="6259">%null%</text>
+<text id="6260">能在自身体内燃起黑焰，提升物理减伤率
+但会减少各种手段的血量恢复量</text>
+<text id="6261">%null%</text>
+<text id="6262">%null%</text>
+<text id="6263">%null%</text>
+<text id="6264">%null%</text>
+<text id="6265">%null%</text>
+<text id="6266">%null%</text>
+<text id="6267">%null%</text>
+<text id="6268">%null%</text>
+<text id="6269">%null%</text>
+<text id="6270">能大幅度突出腹部
+形成弹飞周围人物的冲击波
+借由蓄力能强化威力，打飞敌人</text>
+<text id="6300">能朝前方形成血焰爪痕，随后引发爆炸
+可以连续执行</text>
+<text id="6301">%null%</text>
+<text id="6302">%null%</text>
+<text id="6303">%null%</text>
+<text id="6304">%null%</text>
+<text id="6305">%null%</text>
+<text id="6306">%null%</text>
+<text id="6307">%null%</text>
+<text id="6308">%null%</text>
+<text id="6309">%null%</text>
+<text id="6310">能朝前方喷洒无形之母的血焰，引发燃烧
+可以走动执行</text>
+<text id="6311">%null%</text>
+<text id="6312">%null%</text>
+<text id="6313">%null%</text>
+<text id="6314">%null%</text>
+<text id="6315">%null%</text>
+<text id="6316">%null%</text>
+<text id="6317">%null%</text>
+<text id="6318">%null%</text>
+<text id="6319">%null%</text>
+<text id="6320">能在右手武器缠绕血焰
+可以走动执行
+
+只能用左手执行的祷告</text>
+<text id="6321">%null%</text>
+<text id="6322">%null%</text>
+<text id="6323">%null%</text>
+<text id="6324">%null%</text>
+<text id="6325">%null%</text>
+<text id="6326">%null%</text>
+<text id="6327">%null%</text>
+<text id="6328">%null%</text>
+<text id="6329">%null%</text>
+<text id="6330">能包含周围我方人物，大幅提升魔力属性减伤率
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="6331">%null%</text>
+<text id="6332">%null%</text>
+<text id="6333">%null%</text>
+<text id="6334">%null%</text>
+<text id="6335">%null%</text>
+<text id="6336">%null%</text>
+<text id="6337">%null%</text>
+<text id="6338">%null%</text>
+<text id="6339">%null%</text>
+<text id="6340">能包含周围我方人物，提升所有属性的减伤率
+但不包含物理减伤率
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="6400">能形成弹飞周围人物的冲击波
+借由蓄力能增加冲击波的幅度</text>
+<text id="6401">%null%</text>
+<text id="6402">%null%</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">能形成弹飞周围人物的黄金冲击波
+借由蓄力能增加冲击波的幅度</text>
+<text id="6411">%null%</text>
+<text id="6412">%null%</text>
+<text id="6413">%null%</text>
+<text id="6414">%null%</text>
+<text id="6415">%null%</text>
+<text id="6416">%null%</text>
+<text id="6417">%null%</text>
+<text id="6418">%null%</text>
+<text id="6419">%null%</text>
+<text id="6420">能些微恢复血量
+可以走动执行</text>
+<text id="6421">能包含周围我方人物，恢复血量
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="6422">能包含周围我方人物，大幅恢复血量
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="6423">能包含周围我方人物，极大幅恢复血量
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="6424">能包含周围我方人物，巨幅恢复血量
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="6425">%null%</text>
+<text id="6426">%null%</text>
+<text id="6427">%null%</text>
+<text id="6428">%null%</text>
+<text id="6429">%null%</text>
+<text id="6430">能包含周围我方人物，赐予恩惠赐福
+具有缓慢恢复血量的效果
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="6431">能包含周围我方人物，赐予强大的恩惠赐福
+具有缓慢、大幅恢复血量的效果
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="6432">%null%</text>
+<text id="6433">%null%</text>
+<text id="6434">%null%</text>
+<text id="6435">%null%</text>
+<text id="6436">%null%</text>
+<text id="6437">%null%</text>
+<text id="6438">%null%</text>
+<text id="6439">%null%</text>
+<text id="6440">能减轻中毒量表的累积，治愈中毒状态
+可以走动执行</text>
+<text id="6441">能包含周围我方人物
+减轻中毒、出血、催眠量表的累积
+并治愈异常状态中毒</text>
+<text id="6442">%null%</text>
+<text id="6443">%null%</text>
+<text id="6444">%null%</text>
+<text id="6445">%null%</text>
+<text id="6446">%null%</text>
+<text id="6447">%null%</text>
+<text id="6448">%null%</text>
+<text id="6449">%null%</text>
+<text id="6450">能提升火属性减伤率
+可以走动执行</text>
+<text id="6451">%null%</text>
+<text id="6452">%null%</text>
+<text id="6453">%null%</text>
+<text id="6454">%null%</text>
+<text id="6455">%null%</text>
+<text id="6456">%null%</text>
+<text id="6457">%null%</text>
+<text id="6458">%null%</text>
+<text id="6459">%null%</text>
+<text id="6460">能提升魔力属性减伤率
+可以走动执行</text>
+<text id="6461">%null%</text>
+<text id="6462">%null%</text>
+<text id="6463">%null%</text>
+<text id="6464">%null%</text>
+<text id="6465">%null%</text>
+<text id="6466">%null%</text>
+<text id="6467">%null%</text>
+<text id="6468">%null%</text>
+<text id="6469">%null%</text>
+<text id="6470">能提升雷属性减伤率
+可以走动执行</text>
+<text id="6471">%null%</text>
+<text id="6472">%null%</text>
+<text id="6473">%null%</text>
+<text id="6474">%null%</text>
+<text id="6475">%null%</text>
+<text id="6476">%null%</text>
+<text id="6477">%null%</text>
+<text id="6478">%null%</text>
+<text id="6479">%null%</text>
+<text id="6480">能提升圣属性减伤率
+可以走动执行</text>
+<text id="6481">%null%</text>
+<text id="6482">%null%</text>
+<text id="6483">%null%</text>
+<text id="6484">%null%</text>
+<text id="6485">%null%</text>
+<text id="6486">%null%</text>
+<text id="6487">%null%</text>
+<text id="6488">%null%</text>
+<text id="6489">%null%</text>
+<text id="6490">能包含周围我方人物，大幅提升圣属性减伤率
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="6491">%null%</text>
+<text id="6492">%null%</text>
+<text id="6493">%null%</text>
+<text id="6494">%null%</text>
+<text id="6495">%null%</text>
+<text id="6496">%null%</text>
+<text id="6497">%null%</text>
+<text id="6498">%null%</text>
+<text id="6499">%null%</text>
+<text id="6500">能朝前方形成烟雾
+包含施展者，给予触碰到烟雾的人物伤害
+可以走动施展</text>
+<text id="6501">%null%</text>
+<text id="6502">%null%</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">能完全消除执行者的脚步声，并降低落地声响
+可以走动执行</text>
+<text id="6511">%null%</text>
+<text id="6512">%null%</text>
+<text id="6513">%null%</text>
+<text id="6514">%null%</text>
+<text id="6515">%null%</text>
+<text id="6516">%null%</text>
+<text id="6517">%null%</text>
+<text id="6518">%null%</text>
+<text id="6519">%null%</text>
+<text id="6520">能朝前方放出淡金色的影子
+吸引有着人类之身的敌人靠近
+可以走动执行</text>
+<text id="6521">%null%</text>
+<text id="6522">%null%</text>
+<text id="6523">%null%</text>
+<text id="6524">%null%</text>
+<text id="6525">%null%</text>
+<text id="6526">%null%</text>
+<text id="6527">%null%</text>
+<text id="6528">%null%</text>
+<text id="6529">%null%</text>
+<text id="6530">能让黑暗覆盖四周，隐藏执行者的身影
+可以走动执行</text>
+<text id="6600">能包含周围我方人物，提升攻击力与减伤率
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="6700">能朝前方形成、释放黄金光环
+光环会飞回执行者附近后再消失
+可以连续执行</text>
+<text id="6701">能朝前方形成、释放三个黄金光环
+光环会飞回执行者附近后再消失
+可以连续执行</text>
+<text id="6702">%null%</text>
+<text id="6703">%null%</text>
+<text id="6704">%null%</text>
+<text id="6705">%null%</text>
+<text id="6706">%null%</text>
+<text id="6707">%null%</text>
+<text id="6708">%null%</text>
+<text id="6709">%null%</text>
+<text id="6710">能形成、扩大黄金光环，攻击四周
+借由蓄力能扩大攻击的范围</text>
+<text id="6711">%null%</text>
+<text id="6712">%null%</text>
+<text id="6713">%null%</text>
+<text id="6714">%null%</text>
+<text id="6715">%null%</text>
+<text id="6716">%null%</text>
+<text id="6717">%null%</text>
+<text id="6718">%null%</text>
+<text id="6719">%null%</text>
+<text id="6720">能形成无数颗黄金流星，攻击四周</text>
+<text id="6721">%null%</text>
+<text id="6722">%null%</text>
+<text id="6723">%null%</text>
+<text id="6724">%null%</text>
+<text id="6725">%null%</text>
+<text id="6726">%null%</text>
+<text id="6727">%null%</text>
+<text id="6728">%null%</text>
+<text id="6729">%null%</text>
+<text id="6730">能治愈所有异常状态，并消除特殊效果</text>
+<text id="6731">%null%</text>
+<text id="6732">%null%</text>
+<text id="6733">%null%</text>
+<text id="6734">%null%</text>
+<text id="6735">%null%</text>
+<text id="6736">%null%</text>
+<text id="6737">%null%</text>
+<text id="6738">%null%</text>
+<text id="6739">%null%</text>
+<text id="6740">能将回归光芒寄宿在左手盾牌
+提升所有属性、异常状态的减伤率
+但不包含物理的减伤率
+
+只能用右手执行的祷告</text>
+<text id="6741">%null%</text>
+<text id="6742">%null%</text>
+<text id="6743">%null%</text>
+<text id="6744">%null%</text>
+<text id="6745">%null%</text>
+<text id="6746">%null%</text>
+<text id="6747">%null%</text>
+<text id="6748">%null%</text>
+<text id="6749">%null%</text>
+<text id="6750">能模仿圣律的模样，对周围给予圣属性伤害
+对死诞者的伤害尤为巨大
+死诞者被此祷告打败之后，不会复活</text>
+<text id="6751">%null%</text>
+<text id="6752">%null%</text>
+<text id="6753">%null%</text>
+<text id="6754">%null%</text>
+<text id="6755">%null%</text>
+<text id="6756">%null%</text>
+<text id="6757">%null%</text>
+<text id="6758">%null%</text>
+<text id="6759">%null%</text>
+<text id="6760">受到一定程度的攻击后，会自动反击</text>
+<text id="6761">%null%</text>
+<text id="6762">%null%</text>
+<text id="6763">%null%</text>
+<text id="6764">%null%</text>
+<text id="6765">%null%</text>
+<text id="6766">%null%</text>
+<text id="6767">%null%</text>
+<text id="6768">%null%</text>
+<text id="6769">%null%</text>
+<text id="6770">能在右手武器附加圣属性攻击力
+对死诞者的伤害尤为巨大
+死诞者被此祷告打败之后，不会复活
+
+只能用左手执行的祷告</text>
+<text id="6771">%null%</text>
+<text id="6772">%null%</text>
+<text id="6773">%null%</text>
+<text id="6774">%null%</text>
+<text id="6775">%null%</text>
+<text id="6776">%null%</text>
+<text id="6777">%null%</text>
+<text id="6778">%null%</text>
+<text id="6779">%null%</text>
+<text id="6780">能减轻死亡量表的累积</text>
+<text id="6800">能快速释放大量锐利石片
+可以接在其他动作后，立刻衔接使用</text>
+<text id="6801">%null%</text>
+<text id="6802">%null%</text>
+<text id="6803">%null%</text>
+<text id="6804">%null%</text>
+<text id="6805">%null%</text>
+<text id="6806">%null%</text>
+<text id="6807">%null%</text>
+<text id="6808">%null%</text>
+<text id="6809">%null%</text>
+<text id="6810">能朝前方丢掷巨大岩石
+可以连续执行</text>
+<text id="6811">%null%</text>
+<text id="6812">%null%</text>
+<text id="6813">%null%</text>
+<text id="6814">%null%</text>
+<text id="6815">%null%</text>
+<text id="6816">%null%</text>
+<text id="6817">%null%</text>
+<text id="6818">%null%</text>
+<text id="6819">%null%</text>
+<text id="6820">能长出兽爪，以冲击撕裂地面
+借由蓄力能提升威力</text>
+<text id="6821">%null%</text>
+<text id="6822">%null%</text>
+<text id="6823">%null%</text>
+<text id="6824">%null%</text>
+<text id="6825">%null%</text>
+<text id="6826">%null%</text>
+<text id="6827">%null%</text>
+<text id="6828">%null%</text>
+<text id="6829">%null%</text>
+<text id="6830">能长出兽爪，以冲击撕裂四周</text>
+<text id="6831">%null%</text>
+<text id="6832">%null%</text>
+<text id="6833">%null%</text>
+<text id="6834">%null%</text>
+<text id="6835">%null%</text>
+<text id="6836">%null%</text>
+<text id="6837">%null%</text>
+<text id="6838">%null%</text>
+<text id="6839">%null%</text>
+<text id="6840">将野兽的活力寄宿在体内
+能一定时间内，持续恢复血量</text>
+<text id="6841">%null%</text>
+<text id="6842">%null%</text>
+<text id="6843">%null%</text>
+<text id="6844">%null%</text>
+<text id="6845">%null%</text>
+<text id="6846">%null%</text>
+<text id="6847">%null%</text>
+<text id="6848">%null%</text>
+<text id="6849">%null%</text>
+<text id="6850">将野兽的活力寄宿在体内
+能减轻出血、冻伤量表的累积</text>
+<text id="6900">能召唤雷电枪，朝前方丢掷
+借由蓄力能在命中后，附加落雷</text>
+<text id="6901">%null%</text>
+<text id="6902">%null%</text>
+<text id="6903">%null%</text>
+<text id="6904">%null%</text>
+<text id="6905">%null%</text>
+<text id="6906">%null%</text>
+<text id="6907">%null%</text>
+<text id="6908">%null%</text>
+<text id="6909">%null%</text>
+<text id="6910">能召唤红落雷，朝周围爬窜
+借由蓄力能扩大落雷降下的范围</text>
+<text id="6911">%null%</text>
+<text id="6912">%null%</text>
+<text id="6913">%null%</text>
+<text id="6914">%null%</text>
+<text id="6915">%null%</text>
+<text id="6916">%null%</text>
+<text id="6917">%null%</text>
+<text id="6918">%null%</text>
+<text id="6919">%null%</text>
+<text id="6920">能召唤落雷，朝前方爬窜
+可以连续执行</text>
+<text id="6921">能召唤冰雷枪，从空中刺入地面
+雷枪反弹后，会朝前方释放落雷</text>
+<text id="6922">%null%</text>
+<text id="6923">%null%</text>
+<text id="6924">%null%</text>
+<text id="6925">%null%</text>
+<text id="6926">%null%</text>
+<text id="6927">%null%</text>
+<text id="6928">%null%</text>
+<text id="6929">%null%</text>
+<text id="6930">能在目标头上降下落雷
+可以连续执行</text>
+<text id="6931">%null%</text>
+<text id="6932">%null%</text>
+<text id="6933">%null%</text>
+<text id="6934">%null%</text>
+<text id="6935">%null%</text>
+<text id="6936">%null%</text>
+<text id="6937">%null%</text>
+<text id="6938">%null%</text>
+<text id="6939">%null%</text>
+<text id="6940">能召唤红雷枪，从空中刺入地面
+雷枪反弹后，会朝周围释放雷电</text>
+<text id="6941">能召唤两支红雷枪，从空中连续刺入地面
+雷枪反弹后，会朝周围释放雷电</text>
+<text id="6942">%null%</text>
+<text id="6943">%null%</text>
+<text id="6944">%null%</text>
+<text id="6945">%null%</text>
+<text id="6946">%null%</text>
+<text id="6947">%null%</text>
+<text id="6948">%null%</text>
+<text id="6949">%null%</text>
+<text id="6950">能召唤红雷剃刀，从空中横扫
+挥出的斩击会释放雷电</text>
+<text id="6951">%null%</text>
+<text id="6952">%null%</text>
+<text id="6953">%null%</text>
+<text id="6954">%null%</text>
+<text id="6955">%null%</text>
+<text id="6956">%null%</text>
+<text id="6957">%null%</text>
+<text id="6958">%null%</text>
+<text id="6959">%null%</text>
+<text id="6960">能在右手武器附加雷属性攻击力
+
+只能用左手执行的祷告</text>
+<text id="6961">%null%</text>
+<text id="6962">%null%</text>
+<text id="6963">%null%</text>
+<text id="6964">%null%</text>
+<text id="6965">%null%</text>
+<text id="6966">%null%</text>
+<text id="6967">%null%</text>
+<text id="6968">%null%</text>
+<text id="6969">%null%</text>
+<text id="6970">能在右手武器附加雷属性攻击力
+但是会降低雷属性减伤率
+
+只能用左手执行的祷告</text>
+<text id="6971">身体会变得容易弹开攻击
+并且提升对所有异常状态的抵抗力
+但是会降低雷属性减伤率</text>
+<text id="7000">能将自身化为龙，喷出火焰吐息
+借由蓄力能延长喷出吐息的时间</text>
+<text id="7001">能将自身化为龙，从空中喷出火焰吐息
+借由蓄力能延长喷出吐息的时间
+在跳跃期间也能使用</text>
+<text id="7002">%null%</text>
+<text id="7003">%null%</text>
+<text id="7004">%null%</text>
+<text id="7005">%null%</text>
+<text id="7006">%null%</text>
+<text id="7007">%null%</text>
+<text id="7008">%null%</text>
+<text id="7009">%null%</text>
+<text id="7010">能将自身化为土龙，喷出熔岩吐息
+仅限一次，能使出追击</text>
+<text id="7011">能将自身化为大土龙，喷出大量熔岩吐息
+仅限一次，能使出追击</text>
+<text id="7012">%null%</text>
+<text id="7013">%null%</text>
+<text id="7014">%null%</text>
+<text id="7015">%null%</text>
+<text id="7016">%null%</text>
+<text id="7017">%null%</text>
+<text id="7018">%null%</text>
+<text id="7019">%null%</text>
+<text id="7020">能将自身化为龙，喷出寒冰吐息
+借由蓄力能延长喷出吐息的时间</text>
+<text id="7021">能将自身化为龙，从空中喷出寒冰吐息
+借由蓄力能延长喷出吐息的时间
+在跳跃期间也能使用</text>
+<text id="7022">%null%</text>
+<text id="7023">%null%</text>
+<text id="7024">%null%</text>
+<text id="7025">%null%</text>
+<text id="7026">%null%</text>
+<text id="7027">%null%</text>
+<text id="7028">%null%</text>
+<text id="7029">%null%</text>
+<text id="7030">能将自身化为龙，喷出猩红腐败吐息
+借由蓄力能延长喷出吐息的时间</text>
+<text id="7031">能将自身化为龙，从空中喷出猩红腐败吐息
+借由蓄力能延长喷出吐息的时间
+在跳跃期间也能使用</text>
+<text id="7032">%null%</text>
+<text id="7033">%null%</text>
+<text id="7034">%null%</text>
+<text id="7035">%null%</text>
+<text id="7036">%null%</text>
+<text id="7037">%null%</text>
+<text id="7038">%null%</text>
+<text id="7039">%null%</text>
+<text id="7040">能将自身化为龙，喷出魔力吐息
+借由蓄力能延长喷出吐息的时间</text>
+<text id="7041">能将自身化为龙，从空中喷出魔力吐息
+借由蓄力能延长喷出吐息的时间
+在跳跃期间也能使用</text>
+<text id="7042">%null%</text>
+<text id="7043">%null%</text>
+<text id="7044">%null%</text>
+<text id="7045">%null%</text>
+<text id="7046">%null%</text>
+<text id="7047">%null%</text>
+<text id="7048">%null%</text>
+<text id="7049">%null%</text>
+<text id="7050">能将自身化为龙王，从空中喷出金色吐息
+在跳跃期间也能使用</text>
+<text id="7051">%null%</text>
+<text id="7052">%null%</text>
+<text id="7053">%null%</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">能将自身化为龙，以龙爪撕裂敌人
+仅限一次，能使出追击</text>
+<text id="7080">能将自身化为龙，朝前方咬碎敌人</text>
+<text id="7081">%null%</text>
+<text id="7082">%null%</text>
+<text id="7083">%null%</text>
+<text id="7084">%null%</text>
+<text id="7085">%null%</text>
+<text id="7086">%null%</text>
+<text id="7087">%null%</text>
+<text id="7088">%null%</text>
+<text id="7089">%null%</text>
+<text id="7090">能将自身化为龙，响彻巨响咆哮
+降低周围敌人的攻击力与减伤率</text>
+<text id="7110">%null%</text>
+<text id="7111">%null%</text>
+<text id="7200">能分泌大量具粘性的丝线，朝前方释放</text>
+<text id="7201">%null%</text>
+<text id="7202">%null%</text>
+<text id="7203">%null%</text>
+<text id="7204">%null%</text>
+<text id="7205">%null%</text>
+<text id="7206">%null%</text>
+<text id="7207">%null%</text>
+<text id="7208">%null%</text>
+<text id="7209">%null%</text>
+<text id="7210">能朝前方释放一群血蝇
+蝇群给予敌人伤害的同时，也会累积出血量表
+可以走动执行</text>
+<text id="7211">%null%</text>
+<text id="7212">%null%</text>
+<text id="7213">%null%</text>
+<text id="7214">%null%</text>
+<text id="7215">%null%</text>
+<text id="7216">%null%</text>
+<text id="7217">%null%</text>
+<text id="7218">%null%</text>
+<text id="7219">%null%</text>
+<text id="7220">能朝前方形成毒性烟雾
+可以走动执行</text>
+<text id="7221">%null%</text>
+<text id="7222">%null%</text>
+<text id="7223">%null%</text>
+<text id="7224">%null%</text>
+<text id="7225">%null%</text>
+<text id="7226">%null%</text>
+<text id="7227">%null%</text>
+<text id="7228">%null%</text>
+<text id="7229">%null%</text>
+<text id="7230">能在右手武器缠绕毒素
+可以走动执行
+
+只能用左手执行的祷告</text>
+<text id="7231">%null%</text>
+<text id="7232">%null%</text>
+<text id="7233">%null%</text>
+<text id="7234">%null%</text>
+<text id="7235">%null%</text>
+<text id="7236">%null%</text>
+<text id="7237">%null%</text>
+<text id="7238">%null%</text>
+<text id="7239">%null%</text>
+<text id="7240">能绽放大株花朵，引爆猩红腐败</text>
+<text id="7300">能抓住目标，传染异常状态发狂
+执行者本身也会累积发狂量表
+只对渡夜者有效</text>
+<text id="7301">%null%</text>
+<text id="7302">%null%</text>
+<text id="7303">%null%</text>
+<text id="7304">%null%</text>
+<text id="7305">%null%</text>
+<text id="7306">%null%</text>
+<text id="7307">%null%</text>
+<text id="7308">%null%</text>
+<text id="7309">%null%</text>
+<text id="7310">能从眼睛迸发黄色癫火
+借由蓄力能扩大迸发的范围</text>
+<text id="7311">能从眼睛迸发剧烈黄色癫火
+持续执行的期间会继续迸发癫火
+可以走动执行</text>
+<text id="7312">%null%</text>
+<text id="7313">%null%</text>
+<text id="7314">%null%</text>
+<text id="7315">%null%</text>
+<text id="7316">%null%</text>
+<text id="7317">%null%</text>
+<text id="7318">%null%</text>
+<text id="7319">%null%</text>
+<text id="7320">能从眼睛凝聚、释放黄色癫火
+借由蓄力能强化威力、突破防御</text>
+<text id="7321">%null%</text>
+<text id="7322">%null%</text>
+<text id="7323">%null%</text>
+<text id="7324">%null%</text>
+<text id="7325">%null%</text>
+<text id="7326">%null%</text>
+<text id="7327">%null%</text>
+<text id="7328">%null%</text>
+<text id="7329">%null%</text>
+<text id="7330">能发出疯狂吼声，让自己与周围人物
+累积发狂量表，变得容易受敌人攻击。
+也能提升攻击力，但会降低减伤率。</text>
+<text id="7500">能形成修长的尾巴，横扫前方
+借由蓄力能强化威力</text>
+<text id="7501">%null%</text>
+<text id="7502">%null%</text>
+<text id="7503">%null%</text>
+<text id="7504">%null%</text>
+<text id="7505">%null%</text>
+<text id="7506">%null%</text>
+<text id="7507">%null%</text>
+<text id="7508">%null%</text>
+<text id="7509">%null%</text>
+<text id="7510">能在肩膀形成硬角，压低姿势再向上突刺
+借由蓄力能向前推进</text>
+<text id="7511">%null%</text>
+<text id="7512">%null%</text>
+<text id="7513">%null%</text>
+<text id="7514">%null%</text>
+<text id="7515">%null%</text>
+<text id="7516">%null%</text>
+<text id="7517">%null%</text>
+<text id="7518">%null%</text>
+<text id="7519">%null%</text>
+<text id="7520">能形成巨大喉囊，一边走动一边喷出火焰吐息
+借由蓄力能延长喷出吐息的时间</text>
+<text id="7521">%null%</text>
+<text id="7522">%null%</text>
+<text id="7523">%null%</text>
+<text id="7524">%null%</text>
+<text id="7525">%null%</text>
+<text id="7526">%null%</text>
+<text id="7527">%null%</text>
+<text id="7528">%null%</text>
+<text id="7529">%null%</text>
+<text id="7530">能形成黑剑的幻影、释放光波
+仅限一次，能使出追击</text>
+<text id="7900">能引发剧烈自燃，连同周围一起燃烧
+执行者身上的火焰短时间内不会消失
+会持续燃烧执行者以及其附近的人物
+借由蓄力能强化威力</text>
+<text id="7901">%null%</text>
+<text id="7902">%null%</text>
+<text id="7903">能包含周围我方人物，大幅提升雷属性减伤率
+持续执行的期间能维持祷告状态，不会生效</text>
+<text id="8100">举起武器维持架式，能让风暴缠绕武器
+使出攻击后，会释放缠绕在武器上的风暴</text>
+<text id="8101">举起武器维持架式，能让风暴缠绕武器
+使出攻击后，会释放缠绕在武器上的风暴</text>
+<text id="9999">Simplified Chinese</text>
+</entries>
+</fmg>

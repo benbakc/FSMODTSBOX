@@ -1,0 +1,842 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="20000009">离开</text>
+<text id="20000010">购买</text>
+<text id="20000100">交谈</text>
+<text id="20002000">献上黑夜王的卢恩</text>
+<text id="20002001">紧握匕首</text>
+<text id="20002002">%null%</text>
+<text id="20002003">%null%</text>
+<text id="20002004">确定要献上吗？</text>
+<text id="20002005">确定要动手吗？</text>
+<text id="20002006">将结束回想追忆，返回原处。
+您确定吗？</text>
+<text id="20011030">持有的卢恩不足。</text>
+<text id="21010003">“一起打倒黑夜王吧”</text>
+<text id="21010004">交出“金色露珠”</text>
+<text id="21011001">料理的香气逼人，令人垂涎欲滴。
+要享用吗？</text>
+<text id="21011002">有一种怀念的味道，让人想起儿时的点点滴滴。</text>
+<text id="21011003">透光一看，耳环浮现了花纹，
+但是看不出来是什么图案。</text>
+<text id="21011004">将两只耳环重迭、透光一看，浮现了风的花纹与一行文字：
+“孪生双马并驾而走，愿我等前路顺风无碍。”</text>
+<text id="21011005">节自《黑夜挽歌》的段落：
+“诸位战士啊，杀了王，赎你们的罪。
+　待责任完了，圆桌厅堂消散，诸位也得以解脱。”</text>
+<text id="21011006">节自《圆桌厅堂的女巫》的段落：
+“女巫正是无形之主的传声者；
+　与圆桌厅堂结合密切，生死与共。”</text>
+<text id="21011007">节自《地底庙》的段落：
+“造就黑夜开端的重罪之人──其罪业单凭一代偿还，绝无可能。
+　于是乎引导其子其孙前来，直至黑夜终结。”</text>
+<text id="21011008">某处传来沉重门扉开启的声音。</text>
+<text id="21011009">附上一把钥匙的笔记：
+“你可能会认为我多管闲事，
+　但战士先生，请收下吧。”</text>
+<text id="21011010">地面上有某种粉末，
+沾到粉末的足迹向前延伸。</text>
+<text id="21011011">料理台还有火的余温。</text>
+<text id="21011012">传出美味香气的源头，就在附近。</text>
+<text id="21011013">为了偿还初始的罪业，
+我等在此化作根基。</text>
+<text id="21011014">插枝的指引，导向了风啸山丘──
+将枝条托付给游牧民族吧。</text>
+<text id="21011015">插枝的指引，导向了深邃森林──
+将枝条托付给睿智之人吧。</text>
+<text id="21020001">关于圆桌厅堂</text>
+<text id="21020002">%null%</text>
+<text id="21020003">%null%</text>
+<text id="21020004">%null%</text>
+<text id="21020005">%null%</text>
+<text id="21020006">%null%</text>
+<text id="21020007">关于被囚禁</text>
+<text id="21020008">%null%</text>
+<text id="21020009">“我一定会救你”</text>
+<text id="21020010">关于最一开始的对话</text>
+<text id="21020011">交出“修理完毕的耳环”</text>
+<text id="21020012">关于记忆</text>
+<text id="21020013">%null%</text>
+<text id="21020014">%null%</text>
+<text id="21020015">接受委托</text>
+<text id="21020016">关于机构</text>
+<text id="21020017">关于叛徒</text>
+<text id="21020018">关于“作工精细的箭头”</text>
+<text id="21020019">接受下一笔委托</text>
+<text id="21020020">%null%</text>
+<text id="21020021">关于“圣律刀”</text>
+<text id="21020022">关于再次现身的黑夜王</text>
+<text id="21020023">关于这个世界</text>
+<text id="21020024">拿出“老旧怀表”</text>
+<text id="21020025">关于被带来这里的原因</text>
+<text id="21020026">关于黑夜侵蚀</text>
+<text id="21020027">点头</text>
+<text id="21020028">“我们”，是吗？</text>
+<text id="21020029">关于无形之主的声音</text>
+<text id="21020030">关于黑夜王</text>
+<text id="21020031">关于黑夜气息</text>
+<text id="21021000">（有件事情，要在还回耳环之前确认──
+　重迭耳环后再透光看看，应该就能得到答案。）</text>
+<text id="21021001">女巫留下的笔记：
+“等待的人现身了，前往地底庙吧。”</text>
+<text id="21022001">拿出“叛徒的信”</text>
+<text id="21022002">我才不怕黑夜</text>
+<text id="21022003">交出</text>
+<text id="21022004">不交出</text>
+<text id="21022005">说明缘由</text>
+<text id="21030001">“我在犹豫，该不该打倒黑夜王”</text>
+<text id="21030002">转达“‘风信鸡’的话”</text>
+<text id="21030003">关于“风信鸡”</text>
+<text id="21031001">要前往战斗的地方吗？</text>
+<text id="21031002">%null%</text>
+<text id="21031003">没有反应。</text>
+<text id="21031004">%null%</text>
+<text id="21031005">%null%</text>
+<text id="21031006">刻有参加者的名字与战斗记录：
+“黑爪战胜白角，成为赢家。”
+“战败的众灵魂啊，诸君虽败犹荣。”</text>
+<text id="21031007">石碑上刻着多场战斗的记录。</text>
+<text id="21032001">是</text>
+<text id="21032002">否</text>
+<text id="21041000">执行者专心地注视绘画。</text>
+<text id="21041001">执行者好像在面对自己的内心。</text>
+<text id="21041002">他好像正在聚精会神。
+从他的动作，可以感觉到如刀出鞘般的紧张感。</text>
+<text id="21041003">他注视着绘画，给人的感觉好像变得比以前柔和。</text>
+<text id="21041004">执行者静静地看向天空。</text>
+<text id="21041005">执行者眺望着交迭的几片云朵。</text>
+<text id="21041006">他好像在想着某个遥远的地方。</text>
+<text id="21041007">他好像在思考着黑夜终结后，会有些什么。</text>
+<text id="21041008">执行者专注地面对画布。</text>
+<text id="21041009">执行者静静地移动画笔。</text>
+<text id="21041010">他在画黄金树。
+作品看起来还没有完成。</text>
+<text id="21041011">他在画黄金树。
+他看起来有些心满意足。</text>
+<text id="21050010">“你就是造成诅咒的罪魁祸首？”</text>
+<text id="21050011">“老师，麻烦你开始今天的课程”</text>
+<text id="21050012">关于夺取黑夜王力量的方法</text>
+<text id="21051000">附上一把钥匙的笔记：
+“你可能会认为我多管闲事，
+　但战士先生，请收下吧。”</text>
+<text id="21052001">表示肯定</text>
+<text id="21052002">不回答</text>
+<text id="21052003">因为他们悟道了</text>
+<text id="21052004">因为被盗贼袭击了</text>
+<text id="21052005">拿出“破旧玩具”</text>
+<text id="21052006">制裁罪过</text>
+<text id="21052007">原谅罪过</text>
+<text id="21052008">我要黑夜王偿命</text>
+<text id="21070003">“告诉我委托的详情”</text>
+<text id="21071000">放着一顶看起来有些眼熟的头盔。</text>
+<text id="21071001">不能放过对群体造成威胁的危险因子。</text>
+<text id="21072001">表示肯定</text>
+<text id="21072002">表示否定</text>
+<text id="21080003">“我在犹豫，该不该打倒黑夜王”</text>
+<text id="21081001">黑色的水滩想要分享力量……</text>
+<text id="21081002">平凡无奇的人偶。
+上头刻着一行歪歪扭扭的字迹：
+“我可爱的达芙妮”</text>
+<text id="21081003">内容直率、字迹潦草的纸条：
+“看你现在畏缩的德行，我在海边等你。”</text>
+<text id="21081004">复仇者留下的纸条：
+“书库，最右侧的书架，第三层。
+　《印刻塔斯的祭祀用具传说》。”</text>
+<text id="21081005">关于印刻塔斯的祭祀用具，描述它的功与过的段落：
+“为了平静风暴，拯救无数生命，长命魔女赐予自身的魔力；
+　而如今为了禁锢双翼，残害无数生命，那祭祀用具化为魔法用具。”</text>
+<text id="21081006">要触碰幻影吗？</text>
+<text id="21081007">%null%</text>
+<text id="21081008">%null%</text>
+<text id="21081009">%null%</text>
+<text id="21081010">埃德加·“黑衣”·诺森克拉福──
+诺森家的伟大始祖。</text>
+<text id="21082001">拿出武器准备</text>
+<text id="21082002">离开</text>
+<text id="23090001">关于你的外表</text>
+<text id="23090002">关于这个地方</text>
+<text id="23090003">真的该打倒黑夜王吗？</text>
+<text id="23090004">%null%</text>
+<text id="23090005">%null%</text>
+<text id="23090006">%null%</text>
+<text id="23090007">%null%</text>
+<text id="23090008">%null%</text>
+<text id="23090009">%null%</text>
+<text id="23090010">%null%</text>
+<text id="23090011">%null%</text>
+<text id="23090012">%null%</text>
+<text id="23090013">关于砥石</text>
+<text id="23090014">关于“银色泪滴”</text>
+<text id="23090015">关于交界地杯</text>
+<text id="23090016">%null%</text>
+<text id="23090017">%null%</text>
+<text id="23090018">放着一只耳环。
+它好像会根据光的强弱，呈现不同的样貌。</text>
+<text id="23090019">%null%</text>
+<text id="23090020">请他帮忙</text>
+<text id="23090021">%null%</text>
+<text id="23090022">关于请求帮忙的事</text>
+<text id="23090023">%null%</text>
+<text id="23090024">%null%</text>
+<text id="23090025">%null%</text>
+<text id="23090026">关于轮之魔女</text>
+<text id="23090027">关于最后的决定</text>
+<text id="23090028">%null%</text>
+<text id="23090029">%null%</text>
+<text id="23090030">关于追踪者</text>
+<text id="23090031">交出“祝福铁币”</text>
+<text id="23090032">%null%</text>
+<text id="23090033">%null%</text>
+<text id="23090034">%null%</text>
+<text id="23090035">%null%</text>
+<text id="23090036">%null%</text>
+<text id="23090037">%null%</text>
+<text id="23090038">%null%</text>
+<text id="23090039">关于隐士</text>
+<text id="23090040">%null%</text>
+<text id="23090041">关于隐士的问题</text>
+<text id="23090042">%null%</text>
+<text id="23090043">关于诅咒武器</text>
+<text id="23090044">%null%</text>
+<text id="23090045">关于地底庙</text>
+<text id="23090046">关于口袋面包</text>
+<text id="23090047">“请归还黑夜碎片”</text>
+<text id="23090048">关于圆桌厅堂的女巫</text>
+<text id="23090049">说明原委</text>
+<text id="23091003">要调整人偶的魔力来源吗？</text>
+<text id="23091004">差役人偶留下的笔记：
+“黑夜碎片有某种反应，感觉像是引导人前往某地……
+　我会将碎片归还给您，这肯定能成为找到幼崽的线索。”</text>
+<text id="23091005">差役人偶留下的笔记：
+“我将地底庙打理干净了。
+　女巫啊，欢迎您有空时前往造访。”</text>
+<text id="23092001">好</text>
+<text id="23092002">我拒绝</text>
+<text id="23092003">对</text>
+<text id="23092004">我拒绝</text>
+<text id="23092005">我的养母</text>
+<text id="23092006">我的母亲</text>
+<text id="23092007">这件事，我只能拜托你</text>
+<text id="23092008">拿出“断裂编绳”</text>
+<text id="23092009">交出“受赐福的花”</text>
+<text id="23092010">拿出“黑夜碎片”</text>
+<text id="23092011">交出“黑夜碎片”</text>
+<text id="23092012">拿出“黑夜痕迹”</text>
+<text id="23092013">%null%</text>
+<text id="23092014">%null%</text>
+<text id="23092015">我会使用它</text>
+<text id="23092016">我用在破坏祂</text>
+<text id="23092017">我失去了群体</text>
+<text id="23092018">翅膀被砍伤之后，就没办法飞了</text>
+<text id="23092019">只剩我苟且偷生</text>
+<text id="23092020">我解决掉了</text>
+<text id="23092021">这是为了保护群体</text>
+<text id="23092022">拿出“商人的记账簿”</text>
+<text id="23092023">关于能找到银色泪滴的地方</text>
+<text id="23092024">这是诅咒造成的</text>
+<text id="23092025">关于追踪者的情况</text>
+<text id="23112000">杜绝祸患</text>
+<text id="23112001">放他一马</text>
+<text id="23120000">关于重生</text>
+<text id="23140001">关于秘密</text>
+<text id="23140002">关于叛徒</text>
+<text id="23142001">帮忙解脱</text>
+<text id="26091000">要选择消磨时间，让特异地形消失吗？</text>
+<text id="26100000">浏览目录</text>
+<text id="26100001">%null%</text>
+<text id="26100002">%null%</text>
+<text id="26100003">%null%</text>
+<text id="26100004">%null%</text>
+<text id="26100005">%null%</text>
+<text id="26100006">%null%</text>
+<text id="26100007">%null%</text>
+<text id="26100008">%null%</text>
+<text id="26100009">%null%</text>
+<text id="26100010">交出“魔女胸针”</text>
+<text id="26100011">交出“碎裂的魔女胸针”</text>
+<text id="26100012">%null%</text>
+<text id="26100013">%null%</text>
+<text id="26100014">%null%</text>
+<text id="26100015">%null%</text>
+<text id="26100016">%null%</text>
+<text id="26100017">%null%</text>
+<text id="26100018">%null%</text>
+<text id="26100019">%null%</text>
+<text id="26100020">引发特异地形</text>
+<text id="26100021">火山口</text>
+<text id="26100022">山顶</text>
+<text id="26100023">腐败森林</text>
+<text id="26100024">“隐城”诺克拉缇欧</text>
+<text id="26100025">%null%</text>
+<text id="26100026">%null%</text>
+<text id="26100027">%null%</text>
+<text id="26100028">%null%</text>
+<text id="26100029">离开</text>
+<text id="26100030">变更大赐福的状态</text>
+<text id="26101010">要交出“魔女胸针”，
+换取“碎裂的魔女胸针”吗？
+为王之证的所需数量：３</text>
+<text id="26101011">要交出“碎裂的魔女胸针”，
+换取“魔女胸针”吗？
+为王之证的所需数量：３</text>
+<text id="26101012">%null%</text>
+<text id="26101013">%null%</text>
+<text id="26101014">%null%</text>
+<text id="26101015">%null%</text>
+<text id="26101016">%null%</text>
+<text id="26101017">%null%</text>
+<text id="26101018">%null%</text>
+<text id="26101019">%null%</text>
+<text id="26101020">%null%</text>
+<text id="26101021">要引发特异地形“火山口”吗？
+
+为王之证的所需数量：１
+
+※如果目前正在匹配，会取消此操作</text>
+<text id="26101022">要引发特异地形“山顶”吗？
+
+为王之证的所需数量：１
+
+※如果目前正在匹配，会取消此操作</text>
+<text id="26101023">要引发特异地形“腐败森林”吗？
+
+为王之证的所需数量：１
+
+※如果目前正在匹配，会取消此操作</text>
+<text id="26101024">要引发特异地形“‘隐城’诺克拉缇欧”吗？
+
+为王之证的所需数量：１
+
+※如果目前正在匹配，会取消此操作</text>
+<text id="26101025">%null%</text>
+<text id="26101026">%null%</text>
+<text id="26101027">%null%</text>
+<text id="26101028">%null%</text>
+<text id="26101029">%null%</text>
+<text id="26101030">要让大赐福回到先前明亮的状态吗？
+
+为王之证的所需数量：１（仅初次消耗）</text>
+<text id="26101031">要让大赐福回到昏暗的状态吗？</text>
+<text id="26101032">要让大赐福回到明亮的状态吗？</text>
+<text id="26101033">%null%</text>
+<text id="26101034">%null%</text>
+<text id="26101035">%null%</text>
+<text id="26101036">%null%</text>
+<text id="26101037">%null%</text>
+<text id="26101038">%null%</text>
+<text id="26101039">%null%</text>
+<text id="26101040">%null%</text>
+<text id="26101041">目前特异地形“火山口”已经出现，
+您确定还要引发吗？
+为王之证的所需数量：１</text>
+<text id="26101042">目前特异地形“山顶”已经出现，
+您确定还要引发吗？
+为王之证的所需数量：１</text>
+<text id="26101043">目前特异地形“腐败森林”已经出现，
+您确定还要引发吗？
+为王之证的所需数量：１</text>
+<text id="26101044">目前特异地形“‘隐城’诺克拉缇欧”已经出现，
+您确定还要引发吗？
+为王之证的所需数量：１</text>
+<text id="26101090">为王之证的数量不足。</text>
+<text id="27570000">要花费&lt;?evntAcquittalPrice?&gt;卢恩，
+解除亵渎诅咒吗？</text>
+<text id="27570020">“我想要圣杯瓶”</text>
+<text id="27570021">%null%</text>
+<text id="27570022">%null%</text>
+<text id="27570023">%null%</text>
+<text id="27570024">%null%</text>
+<text id="27570025">%null%</text>
+<text id="27570026">%null%</text>
+<text id="27570027">%null%</text>
+<text id="27570028">%null%</text>
+<text id="27570029">%null%</text>
+<text id="27570030">“我想要厉害的武器”</text>
+<text id="27570031">%null%</text>
+<text id="27570032">%null%</text>
+<text id="27570033">%null%</text>
+<text id="27570034">%null%</text>
+<text id="27570035">%null%</text>
+<text id="27570036">%null%</text>
+<text id="27570037">%null%</text>
+<text id="27570038">%null%</text>
+<text id="27570039">%null%</text>
+<text id="27570040">“我想要能抵抗异常状态”</text>
+<text id="27570041">%null%</text>
+<text id="27570042">%null%</text>
+<text id="27570043">%null%</text>
+<text id="27570044">%null%</text>
+<text id="27570045">%null%</text>
+<text id="27570046">%null%</text>
+<text id="27570047">%null%</text>
+<text id="27570048">%null%</text>
+<text id="27570049">%null%</text>
+<text id="27570050">“我想要更多卢恩”</text>
+<text id="27570051">%null%</text>
+<text id="27570052">%null%</text>
+<text id="27570053">%null%</text>
+<text id="27570054">%null%</text>
+<text id="27570055">%null%</text>
+<text id="27570056">%null%</text>
+<text id="27570057">%null%</text>
+<text id="27570058">%null%</text>
+<text id="27570059">%null%</text>
+<text id="27570060">“我想要力气变得更大”</text>
+<text id="27570061">%null%</text>
+<text id="27570062">%null%</text>
+<text id="27570063">%null%</text>
+<text id="27570064">%null%</text>
+<text id="27570065">%null%</text>
+<text id="27570066">%null%</text>
+<text id="27570067">%null%</text>
+<text id="27570068">%null%</text>
+<text id="27570069">%null%</text>
+<text id="27570070">“我想要智力变得更高”</text>
+<text id="27570071">%null%</text>
+<text id="27570072">%null%</text>
+<text id="27570073">%null%</text>
+<text id="27570074">%null%</text>
+<text id="27570075">%null%</text>
+<text id="27570076">%null%</text>
+<text id="27570077">%null%</text>
+<text id="27570078">%null%</text>
+<text id="27570079">%null%</text>
+<text id="27570080">“我想要灵巧变得更高”</text>
+<text id="27570081">%null%</text>
+<text id="27570082">%null%</text>
+<text id="27570083">%null%</text>
+<text id="27570084">%null%</text>
+<text id="27570085">%null%</text>
+<text id="27570086">%null%</text>
+<text id="27570087">%null%</text>
+<text id="27570088">%null%</text>
+<text id="27570089">%null%</text>
+<text id="27570090">“我想要信仰变得更高”</text>
+<text id="27570091">%null%</text>
+<text id="27570092">%null%</text>
+<text id="27570093">%null%</text>
+<text id="27570094">%null%</text>
+<text id="27570095">%null%</text>
+<text id="27570096">%null%</text>
+<text id="27570097">%null%</text>
+<text id="27570098">%null%</text>
+<text id="27570099">%null%</text>
+<text id="27570100">“我想要感应变得更强”</text>
+<text id="27570101">%null%</text>
+<text id="27570102">%null%</text>
+<text id="27570103">%null%</text>
+<text id="27570104">%null%</text>
+<text id="27570105">%null%</text>
+<text id="27570106">%null%</text>
+<text id="27570107">%null%</text>
+<text id="27570108">%null%</text>
+<text id="27570109">%null%</text>
+<text id="27570110">能力值将变成力气较为突出，
+您确定吗？</text>
+<text id="27570111">%null%</text>
+<text id="27570112">%null%</text>
+<text id="27570113">%null%</text>
+<text id="27570114">%null%</text>
+<text id="27570115">%null%</text>
+<text id="27570116">%null%</text>
+<text id="27570117">%null%</text>
+<text id="27570118">%null%</text>
+<text id="27570119">%null%</text>
+<text id="27570120">能力值将变成智力较为突出，
+您确定吗？</text>
+<text id="27570121">%null%</text>
+<text id="27570122">%null%</text>
+<text id="27570123">%null%</text>
+<text id="27570124">%null%</text>
+<text id="27570125">%null%</text>
+<text id="27570126">%null%</text>
+<text id="27570127">%null%</text>
+<text id="27570128">%null%</text>
+<text id="27570129">%null%</text>
+<text id="27570130">能力值将变成灵巧较为突出，
+您确定吗？</text>
+<text id="27570131">%null%</text>
+<text id="27570132">%null%</text>
+<text id="27570133">%null%</text>
+<text id="27570134">%null%</text>
+<text id="27570135">%null%</text>
+<text id="27570136">%null%</text>
+<text id="27570137">%null%</text>
+<text id="27570138">%null%</text>
+<text id="27570139">%null%</text>
+<text id="27570140">能力值将变成信仰较为突出，
+您确定吗？</text>
+<text id="27570141">%null%</text>
+<text id="27570142">%null%</text>
+<text id="27570143">%null%</text>
+<text id="27570144">%null%</text>
+<text id="27570145">%null%</text>
+<text id="27570146">%null%</text>
+<text id="27570147">%null%</text>
+<text id="27570148">%null%</text>
+<text id="27570149">%null%</text>
+<text id="27570150">能力值将变成感应较为突出，
+您确定吗？</text>
+<text id="27570151">%null%</text>
+<text id="27570152">%null%</text>
+<text id="27570153">%null%</text>
+<text id="27570154">%null%</text>
+<text id="27570155">%null%</text>
+<text id="27570156">%null%</text>
+<text id="27570157">%null%</text>
+<text id="27570158">%null%</text>
+<text id="27570159">%null%</text>
+<text id="27570160">将以血量上限作为代价交换，
+您确定吗？</text>
+<text id="27570161">%null%</text>
+<text id="27570162">%null%</text>
+<text id="27570163">%null%</text>
+<text id="27570164">%null%</text>
+<text id="27570165">%null%</text>
+<text id="27570166">%null%</text>
+<text id="27570167">%null%</text>
+<text id="27570168">%null%</text>
+<text id="27570169">%null%</text>
+<text id="27570170">将以等级作为代价交换，
+您确定吗？</text>
+<text id="27570171">%null%</text>
+<text id="27570172">%null%</text>
+<text id="27570173">%null%</text>
+<text id="27570174">%null%</text>
+<text id="27570175">%null%</text>
+<text id="27570176">%null%</text>
+<text id="27570177">%null%</text>
+<text id="27570178">%null%</text>
+<text id="27570179">%null%</text>
+<text id="27570180">将以精力作为代价交换，
+您确定吗？</text>
+<text id="27570181">%null%</text>
+<text id="27570182">%null%</text>
+<text id="27570183">%null%</text>
+<text id="27570184">%null%</text>
+<text id="27570185">%null%</text>
+<text id="27570186">%null%</text>
+<text id="27570187">%null%</text>
+<text id="27570188">%null%</text>
+<text id="27570189">%null%</text>
+<text id="27570190">要花费&lt;?evntAcquittalPrice?&gt;卢恩，
+购买“贪欲者的烙印”吗？</text>
+<text id="27570191">%null%</text>
+<text id="27570192">%null%</text>
+<text id="27570193">%null%</text>
+<text id="27570194">%null%</text>
+<text id="27570195">%null%</text>
+<text id="27570196">%null%</text>
+<text id="27570197">%null%</text>
+<text id="27570198">%null%</text>
+<text id="27570199">%null%</text>
+<text id="27570200">所需等级不足。</text>
+<text id="27570201">%null%</text>
+<text id="27570202">%null%</text>
+<text id="27570203">%null%</text>
+<text id="27570204">%null%</text>
+<text id="27570205">%null%</text>
+<text id="27570206">%null%</text>
+<text id="27570207">%null%</text>
+<text id="27570208">%null%</text>
+<text id="27570209">%null%</text>
+<text id="27570210">“我想要解除诅咒”</text>
+<text id="27570211">%null%</text>
+<text id="27570212">%null%</text>
+<text id="27570213">%null%</text>
+<text id="27570214">%null%</text>
+<text id="27570215">%null%</text>
+<text id="27570216">%null%</text>
+<text id="27570217">%null%</text>
+<text id="27570218">%null%</text>
+<text id="27570219">%null%</text>
+<text id="27570220">不进行交易</text>
+<text id="27570221">%null%</text>
+<text id="27570222">%null%</text>
+<text id="27570223">%null%</text>
+<text id="27570224">%null%</text>
+<text id="27570225">%null%</text>
+<text id="27570226">%null%</text>
+<text id="27570227">%null%</text>
+<text id="27570228">%null%</text>
+<text id="27570229">%null%</text>
+<text id="27570230">确定不进行交易，直接开始战斗吗？</text>
+<text id="27570231">%null%</text>
+<text id="27570232">%null%</text>
+<text id="27570233">%null%</text>
+<text id="27570234">%null%</text>
+<text id="27570235">%null%</text>
+<text id="27570236">%null%</text>
+<text id="27570237">%null%</text>
+<text id="27570238">%null%</text>
+<text id="27570239">%null%</text>
+<text id="27570240">“我想要书本”</text>
+<text id="27570241">%null%</text>
+<text id="27570242">%null%</text>
+<text id="27570243">%null%</text>
+<text id="27570244">%null%</text>
+<text id="27570245">%null%</text>
+<text id="27570246">%null%</text>
+<text id="27570247">%null%</text>
+<text id="27570248">%null%</text>
+<text id="27570249">%null%</text>
+<text id="27570250">要花费&lt;?evntAcquittalPrice?&gt;卢恩，
+购买书本吗？</text>
+<text id="27570251">%null%</text>
+<text id="27570252">%null%</text>
+<text id="27570253">%null%</text>
+<text id="27570254">%null%</text>
+<text id="27570255">%null%</text>
+<text id="27570256">%null%</text>
+<text id="27570257">%null%</text>
+<text id="27570258">%null%</text>
+<text id="27570259">%null%</text>
+<text id="27570260">“我想要恶魔的力量”</text>
+<text id="27570261">%null%</text>
+<text id="27570262">%null%</text>
+<text id="27570263">%null%</text>
+<text id="27570264">%null%</text>
+<text id="27570265">%null%</text>
+<text id="27570266">%null%</text>
+<text id="27570267">%null%</text>
+<text id="27570268">%null%</text>
+<text id="27570269">%null%</text>
+<text id="27570270">将会随意支援战斗，但每次支援后都会累积发狂的量表。
+确定要接受恶魔的力量吗？</text>
+<text id="27570271">%null%</text>
+<text id="27570272">%null%</text>
+<text id="27570273">%null%</text>
+<text id="27570274">%null%</text>
+<text id="27570275">%null%</text>
+<text id="27570276">%null%</text>
+<text id="27570277">%null%</text>
+<text id="27570278">%null%</text>
+<text id="27570279">%null%</text>
+<text id="27570280">“我想要让死亡远离我”</text>
+<text id="27570281">%null%</text>
+<text id="27570282">%null%</text>
+<text id="27570283">%null%</text>
+<text id="27570284">%null%</text>
+<text id="27570285">%null%</text>
+<text id="27570286">%null%</text>
+<text id="27570287">%null%</text>
+<text id="27570288">%null%</text>
+<text id="27570289">%null%</text>
+<text id="27570290">当血量偏低时，将会完全恢复血量，但代价是降低血量上限。
+确定要接受渐进的死亡赐福吗？</text>
+<text id="27570291">%null%</text>
+<text id="27570292">%null%</text>
+<text id="27570293">%null%</text>
+<text id="27570294">%null%</text>
+<text id="27570295">%null%</text>
+<text id="27570296">%null%</text>
+<text id="27570297">%null%</text>
+<text id="27570298">%null%</text>
+<text id="27570299">%null%</text>
+<text id="27570300">“我想要帮助同伴”</text>
+<text id="27570301">%null%</text>
+<text id="27570302">%null%</text>
+<text id="27570303">%null%</text>
+<text id="27570304">%null%</text>
+<text id="27570305">%null%</text>
+<text id="27570306">%null%</text>
+<text id="27570307">%null%</text>
+<text id="27570308">%null%</text>
+<text id="27570309">%null%</text>
+<text id="27570310">当我方人物陷入濒死时，仅限一次，能让自己取而代之。
+确定要接受奉献的秘密仪式吗？</text>
+<text id="27570311">%null%</text>
+<text id="27570312">%null%</text>
+<text id="27570313">%null%</text>
+<text id="27570314">%null%</text>
+<text id="27570315">%null%</text>
+<text id="27570316">%null%</text>
+<text id="27570317">%null%</text>
+<text id="27570318">%null%</text>
+<text id="27570319">%null%</text>
+<text id="27570320">“我想要大幅度地升级”</text>
+<text id="27570321">%null%</text>
+<text id="27570322">%null%</text>
+<text id="27570323">%null%</text>
+<text id="27570324">%null%</text>
+<text id="27570325">%null%</text>
+<text id="27570326">%null%</text>
+<text id="27570327">%null%</text>
+<text id="27570328">%null%</text>
+<text id="27570329">%null%</text>
+<text id="27570330">得以升级的代价，是每喝一次圣杯瓶，就会降低等级。
+确定要接受虚伪的赐福吗？</text>
+<text id="27570331">%null%</text>
+<text id="27570332">%null%</text>
+<text id="27570333">%null%</text>
+<text id="27570334">%null%</text>
+<text id="27570335">%null%</text>
+<text id="27570336">%null%</text>
+<text id="27570337">%null%</text>
+<text id="27570338">%null%</text>
+<text id="27570339">%null%</text>
+<text id="27570340">“我想体验大器晚成”</text>
+<text id="27570341">%null%</text>
+<text id="27570342">%null%</text>
+<text id="27570343">%null%</text>
+<text id="27570344">%null%</text>
+<text id="27570345">%null%</text>
+<text id="27570346">%null%</text>
+<text id="27570347">%null%</text>
+<text id="27570348">%null%</text>
+<text id="27570349">%null%</text>
+<text id="27570350">在一天之内，将会降低血量、专注值、精力上限。
+确定要接受蒙受苦难者的考验吗？</text>
+<text id="27570351">%null%</text>
+<text id="27570352">%null%</text>
+<text id="27570353">%null%</text>
+<text id="27570354">%null%</text>
+<text id="27570355">%null%</text>
+<text id="27570356">%null%</text>
+<text id="27570357">%null%</text>
+<text id="27570358">%null%</text>
+<text id="27570359">%null%</text>
+<text id="27570360">“我想体验大器晚成”</text>
+<text id="27570361">%null%</text>
+<text id="27570362">%null%</text>
+<text id="27570363">%null%</text>
+<text id="27570364">%null%</text>
+<text id="27570365">%null%</text>
+<text id="27570366">%null%</text>
+<text id="27570367">%null%</text>
+<text id="27570368">%null%</text>
+<text id="27570369">%null%</text>
+<text id="27570370">在一定时间内，将会降低血量、专注值、精力上限。
+确定要接受蒙受苦难者的考验吗？</text>
+<text id="27570371">%null%</text>
+<text id="27570372">%null%</text>
+<text id="27570373">%null%</text>
+<text id="27570374">%null%</text>
+<text id="27570375">%null%</text>
+<text id="27570376">%null%</text>
+<text id="27570377">%null%</text>
+<text id="27570378">%null%</text>
+<text id="27570379">%null%</text>
+<text id="27570380">“我想要全力战斗”</text>
+<text id="27570381">%null%</text>
+<text id="27570382">%null%</text>
+<text id="27570383">%null%</text>
+<text id="27570384">%null%</text>
+<text id="27570385">%null%</text>
+<text id="27570386">%null%</text>
+<text id="27570387">%null%</text>
+<text id="27570388">%null%</text>
+<text id="27570389">%null%</text>
+<text id="27570390">确定要在彼此力量最强的状态，进行交战吗？</text>
+<text id="27570391">%null%</text>
+<text id="27570392">%null%</text>
+<text id="27570393">%null%</text>
+<text id="27570394">%null%</text>
+<text id="27570395">%null%</text>
+<text id="27570396">%null%</text>
+<text id="27570397">%null%</text>
+<text id="27570398">%null%</text>
+<text id="27570399">%null%</text>
+<text id="27570400">“想要圣杯瓶”</text>
+<text id="27570401">%null%</text>
+<text id="27570402">%null%</text>
+<text id="27570403">%null%</text>
+<text id="27570404">%null%</text>
+<text id="27570405">%null%</text>
+<text id="27570406">%null%</text>
+<text id="27570407">%null%</text>
+<text id="27570408">%null%</text>
+<text id="27570409">%null%</text>
+<text id="27570410">“想要强大的武器”</text>
+<text id="27570411">%null%</text>
+<text id="27570412">%null%</text>
+<text id="27570413">%null%</text>
+<text id="27570414">%null%</text>
+<text id="27570415">%null%</text>
+<text id="27570416">%null%</text>
+<text id="27570417">%null%</text>
+<text id="27570418">%null%</text>
+<text id="27570419">%null%</text>
+<text id="27570420">“想要提升对异常状态的抵抗力”</text>
+<text id="27570421">%null%</text>
+<text id="27570422">%null%</text>
+<text id="27570423">%null%</text>
+<text id="27570424">%null%</text>
+<text id="27570425">%null%</text>
+<text id="27570426">%null%</text>
+<text id="27570427">%null%</text>
+<text id="27570428">%null%</text>
+<text id="27570429">%null%</text>
+<text id="27570430">“想要卢恩”</text>
+<text id="27570431">%null%</text>
+<text id="27570432">%null%</text>
+<text id="27570433">%null%</text>
+<text id="27570434">%null%</text>
+<text id="27570435">%null%</text>
+<text id="27570436">%null%</text>
+<text id="27570437">%null%</text>
+<text id="27570438">%null%</text>
+<text id="27570439">%null%</text>
+<text id="27570440">魔物心满意足，不要求代价。
+要收下圣杯瓶吗？</text>
+<text id="27570441">%null%</text>
+<text id="27570442">%null%</text>
+<text id="27570443">%null%</text>
+<text id="27570444">%null%</text>
+<text id="27570445">%null%</text>
+<text id="27570446">%null%</text>
+<text id="27570447">%null%</text>
+<text id="27570448">%null%</text>
+<text id="27570449">%null%</text>
+<text id="27570450">魔物心满意足，不要求代价。
+要收下武器吗？</text>
+<text id="27570451">%null%</text>
+<text id="27570452">%null%</text>
+<text id="27570453">%null%</text>
+<text id="27570454">%null%</text>
+<text id="27570455">%null%</text>
+<text id="27570456">%null%</text>
+<text id="27570457">%null%</text>
+<text id="27570458">%null%</text>
+<text id="27570459">%null%</text>
+<text id="27570460">魔物心满意足，不要求代价。
+要接受对异常状态的抵抗力吗？</text>
+<text id="27570461">%null%</text>
+<text id="27570462">%null%</text>
+<text id="27570463">%null%</text>
+<text id="27570464">%null%</text>
+<text id="27570465">%null%</text>
+<text id="27570466">%null%</text>
+<text id="27570467">%null%</text>
+<text id="27570468">%null%</text>
+<text id="27570469">%null%</text>
+<text id="27570470">魔物心满意足，不要求代价。
+要收下贪欲者的烙印吗？</text>
+<text id="27570471">%null%</text>
+<text id="27570472">%null%</text>
+<text id="27570473">%null%</text>
+<text id="27570474">%null%</text>
+<text id="27570475">%null%</text>
+<text id="27570476">%null%</text>
+<text id="27570477">%null%</text>
+<text id="27570478">%null%</text>
+<text id="27570479">%null%</text>
+<text id="27570480">“想要变强”</text>
+<text id="27570481">%null%</text>
+<text id="27570482">%null%</text>
+<text id="27570483">%null%</text>
+<text id="27570484">%null%</text>
+<text id="27570485">%null%</text>
+<text id="27570486">%null%</text>
+<text id="27570487">%null%</text>
+<text id="27570488">%null%</text>
+<text id="27570489">%null%</text>
+<text id="27570490">魔物心满意足，不要求代价。
+在经过一定时间后，自己能变得更强大。
+要接受蒙受苦难者的考验吗？</text>
+</entries>
+</fmg>

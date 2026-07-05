@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="9000">礼拝堂で、探究を続ける</text>
+<text id="9001">リムベルドで、湖沼の地下室を探す
+※&lt;?sysmsg@40000?&gt;の標的でのみ発生します</text>
+<text id="9002">葬儀屋と話す</text>
+<text id="9003">礼拝堂で、探究を続ける</text>
+<text id="9004">葬儀屋と話す</text>
+<text id="9005">追憶を終了する</text>
+<text id="9006">小壺商人と話す</text>
+<text id="9007">礼拝堂で、探究を続ける</text>
+<text id="9008">葬儀屋と話す</text>
+<text id="9009">礼拝堂で、探究を続ける</text>
+<text id="9010">リムベルドで、瓦礫の王を倒す</text>
+<text id="9011">葬儀屋と話す</text>
+<text id="9012">化粧台の鏡を調べる</text>
+<text id="9013">研究記録を書き直す</text>
+<text id="9100">召使人形と話す</text>
+<text id="9101">礼拝堂の異変を調べる</text>
+<text id="9102">礼拝堂の異変を調べる</text>
+<text id="9103">学者と話す</text>
+<text id="9104">追憶を終了する</text>
+<text id="9105">巫女と話す</text>
+<text id="9106">礼拝堂で、祈りを捧げる</text>
+<text id="9107">召使人形と話す</text>
+<text id="9108">リムベルドで、学者を探す
+※&lt;?sysmsg@40000?&gt;の標的でのみ発生します</text>
+<text id="9109">学者と話す</text>
+<text id="9110">足音の正体を確かめる</text>
+</entries>
+</fmg>

@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="11411">单一空格持有数上限</text>
+<text id="11412">%null%</text>
+<text id="11413">%null%</text>
+<text id="11414">%null%</text>
+<text id="11415">%null%</text>
+<text id="11416">%null%</text>
+<text id="11417">%null%</text>
+<text id="11418">%null%</text>
+<text id="11419">%null%</text>
+<text id="11420">道具类别</text>
+<text id="11508">等级</text>
+<text id="20020">学者－能力【携物知识】</text>
+<text id="65000">无</text>
+<text id="65001">飞刀</text>
+<text id="65002">壶</text>
+<text id="65003">苔药</text>
+<text id="65004">石头</text>
+<text id="65005">结晶露滴</text>
+<text id="65006">调香术</text>
+<text id="65007">油脂</text>
+<text id="65008">食物</text>
+<text id="65009">特殊道具</text>
+<text id="101013">变更战技</text>
+<text id="101014">恢复战技</text>
+<text id="102018">礼拜堂</text>
+<text id="104150">变更前</text>
+<text id="104151">%null%</text>
+<text id="104152">%null%</text>
+<text id="104153">%null%</text>
+<text id="104154">%null%</text>
+<text id="104155">%null%</text>
+<text id="104156">%null%</text>
+<text id="104157">%null%</text>
+<text id="104158">%null%</text>
+<text id="104159">%null%</text>
+<text id="104160">变更后</text>
+<text id="110028">探索运镜速度</text>
+<text id="110029">探索运镜速度</text>
+<text id="131042">救世旗手</text>
+<text id="131058">安定者们</text>
+<text id="131059">废弃物之王</text>
+<text id="131060">%null%</text>
+<text id="131061">%null%</text>
+<text id="131062">%null%</text>
+<text id="131063">%null%</text>
+<text id="131064">%null%</text>
+<text id="131065">%null%</text>
+<text id="131066">%null%</text>
+<text id="131067">%null%</text>
+<text id="131068">哈尔莫妮亚</text>
+<text id="131069">史柴格斯</text>
+<text id="131070">%null%</text>
+<text id="131071">%null%</text>
+<text id="131072">%null%</text>
+<text id="131073">%null%</text>
+<text id="131074">%null%</text>
+<text id="131075">%null%</text>
+<text id="131076">%null%</text>
+<text id="131077">%null%</text>
+<text id="131078">穿着白色盔甲的七位女武神。
+她们手持英雄武器，负责净化混沌，
+犹如化解世界纷争的天使。
+
+但即使是英雄，总有一天也会陷入沉睡。
+既然如此，只要让她们被历史埋没就行了。</text>
+<text id="131079">将众多尸骸与残骸连接在一起的尸鬼。
+蜂涌而出的怨念即使被分开、遭到破坏，
+依旧靠执着蠕动，竭尽破坏之能事。
+
+完全称不上生命的妄执聚合体
+不存在真正的弱点。</text>
+<text id="131114">出现中的特异地形：大空洞
+※仅会出现在&lt;?sysmsg@40000?&gt;的目标</text>
+<text id="132553">出击时的设置</text>
+<text id="136012">卖出</text>
+<text id="136127">出击时的武器（魔法／祷告）</text>
+<text id="136200">套用目前的设置</text>
+<text id="136201">变更名字</text>
+<text id="136202">记号</text>
+<text id="136203">变更排序</text>
+<text id="136204">覆盖目前的设置</text>
+<text id="136205">切换保存时间显示</text>
+<text id="136220">请输入预设的名字</text>
+<text id="138580">为了寻找交界地而行走各处的求学者。
+是亚罗塔斯研究馆的成员，借由旅行精进知识。
+由于罹患疾病，身体急遽开始老化。
+
+感应的表现突出，其余能力值不尽理想；
+但只要掌握战场局势，就能发挥不可限量的实力。
+
+擅长武器：刺剑</text>
+<text id="138581">%null%</text>
+<text id="138582">%null%</text>
+<text id="138583">%null%</text>
+<text id="138584">%null%</text>
+<text id="138585">%null%</text>
+<text id="138586">%null%</text>
+<text id="138587">%null%</text>
+<text id="138588">%null%</text>
+<text id="138589">%null%</text>
+<text id="138590">奉祭司“猎杀黑夜王”的命令，现身的修女。
+拥有与其身躯不相符的异常力量，受到其他人疏远，
+被迫担下安葬死者的工作。
+
+力气与信仰的表现突出，
+能轻而易举陆续将敌人逼上死路。
+是没有存在感的送行者。
+
+擅长武器：槌</text>
+<text id="144790">能增加使用道具的携带数，
+并且会根据使用次数多寡，阶段性强化效果。</text>
+<text id="144791">%null%</text>
+<text id="144792">%null%</text>
+<text id="144793">%null%</text>
+<text id="144794">%null%</text>
+<text id="144795">我方人物或敌人使出部分攻击时，能发动绝招</text>
+<text id="144890">&lt;?keyicon@127##10?&gt;：开始探索</text>
+<text id="144891">&lt;?keyicon@120##10?&gt;：对敌人发动
+&lt;?keyicon@118##10?&gt;：对自己发动
+&lt;?keyicon@127##10?&gt;：中断</text>
+<text id="144892">%null%</text>
+<text id="144893">%null%</text>
+<text id="144894">%null%</text>
+<text id="144895">&lt;?keyicon@127##10?&gt;：发动
+在绝招量表全满时长按&lt;?keyicon@127##10?&gt;：发动更强大的力量
+※也能在长按&lt;?keyicon@127##10?&gt;时按下&lt;?keyicon@118##10?&gt;发动</text>
+<text id="144896">&lt;?keyicon@127##10?&gt;：解除技艺</text>
+<text id="144990">&lt;?keyicon@126##10?&gt;：发动</text>
+<text id="144991">%null%</text>
+<text id="144992">%null%</text>
+<text id="144993">%null%</text>
+<text id="144994">%null%</text>
+<text id="144995">&lt;?keyicon@126##10?&gt;：发动</text>
+<text id="146712">已变更&lt;?text1?&gt;的战技</text>
+<text id="146713">已恢复&lt;?text1?&gt;的战技</text>
+<text id="148010">征服神殿的报酬</text>
+<text id="148011">%null%</text>
+<text id="148012">%null%</text>
+<text id="148013">%null%</text>
+<text id="148014">%null%</text>
+<text id="148015">%null%</text>
+<text id="148016">%null%</text>
+<text id="148017">%null%</text>
+<text id="148018">%null%</text>
+<text id="148019">%null%</text>
+<text id="148020">首次打败的报酬</text>
+<text id="238000">变更战技（仅限一次）</text>
+<text id="238001">恢复战技（仅限一次）</text>
+<text id="238020">已变更</text>
+<text id="238021">仅限变更后</text>
+<text id="288058">学者</text>
+<text id="288059">送葬者</text>
+<text id="335080">需要点燃锻造炉，才能使用锻造台</text>
+<text id="335081">现在不能调查</text>
+<text id="335082">祭坛受到封印</text>
+<text id="336012">BALANCE DISRUPTED</text>
+<text id="336013">CALAMITY OVERCOME</text>
+<text id="337420">神殿中，盘旋着“火”的力量</text>
+<text id="337421">神殿中，弥漫着“魔力”</text>
+<text id="337422">神殿中，“雷”的力量轰隆作响</text>
+<text id="337423">神殿中，受到“圣”的力量赐福</text>
+<text id="337424">神殿中，充满了“中毒”的气息</text>
+<text id="337425">神殿中，“猩红腐败”的神性在侵蚀</text>
+<text id="337426">神殿中，寻求着“出血”引发的鲜血</text>
+<text id="337427">神殿中，“冻伤”寒气使感官变敏锐</text>
+<text id="337428">神殿正静静地治疗所有生命</text>
+<text id="337429">神殿正庄严地侵蚀所有生命</text>
+<text id="337520">道具的使用等级已提升【２】</text>
+<text id="337521">道具的使用等级已提升【３】</text>
+<text id="337880">新的目标现踪</text>
+<text id="337881">新的目标现踪</text>
+<text id="337882">%null%</text>
+<text id="337883">%null%</text>
+<text id="337884">%null%</text>
+<text id="337885">入门书追加了项目</text>
+<text id="337886">指南书追加了项目</text>
+<text id="337887">入门书与指南书追加了项目</text>
+<text id="337888">%null%</text>
+<text id="337889">%null%</text>
+<text id="337890">已变更战技</text>
+<text id="337891">已恢复战技</text>
+<text id="337892">这把武器无法变更战技</text>
+<text id="337893">这把武器无法恢复战技</text>
+<text id="337954">特异地形出现中：大空洞</text>
+<text id="337955">%null%</text>
+<text id="337956">%null%</text>
+<text id="337957">%null%</text>
+<text id="337958">%null%</text>
+<text id="337959">特异地形消失了</text>
+<text id="337960">%null%</text>
+<text id="337961">%null%</text>
+<text id="337962">%null%</text>
+<text id="337963">%null%</text>
+<text id="337964">%null%</text>
+<text id="337965">%null%</text>
+<text id="337966">%null%</text>
+<text id="337967">%null%</text>
+<text id="337968">正在进行个人的目标</text>
+<text id="337969">正在进行个人的目标</text>
+<text id="337987">已能调查目标地点</text>
+<text id="337988">已能调查目标地点</text>
+<text id="337989">已能调查目标地点</text>
+<text id="337990">%null%</text>
+<text id="337991">%null%</text>
+<text id="337992">%null%</text>
+<text id="337993">%null%</text>
+<text id="337994">%null%</text>
+<text id="337995">失去了一部分腐败森林的恩惠的力量</text>
+<text id="338490">已能使用复制祭坛</text>
+<text id="338491">%null%</text>
+<text id="338492">%null%</text>
+<text id="338493">%null%</text>
+<text id="338494">%null%</text>
+<text id="338495">%null%</text>
+<text id="338496">%null%</text>
+<text id="338497">%null%</text>
+<text id="338498">%null%</text>
+<text id="338499">%null%</text>
+<text id="338500">召唤火焰的野兽现踪</text>
+<text id="338501">%null%</text>
+<text id="338502">%null%</text>
+<text id="338503">%null%</text>
+<text id="338504">%null%</text>
+<text id="338505">%null%</text>
+<text id="338506">%null%</text>
+<text id="338507">%null%</text>
+<text id="338508">%null%</text>
+<text id="338509">%null%</text>
+<text id="338510">已打败所有召唤火焰的野兽</text>
+<text id="338511">已打败召唤火焰的野兽</text>
+<text id="338512">已打败召唤火焰的野兽</text>
+<text id="338513">%null%</text>
+<text id="338514">%null%</text>
+<text id="338515">%null%</text>
+<text id="338516">%null%</text>
+<text id="338517">%null%</text>
+<text id="338518">%null%</text>
+<text id="338519">%null%</text>
+<text id="338520">召唤火焰的野兽撤退</text>
+<text id="338521">%null%</text>
+<text id="338522">%null%</text>
+<text id="338523">%null%</text>
+<text id="338524">%null%</text>
+<text id="338525">召唤火焰的野兽已强化攻势</text>
+<text id="338526">已得到召唤火焰的野兽的所在地信息</text>
+<text id="338527">%null%</text>
+<text id="338528">%null%</text>
+<text id="338529">%null%</text>
+<text id="338530">已能使用战技的锻造台</text>
+<text id="338600">冰雾笼罩，开始降下冰雹</text>
+<text id="338601">%null%</text>
+<text id="338602">%null%</text>
+<text id="338603">%null%</text>
+<text id="338604">%null%</text>
+<text id="338605">%null%</text>
+<text id="338606">%null%</text>
+<text id="338607">%null%</text>
+<text id="338608">%null%</text>
+<text id="338609">%null%</text>
+<text id="338610">冰雾已散去</text>
+<text id="338611">%null%</text>
+<text id="338612">%null%</text>
+<text id="338613">%null%</text>
+<text id="338614">%null%</text>
+<text id="338615">%null%</text>
+<text id="338616">%null%</text>
+<text id="338617">%null%</text>
+<text id="338618">%null%</text>
+<text id="338619">%null%</text>
+<text id="338620">冰雾已散去</text>
+<text id="338700">安定者们将降下审判</text>
+<text id="338701">%null%</text>
+<text id="338702">%null%</text>
+<text id="338703">%null%</text>
+<text id="338704">%null%</text>
+<text id="338705">%null%</text>
+<text id="338706">%null%</text>
+<text id="338707">%null%</text>
+<text id="338708">%null%</text>
+<text id="338709">%null%</text>
+<text id="338710">敌人已夺走圣杯瓶的使用次数</text>
+<text id="338711">%null%</text>
+<text id="338712">%null%</text>
+<text id="338713">%null%</text>
+<text id="338714">%null%</text>
+<text id="338715">%null%</text>
+<text id="338716">%null%</text>
+<text id="338717">%null%</text>
+<text id="338718">%null%</text>
+<text id="338719">%null%</text>
+<text id="338720">已夺回些许圣杯瓶的使用次数</text>
+<text id="338721">%null%</text>
+<text id="338722">%null%</text>
+<text id="338723">%null%</text>
+<text id="338724">%null%</text>
+<text id="338725">%null%</text>
+<text id="338726">%null%</text>
+<text id="338727">%null%</text>
+<text id="338728">%null%</text>
+<text id="338729">%null%</text>
+<text id="338730">已夺回所有圣杯瓶的使用次数</text>
+<text id="338731">%null%</text>
+<text id="338732">%null%</text>
+<text id="338733">%null%</text>
+<text id="338734">%null%</text>
+<text id="338735">%null%</text>
+<text id="338736">%null%</text>
+<text id="338737">%null%</text>
+<text id="338738">%null%</text>
+<text id="338739">%null%</text>
+<text id="338740">安定者已离去</text>
+<text id="338741">%null%</text>
+<text id="338742">%null%</text>
+<text id="338743">%null%</text>
+<text id="338744">%null%</text>
+<text id="338745">%null%</text>
+<text id="338746">%null%</text>
+<text id="338747">%null%</text>
+<text id="338748">%null%</text>
+<text id="338749">%null%</text>
+<text id="338750">安定者们已全数离去</text>
+<text id="338800">大结晶出现了裂痕</text>
+<text id="338801">大结晶已碎裂</text>
+<text id="338802">已得到共鸣结晶的所在地信息</text>
+<text id="338803">%null%</text>
+<text id="338804">%null%</text>
+<text id="338805">被变异个体入侵了！</text>
+<text id="338806">已打倒变异个体</text>
+<text id="338807">%null%</text>
+<text id="338808">%null%</text>
+<text id="338809">%null%</text>
+<text id="338810">封印已解除</text>
+<text id="338811">%null%</text>
+<text id="338812">%null%</text>
+<text id="338813">%null%</text>
+<text id="338814">%null%</text>
+<text id="338815">%null%</text>
+<text id="338816">%null%</text>
+<text id="338817">%null%</text>
+<text id="338818">%null%</text>
+<text id="338819">%null%</text>
+<text id="338820">要塞内的高处发生了异状</text>
+<text id="338821">已打倒变异个体</text>
+<text id="411008">技艺【探索】</text>
+<text id="411009">技艺【恍惚】</text>
+<text id="411010">%null%</text>
+<text id="411011">%null%</text>
+<text id="411012">%null%</text>
+<text id="411013">%null%</text>
+<text id="411014">%null%</text>
+<text id="411015">%null%</text>
+<text id="411016">%null%</text>
+<text id="411017">%null%</text>
+<text id="411018">探索</text>
+<text id="411019">恍惚</text>
+<text id="412008">使用单眼镜观察目标，记录特性。
+分析结果会化为灵符号，带来各种效果。</text>
+<text id="412009">对自己放血，唤起不祥的力量。</text>
+<text id="412108">持续观察能提升探索的进行率。
+已探索的敌人样本数、发现特别记载事项，
+以及是否包含我方人物等等会改变进行率。</text>
+<text id="412109">能提升身体能力，不断攻击会提高攻击力。
+只要消耗所有绝招量表，
+就能唤起更加不祥的力量。</text>
+<text id="413008">绝招【共感术】</text>
+<text id="413009">绝招【不祥一击】</text>
+<text id="413010">%null%</text>
+<text id="413011">%null%</text>
+<text id="413012">%null%</text>
+<text id="413013">%null%</text>
+<text id="413014">%null%</text>
+<text id="413015">%null%</text>
+<text id="413016">%null%</text>
+<text id="413017">%null%</text>
+<text id="413018">共感术</text>
+<text id="413019">不祥一击</text>
+<text id="414008">抛撒禁书的纸页，让纸页连结周遭，
+将伤害转换、散播出去。</text>
+<text id="414009">从身体取出异形骨头，
+骨头会迅速移动至目标，贯穿其身体。</text>
+<text id="414108">对已连结的敌人造成的伤害，会散播至其他敌人。
+另外，能够恢复已连结的我方人物的ＨＰ。
+而已连结的敌人对自己造成的伤害，会传回给对手。</text>
+<text id="414109">攻击动作快速，也能在空中移动。</text>
+<text id="415008">能力【携物知识】</text>
+<text id="415009">能力【感知力量】</text>
+<text id="415010">%null%</text>
+<text id="415011">%null%</text>
+<text id="415012">%null%</text>
+<text id="415013">%null%</text>
+<text id="415014">%null%</text>
+<text id="415015">%null%</text>
+<text id="415016">%null%</text>
+<text id="415017">%null%</text>
+<text id="415018">携物知识</text>
+<text id="415019">感知力量</text>
+<text id="416008">能增加使用道具的携带数，
+并且会根据使用次数多寡，阶段性强化效果。</text>
+<text id="416009">其他人发动绝招时，自己可以发动绝招。
+不需要绝招量表。</text>
+<text id="416010">%null%</text>
+<text id="416011">%null%</text>
+<text id="416012">%null%</text>
+<text id="416013">%null%</text>
+<text id="416014">%null%</text>
+<text id="416015">%null%</text>
+<text id="416016">%null%</text>
+<text id="416017">%null%</text>
+<text id="416018">道具会根据类别划分等级。
+等级２能强化效果；
+等级３会发动更出众的效果。</text>
+<text id="416019">夺取部分敌人使出缠绕黑暗的攻击时，
+也可以发动绝招。</text>
+</entries>
+</fmg>

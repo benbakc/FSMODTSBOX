@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="120750">会降低对冻伤的抵抗力</text>
+<text id="120751">%null%</text>
+<text id="120752">%null%</text>
+<text id="120753">%null%</text>
+<text id="120754">%null%</text>
+<text id="120755">%null%</text>
+<text id="120756">%null%</text>
+<text id="120757">%null%</text>
+<text id="120758">%null%</text>
+<text id="120759">%null%</text>
+<text id="120760">能净化鲜血君王的倒数诅咒</text>
+<text id="121144">在落败时仅限一次，能自行脱险</text>
+<text id="121145">能缓慢恢复ＨＰ</text>
+<text id="121177">“‘隐城’诺克拉缇欧的恩惠”的效果</text>
+<text id="121178">%null%</text>
+<text id="121179">%null%</text>
+<text id="121180">%null%</text>
+<text id="121181">%null%</text>
+<text id="121182">%null%</text>
+<text id="121183">%null%</text>
+<text id="121184">降低血量上限</text>
+<text id="121185">附加效果带来的效果</text>
+<text id="121186">附加效果带来的效果</text>
+<text id="121187">“冷冽海市蜃楼”的效果</text>
+<text id="121188">“地底神殿的恩惠”的效果</text>
+<text id="121189">“地底神殿的恩惠”的效果</text>
+<text id="121190">“地底神殿的恩惠”的效果</text>
+<text id="121191">“地底神殿的恩惠”的效果</text>
+<text id="121192">“地底神殿的恩惠”的效果</text>
+<text id="121193">“地底神殿的恩惠”的效果</text>
+<text id="121194">“地底神殿的恩惠”的效果</text>
+<text id="121195">“地底神殿的恩惠”的效果</text>
+<text id="121196">“地底神殿的恩惠”的效果</text>
+<text id="121197">“地底神殿的恩惠”的效果</text>
+<text id="121198">“地底神殿的恩惠”的效果</text>
+<text id="121199">“地底神殿的恩惠”的效果</text>
+<text id="121200">“地底神殿的恩惠”的效果</text>
+<text id="121201">“地底神殿的恩惠”的效果</text>
+<text id="121202">“艾奥尼亚蝶”的效用</text>
+<text id="121203">“艾奥尼亚蝶”的效用</text>
+<text id="121204">“蜜血木芽”的效用</text>
+<text id="121205">“蜜血木芽”的效用</text>
+<text id="121206">“携物知识”的效果</text>
+<text id="121207">“携物知识”的效果</text>
+<text id="121208">“携物知识”的效果</text>
+<text id="121209">“携物知识”的效果</text>
+<text id="121210">“携物知识”的效果</text>
+<text id="121211">“携物知识”的效果</text>
+<text id="121212">“携物知识”的效果</text>
+<text id="121213">“探索”的效果</text>
+<text id="121214">“探索”的效果</text>
+<text id="121215">“探索”的效果</text>
+<text id="121216">“探索”的效果</text>
+<text id="121217">“共感术”的效果</text>
+<text id="121218">“携物知识”的效果</text>
+<text id="121219">“携物知识”的效果</text>
+<text id="121220">“携物知识”的效果</text>
+<text id="121221">“携物知识”的效果</text>
+<text id="121222">“携物知识”的效果</text>
+<text id="121223">“携物知识”的效果</text>
+<text id="121224">“携物知识”的效果</text>
+<text id="121225">遗物带来的效果</text>
+<text id="121226">遗物带来的效果</text>
+<text id="121227">遗物带来的效果</text>
+<text id="121228">遗物带来的效果</text>
+<text id="121229">“大空洞的恩惠”的效果</text>
+<text id="121230">%null%</text>
+<text id="121231">“恍惚”的效果</text>
+<text id="121232">“恍惚”的效果</text>
+<text id="121233">“恍惚”的效果</text>
+<text id="121234">“恍惚”的效果</text>
+<text id="121235">“感知力量”的效果</text>
+<text id="121236">“携物知识”的效果</text>
+<text id="121237">“携物知识”的效果</text>
+<text id="121238">在死亡后复活，或是触碰赐福之后
+就能够再次使用</text>
+<text id="123400">野兽的“猎捕”的效果</text>
+<text id="123401">%null%</text>
+<text id="123402">%null%</text>
+<text id="123403">%null%</text>
+<text id="123404">%null%</text>
+<text id="123405">%null%</text>
+<text id="123406">%null%</text>
+<text id="123407">%null%</text>
+<text id="123408">%null%</text>
+<text id="123409">%null%</text>
+<text id="123410">会减少圣杯瓶的使用次数</text>
+<text id="123411">“安定世界的力量”的效果</text>
+<text id="123412">“探索”的效果</text>
+<text id="123413">遗物带来的效果</text>
+<text id="123414">%null%</text>
+<text id="123415">%null%</text>
+<text id="123416">%null%</text>
+<text id="123417">%null%</text>
+<text id="123418">%null%</text>
+<text id="123419">%null%</text>
+<text id="123420">提升攻击力</text>
+<text id="123421">降低减伤率</text>
+<text id="123440">“好胜心”的效果</text>
+</entries>
+</fmg>

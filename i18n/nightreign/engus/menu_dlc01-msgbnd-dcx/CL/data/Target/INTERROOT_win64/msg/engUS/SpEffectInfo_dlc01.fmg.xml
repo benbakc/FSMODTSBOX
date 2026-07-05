@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+  <compression>None</compression>
+  <version>DarkSouls3</version>
+  <bigendian>False</bigendian>
+  <entries>
+    <text id="120750">Lowers resistance to frost</text>
+    <text id="120751">%null%</text>
+    <text id="120752">%null%</text>
+    <text id="120753">%null%</text>
+    <text id="120754">%null%</text>
+    <text id="120755">%null%</text>
+    <text id="120756">%null%</text>
+    <text id="120757">%null%</text>
+    <text id="120758">%null%</text>
+    <text id="120759">%null%</text>
+    <text id="120760">Purifies the curse of the Lord of Blood</text>
+    <text id="121144">Rise from defeat a single time</text>
+    <text id="121145">Slowly restores HP</text>
+    <text id="121177">Effect of Favor of Noklateo, the Shrouded City</text>
+    <text id="121178">%null%</text>
+    <text id="121179">%null%</text>
+    <text id="121180">%null%</text>
+    <text id="121181">%null%</text>
+    <text id="121182">%null%</text>
+    <text id="121183">%null%</text>
+    <text id="121184">Lowers maximum HP</text>
+    <text id="121185">Passive Effect</text>
+    <text id="121186">Passive Effect</text>
+    <text id="121187">Effect of Cold Mirage</text>
+    <text id="121188">Effect of Favor of Underground Temple</text>
+    <text id="121189">Effect of Favor of Underground Temple</text>
+    <text id="121190">Effect of Favor of Underground Temple</text>
+    <text id="121191">Effect of Favor of Underground Temple</text>
+    <text id="121192">Effect of Favor of Underground Temple</text>
+    <text id="121193">Effect of Favor of Underground Temple</text>
+    <text id="121194">Effect of Favor of Underground Temple</text>
+    <text id="121195">Effect of Favor of Underground Temple</text>
+    <text id="121196">Effect of Favor of Underground Temple</text>
+    <text id="121197">Effect of Favor of Underground Temple</text>
+    <text id="121198">Effect of Favor of Underground Temple</text>
+    <text id="121199">Effect of Favor of Underground Temple</text>
+    <text id="121200">Effect of Favor of Underground Temple</text>
+    <text id="121201">Effect of Favor of Underground Temple</text>
+    <text id="121202">Effect of Aeonian Butterfly</text>
+    <text id="121203">Effect of Aeonian Butterfly</text>
+    <text id="121204">Effect of Nectarblood Burgeon</text>
+    <text id="121205">Effect of Nectarblood Burgeon</text>
+    <text id="121206">Effect of Bagcraft</text>
+    <text id="121207">Effect of Bagcraft</text>
+    <text id="121208">Effect of Bagcraft</text>
+    <text id="121209">Effect of Bagcraft</text>
+    <text id="121210">Effect of Bagcraft</text>
+    <text id="121211">Effect of Bagcraft</text>
+    <text id="121212">Effect of Bagcraft</text>
+    <text id="121213">Effect of Analyse</text>
+    <text id="121214">Effect of Analyse</text>
+    <text id="121215">Effect of Analyse</text>
+    <text id="121216">Effect of Analyse</text>
+    <text id="121217">Effect of Communion</text>
+    <text id="121218">Effect of Bagcraft</text>
+    <text id="121219">Effect of Bagcraft</text>
+    <text id="121220">Effect of Bagcraft</text>
+    <text id="121221">Effect of Bagcraft</text>
+    <text id="121222">Effect of Bagcraft</text>
+    <text id="121223">Effect of Bagcraft</text>
+    <text id="121224">Effect of Bagcraft</text>
+    <text id="121225">Effect of Relic</text>
+    <text id="121226">Effect of Relic</text>
+    <text id="121227">Effect of Relic</text>
+    <text id="121228">Effect of Relic</text>
+    <text id="121229">Effect of Favor of the Great Hollow</text>
+    <text id="121230">%null%</text>
+    <text id="121231">Effect of Trance</text>
+    <text id="121232">Effect of Trance</text>
+    <text id="121233">Effect of Trance</text>
+    <text id="121234">Effect of Trance</text>
+    <text id="121235">Effect of Confluence</text>
+    <text id="121236">Effect of Bagcraft</text>
+    <text id="121237">Effect of Bagcraft</text>
+    <text id="121238">Restored through revival from death
+or passing through a Site of Grace</text>
+    <text id="123400">Effect of Beast's Hunt</text>
+    <text id="123401">%null%</text>
+    <text id="123402">%null%</text>
+    <text id="123403">%null%</text>
+    <text id="123404">%null%</text>
+    <text id="123405">%null%</text>
+    <text id="123406">%null%</text>
+    <text id="123407">%null%</text>
+    <text id="123408">%null%</text>
+    <text id="123409">%null%</text>
+    <text id="123410">Reduces sacred flask charges</text>
+    <text id="123411">Effect of the Power to Balance the World</text>
+    <text id="123412">Effect of Analyse</text>
+    <text id="123413">深さは合計5段階あります。</text>
+    <text id="123414">%null%</text>
+    <text id="123415">%null%</text>
+    <text id="123416">%null%</text>
+    <text id="123417">%null%</text>
+    <text id="123418">%null%</text>
+    <text id="123419">%null%</text>
+    <text id="123420">Raises attack power</text>
+    <text id="123421">Lowers damage negation</text>
+    <text id="123440">Effect of Fighter's Resolve</text>
+  </entries>
+</fmg>

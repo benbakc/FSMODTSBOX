@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+  <compression>None</compression>
+  <version>DarkSouls3</version>
+  <bigendian>False</bigendian>
+  <entries>
+    <text id="1">OK</text>
+    <text id="2">CANCEL</text>
+    <text id="3">YES</text>
+    <text id="4">NO</text>
+    <text id="15">RETRY</text>
+    <text id="16">CONTINUE</text>
+    <text id="17">RETURN TO TITLE</text>
+    <text id="40200">Insufficient runes</text>
+    <text id="40201">%null%</text>
+    <text id="40202">%null%</text>
+    <text id="40203">%null%</text>
+    <text id="40204">%null%</text>
+    <text id="40205">%null%</text>
+    <text id="40206">%null%</text>
+    <text id="40207">%null%</text>
+    <text id="40208">%null%</text>
+    <text id="40209">%null%</text>
+    <text id="40210">Out of stock.
+Cannot purchase any more.</text>
+    <text id="40300">Returning to default settings.
+Proceed?</text>
+    <text id="40500">Restoring all default settings.
+Proceed?</text>
+    <text id="110000">Save the game and return to title menu?</text>
+    <text id="110001">Returning to title screen during session will incur a penalty.
+Proceed?</text>
+    <text id="110002">Leave session and return to title menu?</text>
+    <text id="110003">Leave session and return to title menu?
+
+If you leave now, any personal objective progress made will be lost.</text>
+    <text id="110004">Returning to title screen during session will affect Depth rating depending on progress.
+Proceed?
+
+N.B. Rating penalty will be waived due to the premature exit of another player.</text>
+    <text id="110005">%null%</text>
+    <text id="110006">%null%</text>
+    <text id="110007">%null%</text>
+    <text id="110008">%null%</text>
+    <text id="110009">%null%</text>
+    <text id="110010">Save the game and return to the desktop?</text>
+    <text id="110011">Returning to desktop during session will incur a penalty.
+Proceed?</text>
+    <text id="110012">Leave session and return to the desktop?</text>
+    <text id="110013">Leave session and return to the desktop?
+
+If you leave now, any personal objective progress made will be lost.</text>
+    <text id="110014">Returning to desktop during session will affect Depth rating depending on progress.
+Proceed?
+
+N.B. Rating penalty will be waived due to the premature exit of another player.</text>
+    <text id="110015">%null%</text>
+    <text id="110016">%null%</text>
+    <text id="110017">%null%</text>
+    <text id="110018">%null%</text>
+    <text id="110019">%null%</text>
+    <text id="110020">Ending tutorial.
+Do you wish to proceed?
+
+N.B. Tutorial can be resumed later.</text>
+    <text id="110021">%null%</text>
+    <text id="110022">%null%</text>
+    <text id="110023">%null%</text>
+    <text id="110024">%null%</text>
+    <text id="110025">%null%</text>
+    <text id="110026">%null%</text>
+    <text id="110027">%null%</text>
+    <text id="110028">%null%</text>
+    <text id="110029">%null%</text>
+    <text id="110030">End battle and travel to Roundtable.
+Proceed?</text>
+    <text id="110031">%null%</text>
+    <text id="110032">%null%</text>
+    <text id="110033">%null%</text>
+    <text id="110034">%null%</text>
+    <text id="110035">%null%</text>
+    <text id="110036">%null%</text>
+    <text id="110037">%null%</text>
+    <text id="110038">%null%</text>
+    <text id="110039">%null%</text>
+    <text id="110040">Ending battle.
+Proceed?</text>
+    <text id="110041">%null%</text>
+    <text id="110042">%null%</text>
+    <text id="110043">%null%</text>
+    <text id="110044">%null%</text>
+    <text id="110045">%null%</text>
+    <text id="110046">%null%</text>
+    <text id="110047">%null%</text>
+    <text id="110048">%null%</text>
+    <text id="110049">%null%</text>
+    <text id="110050">Postponing remembrance.
+Proceed?</text>
+    <text id="110051">%null%</text>
+    <text id="110052">%null%</text>
+    <text id="110053">%null%</text>
+    <text id="110054">%null%</text>
+    <text id="110055">%null%</text>
+    <text id="110056">%null%</text>
+    <text id="110057">%null%</text>
+    <text id="110058">%null%</text>
+    <text id="110059">%null%</text>
+    <text id="110060">Postpone remembrance and travel to Roundtable.
+Proceed?</text>
+    <text id="110061">%null%</text>
+    <text id="110062">%null%</text>
+    <text id="110063">%null%</text>
+    <text id="110064">%null%</text>
+    <text id="110065">%null%</text>
+    <text id="110066">%null%</text>
+    <text id="110067">%null%</text>
+    <text id="110068">%null%</text>
+    <text id="110069">%null%</text>
+    <text id="110070">Conclude remembrance and switch
+character to &lt;?DisplayHero?&gt;?</text>
+    <text id="110071">%null%</text>
+    <text id="110072">%null%</text>
+    <text id="110073">%null%</text>
+    <text id="110074">%null%</text>
+    <text id="110075">%null%</text>
+    <text id="110076">%null%</text>
+    <text id="110077">%null%</text>
+    <text id="110078">%null%</text>
+    <text id="110079">%null%</text>
+    <text id="110080">Postpone remembrance and switch
+character to &lt;?DisplayHero?&gt;?</text>
+    <text id="110316">Return to the title menu to change language settings</text>
+    <text id="110570">Skip this scene and move on to the next?</text>
+    <text id="111100">Settings have been changed.
+This will revert to the previous setting in &lt;?remainingSec?&gt; seconds.
+Keep current settings?</text>
+    <text id="111101">Keep current settings?</text>
+    <text id="111102">Some settings will only be applied after returning to title menu</text>
+    <text id="111103">This setting will be applied after restarting the game</text>
+    <text id="111104">Settings have been changed.
+This will revert to the previous setting in &lt;?remainingSec?&gt; seconds.
+Keep current settings?</text>
+    <text id="111105">Some settings will only be applied after returning to title menu</text>
+    <text id="111106">HDR turned off</text>
+    <text id="111107">HDR turned on</text>
+    <text id="111108">%null%</text>
+    <text id="111109">%null%</text>
+    <text id="111110">Some setting changes have not been applied.
+To apply these changes, return to title menu.</text>
+    <text id="130000">Depth rating will be reduced to 0.
+Once reduced, a rating cannot be restored.
+
+Proceed anyway?</text>
+    <text id="130001">スペシャルイベント 4</text>
+    <text id="134000">Change active character to &lt;?DisplayHero?&gt;?</text>
+    <text id="136000">Identical relics cannot be placed together</text>
+    <text id="136001">%null%</text>
+    <text id="136002">Select something to sell</text>
+    <text id="136003">Current selection will be discarded.
+Leave this screen?</text>
+    <text id="136004">Selling &lt;?itemName?&gt; for &lt;?sellLobbyCurrency?&gt; murk.
+Proceed?</text>
+    <text id="136005">Selling selected relics for a total of &lt;?sellLobbyCurrency?&gt; murk.
+Proceed?</text>
+    <text id="136006">Selling &lt;?itemName?&gt; for &lt;?sellLobbyCurrency?&gt; murk will exceed maximum murk.
+Murk exceeding maximum will be forfeited.
+Proceed?
+</text>
+    <text id="136007">Selling selected relics for a total of &lt;?sellLobbyCurrency?&gt; will exceed maximum murk.
+Murk exceeding maximum will be forfeited.
+Proceed?</text>
+    <text id="136008">Cannot sell.
+Includes equipped or favorited relics.</text>
+    <text id="136009">This will apply the selected preset.
+The present placement will be lost.
+Proceed?</text>
+    <text id="136010">Deleting selected preset.
+Proceed?</text>
+    <text id="136011">Maximum no. of presets saved.
+Cannot save additional presets.</text>
+    <text id="136012">Preset saved</text>
+    <text id="136013">Some effects have been canceled out due to their conflicting natures</text>
+    <text id="138160">This will restart tutorial.
+Proceed?</text>
+    <text id="138161">Cannot replay tutorial while matchmaking 
+or while assigned to a team</text>
+    <text id="138200">Cannot show result history in offline mode</text>
+    <text id="138262">Cannot replay tutorial while reliving a remembrance</text>
+    <text id="140000">Cannot conclude remembrance while matchmaking</text>
+    <text id="140001">Cannot postpone remembrance while matchmaking</text>
+    <text id="140100">Beginning remembrance.
+Proceed?</text>
+    <text id="140101">Concluding remembrance.
+Proceed?</text>
+    <text id="140102">Postponing remembrance.
+Proceed?</text>
+    <text id="140103">Resuming remembrance.
+Proceed?</text>
+    <text id="142000">Purchase &lt;?itemName?&gt;
+for &lt;?buyLobbyCurrency?&gt; murk?</text>
+    <text id="142020">Insufficient murk</text>
+    <text id="142021">%null%</text>
+    <text id="142022">%null%</text>
+    <text id="142023">%null%</text>
+    <text id="142024">%null%</text>
+    <text id="142025">%null%</text>
+    <text id="142026">%null%</text>
+    <text id="142027">%null%</text>
+    <text id="142028">%null%</text>
+    <text id="142029">%null%</text>
+    <text id="142030">スペシャルイベント 5</text>
+    <text id="144000">Restoring equipment to character's original loadout.
+Proceed?</text>
+    <text id="146000">Unable to load footprint data</text>
+    <text id="146001">Cannot show effect details for old results</text>
+    <text id="146002">%null%</text>
+    <text id="146003">%null%</text>
+    <text id="146004">%null%</text>
+    <text id="146005">%null%</text>
+    <text id="146006">%null%</text>
+    <text id="146007">%null%</text>
+    <text id="146008">%null%</text>
+    <text id="146009">%null%</text>
+    <text id="146010">Communicating...</text>
+    <text id="146011">%null%</text>
+    <text id="146012">%null%</text>
+    <text id="146013">%null%</text>
+    <text id="146014">%null%</text>
+    <text id="146015">%null%</text>
+    <text id="146016">%null%</text>
+    <text id="146017">%null%</text>
+    <text id="146018">%null%</text>
+    <text id="146019">%null%</text>
+    <text id="146020">Rating penalty was waived due to the premature exit of another player.</text>
+    <text id="146100">Send report with selected reasons</text>
+    <text id="146101">%null%</text>
+    <text id="146102">%null%</text>
+    <text id="146103">%null%</text>
+    <text id="146104">%null%</text>
+    <text id="146105">%null%</text>
+    <text id="146106">%null%</text>
+    <text id="146107">%null%</text>
+    <text id="146108">%null%</text>
+    <text id="146109">%null%</text>
+    <text id="146110">Send report with the reasons you selected?</text>
+    <text id="146111">%null%</text>
+    <text id="146112">%null%</text>
+    <text id="146113">%null%</text>
+    <text id="146114">%null%</text>
+    <text id="146115">%null%</text>
+    <text id="146116">%null%</text>
+    <text id="146117">%null%</text>
+    <text id="146118">%null%</text>
+    <text id="146119">%null%</text>
+    <text id="146120">Reporting...</text>
+    <text id="146121">%null%</text>
+    <text id="146122">%null%</text>
+    <text id="146123">%null%</text>
+    <text id="146124">%null%</text>
+    <text id="146125">%null%</text>
+    <text id="146126">%null%</text>
+    <text id="146127">%null%</text>
+    <text id="146128">%null%</text>
+    <text id="146129">%null%</text>
+    <text id="146130">Your report has been sent.
+
+If you wish to provide us with additional details regarding this
+report, please make a note of the below report ID and include it
+when contacting Bandai Namco's Customer Support in your region.
+
+Report ID: &lt;?reportId?&gt;</text>
+    <text id="146199">Report failed.</text>
+    <text id="146200">Could not acquire data from server</text>
+    <text id="150000">No more result histories can be added to favorites.
+To add a new result history, it is necessary to first remove an old one.</text>
+    <text id="152000">Exchange Sovereign Sigil x&lt;?buySpecialCurrency?&gt;
+for &lt;?itemName?&gt;?</text>
+    <text id="152001">%null%</text>
+    <text id="152002">%null%</text>
+    <text id="152003">%null%</text>
+    <text id="152004">%null%</text>
+    <text id="152005">%null%</text>
+    <text id="152006">%null%</text>
+    <text id="152007">%null%</text>
+    <text id="152008">%null%</text>
+    <text id="152009">%null%</text>
+    <text id="152010">Insufficient Sovereign Sigils.</text>
+    <text id="231000">Purchase &lt;?itemName?&gt;
+for &lt;?demandSoul?&gt; runes</text>
+    <text id="231020">Cannot purchase due to inventory maximum</text>
+    <text id="280001">Restoring all default settings.
+Proceed?</text>
+    <text id="280002">Restoring game options settings to defaults.
+Proceed?</text>
+    <text id="280003">Restoring camera options settings to defaults.
+Proceed?</text>
+    <text id="280004">Restoring display settings to defaults.
+Proceed?</text>
+    <text id="280005">Restoring sound settings to defaults.
+Proceed?</text>
+    <text id="280006">Restoring network settings to defaults.
+Proceed?</text>
+    <text id="280007">%null%</text>
+    <text id="280008">Restoring keyboard and mouse settings to defaults.
+Proceed?</text>
+    <text id="280009">Restoring graphics settings to defaults.
+Proceed?</text>
+    <text id="280010">Restoring key bindings to defaults.
+Proceed?</text>
+    <text id="280011">Restoring brightness to default.
+Proceed?</text>
+    <text id="280012">Restoring image quality to default.
+Proceed?</text>
+    <text id="280013">Restoring advanced graphics settings to defaults.
+Proceed?</text>
+    <text id="290004">Failed to save character information</text>
+    <text id="290100">This button cannot be assigned as a map control</text>
+    <text id="401701">&lt;?sysmsg@401701?&gt;</text>
+    <text id="401702">Starting with the following name.
+&lt;?InsertName?&gt;</text>
+    <text id="401703">Restoring player name to default.
+Proceed?</text>
+    <text id="404010">Discard present changes and return to previous page?</text>
+    <text id="404011">%null%</text>
+    <text id="404012">%null%</text>
+    <text id="404013">%null%</text>
+    <text id="404014">%null%</text>
+    <text id="404015">%null%</text>
+    <text id="404016">%null%</text>
+    <text id="404017">%null%</text>
+    <text id="404018">%null%</text>
+    <text id="404019">%null%</text>
+    <text id="404020">With HDR setting ON:
+Picture can be adjusted from the in-game system menu</text>
+    <text id="406011">Starting with selected profile</text>
+    <text id="406012">Delete selected profile and begin a new game?</text>
+    <text id="406013">Deleting selected profile.
+Proceed?</text>
+    <text id="506011">Matchmaking has been canceled</text>
+    <text id="506012">Cancel matchmaking?</text>
+    <text id="506013">%null%</text>
+    <text id="506014">No multiplayer password history</text>
+    <text id="506015">No group password history</text>
+    <text id="506016">%null%</text>
+    <text id="506017">Expedition standby cancelled.</text>
+    <text id="506018">Cancel expedition standby?</text>
+    <text id="506019">%null%</text>
+    <text id="506020">Matchmaking failed</text>
+    <text id="506021">Matchmaking failed.
+Unable to create session.</text>
+    <text id="506022">Matchmaking failed.
+Unable to join session.</text>
+    <text id="506023">Cannot start multiplayer session in offline mode.
+Select "One player" in the "Number of Players" expedition setting.</text>
+    <text id="506024">Cannot set off on expedition to the Deep of Night in offline mode.</text>
+    <text id="506025">%null%</text>
+    <text id="506026">%null%</text>
+    <text id="506027">%null%</text>
+    <text id="506028">%null%</text>
+    <text id="506029">%null%</text>
+    <text id="506030">Connection to Steam has been lost.
+Unable to commence expedition.</text>
+    <text id="506031">%null%</text>
+    <text id="506032">%null%</text>
+    <text id="506033">%null%</text>
+    <text id="506034">%null%</text>
+    <text id="506035">%null%</text>
+    <text id="506036">%null%</text>
+    <text id="506037">%null%</text>
+    <text id="506038">%null%</text>
+    <text id="506039">%null%</text>
+    <text id="506040">Cannot embark on expedition until game is fully installed</text>
+    <text id="506041">%null%</text>
+    <text id="506042">%null%</text>
+    <text id="506043">%null%</text>
+    <text id="506044">%null%</text>
+    <text id="506045">%null%</text>
+    <text id="506046">%null%</text>
+    <text id="506047">%null%</text>
+    <text id="506048">%null%</text>
+    <text id="506049">%null%</text>
+    <text id="506050">Team disbanded</text>
+    <text id="506051">Disband team?</text>
+    <text id="506052">Left team</text>
+    <text id="506053">Leave team?</text>
+    <text id="506054">Failed to create team</text>
+    <text id="506055">Failed to join team</text>
+    <text id="506056">%null%</text>
+    <text id="506057">%null%</text>
+    <text id="506058">%null%</text>
+    <text id="506059">%null%</text>
+    <text id="506060">Failed to enter multiplayer session.
+Unable to join matched players.
+Returning to Roundtable Hold.</text>
+    <text id="506061">%null%</text>
+    <text id="506062">%null%</text>
+    <text id="506063">%null%</text>
+    <text id="506064">%null%</text>
+    <text id="506065">%null%</text>
+    <text id="506066">%null%</text>
+    <text id="506067">%null%</text>
+    <text id="506068">%null%</text>
+    <text id="506069">%null%</text>
+    <text id="506070">Cannot launch expedition: Too many relics in possession.
+Please use the relic rite menu to sell off spares.</text>
+    <text id="506100">Multiplayer Password History</text>
+    <text id="506101">Group Password History</text>
+    <text id="620100">As this product is still in development, some functionality
+(including features that use the Xbox network) may not
+be working as intended, and may result in a forced
+closure of the game.
+
+Additionally, support is not offered for this product.</text>
+    <text id="620101">%null%</text>
+    <text id="620102">%null%</text>
+    <text id="620103">%null%</text>
+    <text id="620104">%null%</text>
+    <text id="620105">%null%</text>
+    <text id="620106">%null%</text>
+    <text id="620107">%null%</text>
+    <text id="620108">%null%</text>
+    <text id="620109">%null%</text>
+    <text id="620110">The functionality of this product differs from the final release in this manner:
+-This product cannot be played without a network connection</text>
+    <text id="700000">Postponing remembrance.
+Proceed?</text>
+    <text id="700001">%null%</text>
+    <text id="700002">%null%</text>
+    <text id="700003">%null%</text>
+    <text id="700004">%null%</text>
+    <text id="700005">%null%</text>
+    <text id="700006">%null%</text>
+    <text id="700007">%null%</text>
+    <text id="700008">%null%</text>
+    <text id="700009">%null%</text>
+    <text id="700010">Postpone remembrance and travel to Roundtable.
+Proceed?</text>
+    <text id="700011">%null%</text>
+    <text id="700012">%null%</text>
+    <text id="700013">%null%</text>
+    <text id="700014">%null%</text>
+    <text id="700015">%null%</text>
+    <text id="700016">%null%</text>
+    <text id="700017">%null%</text>
+    <text id="700018">%null%</text>
+    <text id="700019">%null%</text>
+    <text id="700020">Postpone remembrance and switch
+character to &lt;?DisplayHero?&gt;?</text>
+    <text id="20002002">YES</text>
+    <text id="20002003">NO</text>
+    <text id="21012001">Eat </text>
+    <text id="21012002">Do not eat</text>
+    <text id="21032001">YES</text>
+    <text id="21032002">NO</text>
+    <text id="21082001">Accept</text>
+    <text id="21082002">Refuse</text>
+    <text id="22092010">Take</text>
+    <text id="22092011">Leave</text>
+    <text id="23092013">YES</text>
+    <text id="23092014">NO</text>
+    <text id="23112000">Eliminate</text>
+    <text id="23112001">Leave alone</text>
+    <text id="26092000">YES</text>
+    <text id="26092001">NO</text>
+  </entries>
+</fmg>

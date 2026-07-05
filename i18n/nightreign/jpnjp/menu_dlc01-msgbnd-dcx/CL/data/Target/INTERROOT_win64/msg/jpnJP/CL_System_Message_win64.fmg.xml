@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2100">プロフィール</text>
+<text id="2500">割り当て解除</text>
+<text id="3000">コントローラーの振動の強さを設定します</text>
+<text id="3001">%null%</text>
+<text id="3002">%null%</text>
+<text id="3003">%null%</text>
+<text id="3004">%null%</text>
+<text id="3005">%null%</text>
+<text id="3006">%null%</text>
+<text id="3007">%null%</text>
+<text id="3008">%null%</text>
+<text id="3009">%null%</text>
+<text id="3010">コントローラーのボタンの割り当てを設定します</text>
+<text id="3011">%null%</text>
+<text id="3012">%null%</text>
+<text id="3013">%null%</text>
+<text id="3014">%null%</text>
+<text id="3015">%null%</text>
+<text id="3016">%null%</text>
+<text id="3017">%null%</text>
+<text id="3018">%null%</text>
+<text id="3019">%null%</text>
+<text id="3020">割り当てたいボタンを入力してください</text>
+<text id="4101">ネットワークに接続されていません
+&lt;?errorHandling?&gt;</text>
+<text id="4102">ゲームサーバーとの接続が切断されました
+&lt;?errorHandling?&gt;</text>
+<text id="4160">Steamとの接続が切断されました
+&lt;?errorHandling?&gt;</text>
+<text id="4161">フレームレートがネットワークプレイに適していません
+&lt;?errorHandling?&gt;</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">接続に問題が発生しました
+&lt;?errorHandling?&gt;</text>
+<text id="4171">Epic Online Services との通信に失敗しました：&lt;?errcodeEOS?&gt;
+&lt;?errorHandling?&gt;</text>
+<text id="4172">Steamworks との通信に失敗しました：&lt;?errcodeSteam?&gt;
+&lt;?errorHandling?&gt;</text>
+<text id="4190">ネットワークエラーが発生しました
+&lt;?errorHandling?&gt;</text>
+<text id="4191">ゲームの保存に失敗しました
+セーブデータが破損しています
+
+再度実行する場合は「YES」を選択してください
+
+ゲームを保存せず
+タイトル画面に戻る場合は「NO」を選択してください</text>
+<text id="4192">ゲームの保存に失敗しました
+セーブデータが破損しています
+
+タイトル画面に戻ります</text>
+<text id="4193">ゲームの保存に失敗しました
+セーブデータが破損しています</text>
+<text id="4194">操作されないまま一定時間経過したため、セッションから離脱しました
+&lt;?errorHandling?&gt;</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">タイトル画面に戻ります</text>
+<text id="4201">オフラインモードへ移行します
+
+オンラインモードへ変更するには
+タイトル画面に戻ってください</text>
+<text id="4202">エラーが発生したため、戦果の表示を中断します</text>
+<text id="4203">戦果履歴の表示を中断して、オフラインモードへ移行します</text>
+<text id="4204">オフラインモードへ移行します
+
+この深き夜のセッション結果は
+レートに反映されません
+
+オンラインモードへ変更するには
+タイトル画面に戻ってください</text>
+<text id="100010">ゲーマータグ</text>
+<text id="100011">プレイヤー名称</text>
+<text id="101000">PRESS ANY BUTTON</text>
+<text id="110000">コントローラー設定</text>
+<text id="110001">%null%</text>
+<text id="110002">%null%</text>
+<text id="110003">%null%</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">コントローラー振動</text>
+<text id="111030">ボタン設定</text>
+<text id="111031">%null%</text>
+<text id="111032">%null%</text>
+<text id="111033">%null%</text>
+<text id="111034">%null%</text>
+<text id="111035">ボタン設定</text>
+<text id="200100">使用できない文字が含まれていたため
+一部の文字を「*」に変換しました</text>
+<text id="280000">この項目の割り当てを解除することはできません</text>
+<text id="280001">%null%</text>
+<text id="280002">重複している設定があります
+設定を確認してください</text>
+<text id="280003">重複している設定があります
+設定を保存せず終了してもよろしいですか？</text>
+<text id="280004">メニュー操作に割り当てられない設定があります
+設定を確認してください</text>
+<text id="280005">%null%</text>
+<text id="280006">%null%</text>
+<text id="280007">ボタン設定を初期状態に戻します
+よろしいですか？</text>
+<text id="322000">チームセッションに参加するためタイトル画面に戻ります
+よろしいですか？
+
+参加した場合、現在の進行状況は破棄されます</text>
+<text id="322001">チームセッションに参加するため円卓に戻ります
+よろしいですか？
+
+参加した場合、現在の進行状況は破棄されます</text>
+<text id="322002">%null%</text>
+<text id="322003">%null%</text>
+<text id="322004">%null%</text>
+<text id="322005">%null%</text>
+<text id="322006">%null%</text>
+<text id="322007">%null%</text>
+<text id="322008">%null%</text>
+<text id="322009">%null%</text>
+<text id="322010">チームセッションに参加するためタイトル画面に戻ります
+設定を保存せず終了してもよろしいですか？</text>
+<text id="322011">チームセッションに参加するため円卓に戻ります
+よろしいですか？
+
+参加した場合、現在の進行状況は破棄されます</text>
+<text id="322012">%null%</text>
+<text id="322013">%null%</text>
+<text id="322014">%null%</text>
+<text id="322015">%null%</text>
+<text id="322016">%null%</text>
+<text id="322017">%null%</text>
+<text id="322018">%null%</text>
+<text id="322019">%null%</text>
+<text id="322020">チームセッションに参加するため
+チュートリアルを終了してタイトル画面に戻ります
+よろしいですか？
+
+※あとで再度プレイ可能です</text>
+<text id="322021">チームセッションに参加するためチュートリアルを終了します
+よろしいですか？
+
+※あとで再度プレイ可能です</text>
+<text id="322050">ゲーム進行データが存在しません
+チームセッションへの参加を中止します</text>
+<text id="322051">%null%</text>
+<text id="322052">%null%</text>
+<text id="322053">%null%</text>
+<text id="322054">%null%</text>
+<text id="322055">%null%</text>
+<text id="322056">%null%</text>
+<text id="322057">%null%</text>
+<text id="322058">%null%</text>
+<text id="322059">%null%</text>
+<text id="322060">チームセッションが定員のため参加できませんでした</text>
+<text id="322061">チームセッションが既に存在しないため参加できませんでした</text>
+<text id="322062">レギュレーションバージョンの違いにより
+チームセッションに参加できませんでした
+
+一度タイトルへ戻り、最新のレギュレーションを取得してください</text>
+<text id="322063">チームセッションが出撃中のため参加できませんでした</text>
+<text id="322100">チームセッションへの参加を待っています</text>
+<text id="322101">チームセッションへの参加を中止しました</text>
+<text id="322102">ダイアログを閉じるまでチームセッションへの参加はできません</text>
+<text id="322103">マルチプレイ中のためチームセッションへの参加を中止しました</text>
+<text id="400003">前回のゲーム終了時に、システムメニューから
+「タイトルに戻る」「デスクトップへ戻る」のいずれかを
+選択していない可能性があります
+
+ゲームを終了するときは、システムメニューから
+「タイトルに戻る」「デスクトップへ戻る」のいずれかを
+選択してください
+
+終了時のゲーム進行状態から、再開されない場合があります</text>
+<text id="401102">セーブデータの作成に失敗しました
+再度作成を試みる場合は「OK」を選択してください</text>
+<text id="401103">セーブデータの読み込みに失敗しました
+再度実行する場合は「OK」を選択してください</text>
+<text id="401104">%null%</text>
+<text id="401105">%null%</text>
+<text id="401106">ゲームの保存に失敗しました
+セーブデータが破損しています</text>
+<text id="401107">セーブデータが破損しています
+破損したセーブデータを削除して、新しく作成しますか？</text>
+<text id="401108">%null%</text>
+<text id="401109">%null%</text>
+<text id="401110">セーブデータを確認しています</text>
+<text id="401111">セーブデータを作成しています</text>
+<text id="401112">セーブデータを更新しています</text>
+<text id="401113">ゲームのバージョンとセーブデータのバージョンが異なっています
+ゲームを終了し、Steam クライアントから
+アップデートファイルを適用してから起動してください</text>
+<text id="401114">%null%</text>
+<text id="401115">%null%</text>
+<text id="401116">%null%</text>
+<text id="401117">%null%</text>
+<text id="401118">%null%</text>
+<text id="401119">%null%</text>
+<text id="401120">ネットワーク接続状態を確認しています</text>
+<text id="401150">ゲームサーバーにログインしています</text>
+<text id="401151">%null%</text>
+<text id="401152">%null%</text>
+<text id="401153">%null%</text>
+<text id="401154">%null%</text>
+<text id="401155">%null%</text>
+<text id="401156">%null%</text>
+<text id="401157">%null%</text>
+<text id="401158">%null%</text>
+<text id="401159">%null%</text>
+<text id="401160">ゲームサーバーからデータを取得しています</text>
+<text id="401161">%null%</text>
+<text id="401162">%null%</text>
+<text id="401163">%null%</text>
+<text id="401164">%null%</text>
+<text id="401165">ゲームサーバーにデータを登録しています</text>
+<text id="401166">%null%</text>
+<text id="401167">%null%</text>
+<text id="401168">%null%</text>
+<text id="401169">%null%</text>
+<text id="401170">オフラインモードで開始します
+
+ネットワーク機能を使用するには
+通信環境の確認後に
+タイトルメニューで 「LOGIN」 を選択してください</text>
+<text id="401171">タイトル画面に戻ります</text>
+<text id="401172">ELDEN RING NIGHTREIGN Network Test Ver. は
+オンラインでのみプレイ可能です
+タイトル画面に戻ります</text>
+<text id="401201">ネットワークに接続できませんでした
+ネットワーク設定を確認してください</text>
+<text id="401202">ネットワーク接続状態の確認に失敗しました</text>
+<text id="401310">新しい追加コンテンツがインストールされました
+タイトル画面に戻るまで追加コンテンツは反映されません
+タイトル画面に戻る場合は「OK」を選択してください</text>
+<text id="401400">フレームレートに問題を検出しました
+オンラインモードで開始できません
+
+オンラインモードで開始したい場合は
+問題を解決した後にゲームを再起動してください</text>
+<text id="401401">接続に問題が発生しました
+オンラインモードは利用できません</text>
+<text id="401402">接続に問題が発生しました
+タイトル画面に戻ります</text>
+<text id="401403">Epic Online Servicesとの通信に失敗しました：&lt;?errcodeEOS?&gt;
+オンラインモードは利用できません</text>
+<text id="401404">Steamworksとの通信に失敗しました：&lt;?errcodeSteam?&gt;
+オンラインモードは利用できません</text>
+<text id="401405">Epic Online Servicesとの通信に失敗しました：&lt;?errcodeEOS?&gt;
+タイトル画面に戻ります</text>
+<text id="401502">現在、あなたのプロフィールは
+ゲームサーバーのサービス利用を停止されています</text>
+<text id="401503">ゲームサーバーへのログインに失敗しました
+再度ログインを試みる場合は「OK」を選択してください</text>
+<text id="401504">新しいバージョンのアップデートファイルが存在します
+オンラインでプレイするためには
+アップデートファイルを更新してから再起動してください</text>
+<text id="401505">メンテナンス中もしくはサーバー停止中のため
+ゲームサーバーにログインできません</text>
+<text id="401506">%null%</text>
+<text id="401507">VAC（Valve Anti-Cheat）により不正行為が検出されたアカウントです
+ゲームサーバーのサービスを利用することができません</text>
+<text id="401601">INFORMATION の取得に失敗しました
+再度取得を試みる場合は「OK」を選択してください</text>
+<text id="401701">プロファイルをこれ以上作成することはできません
+すでにあるプロファイルを削除して、新規作成しますか？</text>
+<text id="401721">セーブデータの読み込みに失敗しました
+セーブデータが破損しています</text>
+<text id="401722">%null%</text>
+<text id="401723">%null%</text>
+<text id="401724">%null%</text>
+<text id="401725">%null%</text>
+<text id="401726">%null%</text>
+<text id="401727">%null%</text>
+<text id="401728">%null%</text>
+<text id="401729">%null%</text>
+<text id="401730">%null%</text>
+<text id="401731">オンラインでプレイするための
+キャラクター情報の設定に失敗しました</text>
+<text id="401820">セッションへの復帰を確認しています</text>
+<text id="401821">既にセッションが解散しています
+プレイしていたセッションへ復帰できませんでした</text>
+<text id="401822">プレイしていたセッションが見つかりました
+セッションへ復帰する場合は「OK」を選択してください
+
+復帰しなかった場合、一時的に
+マルチプレイの制限がかかる場合があります</text>
+<text id="401823">セッションへの復帰に失敗しました
+再度復帰を試みる場合は「OK」を選択してください</text>
+<text id="401824">オンラインに接続できないため
+プレイしていたセッションへ復帰できませんでした
+セッションへ復帰するため、オンラインモードへ変更しますか？
+
+オフラインモードで開始すると
+プレイしていたセッションへ復帰できなくなります
+また、一時的にマルチプレイの制限がかかる場合があります</text>
+<text id="401825">既にセッションが解散しています
+プレイしていたセッションへ復帰できませんでした
+
+タイトル画面に戻ります</text>
+<text id="401826">プレイしていたセッションが見つかりました
+セッションへ復帰する場合は「OK」を選択してください</text>
+<text id="401827">マルチプレイを正常に開始できなかったため
+セッションへ復帰できませんでした
+
+また、他プレイヤーへの迷惑行為になる可能性があるため
+ペナルティが課されました</text>
+<text id="401991">エラーが発生しました
+タイトル画面に戻ります</text>
+<text id="506030">Steamとの接続が切断されています
+出撃できません</text>
+<text id="606001">同意する</text>
+<text id="606002">同意しない</text>
+</entries>
+</fmg>

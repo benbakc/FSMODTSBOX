@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2700430">&lt;?leaveName?&gt; has left this world</text>
+<text id="2701430">A connection error occurred.
+Leaving this world.</text>
+<text id="3000002">%null%</text>
+</entries>
+</fmg>

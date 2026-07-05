@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+  <compression>None</compression>
+  <version>DarkSouls3</version>
+  <bigendian>False</bigendian>
+  <entries>
+    <text id="8360000">究極技の自動チャージが高速化する</text>
+    <text id="8970040">Conceals oneself when faced with threats to life, neutralizing all attacks</text>
+    <text id="8970041">%null%</text>
+    <text id="8970042">%null%</text>
+    <text id="8970043">%null%</text>
+    <text id="8970044">%null%</text>
+    <text id="8970045">%null%</text>
+    <text id="8970046">%null%</text>
+    <text id="8970047">%null%</text>
+    <text id="8970048">%null%</text>
+    <text id="8970049">%null%</text>
+    <text id="8970050">Successive attacks restore stamina and hasten stamina recovery for self and nearby allies</text>
+    <text id="8970051">%null%</text>
+    <text id="8970052">%null%</text>
+    <text id="8970053">%null%</text>
+    <text id="8970054">%null%</text>
+    <text id="8970055">%null%</text>
+    <text id="8970056">%null%</text>
+    <text id="8970057">%null%</text>
+    <text id="8970058">%null%</text>
+    <text id="8970059">%null%</text>
+    <text id="8970060">Rise from near-death unaided on occasion. Attack power
+increases after rising from near-death.</text>
+    <text id="9990000">究極技の自動チャージが高速化する</text>
+    <text id="9990021">Increases max HP. Attacks after receiving damage partially recover HP.</text>
+    <text id="9990050">結晶の呪いを解き、聖なる瓶が尽きた際に技ゲージを強化する</text>
+    <text id="9990051">%null%</text>
+    <text id="9990052">%null%</text>
+    <text id="9990053">%null%</text>
+    <text id="9990054">%null%</text>
+    <text id="9990055">%null%</text>
+    <text id="9990056">%null%</text>
+    <text id="9990057">%null%</text>
+    <text id="9990058">%null%</text>
+    <text id="9990059">%null%</text>
+    <text id="9990060">究極技の自動チャージが高速化し、セッション終了後に追加の闇を受ける</text>
+    <text id="10001000">A worn leather monocle case</text>
+    <text id="10001001">Core extracted from the Scholar</text>
+    <text id="10001002">A Night-smirched clear crystal</text>
+    <text id="10001003">A royal family vassal's journal</text>
+    <text id="10001004">Fast-acting Albinauric medicine</text>
+    <text id="10001005">Returned leather monocle case</text>
+    <text id="10001006">Headband worn by the denizens of the lands of Gold</text>
+    <text id="10001007">A note written by the Scholar</text>
+    <text id="10001008">Primordial Nightlord's torn finger</text>
+  </entries>
+</fmg>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+  <compression>None</compression>
+  <version>DarkSouls3</version>
+  <bigendian>False</bigendian>
+  <entries>
+    <text id="8320500">Enhances melee attack power of weapons</text>
+    <text id="8320600">Enhances attack power of dash attacks</text>
+    <text id="8320700">Enhances attack power of attacks executed after rolling or backstepping</text>
+    <text id="8360000">奥義の自動チャージ速度が向上する</text>
+    <text id="8880000">Charge attacks produce ice storm.
+Weapon coated with frost.</text>
+    <text id="8880200">Charge attacks produce black flames.
+Weapon coated with black flame.</text>
+    <text id="8880300">Charge attacks trigger phantom attack</text>
+    <text id="8881000">Charge attacks produce a golden shockwave.
+Weapon coated with holy.</text>
+    <text id="8881200">Charge attacks pull in enemies</text>
+    <text id="8881500">Charge attacks produce magma.
+Weapon coated with fire.</text>
+    <text id="8882100">Charge attacks produce a bolt of lightning.
+Weapon coated with lightning.</text>
+    <text id="8882500">Charge attacks release sleep-inducing mist.
+Weapon coated with sleep.</text>
+    <text id="8885200">Continued guarding gradually enhances potency of sorceries and incantations and casting speed</text>
+    <text id="9990900">The Scholar's grief enhances intelligence and arcane</text>
+    <text id="9991000">The Undertaker's grief enhances strength and faith</text>
+  </entries>
+</fmg>

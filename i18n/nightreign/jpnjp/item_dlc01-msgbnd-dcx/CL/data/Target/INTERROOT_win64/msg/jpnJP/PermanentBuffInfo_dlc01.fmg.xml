@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="8360000">戦闘中のアーツゲージ自然蓄積を速める</text>
+<text id="8970040">命が危機に瀕する時、自身の姿を隠し
+短時間あらゆる攻撃を無効化する</text>
+<text id="8970041">%null%</text>
+<text id="8970042">%null%</text>
+<text id="8970043">%null%</text>
+<text id="8970044">%null%</text>
+<text id="8970045">%null%</text>
+<text id="8970046">%null%</text>
+<text id="8970047">%null%</text>
+<text id="8970048">%null%</text>
+<text id="8970049">%null%</text>
+<text id="8970050">攻撃連続時、周囲の味方を含めて
+スタミナを回復し、スタミナ回復速度上昇</text>
+<text id="8970051">%null%</text>
+<text id="8970052">%null%</text>
+<text id="8970053">%null%</text>
+<text id="8970054">%null%</text>
+<text id="8970055">%null%</text>
+<text id="8970056">%null%</text>
+<text id="8970057">%null%</text>
+<text id="8970058">%null%</text>
+<text id="8970059">%null%</text>
+<text id="8970060">瀕死時、稀に自らの力で立ち上がり
+救助された時、攻撃力が高まる</text>
+<text id="9990000">アーツゲージ自然蓄積を速める</text>
+<text id="9990021">ＨＰ最大値を上昇させる
+攻撃により受けたダメージの一部を回復する</text>
+<text id="9990050">結晶の呪気を無効化し
+聖杯瓶がゼロになる時、アーツゲージ増加</text>
+<text id="9990051">%null%</text>
+<text id="9990052">%null%</text>
+<text id="9990053">%null%</text>
+<text id="9990054">%null%</text>
+<text id="9990055">%null%</text>
+<text id="9990056">%null%</text>
+<text id="9990057">%null%</text>
+<text id="9990058">%null%</text>
+<text id="9990059">%null%</text>
+<text id="9990060">アーツゲージ自然蓄積を速める
+また、勝敗後にマークを追加で得る</text>
+<text id="10001000">片眼鏡を収納する使い込まれた革袋</text>
+<text id="10001001">学者の体内にあった核</text>
+<text id="10001002">夜が滲む透き通った結晶</text>
+<text id="10001003">ある王家に仕える男が記した日誌</text>
+<text id="10001004">しろがね人を襲った流行り病の特効薬</text>
+<text id="10001005">返却された片眼鏡の収納袋</text>
+<text id="10001006">黄金の地の住人が身に着けていた冠</text>
+<text id="10001007">学者が書き記した調査記録</text>
+<text id="10001008">原初の夜の王から千切り取られた指</text>
+</entries>
+</fmg>

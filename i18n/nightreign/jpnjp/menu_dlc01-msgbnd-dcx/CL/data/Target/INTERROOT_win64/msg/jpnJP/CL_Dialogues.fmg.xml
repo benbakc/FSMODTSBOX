@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">CANCEL</text>
+<text id="3">YES</text>
+<text id="4">NO</text>
+<text id="15">リトライ</text>
+<text id="16">続ける</text>
+<text id="17">タイトル画面に戻る</text>
+<text id="40200">必要なルーンが不足しています</text>
+<text id="40201">%null%</text>
+<text id="40202">%null%</text>
+<text id="40203">%null%</text>
+<text id="40204">%null%</text>
+<text id="40205">%null%</text>
+<text id="40206">%null%</text>
+<text id="40207">%null%</text>
+<text id="40208">%null%</text>
+<text id="40209">%null%</text>
+<text id="40210">限定数以上は購入できません</text>
+<text id="40300">設定を初期状態に戻します
+よろしいですか？</text>
+<text id="40500">すべての設定を初期状態に戻します
+よろしいですか？</text>
+<text id="110000">ゲームを保存して、タイトル画面に戻ります
+よろしいですか？</text>
+<text id="110001">セッション進行中にタイトル画面に戻ると、ペナルティが課されます
+よろしいですか？</text>
+<text id="110002">セッションから離脱して、タイトル画面に戻ります
+よろしいですか？</text>
+<text id="110003">セッションから離脱して、タイトル画面に戻ります
+よろしいですか？
+
+セッションから離脱した場合、個人的な目標の進行状況は破棄されます</text>
+<text id="110004">セッション進行中にタイトル画面に戻ると
+現在の進行度で深き夜のレートが変動します
+よろしいですか？
+
+※他プレイヤーの離脱が発生したため
+　レートの減少は緩和されます</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">ゲームを保存して、デスクトップに戻ります
+よろしいですか？</text>
+<text id="110011">セッション進行中にデスクトップに戻ると、ペナルティが課されます
+よろしいですか？</text>
+<text id="110012">セッションから離脱して、デスクトップに戻ります
+よろしいですか？</text>
+<text id="110013">セッションから離脱して、デスクトップに戻ります
+よろしいですか？
+
+セッションから離脱した場合、個人的な目標の進行状況は破棄されます</text>
+<text id="110014">セッション進行中にデスクトップに戻ると
+現在の進行度で深き夜のレートが変動します
+よろしいですか？
+
+※他プレイヤーの離脱が発生したため
+　レートの減少は緩和されます</text>
+<text id="110015">%null%</text>
+<text id="110016">%null%</text>
+<text id="110017">%null%</text>
+<text id="110018">%null%</text>
+<text id="110019">%null%</text>
+<text id="110020">チュートリアルを終了します
+よろしいですか？
+
+※あとで再度プレイ可能です</text>
+<text id="110021">%null%</text>
+<text id="110022">%null%</text>
+<text id="110023">%null%</text>
+<text id="110024">%null%</text>
+<text id="110025">%null%</text>
+<text id="110026">%null%</text>
+<text id="110027">%null%</text>
+<text id="110028">%null%</text>
+<text id="110029">%null%</text>
+<text id="110030">戦闘を中断して、円卓に移動します
+よろしいですか？</text>
+<text id="110031">%null%</text>
+<text id="110032">%null%</text>
+<text id="110033">%null%</text>
+<text id="110034">%null%</text>
+<text id="110035">%null%</text>
+<text id="110036">%null%</text>
+<text id="110037">%null%</text>
+<text id="110038">%null%</text>
+<text id="110039">%null%</text>
+<text id="110040">戦闘を中断します
+よろしいですか？</text>
+<text id="110041">%null%</text>
+<text id="110042">%null%</text>
+<text id="110043">%null%</text>
+<text id="110044">%null%</text>
+<text id="110045">%null%</text>
+<text id="110046">%null%</text>
+<text id="110047">%null%</text>
+<text id="110048">%null%</text>
+<text id="110049">%null%</text>
+<text id="110050">追憶を中断します
+よろしいですか？</text>
+<text id="110051">%null%</text>
+<text id="110052">%null%</text>
+<text id="110053">%null%</text>
+<text id="110054">%null%</text>
+<text id="110055">%null%</text>
+<text id="110056">%null%</text>
+<text id="110057">%null%</text>
+<text id="110058">%null%</text>
+<text id="110059">%null%</text>
+<text id="110060">追憶を中断して、円卓に移動します
+よろしいですか？</text>
+<text id="110061">%null%</text>
+<text id="110062">%null%</text>
+<text id="110063">%null%</text>
+<text id="110064">%null%</text>
+<text id="110065">%null%</text>
+<text id="110066">%null%</text>
+<text id="110067">%null%</text>
+<text id="110068">%null%</text>
+<text id="110069">%null%</text>
+<text id="110070">追憶を終了して、プレイキャラクターを
+&lt;?DisplayHero?&gt;に変更しますか？</text>
+<text id="110071">%null%</text>
+<text id="110072">%null%</text>
+<text id="110073">%null%</text>
+<text id="110074">%null%</text>
+<text id="110075">%null%</text>
+<text id="110076">%null%</text>
+<text id="110077">%null%</text>
+<text id="110078">%null%</text>
+<text id="110079">%null%</text>
+<text id="110080">追憶を中断して、プレイキャラクターを
+&lt;?DisplayHero?&gt;に変更しますか？</text>
+<text id="110316">言語を変更したい場合は
+タイトル画面に戻って設定してください</text>
+<text id="110570">現在の演出をスキップして次のシーンに進みます
+よろしいですか？</text>
+<text id="111100">設定を変更しました
+&lt;?remainingSec?&gt;秒後に元の設定に戻します
+現在の設定を反映しますか？</text>
+<text id="111101">現在の設定を反映しますか？</text>
+<text id="111102">一部の設定は、タイトル画面に戻るまで反映されません</text>
+<text id="111103">この項目はタイトルの再起動後に反映されます</text>
+<text id="111104">設定を変更しました
+&lt;?remainingSec?&gt;秒後に元の設定に戻します
+現在の設定を反映しますか？</text>
+<text id="111105">一部の設定は、タイトル画面に戻るまで反映されません</text>
+<text id="111106">HDRをOFFに変更しました</text>
+<text id="111107">HDRをONに変更しました</text>
+<text id="111108">%null%</text>
+<text id="111109">%null%</text>
+<text id="111110">変更が反映されていない設定があります
+変更を反映するには、一度タイトル画面に戻ってください</text>
+<text id="130000">深き夜のレートを０まで下げます
+一度下げたレートは元には戻せません
+
+本当によろしいですか？</text>
+<text id="130001">深き夜のレートを１つ下の深度の中間値まで下げます
+一度下げたレートは元には戻せません
+
+本当によろしいですか？</text>
+<text id="134000">操作キャラクターを
+&lt;?DisplayHero?&gt;に変更しますか？</text>
+<text id="136000">同じ遺物は同時に配置できません</text>
+<text id="136001">%null%</text>
+<text id="136002">売却するものが選択されていません</text>
+<text id="136003">操作を行うと実行中の内容が破棄されます
+よろしいですか？</text>
+<text id="136004">&lt;?itemName?&gt; を&lt;?sellLobbyCurrency?&gt;マークで売却します
+よろしいですか？</text>
+<text id="136005">選択中の遺物 を合計&lt;?sellLobbyCurrency?&gt;マークで売却します
+よろしいですか？</text>
+<text id="136006">&lt;?itemName?&gt; を&lt;?sellLobbyCurrency?&gt;マークで売却すると
+所持マークの所持上限を超過します
+所持上限以上のマークは失われますが、それでも売却しますか？</text>
+<text id="136007">選択中の遺物 を合計&lt;?sellLobbyCurrency?&gt;マークで売却すると
+所持マークの所持上限を超過します
+所持上限以上のマークは失われますが、それでも売却しますか？</text>
+<text id="136008">売却できません
+配置中、またはお気に入り登録された遺物が含まれています</text>
+<text id="136009">選択中のプリセットを適用します
+現在の配置状況は失われます
+よろしいですか？</text>
+<text id="136010">選択中のプリセットを削除します
+よろしいですか？</text>
+<text id="136011">プリセットの保存上限に達しています
+これ以上保存できません</text>
+<text id="136012">プリセットを保存しました</text>
+<text id="136013">競合する効果があったため、無効になった効果があります</text>
+<text id="138160">チュートリアルの再プレイを開始します
+よろしいですか？</text>
+<text id="138161">マッチング中またはチームに参加中のため
+現在チュートリアルの再プレイは行えません</text>
+<text id="138200">オフラインモードでは戦果履歴を表示できません</text>
+<text id="138262">追憶中のため、現在チュートリアルの再プレイは行えません</text>
+<text id="140000">マッチング中のため追憶の終了は行えません</text>
+<text id="140001">マッチング中のため追憶の中断は行えません</text>
+<text id="140100">追憶を開始します
+よろしいですか？</text>
+<text id="140101">追憶を終了します
+よろしいですか？</text>
+<text id="140102">追憶を中断します
+よろしいですか？</text>
+<text id="140103">追憶を再開します
+よろしいですか？</text>
+<text id="142000">&lt;?itemName?&gt;を
+&lt;?buyLobbyCurrency?&gt;マークで購入します</text>
+<text id="142020">必要なマークが不足しています</text>
+<text id="142021">%null%</text>
+<text id="142022">%null%</text>
+<text id="142023">%null%</text>
+<text id="142024">%null%</text>
+<text id="142025">%null%</text>
+<text id="142026">%null%</text>
+<text id="142027">%null%</text>
+<text id="142028">%null%</text>
+<text id="142029">%null%</text>
+<text id="142030">&lt;?itemName?&gt;を
+王の証&lt;?buyCampaignCurrency?&gt;と交換します</text>
+<text id="144000">装備をキャラクター初期状態に戻します
+よろしいですか？</text>
+<text id="146000">足跡データの読み込みに失敗しました</text>
+<text id="146001">古い戦果は効果詳細を表示できません</text>
+<text id="146002">%null%</text>
+<text id="146003">%null%</text>
+<text id="146004">%null%</text>
+<text id="146005">%null%</text>
+<text id="146006">%null%</text>
+<text id="146007">%null%</text>
+<text id="146008">%null%</text>
+<text id="146009">%null%</text>
+<text id="146010">通信しています</text>
+<text id="146011">%null%</text>
+<text id="146012">%null%</text>
+<text id="146013">%null%</text>
+<text id="146014">%null%</text>
+<text id="146015">%null%</text>
+<text id="146016">%null%</text>
+<text id="146017">%null%</text>
+<text id="146018">%null%</text>
+<text id="146019">%null%</text>
+<text id="146020">他プレイヤーの離脱が発生したため
+レートの減少が緩和されました</text>
+<text id="146100">選択した内容で通報します</text>
+<text id="146101">%null%</text>
+<text id="146102">%null%</text>
+<text id="146103">%null%</text>
+<text id="146104">%null%</text>
+<text id="146105">%null%</text>
+<text id="146106">%null%</text>
+<text id="146107">%null%</text>
+<text id="146108">%null%</text>
+<text id="146109">%null%</text>
+<text id="146110">選択した内容で通報します
+よろしいですか？</text>
+<text id="146111">%null%</text>
+<text id="146112">%null%</text>
+<text id="146113">%null%</text>
+<text id="146114">%null%</text>
+<text id="146115">%null%</text>
+<text id="146116">%null%</text>
+<text id="146117">%null%</text>
+<text id="146118">%null%</text>
+<text id="146119">%null%</text>
+<text id="146120">通信しています</text>
+<text id="146121">%null%</text>
+<text id="146122">%null%</text>
+<text id="146123">%null%</text>
+<text id="146124">%null%</text>
+<text id="146125">%null%</text>
+<text id="146126">%null%</text>
+<text id="146127">%null%</text>
+<text id="146128">%null%</text>
+<text id="146129">%null%</text>
+<text id="146130">通報が完了しました
+
+詳細情報を提供される際は下記の通報IDをお控えいただき
+弊社ユーザーサポート お問合せフォームからご連絡ください
+
+通報ID：&lt;?reportId?&gt;																						</text>
+<text id="146199">通信に失敗しました</text>
+<text id="146200">サーバーからデータを取得できませんでした</text>
+<text id="150000">お気に入り登録できる戦果履歴の上限に達しています
+新しくお気に入り登録する場合は
+既存のお気に入りを解除してから、もう一度行ってください</text>
+<text id="152000">&lt;?itemName?&gt;を
+王の証&lt;?buySpecialCurrency?&gt;と交換します</text>
+<text id="152001">%null%</text>
+<text id="152002">%null%</text>
+<text id="152003">%null%</text>
+<text id="152004">%null%</text>
+<text id="152005">%null%</text>
+<text id="152006">%null%</text>
+<text id="152007">%null%</text>
+<text id="152008">%null%</text>
+<text id="152009">%null%</text>
+<text id="152010">必要な王の証が不足しています</text>
+<text id="231000">&lt;?itemName?&gt;を
+&lt;?demandSoul?&gt;ルーンで購入します</text>
+<text id="231020">所持上限を超えてしまうため、購入できません</text>
+<text id="280001">すべての設定を初期状態に戻します
+よろしいですか？</text>
+<text id="280002">ゲームオプションの設定を初期状態に戻します
+よろしいですか？</text>
+<text id="280003">カメラオプションの設定を初期状態に戻します
+よろしいですか？</text>
+<text id="280004">表示の設定を初期状態に戻します
+よろしいですか？</text>
+<text id="280005">音響の設定を初期状態に戻します
+よろしいですか？</text>
+<text id="280006">ネットワーク設定を初期状態に戻します
+よろしいですか？</text>
+<text id="280007">%null%</text>
+<text id="280008">キーボード／マウス設定を初期状態に戻します
+よろしいですか？</text>
+<text id="280009">グラフィック設定を初期状態に戻します
+よろしいですか？</text>
+<text id="280010">キー設定を初期状態に戻します
+よろしいですか？</text>
+<text id="280011">輝度調整を初期状態に戻します
+よろしいですか？</text>
+<text id="280012">画質調整を初期状態に戻します
+よろしいですか？</text>
+<text id="280013">グラフィックの詳細設定を初期状態に戻します
+よろしいですか？</text>
+<text id="290004">キャラクター情報の保存に失敗しました</text>
+<text id="290100">このボタンは地図操作に割り当てできません</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="401702">以下のプレイヤー名称で開始します
+&lt;?InsertName?&gt;</text>
+<text id="401703">プレイヤー名称を初期状態へ戻します
+よろしいですか？</text>
+<text id="404010">設定内容を破棄して、前の画面に戻ります
+よろしいですか？</text>
+<text id="404011">%null%</text>
+<text id="404012">%null%</text>
+<text id="404013">%null%</text>
+<text id="404014">%null%</text>
+<text id="404015">%null%</text>
+<text id="404016">%null%</text>
+<text id="404017">%null%</text>
+<text id="404018">%null%</text>
+<text id="404019">%null%</text>
+<text id="404020">HDR設定がONの場合
+ゲーム内メインメニューのシステムメニューでのみ
+画質を調整することができます</text>
+<text id="406011">選択したプロファイルで開始します</text>
+<text id="406012">選択したプロファイルを削除して
+新たにゲームを始めますか？</text>
+<text id="406013">選択したプロファイルを削除します
+よろしいですか？</text>
+<text id="506011">マッチングが中断されました</text>
+<text id="506012">マッチングを中断しますか？</text>
+<text id="506013">%null%</text>
+<text id="506014">マルチプレイ合言葉履歴が存在しません</text>
+<text id="506015">グループ合言葉履歴が存在しません</text>
+<text id="506016">%null%</text>
+<text id="506017">出撃待ちをキャンセルしました</text>
+<text id="506018">出撃待ちをキャンセルしますか？</text>
+<text id="506019">%null%</text>
+<text id="506020">マッチングに失敗しました</text>
+<text id="506021">マッチングに失敗しました
+セッション作成に失敗しました</text>
+<text id="506022">マッチングに失敗しました
+セッション参加に失敗しました</text>
+<text id="506023">オフラインモードではマルチプレイができません
+マッチング設定の出撃人数から「１人」を選択してください</text>
+<text id="506024">オフラインモードでは深き夜へ出撃できません</text>
+<text id="506025">%null%</text>
+<text id="506026">%null%</text>
+<text id="506027">%null%</text>
+<text id="506028">%null%</text>
+<text id="506029">%null%</text>
+<text id="506030">Steamとの接続が切断されています
+出撃できません</text>
+<text id="506031">%null%</text>
+<text id="506032">%null%</text>
+<text id="506033">%null%</text>
+<text id="506034">%null%</text>
+<text id="506035">%null%</text>
+<text id="506036">%null%</text>
+<text id="506037">%null%</text>
+<text id="506038">%null%</text>
+<text id="506039">%null%</text>
+<text id="506040">ゲームのインストールが完了していないため
+出撃することはできません</text>
+<text id="506041">%null%</text>
+<text id="506042">%null%</text>
+<text id="506043">%null%</text>
+<text id="506044">%null%</text>
+<text id="506045">%null%</text>
+<text id="506046">%null%</text>
+<text id="506047">%null%</text>
+<text id="506048">%null%</text>
+<text id="506049">%null%</text>
+<text id="506050">チームが解散されました</text>
+<text id="506051">チームを解散しますか？</text>
+<text id="506052">チームを離脱しました</text>
+<text id="506053">チームを離脱しますか？</text>
+<text id="506054">チームの作成に失敗しました</text>
+<text id="506055">チームへの参加に失敗しました</text>
+<text id="506056">%null%</text>
+<text id="506057">%null%</text>
+<text id="506058">%null%</text>
+<text id="506059">%null%</text>
+<text id="506060">マルチプレイの開始に失敗しました
+マッチングメンバーと接続できませんでした
+円卓に戻ります</text>
+<text id="506061">%null%</text>
+<text id="506062">%null%</text>
+<text id="506063">%null%</text>
+<text id="506064">%null%</text>
+<text id="506065">%null%</text>
+<text id="506066">%null%</text>
+<text id="506067">%null%</text>
+<text id="506068">%null%</text>
+<text id="506069">%null%</text>
+<text id="506070">遺物が所持上限を超えているため、出撃できません
+遺物儀式メニューから売却してください</text>
+<text id="506100">マルチプレイ合言葉履歴</text>
+<text id="506101">グループ合言葉履歴</text>
+<text id="620100">本製品は開発中のため、機能の一部
+（Xbox ネットワークを利用したネットワーク機能を含む)が
+適切に動作しなかったり、強制終了する可能性があります
+
+また、本製品はサポートの対象外となります
+あらかじめご了承ください</text>
+<text id="620101">%null%</text>
+<text id="620102">%null%</text>
+<text id="620103">%null%</text>
+<text id="620104">%null%</text>
+<text id="620105">%null%</text>
+<text id="620106">%null%</text>
+<text id="620107">%null%</text>
+<text id="620108">%null%</text>
+<text id="620109">%null%</text>
+<text id="620110">本製品は、製品版とは以下の動作が異なります
+・ネットワーク環境が無い場合はプレイすることができません</text>
+<text id="700000">追憶を中断します
+よろしいですか？</text>
+<text id="700001">%null%</text>
+<text id="700002">%null%</text>
+<text id="700003">%null%</text>
+<text id="700004">%null%</text>
+<text id="700005">%null%</text>
+<text id="700006">%null%</text>
+<text id="700007">%null%</text>
+<text id="700008">%null%</text>
+<text id="700009">%null%</text>
+<text id="700010">追憶を中断して、円卓に移動します
+よろしいですか？</text>
+<text id="700011">%null%</text>
+<text id="700012">%null%</text>
+<text id="700013">%null%</text>
+<text id="700014">%null%</text>
+<text id="700015">%null%</text>
+<text id="700016">%null%</text>
+<text id="700017">%null%</text>
+<text id="700018">%null%</text>
+<text id="700019">%null%</text>
+<text id="700020">追憶を中断して、プレイキャラクターを
+&lt;?DisplayHero?&gt;に変更しますか？</text>
+<text id="20002002">はい</text>
+<text id="20002003">いいえ</text>
+<text id="21012001">食べる</text>
+<text id="21012002">食べない</text>
+<text id="21032001">はい</text>
+<text id="21032002">いいえ</text>
+<text id="21082001">受け入れる</text>
+<text id="21082002">拒絶する</text>
+<text id="22092010">手に取る</text>
+<text id="22092011">手に取らない</text>
+<text id="23092013">はい</text>
+<text id="23092014">いいえ</text>
+<text id="23112000">排除する</text>
+<text id="23112001">見逃す</text>
+<text id="26092000">はい</text>
+<text id="26092001">いいえ</text>
+</entries>
+</fmg>

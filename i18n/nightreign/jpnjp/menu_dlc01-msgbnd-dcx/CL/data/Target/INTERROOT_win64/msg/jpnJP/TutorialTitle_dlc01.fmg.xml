@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="252910">探究</text>
+<text id="302100">新規キャラクター「学者」</text>
+<text id="302101">%null%</text>
+<text id="302102">%null%</text>
+<text id="302103">%null%</text>
+<text id="302104">%null%</text>
+<text id="302105">%null%</text>
+<text id="302106">%null%</text>
+<text id="302107">%null%</text>
+<text id="302108">%null%</text>
+<text id="302109">%null%</text>
+<text id="302110">新規キャラクター「葬儀屋」</text>
+<text id="403147">地図：武器やアイテムの入手傾向　その２</text>
+<text id="403240">地図：攻略拠点　その４</text>
+<text id="403241">%null%</text>
+<text id="403242">%null%</text>
+<text id="403243">%null%</text>
+<text id="403244">%null%</text>
+<text id="403245">%null%</text>
+<text id="403246">%null%</text>
+<text id="403247">%null%</text>
+<text id="403248">%null%</text>
+<text id="403249">%null%</text>
+<text id="403250">地図：攻略拠点　その５</text>
+<text id="403440">地変：大空洞</text>
+<text id="403460">戦技変更メニュー</text>
+<text id="403461">%null%</text>
+<text id="403462">%null%</text>
+<text id="403463">%null%</text>
+<text id="403464">%null%</text>
+<text id="403465">%null%</text>
+<text id="403466">%null%</text>
+<text id="403467">%null%</text>
+<text id="403468">%null%</text>
+<text id="403469">%null%</text>
+<text id="403470">潜在する力</text>
+</entries>
+</fmg>

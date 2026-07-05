@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="8500">从初始黑夜王身上扯下来的手指。
+手指毫无血色，充满浓密的黑夜。
+
+送葬者怀抱着一线希望，
+心想自己终于能摆脱笼罩全身的不祥力量──
+
+然而梦想终究只是美梦一场。
+那么，至少得用此物慰藉自己的心灵。
+
+黑夜终将结束，但不祥没有结束可言。</text>
+<text id="9660">%null%</text>
+<text id="9900">%null%</text>
+<text id="9901">%null%</text>
+<text id="9902">%null%</text>
+<text id="9903">%null%</text>
+<text id="9904">%null%</text>
+<text id="9905">%null%</text>
+<text id="9906">%null%</text>
+<text id="9907">%null%</text>
+<text id="9908">%null%</text>
+<text id="9909">%null%</text>
+<text id="9910">%null%</text>
+<text id="9911">%null%</text>
+<text id="9912">%null%</text>
+<text id="9913">%null%</text>
+<text id="9914">%null%</text>
+<text id="11027">沐浴在黄金树恩惠的大地中，
+历时悠久形成的结晶露滴。
+
+能净化倒数诅咒──
+“鲜血君王”恐怖的鲜血仪式。</text>
+<text id="40800">%null%</text>
+<text id="40801">%null%</text>
+<text id="40802">%null%</text>
+<text id="40803">%null%</text>
+<text id="40804">%null%</text>
+<text id="40805">%null%</text>
+<text id="40806">%null%</text>
+<text id="40807">%null%</text>
+<text id="40808">%null%</text>
+<text id="40809">%null%</text>
+<text id="40810">能获得服装“黎明”</text>
+<text id="40811">%null%</text>
+<text id="40812">%null%</text>
+<text id="40813">%null%</text>
+<text id="40814">%null%</text>
+<text id="40815">%null%</text>
+<text id="40816">%null%</text>
+<text id="40817">%null%</text>
+<text id="40818">%null%</text>
+<text id="40819">%null%</text>
+<text id="40820">能获得服装“黑暗”</text>
+<text id="40821">%null%</text>
+<text id="40822">%null%</text>
+<text id="40823">%null%</text>
+<text id="40824">%null%</text>
+<text id="40825">%null%</text>
+<text id="40826">%null%</text>
+<text id="40827">%null%</text>
+<text id="40828">%null%</text>
+<text id="40829">%null%</text>
+<text id="40830">%null%</text>
+<text id="40850">能获得服装“教诲师”</text>
+<text id="40851">%null%</text>
+<text id="40852">%null%</text>
+<text id="40853">%null%</text>
+<text id="40854">%null%</text>
+<text id="40855">%null%</text>
+<text id="40856">%null%</text>
+<text id="40857">%null%</text>
+<text id="40858">%null%</text>
+<text id="40859">%null%</text>
+<text id="40860">能获得服装“黄衣”</text>
+<text id="40900">%null%</text>
+<text id="40901">%null%</text>
+<text id="40902">%null%</text>
+<text id="40903">%null%</text>
+<text id="40904">%null%</text>
+<text id="40905">%null%</text>
+<text id="40906">%null%</text>
+<text id="40907">%null%</text>
+<text id="40908">%null%</text>
+<text id="40909">%null%</text>
+<text id="40910">能获得服装“黎明”</text>
+<text id="40911">%null%</text>
+<text id="40912">%null%</text>
+<text id="40913">%null%</text>
+<text id="40914">%null%</text>
+<text id="40915">%null%</text>
+<text id="40916">%null%</text>
+<text id="40917">%null%</text>
+<text id="40918">%null%</text>
+<text id="40919">%null%</text>
+<text id="40920">能获得服装“黑暗”</text>
+<text id="40921">%null%</text>
+<text id="40922">%null%</text>
+<text id="40923">%null%</text>
+<text id="40924">%null%</text>
+<text id="40925">%null%</text>
+<text id="40926">%null%</text>
+<text id="40927">%null%</text>
+<text id="40928">%null%</text>
+<text id="40929">%null%</text>
+<text id="40930">%null%</text>
+<text id="40950">能获得服装“黄铜”</text>
+<text id="40951">%null%</text>
+<text id="40952">%null%</text>
+<text id="40953">%null%</text>
+<text id="40954">%null%</text>
+<text id="40955">%null%</text>
+<text id="40956">%null%</text>
+<text id="40957">%null%</text>
+<text id="40958">%null%</text>
+<text id="40959">%null%</text>
+<text id="40960">能获得服装“王的先锋”</text>
+<text id="10001000">用来收纳单眼镜，经过长期使用的皮革袋。
+上头有皱折与擦伤，证明学者很常使用它。
+
+学者将此物托付给送葬者，以证明自己不在人世。
+对为人真诚的他而言，那是用于道别的话语。
+
+　我……我该怎么做才好？</text>
+<text id="10001001">从学者身体拔出的原核。
+上头布满血管纹路的银色器官。
+
+尽管失去了紧密相连的肉体，器官依旧在跳动，
+并且迫不及待地想要培育全新的身体。
+
+这个器官无疑证明了
+学者是不同于其他人的存在。</text>
+<text id="10001002">学者给予的透明结晶。
+上面浮现的黑夜纹路像是在摇曳晃动。
+
+黑夜宛若得到安宁一般──
+在渗出、扩散后，突然静止不动。
+
+　……只要相信他说的话，
+　或许就再也不用感到害怕了。</text>
+<text id="10001003">某位侍奉王室的男人写下的日记。
+那男人为了探听实际战况，自愿加入了军队。
+
+上头仔细记载着进驻地的军队的情况。
+作战报告上，混杂着潦草的字迹：
+
+　药物、白金之子。</text>
+<text id="10001004">针对侵袭白金之子的流行病，制作的特效药。
+具有去除混入体内的异物的功效。
+
+家臣利用自己进行研究，
+最后完成了药物，用它治疗；
+却无法拯救病入膏肓的自己。
+
+不知道是谁的想法使然──
+疾病与药物，都从历史上消失无踪。</text>
+<text id="10001005">用来收纳学者的单眼镜的皮革袋。
+之前交给送葬者，如今对方归还给自己。
+
+学者在收下皮革袋时，忽地想起──
+那一天师父要他把单眼镜视为旅行良伴，
+并将皮革袋交到自己手上时说的话：
+“这片玻璃，是为了看透真相而存在。”</text>
+<text id="10001006">黄金之地的居民配戴的头冠。
+在交界地广泛流传的服饰之一，
+此为对黄金赐福表达感谢与信奉的证明。
+
+学者很确定──
+编织过去是眼下应当完成的使命。</text>
+<text id="10001007">由学者写下，用来传达给某人的记录。
+上头汇整着发生在宁姆韦德的事件。
+
+这个记录原本该由学者亲自带回去，
+然而，他布满皱纹的脸上却露出一抹微笑──
+彷佛在诉说这是无法实现的愿望。</text>
+</entries>
+</fmg>

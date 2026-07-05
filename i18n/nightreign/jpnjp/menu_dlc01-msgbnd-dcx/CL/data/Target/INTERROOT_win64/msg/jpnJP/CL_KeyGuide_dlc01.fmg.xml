@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="100011">並び順変更</text>
+<text id="101110">戦技の変更</text>
+<text id="101111">戦技を戻す</text>
+<text id="130165">表示切替</text>
+<text id="130166">表示切替</text>
+<text id="130167">表示切替</text>
+<text id="200020">入れ替え</text>
+<text id="320123">名前変更</text>
+</entries>
+</fmg>

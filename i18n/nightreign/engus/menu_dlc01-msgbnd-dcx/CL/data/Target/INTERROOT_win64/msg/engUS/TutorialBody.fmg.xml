@@ -1,0 +1,1460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+  <compression>None</compression>
+  <version>DarkSouls3</version>
+  <bigendian>False</bigendian>
+  <entries>
+    <text id="1">%null%</text>
+    <text id="101090">Hold &lt;?keyicon@106?&gt; + &lt;?keyMove?&gt;: Dash</text>
+    <text id="101110">&lt;?keyicon@112?&gt;: Lock-on to target / Unlock from target
+&lt;?keyControlCamera?&gt; while locked-on: Change target</text>
+    <text id="101111">%null%</text>
+    <text id="101112">%null%</text>
+    <text id="101113">%null%</text>
+    <text id="101114">%null%</text>
+    <text id="101115">%null%</text>
+    <text id="101116">%null%</text>
+    <text id="101117">%null%</text>
+    <text id="101118">%null%</text>
+    <text id="101119">%null%</text>
+    <text id="101120">&lt;?keyicon@119?&gt;: Guard
+&lt;?keyMove?&gt; + &lt;?keyicon@106?&gt;: Dodge</text>
+    <text id="101200">&lt;?keyMove?&gt;: &lt;?keyActName@101?&gt;
+&lt;?keyControlCamera?&gt;: Move camera</text>
+    <text id="101201">%null%</text>
+    <text id="101202">%null%</text>
+    <text id="101203">%null%</text>
+    <text id="101204">%null%</text>
+    <text id="101205">%null%</text>
+    <text id="101206">%null%</text>
+    <text id="101207">%null%</text>
+    <text id="101208">%null%</text>
+    <text id="101209">%null%</text>
+    <text id="101210">&lt;?keyicon@117?&gt;: Attack
+&lt;?keyicon@118?&gt;: Strong attack</text>
+    <text id="101211">%null%</text>
+    <text id="101212">%null%</text>
+    <text id="101213">%null%</text>
+    <text id="101214">%null%</text>
+    <text id="101215">%null%</text>
+    <text id="101216">%null%</text>
+    <text id="101217">%null%</text>
+    <text id="101218">%null%</text>
+    <text id="101219">%null%</text>
+    <text id="101220">&lt;?keyicon@107?&gt;: &lt;?keyActFullName@107?&gt;
+&lt;?keyMove?&gt; while jumping toward ledge: Climb up</text>
+    <text id="101240">&lt;?keyMove?&gt; + &lt;?keyicon@105?&gt;: Surge sprint</text>
+    <text id="101241">%null%</text>
+    <text id="101242">%null%</text>
+    <text id="101243">%null%</text>
+    <text id="101244">%null%</text>
+    <text id="101245">%null%</text>
+    <text id="101246">%null%</text>
+    <text id="101247">%null%</text>
+    <text id="101248">%null%</text>
+    <text id="101249">%null%</text>
+    <text id="101250">&lt;?keyicon@107?&gt; while facing wall during jump : Wall jump</text>
+    <text id="101251">%null%</text>
+    <text id="101252">%null%</text>
+    <text id="101253">%null%</text>
+    <text id="101254">%null%</text>
+    <text id="101255">%null%</text>
+    <text id="101256">%null%</text>
+    <text id="101257">%null%</text>
+    <text id="101258">%null%</text>
+    <text id="101259">%null%</text>
+    <text id="101260">&lt;?keyicon@121?&gt;: &lt;?keyActFullName@121?&gt;</text>
+    <text id="101261">%null%</text>
+    <text id="101262">%null%</text>
+    <text id="101263">%null%</text>
+    <text id="101264">%null%</text>
+    <text id="101265">%null%</text>
+    <text id="101266">%null%</text>
+    <text id="101267">%null%</text>
+    <text id="101268">%null%</text>
+    <text id="101269">%null%</text>
+    <text id="101270">&lt;?keyicon@113?&gt;: &lt;?keyActFullName@113?&gt;
+&lt;?keyicon@114?&gt;: &lt;?keyActFullName@114?&gt;
+&lt;?keyicon@130?&gt;: &lt;?keyActFullName@130?&gt;</text>
+    <text id="101271">%null%</text>
+    <text id="101272">%null%</text>
+    <text id="101273">%null%</text>
+    <text id="101274">%null%</text>
+    <text id="101275">Acquired items are equipped in item slots.
+
+Some grant special effects, others can be used in combat, and more.
+
+Most items are consumed with use, but some are reusable, and instead consume FP.
+
+Some items can be used while airborne.
+
+&lt;?keyicon@113?&gt;: &lt;?keyActFullName@113?&gt;
+&lt;?keyicon@114?&gt;: &lt;?keyActFullName@114?&gt;
+&lt;?keyicon@130?&gt;: &lt;?keyActFullName@130?&gt;</text>
+    <text id="101276">%null%</text>
+    <text id="101277">%null%</text>
+    <text id="101278">%null%</text>
+    <text id="101279">%null%</text>
+    <text id="101280">Character skills are special abilities unique to each player character.
+
+Each character executes their skill with a special action, that can only be repeated after a period of cooldown.
+
+The Wylder's skill is Claw Shot:
+Launch grappling claw to rope in foes or move swiftly by retracting.
+
+&lt;?keyicon@127?&gt;: &lt;?keyActFullName@127?&gt;</text>
+    <text id="101281">%null%</text>
+    <text id="101282">%null%</text>
+    <text id="101283">%null%</text>
+    <text id="101284">%null%</text>
+    <text id="101285">&lt;?keyicon@127?&gt;: &lt;?keyActFullName@127?&gt;</text>
+    <text id="101286">%null%</text>
+    <text id="101287">%null%</text>
+    <text id="101288">%null%</text>
+    <text id="101289">%null%</text>
+    <text id="101290">When a character's HP is fully depleted, they will enter a near-death state. They will be unable to perform any actions other than basic movement, and do not have long to live.
+
+The near-death gauge appears when a character enters this state. Attacking will deplete the gauge and revive the ally.
+
+The near-death gauge is extended by each brush with death, but an extended near-death gauge shortens while the character remains alive. Passing through a Site of Grace will also reset the gauge to its original length.</text>
+    <text id="101291">%null%</text>
+    <text id="101292">%null%</text>
+    <text id="101293">%null%</text>
+    <text id="101294">%null%</text>
+    <text id="101295">Attack ally near death: Rescue</text>
+    <text id="101296">%null%</text>
+    <text id="101297">%null%</text>
+    <text id="101298">%null%</text>
+    <text id="101299">%null%</text>
+    <text id="101300">Upon death, a character revives nearby at the cost of 1 level.
+
+The character's runes, including the runes for the lost level, are dropped at the location of death, where they can be retrieved. However, if a character dies before retrieving dropped runes, they are permanently lost.
+
+Nearby foes sometimes snatch up dropped runes, but the runes can still be retrieved by defeating the offending foe.</text>
+    <text id="101301">%null%</text>
+    <text id="101302">%null%</text>
+    <text id="101303">%null%</text>
+    <text id="101304">%null%</text>
+    <text id="101305">%null%</text>
+    <text id="101306">%null%</text>
+    <text id="101307">%null%</text>
+    <text id="101308">%null%</text>
+    <text id="101309">%null%</text>
+    <text id="101310">Ultimate Arts are powerful special abilities that are unique to each character.
+
+An Ultimate Art can be executed once the Ultimate Art gauge is full. Ultimate Arts have the power to turn the tide of battle.
+
+The Wylder's Ultimate Art is Onslaught Stake, a powerful single attack that launches an iron stake with a great explosion.
+
+&lt;?keyicon@126?&gt;: &lt;?keyActFullName@126?&gt;</text>
+    <text id="101311">%null%</text>
+    <text id="101312">%null%</text>
+    <text id="101313">%null%</text>
+    <text id="101314">%null%</text>
+    <text id="101315">&lt;?keyicon@126?&gt;: &lt;?keyActFullName@126?&gt;</text>
+    <text id="101316">%null%</text>
+    <text id="101317">%null%</text>
+    <text id="101318">%null%</text>
+    <text id="101319">%null%</text>
+    <text id="101320">Losing all HP will put the player character in a near-death state.
+
+The only action a near-death character can execute is movement.
+
+A near-death character does not have long to live.</text>
+    <text id="101321">%null%</text>
+    <text id="101322">%null%</text>
+    <text id="101323">%null%</text>
+    <text id="101324">%null%</text>
+    <text id="101325">%null%</text>
+    <text id="101326">%null%</text>
+    <text id="101327">%null%</text>
+    <text id="101328">%null%</text>
+    <text id="101329">%null%</text>
+    <text id="101330">&lt;?keyicon@1?&gt;: Open equipment menu
+&lt;?keyicon@116?&gt;/&lt;?keyicon@115?&gt;: Switch armament</text>
+    <text id="101331">%null%</text>
+    <text id="101332">%null%</text>
+    <text id="101333">%null%</text>
+    <text id="101334">%null%</text>
+    <text id="101335">%null%</text>
+    <text id="101336">%null%</text>
+    <text id="101337">%null%</text>
+    <text id="101338">%null%</text>
+    <text id="101339">%null%</text>
+    <text id="101340">The map is not the only place to use pins.
+
+When an allied player places a pin, the location is highlighted. Center the pin in the middle of the screen to directly place your own pin at the same location.
+
+Hold &lt;?keyicon@311?&gt; while an ally's pin is centered on the screen: Stack pin
+
+When necessary, you can quickly transmit your present location.
+&lt;?keyicon@128?&gt;: Place a quick pin at your present location</text>
+    <text id="101341">%null%</text>
+    <text id="101342">%null%</text>
+    <text id="101343">%null%</text>
+    <text id="101344">%null%</text>
+    <text id="101345">%null%</text>
+    <text id="101346">%null%</text>
+    <text id="101347">%null%</text>
+    <text id="101348">%null%</text>
+    <text id="101349">%null%</text>
+    <text id="101350">Pins are used to mark locations.
+Use them to coordinate with allies or share information.
+
+Pins are placed on the map, and appear visually on the field as a column of light.
+
+Pins also appear on the compasses of all allies.
+
+To remove a pin, use the place pin command on the same location.
+
+On the map:
+&lt;?keyControlCamera?&gt;: Move cursor
+&lt;?keyicon@311?&gt;: Place pin</text>
+    <text id="201020">Every area has a number of key locations.
+
+Key locations may be protected by enemies or traps, but they often house equipment and runes.
+
+While exploring the field, use the map to track key locations, which can offer a great boost to character power.
+
+&lt;?keyicon@2?&gt;: &lt;?keyActFullName@2?&gt;</text>
+    <text id="201021">%null%</text>
+    <text id="201022">%null%</text>
+    <text id="201023">%null%</text>
+    <text id="201024">%null%</text>
+    <text id="201025">&lt;?keyicon@2?&gt;: Open &lt;?keyActFullName@2?&gt; menu</text>
+    <text id="201100">同じ深さのプレイヤーとマッチングされますが、一定時間経過すると、異なる深さのプレイヤーもマッチング対象に拡大されます。</text>
+    <text id="201101">%null%</text>
+    <text id="201102">%null%</text>
+    <text id="201103">%null%</text>
+    <text id="201104">%null%</text>
+    <text id="201105">&lt;?keyicon@120?&gt;: &lt;?keyActFullName@120?&gt;
+&lt;?keyicon@124?&gt;: Two-hand right weapon
+&lt;?keyicon@125?&gt;: Two-hand left weapon</text>
+    <text id="201106">%null%</text>
+    <text id="201107">%null%</text>
+    <text id="201108">%null%</text>
+    <text id="201109">%null%</text>
+    <text id="201110">Areas afflicted by the Night's tide deplete HP.
+
+Avoid staying in such places for long.</text>
+    <text id="201111">Areas afflicted by the Night's tide deplete HP.
+
+As the Night deepens, the effect grows more severe.
+
+Extended exposure to rain results in perilous HP depletion.
+
+Avoid staying in such places for long.</text>
+    <text id="201112">%null%</text>
+    <text id="201113">%null%</text>
+    <text id="201114">%null%</text>
+    <text id="201115">%null%</text>
+    <text id="201116">%null%</text>
+    <text id="201117">%null%</text>
+    <text id="201118">%null%</text>
+    <text id="201119">%null%</text>
+    <text id="201120">All acquired equipment has a rarity and a passive effect.
+
+Items of higher rarity are of higher quality. At lower player levels, some equipment has greatly reduced effectiveness.
+
+Passive effects are active while an item is in one's possession, and the passive effects of multiple items stack (with some exceptions). Learn about acquired equipment from the equipment menu:
+
+&lt;?keyicon@1?&gt;: Open equipment menu
+</text>
+    <text id="201250">After jumping, jump again while facing a wall to perform a wall jump.
+
+Use &lt;?keyMove?&gt; to jump in a designated direction when wall jumping. Depending on the height of the wall, it may also be possible to climb it.
+
+&lt;?keyicon@107?&gt; while facing wall during jump : Wall jump</text>
+    <text id="252520">You can perform a counterattack immediately after blocking an enemy attack.
+
+Guard counters make it easy to break an enemy's stance.
+
+&lt;?keyicon@118?&gt; immediately after blocking an attack: Guard Counter</text>
+    <text id="252550">Certain foes execute powerful attacks imbued with darkness.
+
+Dodge these attacks with a roll to absorb the darkness and replenish the Ultimate Art gauge, precipitating chances to counter-attack.
+
+In response to an enemy's attack with a dark blue shine:
+&lt;?keyMove?&gt; + &lt;?keyicon@106?&gt;: Absorbing dodge</text>
+    <text id="252570">Equip a staff, sacred seal, or other catalyst to cast sorceries and incantations at the cost of FP.
+
+Each catalyst can cast two distinct spells.
+
+With catalyst equipped in right hand:
+&lt;?keyicon@117?&gt;: Cast 1st sorcery/incantation
+&lt;?keyicon@118?&gt;: Cast 2nd sorcery/incantation
+
+N.B. &lt;?keyicon@119?&gt; and &lt;?keyicon@120?&gt; when equipped in the left hand.</text>
+    <text id="252571">%null%</text>
+    <text id="252572">%null%</text>
+    <text id="252573">%null%</text>
+    <text id="252574">%null%</text>
+    <text id="252575">%null%</text>
+    <text id="252576">%null%</text>
+    <text id="252577">%null%</text>
+    <text id="252578">%null%</text>
+    <text id="252579">%null%</text>
+    <text id="252580">Equip a bow to fire arrows. Arrow stock is unlimited.
+
+Wielding a bow with both hands enables precision aiming.
+
+Greatbows, crossbows, and ballistas are handled identically to bows.
+
+While holding a bow with both hands:
+Hold &lt;?keyicon@119?&gt;: Precision aiming 
+&lt;?keyControlCamera?&gt;: Move precision aiming sight
+</text>
+    <text id="252581">%null%</text>
+    <text id="252582">%null%</text>
+    <text id="252583">%null%</text>
+    <text id="252584">%null%</text>
+    <text id="252585">%null%</text>
+    <text id="252586">%null%</text>
+    <text id="252587">%null%</text>
+    <text id="252588">%null%</text>
+    <text id="252589">%null%</text>
+    <text id="252590">Nearby items can be quickly selected and used.
+
+Item slots can be expanded up to a total of 8
+by utilizing a special method.
+
+&lt;?keyicon@122?&gt;: Acquire item
+&lt;?keyicon@132?&gt;/&lt;?keyicon@131?&gt;: Cycle acquired items
+&lt;?keyicon@129?&gt;: Use item immediately</text>
+    <text id="252591">%null%</text>
+    <text id="252592">%null%</text>
+    <text id="252593">%null%</text>
+    <text id="252594">%null%</text>
+    <text id="252595">%null%</text>
+    <text id="252596">%null%</text>
+    <text id="252597">%null%</text>
+    <text id="252598">%null%</text>
+    <text id="252599">%null%</text>
+    <text id="252600">スペシャルイベント 1 が出現しました</text>
+    <text id="252601">%null%</text>
+    <text id="252602">%null%</text>
+    <text id="252603">%null%</text>
+    <text id="252604">%null%</text>
+    <text id="252605">%null%</text>
+    <text id="252606">%null%</text>
+    <text id="252607">%null%</text>
+    <text id="252608">%null%</text>
+    <text id="252609">%null%</text>
+    <text id="252610">Armaments, magic, items, and enemy attacks can cause status ailments.
+
+Receiving noxious attacks causes the relevant ailment gauge to fill. A full gauge triggers the corresponding ailment.
+
+There are 7 types of status ailments:
+&lt;?image@4300##11?&gt;Poison: Continuous damage
+&lt;?image@4301##11?&gt;Scarlet Rot: Continuous damage
+&lt;?image@4302##11?&gt;Blood Loss: Higher damage with higher max HP
+&lt;?image@4303##11?&gt;Frostbite: Higher damage with higher max HP.
+Also, receive more damage for some time.
+&lt;?image@4304##11?&gt;Sleep: Lose FP and enter a state of high vulnerability
+&lt;?image@4305##11?&gt;Madness: High loss of HP and FP
+&lt;?image@4306##11?&gt;Death: Player dies
+
+Each player and enemy has unique levels of resistance to status ailments.</text>
+    <text id="252611">%null%</text>
+    <text id="252612">%null%</text>
+    <text id="252613">%null%</text>
+    <text id="252614">%null%</text>
+    <text id="252615">%null%</text>
+    <text id="252616">%null%</text>
+    <text id="252617">%null%</text>
+    <text id="252618">%null%</text>
+    <text id="252619">%null%</text>
+    <text id="252620">Armaments, magic, items, and enemy attacks all possess different damage affinities.
+
+Damage can be physical or non-physical.
+
+Physical damage is divided into the following categories:
+Standard / Striking / Slashing / Piercing
+The type of damage dealt depends on the weapon used and how it is wielded.
+
+The remaining types of damage can be divided into four categories:
+&lt;?image@4401##12?&gt;Fire
+&lt;?image@4400##12?&gt;Magic
+&lt;?image@4402##12?&gt;Lightning
+&lt;?image@4403##12?&gt;Holy
+
+Some enemies are especially vulnerable to certain damage affinities, which are also more likely to cause stagger. Awareness of damage types can make the difference in battle.</text>
+    <text id="252640">HP is the life force of the player.
+
+Damage depletes HP, and fully depleting HP results in a kill. For player characters, however, losing all HP results in near-death.
+
+Lost HP can be restored by using the Sacred Flask or by passing through a Site of Grace.
+
+&lt;?keyicon@121?&gt;: Use Sacred Flask</text>
+    <text id="252641">%null%</text>
+    <text id="252642">%null%</text>
+    <text id="252643">%null%</text>
+    <text id="252644">%null%</text>
+    <text id="252645">%null%</text>
+    <text id="252646">%null%</text>
+    <text id="252647">%null%</text>
+    <text id="252648">%null%</text>
+    <text id="252649">%null%</text>
+    <text id="252650">Stamina is required to perform several actions in a row.
+
+Attacks, dodges, and various actions deplete the stamina gauge. Without sufficient stamina, these actions cannot be performed.
+
+Stamina is automatically restored over time.
+
+Stamina is only depleted by actions taken during battle.</text>
+    <text id="252651">%null%</text>
+    <text id="252652">%null%</text>
+    <text id="252653">%null%</text>
+    <text id="252654">%null%</text>
+    <text id="252655">%null%</text>
+    <text id="252656">%null%</text>
+    <text id="252657">%null%</text>
+    <text id="252658">%null%</text>
+    <text id="252659">%null%</text>
+    <text id="252660">FP is the energy used to cast sorceries and incantations, and to execute skills.
+
+Sorceries, incantations, and skills deplete FP. Without sufficient FP, these actions are ineffective.
+
+Lost FP can be restored with certain items, or by passing through a Site of Grace.</text>
+    <text id="252661">%null%</text>
+    <text id="252662">%null%</text>
+    <text id="252663">%null%</text>
+    <text id="252664">%null%</text>
+    <text id="252665">%null%</text>
+    <text id="252666">%null%</text>
+    <text id="252667">%null%</text>
+    <text id="252668">%null%</text>
+    <text id="252669">%null%</text>
+    <text id="252670">Characters are defined by 8 attributes.
+
+Each character has a unique distribution of attribute values, making them more or less able to handle certain armaments or magic.
+
+Leveling-up raises attribute values, affecting the character's proficiency with different armaments and magic.
+
+Vigor: boosts HP
+Mind: boosts FP
+Endurance: boosts stamina
+Strength: boosts attack power of heavy armaments
+Dexterity: boosts attack power of advanced armaments
+Intelligence: boosts attack power of sorceries
+Faith: boosts attack power and healing potency of incantations
+Arcane: increases the buildup of enemies' status ailments</text>
+    <text id="252671">%null%</text>
+    <text id="252672">%null%</text>
+    <text id="252673">%null%</text>
+    <text id="252674">%null%</text>
+    <text id="252675">%null%</text>
+    <text id="252676">%null%</text>
+    <text id="252677">%null%</text>
+    <text id="252678">%null%</text>
+    <text id="252679">%null%</text>
+    <text id="252680">Each player character possesses a unique passive ability.
+
+The passive ability of a character is effective at all times, and can complement various strategies.</text>
+    <text id="252681">%null%</text>
+    <text id="252682">%null%</text>
+    <text id="252683">%null%</text>
+    <text id="252684">%null%</text>
+    <text id="252685">%null%</text>
+    <text id="252686">%null%</text>
+    <text id="252687">%null%</text>
+    <text id="252688">%null%</text>
+    <text id="252689">%null%</text>
+    <text id="252690">Characters can utilize many movement options.
+
+Dashing only requires a small amount of stamina, but surge sprinting consumes a great deal.
+
+&lt;?keyMove?&gt;: &lt;?keyActName@101?&gt;
+Hold &lt;?keyicon@106?&gt;+&lt;?keyMove?&gt;: Dash
+&lt;?keyMove?&gt;+&lt;?keyicon@105?&gt;: Surge sprint</text>
+    <text id="252691">%null%</text>
+    <text id="252692">%null%</text>
+    <text id="252693">%null%</text>
+    <text id="252694">%null%</text>
+    <text id="252695">%null%</text>
+    <text id="252696">%null%</text>
+    <text id="252697">%null%</text>
+    <text id="252698">%null%</text>
+    <text id="252699">%null%</text>
+    <text id="252700">You can use the camera to look around freely, or fix it upon a specific target.
+
+&lt;?keyControlCamera?&gt;: Move camera
+&lt;?keyicon@112?&gt;: Lock-on to target / Unlock from target
+&lt;?keyControlCamera?&gt; while locked-on: Change target</text>
+    <text id="252701">%null%</text>
+    <text id="252702">%null%</text>
+    <text id="252703">%null%</text>
+    <text id="252704">%null%</text>
+    <text id="252705">%null%</text>
+    <text id="252706">%null%</text>
+    <text id="252707">%null%</text>
+    <text id="252708">%null%</text>
+    <text id="252709">%null%</text>
+    <text id="252710">Use jumps to cover uneven terrain or gain elevation.
+
+You can make it to higher ground which can't quite be reached by jumping alone by using the 'climb up' command.
+
+After jumping, jumping again while facing a wall will perform a wall jump.
+
+Use &lt;?keyMove?&gt; to jump in a designated direction when wall jumping. Depending on the height of the wall, it may also be possible to climb it.
+
+&lt;?keyicon@107?&gt;: &lt;?keyActFullName@107?&gt;
+&lt;?keyMove?&gt; while jumping toward ledge: Climb up
+&lt;?keyicon@107?&gt; while facing wall during jump : Wall jump</text>
+    <text id="252711">%null%</text>
+    <text id="252712">%null%</text>
+    <text id="252713">%null%</text>
+    <text id="252714">%null%</text>
+    <text id="252715">%null%</text>
+    <text id="252716">%null%</text>
+    <text id="252717">%null%</text>
+    <text id="252718">%null%</text>
+    <text id="252719">%null%</text>
+    <text id="252720">A sacred flask modelled after a golden holy chalice that was once graced by a tear of blessing.
+
+Carried by all player characters, this flask filled with crimson tears restores HP with use.
+
+It is fully replenished after dying, or by reaching a Site of Grace. It also replenishes itself slowly over time, though it is unable to do so during certain combat encounters, or during the small hours of the night.
+
+&lt;?keyicon@121?&gt;: &lt;?keyActFullName@121?&gt;</text>
+    <text id="252721">%null%</text>
+    <text id="252722">%null%</text>
+    <text id="252723">%null%</text>
+    <text id="252724">%null%</text>
+    <text id="252725">%null%</text>
+    <text id="252726">%null%</text>
+    <text id="252727">%null%</text>
+    <text id="252728">%null%</text>
+    <text id="252729">%null%</text>
+    <text id="252730">Every playable character is capable of performing several different kinds of attack.
+
+These attacks vary in several ways—depending on the armaments they wield, the speed with which they recover after each strike, the damage they deal and their capacity to break stances.
+
+Some attacks can be performed while dashing or jumping, and can even connect smoothly from other actions the character can perform too. Don't forget that the left-hand armament can also be used to attack!
+
+&lt;?keyicon@117?&gt;: &lt;?keyActFullName@117?&gt;
+&lt;?keyicon@118?&gt;: &lt;?keyActFullName@118?&gt;
+Hold &lt;?keyicon@118?&gt;: Charge attack
+&lt;?keyicon@119?&gt;: Attack with left-hand weapon</text>
+    <text id="252731">%null%</text>
+    <text id="252732">%null%</text>
+    <text id="252733">%null%</text>
+    <text id="252734">%null%</text>
+    <text id="252735">%null%</text>
+    <text id="252736">%null%</text>
+    <text id="252737">%null%</text>
+    <text id="252738">%null%</text>
+    <text id="252739">%null%</text>
+    <text id="252740">You can avoid enemy attacks with a dodge roll or backstep.
+Both of these actions consume stamina.
+
+&lt;?keyMove?&gt;+&lt;?keyicon@106?&gt;: Dodge roll
+&lt;?keyicon@106?&gt;: Backstep
+
+
+Certain foes execute powerful attacks imbued with darkness. A successful dodge will absorb this darkness and replenish the Ultimate Art gauge.
+
+In response to an enemy's attack with a dark blue shine:
+&lt;?keyMove?&gt;+&lt;?keyicon@106?&gt;: Dodge roll</text>
+    <text id="252741">%null%</text>
+    <text id="252742">%null%</text>
+    <text id="252743">%null%</text>
+    <text id="252744">%null%</text>
+    <text id="252745">%null%</text>
+    <text id="252746">%null%</text>
+    <text id="252747">%null%</text>
+    <text id="252748">%null%</text>
+    <text id="252749">%null%</text>
+    <text id="252750">Use an armament in your left hand or both hands to guard against incoming attacks.
+
+Guarding is especially effective when done with a shield.
+
+Guarding consumes stamina.
+If your stamina runs out, your stance will be broken.
+
+&lt;?keyicon@119?&gt;: Guard</text>
+    <text id="252751">%null%</text>
+    <text id="252752">%null%</text>
+    <text id="252753">%null%</text>
+    <text id="252754">%null%</text>
+    <text id="252755">%null%</text>
+    <text id="252756">%null%</text>
+    <text id="252757">%null%</text>
+    <text id="252758">%null%</text>
+    <text id="252759">%null%</text>
+    <text id="252760">Character skills are special abilities unique to each player character.
+
+Each character executes their skill with a special action, that can only be repeated after a period of cooldown.
+
+Learn more in the character selection menu or by selecting characters in the Visual Codex.
+
+&lt;?keyicon@127?&gt;: &lt;?keyActFullName@127?&gt;</text>
+    <text id="252761">%null%</text>
+    <text id="252762">%null%</text>
+    <text id="252763">%null%</text>
+    <text id="252764">%null%</text>
+    <text id="252765">%null%</text>
+    <text id="252766">%null%</text>
+    <text id="252767">%null%</text>
+    <text id="252768">%null%</text>
+    <text id="252769">%null%</text>
+    <text id="252770">Ultimate Arts are powerful special abilities that are unique to each character. An Ultimate Art can be executed once the Ultimate Art gauge is full.
+
+Learn more in the character selection menu or by selecting characters in the Visual Codex.
+
+&lt;?keyicon@126?&gt;: &lt;?keyActFullName@126?&gt;</text>
+    <text id="252810">%null%</text>
+    <text id="252811">%null%</text>
+    <text id="252812">%null%</text>
+    <text id="252813">%null%</text>
+    <text id="252814">%null%</text>
+    <text id="252815">%null%</text>
+    <text id="252816">%null%</text>
+    <text id="252817">%null%</text>
+    <text id="252818">%null%</text>
+    <text id="252819">%null%</text>
+    <text id="252820">%null%</text>
+    <text id="252821">%null%</text>
+    <text id="252822">%null%</text>
+    <text id="252823">%null%</text>
+    <text id="252824">%null%</text>
+    <text id="252825">%null%</text>
+    <text id="252826">%null%</text>
+    <text id="252827">%null%</text>
+    <text id="252828">%null%</text>
+    <text id="252829">%null%</text>
+    <text id="252830">%null%</text>
+    <text id="252831">%null%</text>
+    <text id="252832">%null%</text>
+    <text id="252833">%null%</text>
+    <text id="252834">%null%</text>
+    <text id="252835">%null%</text>
+    <text id="252836">%null%</text>
+    <text id="252837">%null%</text>
+    <text id="252838">%null%</text>
+    <text id="252839">%null%</text>
+    <text id="252840">%null%</text>
+    <text id="252841">%null%</text>
+    <text id="252842">%null%</text>
+    <text id="252843">%null%</text>
+    <text id="252844">%null%</text>
+    <text id="252845">%null%</text>
+    <text id="252846">%null%</text>
+    <text id="252847">%null%</text>
+    <text id="252848">%null%</text>
+    <text id="252849">%null%</text>
+    <text id="252850">%null%</text>
+    <text id="252851">%null%</text>
+    <text id="252852">%null%</text>
+    <text id="252853">%null%</text>
+    <text id="252854">%null%</text>
+    <text id="252855">%null%</text>
+    <text id="252856">%null%</text>
+    <text id="252857">%null%</text>
+    <text id="252858">%null%</text>
+    <text id="252859">%null%</text>
+    <text id="252860">%null%</text>
+    <text id="252861">%null%</text>
+    <text id="252862">%null%</text>
+    <text id="252863">%null%</text>
+    <text id="252864">%null%</text>
+    <text id="252865">%null%</text>
+    <text id="252866">%null%</text>
+    <text id="252867">%null%</text>
+    <text id="252868">%null%</text>
+    <text id="252869">%null%</text>
+    <text id="252870">%null%</text>
+    <text id="252871">%null%</text>
+    <text id="252872">%null%</text>
+    <text id="252873">%null%</text>
+    <text id="252874">%null%</text>
+    <text id="252875">%null%</text>
+    <text id="252876">%null%</text>
+    <text id="252877">%null%</text>
+    <text id="252878">%null%</text>
+    <text id="252879">%null%</text>
+    <text id="252880">%null%</text>
+    <text id="252900">The Recluse's Magic Cocktail skill can be used after collecting 3 affinity residues. The resulting spell depends upon the affinities collected.
+
+&lt;?image@4201##9?&gt; Pure Magic
+Enwreathe an enemy in magic that deals damage for some time, encircling and attacking the target.
+
+&lt;?image@4200##9?&gt; Pure Fire
+Throw a whirlwind of flame. Flame spreads across a small area upon contact, and burns for some time.
+
+&lt;?image@4202##9?&gt; Pure Lightning
+Enwreathe oneself in lightning, bolstering dodging actions.
+
+&lt;?image@4203##9?&gt; Pure Holy
+Enwreathe oneself in holy light, bolstering poise and increasing damage negation.</text>
+    <text id="252901">%null%</text>
+    <text id="252902">%null%</text>
+    <text id="252903">The Recluse's Magic Cocktail skill can be used after collecting 3 affinity residues. The resulting spell depends upon the affinities collected.
+
+&lt;?image@4204##9?&gt; Magic/Fire
+Launch a wraith flame that pursues enemies.
+
+&lt;?image@4207##9?&gt; Magic/Lightning
+Execute broad forward slash with magic blade. Hold to move with sword drawn.
+
+&lt;?image@4208##9?&gt; Magic/Holy
+Cover nearby area with a magic veil, fully conserving FP for self and allies for a short time.</text>
+    <text id="252904">The Recluse's Magic Cocktail skill can be used after collecting 3 affinity residues. The resulting spell depends upon the affinities collected.
+
+&lt;?image@4205##9?&gt; Fire/Lightning
+Become fireball and barrel forward, raining lightning on nearby foes.
+
+&lt;?image@4206##9?&gt; Fire/Holy
+Raise a torch for a limited time that raises max HP and reduces status ailment gauge buildup for nearby allies, and lowers max HP of nearby enemies.
+
+&lt;?image@4209##9?&gt; Lightning/Holy
+Weave a layer of lightning that parries enemy attacks for a short time.</text>
+    <text id="252905">%null%</text>
+    <text id="252906">%null%</text>
+    <text id="252907">The Recluse's Magic Cocktail skill can be used after collecting 3 affinity residues. The resulting spell depends upon the affinities collected. Residues can be acquired in any order.
+
+&lt;?image@4210##9?&gt; Magic/Fire/Lightning
+Conjure frontwards exploding gravity orb. Gravity orb pulls enemies inward, expands, and explodes, inflicting heavy damage.
+
+&lt;?image@4211##9?&gt;  Magic/Fire/Holy
+Spew a mixed affinity breath that inflicts damage upon enemies, and restores HP and FP of allies with contact.
+
+&lt;?image@4212##9?&gt; Fire/Lightning/Holy
+Create lightning rod and thrust forward into terrain. White lightning strikes rod after a short delay.
+
+&lt;?image@4213##9?&gt; Magic/Lightning/Holy
+Create cold storm with area effect and retreat inside ice block, gaining invulnerability.</text>
+    <text id="301020">Merely passing through a Site of Grace replenishes HP and FP, heals all status ailments, and replenishes the Sacred Flask.
+
+Sites of Grace can also be used for leveling up.</text>
+    <text id="301900">The Roundtable Hold is a nexus for launching expeditions.
+Travel to the Lands Between from the Great Site of Grace, change characters, conduct relic rites, and otherwise prepare for expeditions.
+
+Use the Roundtable Hold menu to travel directly to a facility of interest.
+&lt;?keyicon@2?&gt;: Roundtable Hold menu
+
+N.B. This explanation can be accessed at any time from the Visual Codex in the Roundtable Hold.</text>
+    <text id="301901">The network test behooves the player to travel to the Lands Between and defeat the Tricephalos.
+
+At the Roundtable Hold, travel to the Lands Between from the Great Site of Grace, change characters, and otherwise prepare for expeditions.
+
+Use the Roundtable Hold menu to travel directly to a facility of interest.
+&lt;?keyicon@2?&gt;: Roundtable Hold menu
+
+N.B. This explanation can be accessed at any time from the Visual Codex in the Roundtable Hold.</text>
+    <text id="301902">Thank you for playing.
+
+This concludes the play range of the network test version of the game. We humbly implore you to return, one day, for the full experience.
+
+N.B. Feel free to continue playing this version while the network test remains in operation.</text>
+    <text id="301903">%null%</text>
+    <text id="301904">%null%</text>
+    <text id="301905">Use the Sparring Grounds to learn controls and practice fighting.
+
+Use the Sparring Equipment menu to change loadout settings, and the Sparring Settings menu to change conditions for sparring.
+
+Upon departing on an expedition, any equipment borrowed from the Sparring Grounds is automatically returned.
+
+&lt;?keyicon@2?&gt;: Sparring Settings menu</text>
+    <text id="301920">"The Deep of Night" has been added to the Expeditions menu.
+
+Targets cannot be chosen, and difficulty increases with depth. Victory increases your rating, allowing you to proceed unto ever greater depths.
+
+The boundless dark stretches out unto infinity.</text>
+    <text id="301921">%null%</text>
+    <text id="301922">%null%</text>
+    <text id="301923">%null%</text>
+    <text id="301924">%null%</text>
+    <text id="301925">%null%</text>
+    <text id="301926">%null%</text>
+    <text id="301927">%null%</text>
+    <text id="301928">%null%</text>
+    <text id="301929">%null%</text>
+    <text id="301930">A dresser has been fitted in the storage room.
+
+Use the dresser to change into newly acquired clothing, or purchase new outfits from the dresser.
+
+The Change Garb menu can be accessed directly from the Roundtable Hold menu.
+&lt;?keyicon@2?&gt;: Roundtable Hold menu</text>
+    <text id="301931">%null%</text>
+    <text id="301932">%null%</text>
+    <text id="301933">%null%</text>
+    <text id="301934">%null%</text>
+    <text id="301935">%null%</text>
+    <text id="301936">%null%</text>
+    <text id="301937">%null%</text>
+    <text id="301938">%null%</text>
+    <text id="301939">%null%</text>
+    <text id="301940">Conduct a relic rite to evoke the power of an obtained relic.
+
+Relics used in rites are not consumed and can be repeatedly used in later relic rites.
+
+The Relic Rite menu can be accessed directly from the Roundtable Hold menu.
+&lt;?keyicon@2?&gt;: Roundtable Hold menu</text>
+    <text id="301941">%null%</text>
+    <text id="301942">%null%</text>
+    <text id="301943">%null%</text>
+    <text id="301944">%null%</text>
+    <text id="301945">%null%</text>
+    <text id="301946">%null%</text>
+    <text id="301947">%null%</text>
+    <text id="301948">%null%</text>
+    <text id="301949">%null%</text>
+    <text id="301950">Touched by the Deep of Night, vessels' depths are now revealed.
+
+Depths relics can be placed on a newly revealed location upon each vessel. This power will only take effect in the Deep of Night.</text>
+    <text id="301951">%null%</text>
+    <text id="301952">%null%</text>
+    <text id="301953">%null%</text>
+    <text id="301954">%null%</text>
+    <text id="301955">%null%</text>
+    <text id="301956">%null%</text>
+    <text id="301957">%null%</text>
+    <text id="301958">%null%</text>
+    <text id="301959">%null%</text>
+    <text id="301960">The Duchess has joined the warriors of the Roundtable.
+
+Choose her to depart on expeditions like any other player character.
+
+The Duchess is a highly agile character who can dodge rapidly in succession and carry out other quick moves.</text>
+    <text id="301961">%null%</text>
+    <text id="301962">%null%</text>
+    <text id="301963">%null%</text>
+    <text id="301964">%null%</text>
+    <text id="301965">%null%</text>
+    <text id="301966">%null%</text>
+    <text id="301967">%null%</text>
+    <text id="301968">%null%</text>
+    <text id="301969">%null%</text>
+    <text id="301970">The Revenant has joined the warriors of the Roundtable.
+
+Choose her to depart on expeditions like any other player character.
+
+The Revenant is a tactical character who can summon phantoms and coordinate attacks with them.</text>
+    <text id="301971">%null%</text>
+    <text id="301972">%null%</text>
+    <text id="301973">%null%</text>
+    <text id="301974">%null%</text>
+    <text id="301975">%null%</text>
+    <text id="301976">%null%</text>
+    <text id="301977">%null%</text>
+    <text id="301978">%null%</text>
+    <text id="301979">%null%</text>
+    <text id="301980">Defeating Nightlords and other events makes the Lands Between rupture and churn.
+
+These phenomena are known as instances of "shifting earth," and each of them yields unique rewards. 
+
+The phenomena continue for some time, with conditions restored after conducting several expeditions or passing time at the Roundtable Hold.
+
+To pass time: Use bed</text>
+    <text id="302000">Memory fragments evoke recollections of the past and allow them to be relived.
+
+From the journal select "Begin Remembrance" to enter the Realm of Remembrance.</text>
+    <text id="302001">%null%</text>
+    <text id="302002">%null%</text>
+    <text id="302003">%null%</text>
+    <text id="302004">%null%</text>
+    <text id="302005">%null%</text>
+    <text id="302006">%null%</text>
+    <text id="302007">%null%</text>
+    <text id="302008">%null%</text>
+    <text id="302009">%null%</text>
+    <text id="302010">In the Realm of Remembrance, relive the journeys of each character.
+
+Complete a journey to resolve the memory and return to the present.
+
+Alternatively, select Postpone Remembrance in the journal to pause and return to the present.
+
+Remembrances will also be postponed if the journey reaches a point where a change occurs in the present world.</text>
+    <text id="302011">%null%</text>
+    <text id="302012">%null%</text>
+    <text id="302013">%null%</text>
+    <text id="302014">%null%</text>
+    <text id="302015">%null%</text>
+    <text id="302016">%null%</text>
+    <text id="302017">%null%</text>
+    <text id="302018">%null%</text>
+    <text id="302019">%null%</text>
+    <text id="302020">Complete a journey in the Realm of Remembrance to summon a remembrance gateway.
+
+Traverse the gateway to conclude the remembrance and return to the present.</text>
+    <text id="302021">%null%</text>
+    <text id="302022">%null%</text>
+    <text id="302023">%null%</text>
+    <text id="302024">%null%</text>
+    <text id="302025">%null%</text>
+    <text id="302026">%null%</text>
+    <text id="302027">%null%</text>
+    <text id="302028">%null%</text>
+    <text id="302029">%null%</text>
+    <text id="302030">スペシャルイベント 2 が出現しました</text>
+    <text id="302031">%null%</text>
+    <text id="302032">%null%</text>
+    <text id="302033">%null%</text>
+    <text id="302034">%null%</text>
+    <text id="302035">%null%</text>
+    <text id="302036">%null%</text>
+    <text id="302037">%null%</text>
+    <text id="302038">%null%</text>
+    <text id="302039">%null%</text>
+    <text id="302040">After finishing the game, return to the Roundtable Hold to a time when the Primordial Nightlord was not yet defeated.
+
+Relics and murk that were held at the end of the game are preserved, and the journey carries on.</text>
+    <text id="302041">%null%</text>
+    <text id="302042">%null%</text>
+    <text id="302043">%null%</text>
+    <text id="302044">%null%</text>
+    <text id="302045">%null%</text>
+    <text id="302046">%null%</text>
+    <text id="302047">%null%</text>
+    <text id="302048">%null%</text>
+    <text id="302049">%null%</text>
+    <text id="302050">In the Realm of Remembrance, relive the journey of each character in the Roundtable Hold.
+
+Complete the journey to resolve the memory and return to the present.
+
+Alternatively, use the journal menu to pause and return to the present.</text>
+    <text id="302051">%null%</text>
+    <text id="302052">%null%</text>
+    <text id="302053">%null%</text>
+    <text id="302054">%null%</text>
+    <text id="302055">%null%</text>
+    <text id="302056">%null%</text>
+    <text id="302057">%null%</text>
+    <text id="302058">%null%</text>
+    <text id="302059">%null%</text>
+    <text id="302060">Sovereign Sigils are royal symbols of the lords of everdark.
+
+As if drawn by their light, a figure arrived in the Roundtable Hold bearing a proposal.
+
+Whoever can provide what is requested will receive a thing of great rarity...</text>
+    <text id="302061">%null%</text>
+    <text id="302062">%null%</text>
+    <text id="302063">%null%</text>
+    <text id="302064">%null%</text>
+    <text id="302065">%null%</text>
+    <text id="302066">%null%</text>
+    <text id="302067">%null%</text>
+    <text id="302068">%null%</text>
+    <text id="302069">%null%</text>
+    <text id="302070">The Guide and Handbook found in the Visual Codex contain helpful hints for making progress in battle, including explanations of game controls and details on key locations.
+
+If moving forward proves more difficult than expected, try perusing these sources.</text>
+    <text id="302430">Armaments have special abilities called skills.
+
+Skills are highly varied and can include anything from powerful attacks, parries which intercept enemy moves, and even the application of temporary effects. Using skills consumes FP.
+
+&lt;?keyicon@120?&gt;: &lt;?keyActFullName@120?&gt;</text>
+    <text id="400000">The Guide can be used to learn basic actions and controls, and is a source of useful knowledge about expeditions.
+
+Also, while this explanation is displayed, press &lt;?keyicon@209?&gt; to replay the initial game play tutorial.
+
+&lt;?keyicon@209?&gt;: Play tutorial</text>
+    <text id="402020">Use the Equipment menu to check equipment in one's possession, switch equipment between right and left hands, or leave equipment behind.
+
+&lt;?keyicon@1?&gt;: Open/Close Equipment menu
+&lt;?keyicon@204?&gt;: Switch
+&lt;?keyicon@209?&gt;: Discard</text>
+    <text id="402021">%null%</text>
+    <text id="402022">%null%</text>
+    <text id="402023">%null%</text>
+    <text id="402024">%null%</text>
+    <text id="402025">%null%</text>
+    <text id="402026">%null%</text>
+    <text id="402027">%null%</text>
+    <text id="402028">%null%</text>
+    <text id="402029">%null%</text>
+    <text id="402030">Check special effects and equipment of character and allies on the Status menu.
+
+Base stats and weapon attack power are influenced by special effects.
+
+Check explanations of special effects as follows.
+&lt;?keyicon@210?&gt; on the Status menu: More about special effects
+</text>
+    <text id="402100">Use the Map menu to check the locations of allies and learn about key locations.
+
+Freely place pins to serve as landmarks for exploration, or to share locations between allies.
+
+The detailed view shows additional info on key locations.
+
+On the Map menu:
+&lt;?keyicon@311?&gt;: Place destination pins
+&lt;?keyicon@308?&gt;: Switch to detailed view</text>
+    <text id="402200">Spend runes to level up on the Level Up menu.
+
+Each additional level boosts numerous stats. Each character's stats rise at different rates.
+
+The higher the level, the more runes required to level up.</text>
+    <text id="402300">Spend runes to purchase items at shops.
+
+Merchants normally sell the same selection of items, though some are limited in quantity.
+
+However, some merchants offer entirely unique wares.</text>
+    <text id="402390">On the Strengthen Armament menu, use smithing stones to strengthen armaments.
+
+Each smithing stone upgrades an armament by one level.
+
+Smithing Stone 1:
+Upgrades common armaments into uncommon armaments
+
+Smithing Stone 2:
+Upgrades uncommon armaments into rare armaments.</text>
+    <text id="402391">%null%</text>
+    <text id="402392">%null%</text>
+    <text id="402393">%null%</text>
+    <text id="402394">%null%</text>
+    <text id="402395">Somewhere in this land is a special smithing table that can be used to smith with an extraordinary technique.
+
+This smithing stand allows an armament of any rarity to be upgraded to legendary.
+
+On each expedition, each player can only use a special smithing table one time.</text>
+    <text id="403020">スペシャルイベント 3 が出現しました</text>
+    <text id="403021">Allies are recruited automatically on the Expeditions menu. Once three players are matched, the expedition begins.
+
+The Roundtable Hold is fully accessible while waiting for an expedition to commence.</text>
+    <text id="403022">In a team expedition, the inviting player will act as the leader and set the target for the expedition.
+
+The expedition will launch when all players have made their preparations.
+
+N.B. If players' progress in the game differs from one another, please be aware there is a chance that some players may encounter content they have yet to experience on their own terms.</text>
+    <text id="403023">%null%</text>
+    <text id="403024">%null%</text>
+    <text id="403025">%null%</text>
+    <text id="403026">%null%</text>
+    <text id="403027">%null%</text>
+    <text id="403028">%null%</text>
+    <text id="403029">%null%</text>
+    <text id="403030">%null%</text>
+    <text id="403031">Change characters on the Character Selection menu.
+
+Find out more about a character's background and unique skills by browsing the Visual Codex and utilizing the Sparring Grounds.</text>
+    <text id="403032">%null%</text>
+    <text id="403033">%null%</text>
+    <text id="403034">%null%</text>
+    <text id="403035">%null%</text>
+    <text id="403036">%null%</text>
+    <text id="403037">%null%</text>
+    <text id="403038">%null%</text>
+    <text id="403039">%null%</text>
+    <text id="403040">Use the Change Garb menu to change the appearance of a character.
+
+Character appearance has no bearing on abilities.</text>
+    <text id="403041">%null%</text>
+    <text id="403042">%null%</text>
+    <text id="403043">%null%</text>
+    <text id="403044">%null%</text>
+    <text id="403045">%null%</text>
+    <text id="403046">%null%</text>
+    <text id="403047">%null%</text>
+    <text id="403048">%null%</text>
+    <text id="403049">%null%</text>
+    <text id="403050">To invoke the power of a relic in your possession, conduct a relic rite via the Relic Rites menu. The supporting effect of the invoked relic activates upon leaving for an expedition. Relics are permanent additions to your inventory.
+
+However, relics must be placed on the matching colors of a vessel. Each character has their own vessel. Additional relics can be purchased from the Small Jar Bazaar.
+
+Acquired relics can also be sold.</text>
+    <text id="403051">To invoke the power of a relic in your possession, conduct a relic rite via the Relic Rites menu. The supporting effect of the invoked relic activates upon leaving for an expedition. Relics are permanent additions to your inventory.
+
+However, relics must be placed on the matching colors of a vessel.
+
+Acquired relics can also be sold.</text>
+    <text id="403052">%null%</text>
+    <text id="403053">%null%</text>
+    <text id="403054">%null%</text>
+    <text id="403055">%null%</text>
+    <text id="403056">%null%</text>
+    <text id="403057">%null%</text>
+    <text id="403058">%null%</text>
+    <text id="403059">%null%</text>
+    <text id="403060">View various game play stats with the Visual Codex.
+
+The Guide contains elementary explanations and fundamental concepts. The Handbook contains detailed explanations concerning combat.
+
+View records of past expeditions via Result History.</text>
+    <text id="403061">The Visual Codex is more than a record of previously-viewed explanations. It also contains helpful hints that will make exploration easier.</text>
+    <text id="403062">%null%</text>
+    <text id="403063">%null%</text>
+    <text id="403064">%null%</text>
+    <text id="403065">%null%</text>
+    <text id="403066">%null%</text>
+    <text id="403067">%null%</text>
+    <text id="403068">%null%</text>
+    <text id="403069">%null%</text>
+    <text id="403070">Check the progress of each character's journey using the journal.
+
+The fatigue of constant warring has robbed the Nightfarers of selected memories.
+
+Reclaim lost memory fragments to restore past experiences to their journals.
+
+Persistence in battle will yield memory fragments. But at times one might require the help of someone at the Roundtable Hold.</text>
+    <text id="403071">%null%</text>
+    <text id="403072">%null%</text>
+    <text id="403073">%null%</text>
+    <text id="403074">%null%</text>
+    <text id="403075">%null%</text>
+    <text id="403076">%null%</text>
+    <text id="403077">%null%</text>
+    <text id="403078">%null%</text>
+    <text id="403079">%null%</text>
+    <text id="403080">Spend Murk to buy items at the Small Jar Bazaar.
+
+Items purchased here are permanent and will not be consumed when departing on an expedition.</text>
+    <text id="403091">Equip and experiment with various armaments and items using the Sparring Equipment menu.
+
+Use the Handbook to learn about combat and read valuable hints.</text>
+    <text id="403092">Change status, HP, and FP on the Sparring Settings menu.
+
+The option to change characters is also available here.</text>
+    <text id="403130">Key locations are indicated by the following icons:
+
+&lt;?image@4007##6?&gt;: Township
+&lt;?image@4003##6?&gt;: Church
+&lt;?image@4018##6?&gt;: Fort
+&lt;?image@4151##6?&gt;: Great Church
+&lt;?image@4017##6?&gt;: Sorcerer's Rise
+&lt;?image@4150##6?&gt;: Old Sorcerer's Rise
+&lt;?image@4024##6?&gt;: Main Encampment
+&lt;?image@4005##6?&gt;: Ruins
+&lt;?image@4009##6?&gt;: Gaol
+&lt;?image@4025##6?&gt;: Castle</text>
+    <text id="403131">%null%</text>
+    <text id="403132">%null%</text>
+    <text id="403133">%null%</text>
+    <text id="403134">%null%</text>
+    <text id="403135">%null%</text>
+    <text id="403136">%null%</text>
+    <text id="403137">%null%</text>
+    <text id="403138">%null%</text>
+    <text id="403139">%null%</text>
+    <text id="403140">Field info is indicated by the following icons:
+
+&lt;?image@4001##6?&gt;: Grace
+&lt;?image@4055##6?&gt;: Spectral Hawk Tree
+&lt;?image@4137##6?&gt;: Spiritstream
+&lt;?image@4016##6?&gt;: Field Boss
+&lt;?image@4058##6?&gt;: Scarab
+&lt;?image@4092##6?&gt;: Mission Objective
+&lt;?image@4152##6?&gt;: Tunnel Entrance
+&lt;?image@4153##6?&gt;: Buried Treasure</text>
+    <text id="403141">%null%</text>
+    <text id="403142">%null%</text>
+    <text id="403143">%null%</text>
+    <text id="403144">%null%</text>
+    <text id="403145">Likely spots for armaments and items at key locations are indicated by the following icons on the detailed view of the map.
+
+&lt;?image@4160##6?&gt;: Sacred Flask refills
+&lt;?image@4161##6?&gt;: Hidden info nearby
+&lt;?image@4162##6?&gt;: Merchants and smithing tables
+&lt;?image@4164##6?&gt;: Bows
+&lt;?image@4163##6?&gt;: Staves
+&lt;?image@4165##6?&gt;: Sacred Seals
+
+&lt;?keyicon@308?&gt; on Map menu: Detailed view</text>
+    <text id="403170">Select an armament in inventory while using the Armament Replication menu to obtain another weapon with identical stats.
+
+On each expedition, each player can replicate a weapon one time.</text>
+    <text id="403171">%null%</text>
+    <text id="403172">%null%</text>
+    <text id="403173">%null%</text>
+    <text id="403174">%null%</text>
+    <text id="403175">%null%</text>
+    <text id="403176">%null%</text>
+    <text id="403177">%null%</text>
+    <text id="403178">%null%</text>
+    <text id="403179">%null%</text>
+    <text id="403180">Victorious phantoms flow from other worlds into the hall of the Roundtable Hold.
+
+Glean insight by envisioning the battles they experienced through their accoutrements.
+
+N.B. Only available in online mode</text>
+    <text id="403181">%null%</text>
+    <text id="403182">%null%</text>
+    <text id="403183">%null%</text>
+    <text id="403184">%null%</text>
+    <text id="403185">%null%</text>
+    <text id="403186">%null%</text>
+    <text id="403187">%null%</text>
+    <text id="403188">%null%</text>
+    <text id="403189">%null%</text>
+    <text id="403190">Key locations are indicated by the following icons:
+
+&lt;?image@4018##6?&gt;: Fort
+Outposts full of soldiers. Strategic maps of the surrounding area can be found in these locations, which reveal things hidden nearby.
+
+&lt;?image@4151##6?&gt;: Great Church
+Crumbling houses of worship. The faithful are known to leave their sacred seals in these locations.
+
+&lt;?image@4024##6?&gt;: Main Encampment
+Large garrisons home to powerful armies. Expect to find many strong enemies.
+
+&lt;?image@4005##6?&gt;: Ruins
+Vestiges from ages past. Home to strong foes and hidden underground chambers.</text>
+    <text id="403191">%null%</text>
+    <text id="403192">%null%</text>
+    <text id="403193">%null%</text>
+    <text id="403194">%null%</text>
+    <text id="403195">%null%</text>
+    <text id="403196">%null%</text>
+    <text id="403197">%null%</text>
+    <text id="403198">%null%</text>
+    <text id="403199">%null%</text>
+    <text id="403200">Key locations are indicated by the following icons:
+
+&lt;?image@4152##6?&gt;: Tunnel Entrance
+Mining tunnels containing ore which can temper armaments.
+
+&lt;?image@4025##6?&gt;: Castle
+Citadels abounding with danger. These strongholds should only be challenged by those whose skill can equal their bravery. 
+
+&lt;?image@4016##6?&gt;: Field Boss
+Strong foes who wander from place to place. Misjudge their might at your peril.
+
+&lt;?image@4009##6?&gt;: Evergaol
+Cells holding prisoners whole seals weaken over time.</text>
+    <text id="403201">%null%</text>
+    <text id="403202">%null%</text>
+    <text id="403203">%null%</text>
+    <text id="403204">%null%</text>
+    <text id="403205">%null%</text>
+    <text id="403206">%null%</text>
+    <text id="403207">%null%</text>
+    <text id="403208">%null%</text>
+    <text id="403209">%null%</text>
+    <text id="403210">Key locations are indicated by the following icons:
+
+&lt;?image@4007##6?&gt;: Township
+Long-deserted places of safety. Merchants with rare goods are known to operate from these places.
+
+&lt;?image@4003##6?&gt;: Church
+Houses of worship visited by pilgrims. Sacred flask uses can be increased in these locations.
+
+&lt;?image@4017##6?&gt;: Sorcerer's Rise
+Towers in which sorcerers experiment with their spellcraft, their findings often encrypted by cipher. Very occasionally you may come across a tower in which a sorcerer from the distant past once resided.</text>
+    <text id="403211">%null%</text>
+    <text id="403212">%null%</text>
+    <text id="403213">%null%</text>
+    <text id="403214">%null%</text>
+    <text id="403215">%null%</text>
+    <text id="403216">%null%</text>
+    <text id="403217">%null%</text>
+    <text id="403218">%null%</text>
+    <text id="403219">%null%</text>
+    <text id="403220">Environmental info is indicated by the following icons:
+
+&lt;?image@4001##6?&gt;: Grace
+These sites offer places of respite for weary warriors, restoring HP, FP, status ailments, and uses of the sacred flask. Runes can be spent at Sites of Grace to level up.
+
+&lt;?image@4055##6?&gt;: Spectral Hawk Tree
+Trees where spectral hawks rest their wings. Warriors can take to the skies via the spectral road. You can find these roads marked on the map.
+
+&lt;?image@4137##6?&gt;: Spiritstream
+Energy that gushes forth from great rents in the land, allowing those who attune with its flow to reach great heights.</text>
+    <text id="403221">%null%</text>
+    <text id="403222">%null%</text>
+    <text id="403223">%null%</text>
+    <text id="403224">%null%</text>
+    <text id="403225">%null%</text>
+    <text id="403226">%null%</text>
+    <text id="403227">%null%</text>
+    <text id="403228">%null%</text>
+    <text id="403229">%null%</text>
+    <text id="403230">Other notable field information is indicated by the following icons:
+
+&lt;?image@4058##6?&gt;: Scarab
+Carriers of valuable things. Talismans can be taken from them.
+
+&lt;?image@4153##6?&gt;: Buried Treasure
+Chests containing rare and precious objects, hidden such that others would not find them.
+
+&lt;?image@4092##6?&gt;: Mission Objective
+Indicates the task at hand for the Nightfarers. Will only appear under certain circumstances.</text>
+    <text id="403300">Pins can be placed on nearby items, sharing item info and location to allies.
+
+Check details on item using the Map menu.
+
+&lt;?keyicon@128?&gt; over nearby item: Place pin on item</text>
+    <text id="403301">%null%</text>
+    <text id="403302">%null%</text>
+    <text id="403303">%null%</text>
+    <text id="403304">%null%</text>
+    <text id="403305">%null%</text>
+    <text id="403306">%null%</text>
+    <text id="403307">%null%</text>
+    <text id="403308">%null%</text>
+    <text id="403309">%null%</text>
+    <text id="403310">Find berries, flowers, butterflies, and other materials across the Lands Between.
+
+These materials offer temporary effects.
+
+Materials collected by allies have a lingering effect. Go to that location to benefit from the effect.
+
+&lt;?keyicon@122?&gt; near vegetation or other material: Obtain material</text>
+    <text id="403311">%null%</text>
+    <text id="403312">%null%</text>
+    <text id="403313">%null%</text>
+    <text id="403314">%null%</text>
+    <text id="403315">%null%</text>
+    <text id="403316">%null%</text>
+    <text id="403317">%null%</text>
+    <text id="403318">%null%</text>
+    <text id="403319">%null%</text>
+    <text id="403320">In rare cases, the lingering phantoms of warriors in other worlds appear in the Lands Between.
+
+These phantoms are fleeting, but resonating with them through touch replenishes the Ultimate Art gauge.
+
+Equipment can be extracted from fallen phantoms as well. The victim's grief compounds, and their yearnings are passed on to the player who claims the heirloom.
+
+N.B. Phantoms are shared in online mode
+Once a phantom is shared, it can be viewed in offline mode</text>
+    <text id="403321">%null%</text>
+    <text id="403322">%null%</text>
+    <text id="403323">%null%</text>
+    <text id="403324">%null%</text>
+    <text id="403325">%null%</text>
+    <text id="403326">%null%</text>
+    <text id="403327">%null%</text>
+    <text id="403328">%null%</text>
+    <text id="403329">%null%</text>
+    <text id="403330">Check the attack power and passive effects of armaments upon obtaining them, or by using the Equipment menu.
+
+Attack power is affected by the character's stats.
+
+View detailed explanations of skills and passive effects using the Equipment menu.
+
+&lt;?keyicon@210?&gt; on Equipment menu: Detailed view
+</text>
+    <text id="403331">%null%</text>
+    <text id="403332">%null%</text>
+    <text id="403333">%null%</text>
+    <text id="403334">%null%</text>
+    <text id="403335">%null%</text>
+    <text id="403336">%null%</text>
+    <text id="403337">%null%</text>
+    <text id="403338">%null%</text>
+    <text id="403339">%null%</text>
+    <text id="403340">Switch between above and below ground on the Map menu to reveal the land's underground tunnels.
+
+In certain locations, underground formations other than tunnels can also be seen.
+
+&lt;?keyicon@307?&gt; on the Map menu: Show tunnel</text>
+    <text id="403360">You can affix your own pins to the map, as well as those of your allies. You can also stack your own pins atop others.
+
+Hold &lt;?keyicon@311?&gt; while an ally's pin is centered on the screen: Stack pin</text>
+    <text id="403361">%null%</text>
+    <text id="403362">%null%</text>
+    <text id="403363">%null%</text>
+    <text id="403364">%null%</text>
+    <text id="403365">%null%</text>
+    <text id="403366">%null%</text>
+    <text id="403367">%null%</text>
+    <text id="403368">%null%</text>
+    <text id="403369">%null%</text>
+    <text id="403370">You can have your character perform simple poses through the gestures found in the Equipment menu.
+
+You can obtain new gestures through the Small Jar Bazaar, as well as through other means.
+
+Press &lt;?keyicon@208?&gt; while the Equipment menu is open: Show gestures</text>
+    <text id="403371">%null%</text>
+    <text id="403372">%null%</text>
+    <text id="403373">%null%</text>
+    <text id="403374">%null%</text>
+    <text id="403375">%null%</text>
+    <text id="403376">%null%</text>
+    <text id="403377">%null%</text>
+    <text id="403378">%null%</text>
+    <text id="403379">%null%</text>
+    <text id="403380">Defeating enemies in the Lands Between will earn runes. Runes can be used to purchase items, level up characters, and much more.
+
+When out on an expedition, murk is accumulated at the Roundtable Hold. Murk can be used to purchase items through the Small Jar Bazaar and other traders.
+
+Runes are lost upon launching an expedition, but murk will remain until spent.</text>
+    <text id="403381">%null%</text>
+    <text id="403382">%null%</text>
+    <text id="403383">%null%</text>
+    <text id="403384">%null%</text>
+    <text id="403385">%null%</text>
+    <text id="403386">%null%</text>
+    <text id="403387">%null%</text>
+    <text id="403388">%null%</text>
+    <text id="403389">%null%</text>
+    <text id="403390">The Night corrodes the earth, triggering regional cataclysms. The Night's corrosive grip robs the region's denizens of their self-will and unleashes terrifying strength within them.
+
+Cataclysms are said to link to other worlds, allowing those who failed to traverse the Night to wreak havoc.
+
+Braving a cataclysm can yield fine accoutrements and a great many runes, but at great risk.</text>
+    <text id="403391">%null%</text>
+    <text id="403392">%null%</text>
+    <text id="403393">%null%</text>
+    <text id="403394">%null%</text>
+    <text id="403395">%null%</text>
+    <text id="403396">%null%</text>
+    <text id="403397">%null%</text>
+    <text id="403398">%null%</text>
+    <text id="403399">%null%</text>
+    <text id="403400">A forest transformed by the power of an outer god, overrun by scarlet rot and filled with all manner of decay.
+
+But life has found ways to resist. Survivors of the forest built a tower of fire to cleanse rotting miasma, and nurture materials that temporarily stave off rot.
+
+Legend speaks of a secret protective forest blessing hidden inside the tower, alongside the countless heirlooms of would-be treasure seekers who lost their way.</text>
+    <text id="403401">%null%</text>
+    <text id="403402">%null%</text>
+    <text id="403403">%null%</text>
+    <text id="403404">%null%</text>
+    <text id="403405">%null%</text>
+    <text id="403406">%null%</text>
+    <text id="403407">%null%</text>
+    <text id="403408">%null%</text>
+    <text id="403409">%null%</text>
+    <text id="403410">A lost city that was desolated in a single night and sealed underground, but recently resurfaced.
+
+The vast city, showing no signs of life, is brimming with curses and overrun by undead; the sole remains of those who sought the secret treasures said to be hidden in there.
+
+An object from an age long past lies enshrined here—the means to duplicate any weapon, or so it is said.</text>
+    <text id="403411">%null%</text>
+    <text id="403412">%null%</text>
+    <text id="403413">%null%</text>
+    <text id="403414">%null%</text>
+    <text id="403415">%null%</text>
+    <text id="403416">%null%</text>
+    <text id="403417">%null%</text>
+    <text id="403418">%null%</text>
+    <text id="403419">%null%</text>
+    <text id="403420">The First Peak.
+
+In the wintry cold of the First Peak, only the strongest survive, and a dragon who commands frost has thrived longer than any other.
+
+Legend states that a secret protective blessing that manipulates frost can be found at the peak, but the dragon pounces on anyone who might claim it.</text>
+    <text id="403421">%null%</text>
+    <text id="403422">%null%</text>
+    <text id="403423">%null%</text>
+    <text id="403424">%null%</text>
+    <text id="403425">%null%</text>
+    <text id="403426">%null%</text>
+    <text id="403427">%null%</text>
+    <text id="403428">%null%</text>
+    <text id="403429">%null%</text>
+    <text id="403430">A sublime smoldering crater.
+
+An ancient temple built to honor the smithing arts that were acts of the divine.
+
+Eruptions over the ages have laid ruin to most, but one last ancient forging art remains, close to the crater.
+
+According to legend, he who braves the treacherous heights will forge a legendary weapon.</text>
+    <text id="403500">スペシャルイベント 4 が出現しました</text>
+    <text id="90000300">スペシャルイベント 5 が出現しました</text>
+    <text id="90000301">スペシャルイベント 6 が出現しました</text>
+    <text id="90000302">スペシャルイベント 7 が出現しました</text>
+    <text id="90000303">スペシャルイベント 8 が出現しました</text>
+    <text id="90000304">スペシャルイベント 9 が出現しました</text>
+    <text id="90000305">スペシャルイベント 10 が出現しました</text>
+    <text id="90000306">スペシャルイベント 11 が出現しました</text>
+    <text id="90000307">スペシャルイベント 12 が出現しました</text>
+    <text id="90000308">スペシャルイベント 13 が出現しました</text>
+    <text id="90000309">スペシャルイベント 14 が出現しました</text>
+    <text id="90000310">スペシャルイベント 15 が出現しました</text>
+    <text id="90000311">主要な場所は以下のアイコンで示されます：</text>
+    <text id="90000312">&lt;?image@4180##6?&gt;：湿地</text>
+    <text id="90000313">要塞が湿地に沈んでおり、その奥には誰かが隠れています。</text>
+    <text id="90000314">&lt;?image@4181##6?&gt;：鍛冶村</text>
+  </entries>
+</fmg>

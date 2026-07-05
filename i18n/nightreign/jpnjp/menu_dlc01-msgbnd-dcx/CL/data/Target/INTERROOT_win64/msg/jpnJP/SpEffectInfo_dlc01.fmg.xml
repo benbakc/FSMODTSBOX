@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="120750">冷気耐性が低下する</text>
+<text id="120751">%null%</text>
+<text id="120752">%null%</text>
+<text id="120753">%null%</text>
+<text id="120754">%null%</text>
+<text id="120755">%null%</text>
+<text id="120756">%null%</text>
+<text id="120757">%null%</text>
+<text id="120758">%null%</text>
+<text id="120759">%null%</text>
+<text id="120760">血の君主の数え上げる呪いを浄化する</text>
+<text id="121144">敗北時、一度だけ自らの力で立ち上がる</text>
+<text id="121145">ＨＰが少しずつ回復する</text>
+<text id="121177">「隠れ都ノクラテオの恩寵」による効果</text>
+<text id="121178">%null%</text>
+<text id="121179">%null%</text>
+<text id="121180">%null%</text>
+<text id="121181">%null%</text>
+<text id="121182">%null%</text>
+<text id="121183">%null%</text>
+<text id="121184">最大ＨＰ低下</text>
+<text id="121185">付帯効果による効果</text>
+<text id="121186">付帯効果による効果</text>
+<text id="121187">「冷たい蜃気楼」による効果</text>
+<text id="121188">「地下神殿の恩寵」による効果</text>
+<text id="121189">「地下神殿の恩寵」による効果</text>
+<text id="121190">「地下神殿の恩寵」による効果</text>
+<text id="121191">「地下神殿の恩寵」による効果</text>
+<text id="121192">「地下神殿の恩寵」による効果</text>
+<text id="121193">「地下神殿の恩寵」による効果</text>
+<text id="121194">「地下神殿の恩寵」による効果</text>
+<text id="121195">「地下神殿の恩寵」による効果</text>
+<text id="121196">「地下神殿の恩寵」による効果</text>
+<text id="121197">「地下神殿の恩寵」による効果</text>
+<text id="121198">「地下神殿の恩寵」による効果</text>
+<text id="121199">「地下神殿の恩寵」による効果</text>
+<text id="121200">「地下神殿の恩寵」による効果</text>
+<text id="121201">「地下神殿の恩寵」による効果</text>
+<text id="121202">「エオニアの蝶」による効果</text>
+<text id="121203">「エオニアの蝶」による効果</text>
+<text id="121204">「蜜血の木の芽」による効果</text>
+<text id="121205">「蜜血の木の芽」による効果</text>
+<text id="121206">「携行知識」による効果</text>
+<text id="121207">「携行知識」による効果</text>
+<text id="121208">「携行知識」による効果</text>
+<text id="121209">「携行知識」による効果</text>
+<text id="121210">「携行知識」による効果</text>
+<text id="121211">「携行知識」による効果</text>
+<text id="121212">「携行知識」による効果</text>
+<text id="121213">「探究」による効果</text>
+<text id="121214">「探究」による効果</text>
+<text id="121215">「探究」による効果</text>
+<text id="121216">「探究」による効果</text>
+<text id="121217">「共感術」による効果</text>
+<text id="121218">「携行知識」による効果</text>
+<text id="121219">「携行知識」による効果</text>
+<text id="121220">「携行知識」による効果</text>
+<text id="121221">「携行知識」による効果</text>
+<text id="121222">「携行知識」による効果</text>
+<text id="121223">「携行知識」による効果</text>
+<text id="121224">「携行知識」による効果</text>
+<text id="121225">遺物による効果</text>
+<text id="121226">遺物による効果</text>
+<text id="121227">遺物による効果</text>
+<text id="121228">遺物による効果</text>
+<text id="121229">「大空洞の恩寵」による効果</text>
+<text id="121230">%null%</text>
+<text id="121231">「トランス」による効果</text>
+<text id="121232">「トランス」による効果</text>
+<text id="121233">「トランス」による効果</text>
+<text id="121234">「トランス」による効果</text>
+<text id="121235">「力の感応」による効果</text>
+<text id="121236">「携行知識」による効果</text>
+<text id="121237">「携行知識」による効果</text>
+<text id="121238">死亡からの復活、または祝福に触れることで
+再使用できるようになる</text>
+<text id="123400">獣の「狩り」による効果</text>
+<text id="123401">%null%</text>
+<text id="123402">%null%</text>
+<text id="123403">%null%</text>
+<text id="123404">%null%</text>
+<text id="123405">%null%</text>
+<text id="123406">%null%</text>
+<text id="123407">%null%</text>
+<text id="123408">%null%</text>
+<text id="123409">%null%</text>
+<text id="123410">聖杯瓶の使用回数が減少する</text>
+<text id="123411">「世界を安寧する力」による効果</text>
+<text id="123412">「探究」による効果</text>
+<text id="123413">遺物による効果</text>
+<text id="123414">%null%</text>
+<text id="123415">%null%</text>
+<text id="123416">%null%</text>
+<text id="123417">%null%</text>
+<text id="123418">%null%</text>
+<text id="123419">%null%</text>
+<text id="123420">攻撃力が上昇する</text>
+<text id="123421">カット率が低下する</text>
+<text id="123440">「闘争心」による効果</text>
+</entries>
+</fmg>

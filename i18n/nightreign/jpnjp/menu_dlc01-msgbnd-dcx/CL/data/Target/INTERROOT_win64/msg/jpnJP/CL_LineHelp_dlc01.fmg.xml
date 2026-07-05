@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110024">%null%</text>
+<text id="110025">%null%</text>
+<text id="110026">%null%</text>
+<text id="110027">%null%</text>
+<text id="110028">学者のスキル「探究」時の、カメラの動く速さを設定します</text>
+<text id="110029">学者のスキル「探究」時の、マウスによるカメラの動く速さを設定します</text>
+</entries>
+</fmg>

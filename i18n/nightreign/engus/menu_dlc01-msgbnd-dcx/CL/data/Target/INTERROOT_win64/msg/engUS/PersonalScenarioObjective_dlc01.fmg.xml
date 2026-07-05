@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="9000">Continue analysis in chapel</text>
+<text id="9001">Search the underground chamber below the marsh.
+N.B. Only occurs with &lt;?sysmsg@40000?&gt; targets.</text>
+<text id="9002">Talk to the Undertaker</text>
+<text id="9003">Continue analysis in chapel</text>
+<text id="9004">Talk to the Undertaker</text>
+<text id="9005">Conclude the remembrance</text>
+<text id="9006">Talk to the Small Jar Merchant</text>
+<text id="9007">Continue analysis in chapel</text>
+<text id="9008">Talk to the Undertaker</text>
+<text id="9009">Continue analysis in chapel</text>
+<text id="9010">Defeat the Dreglord in Limveld</text>
+<text id="9011">Talk to the Undertaker</text>
+<text id="9012">Check dresser mirror</text>
+<text id="9013">Rewrite copy of research</text>
+<text id="9100">Talk to the Iron Menial</text>
+<text id="9101">Check disturbance in chapel</text>
+<text id="9102">Check disturbance in chapel</text>
+<text id="9103">Talk to the Scholar</text>
+<text id="9104">Conclude the remembrance</text>
+<text id="9105">Talk to the Priestess</text>
+<text id="9106">Offer prayer in chapel</text>
+<text id="9107">Talk to the Iron Menial</text>
+<text id="9108">Search for the Scholar in Limveld
+N.B. Only occurs with &lt;?sysmsg@40000?&gt; targets</text>
+<text id="9109">Talk to the Scholar</text>
+<text id="9110">Determine source of footsteps</text>
+</entries>
+</fmg>

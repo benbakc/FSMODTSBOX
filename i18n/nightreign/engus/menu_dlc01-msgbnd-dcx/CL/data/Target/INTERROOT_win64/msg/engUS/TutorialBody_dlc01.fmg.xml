@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+  <compression>None</compression>
+  <version>DarkSouls3</version>
+  <bigendian>False</bigendian>
+  <entries>
+    <text id="252910">The effects of the Scholar's Analyse skill change depending on skill progress (low, mid, or max) and targets.
+
+When targeting enemies:
+Low: Reduce enemy attack power
+Mid: Further reduce enemy attack
+Max: One-time bonus damage to target
+
+When targeting self:
+Low: Raise max stamina
+Mid: Further raise max stamina
+Max: Temporary one-time damage negation
+         + launch wave when hit
+
+When activated on self, the highest progress level within range is applied.
+
+Skill progress is affected by the status of enemies and allies, by observations of certain actions, and types of collected specimens.
+
+N.B. Analyse mode camera speed can be changed in system menu.</text>
+    <text id="302100">The Scholar has joined the warriors of the Roundtable.
+
+Choose him to depart on expeditions like any other player character.
+
+The Scholar is a support character who gains advantages by manipulating the battlefield, analysing enemies and threading them together.</text>
+    <text id="302101">%null%</text>
+    <text id="302102">%null%</text>
+    <text id="302103">%null%</text>
+    <text id="302104">%null%</text>
+    <text id="302105">%null%</text>
+    <text id="302106">%null%</text>
+    <text id="302107">%null%</text>
+    <text id="302108">%null%</text>
+    <text id="302109">%null%</text>
+    <text id="302110">The Undertaker has joined the warriors of the Roundtable.
+
+Choose her to depart on expeditions like any other player character.
+
+The Undertaker is an offensive character who can execute persistent attacks by fluently evading enemy onslaughts.</text>
+    <text id="403147">Likely spots for armaments and items at key locations are indicated by the following icons on the detailed view of the map.
+
+&lt;?image@4166##6?&gt;: Skill-changing smithing table
+
+&lt;?keyicon@308?&gt; on Map menu: Detailed view</text>
+    <text id="403240">鍛冶師たちの集落です。炉に火を加えるとスキルを変更できます。</text>
+    <text id="403241">%null%</text>
+    <text id="403242">%null%</text>
+    <text id="403243">%null%</text>
+    <text id="403244">%null%</text>
+    <text id="403245">%null%</text>
+    <text id="403246">%null%</text>
+    <text id="403247">%null%</text>
+    <text id="403248">%null%</text>
+    <text id="403249">%null%</text>
+    <text id="403250">Key locations are indicated by the following icons:
+
+&lt;?image@4185##6?&gt;: Resonating Crystal
+Crystals found in the Great Hollow, part of the root system of the giant crystals. Their resonance is said to cause giant crystals to shatter.
+
+&lt;?image@4183##6?&gt;: Eastern Underground Fort
+A fortress seeped in deepest Night, enshrouded by crystal curse.
+
+&lt;?image@4184##6?&gt;: Western Underground Fort
+A fortress in which clandestine research was conducted, enshrouded by crystal curse.
+
+&lt;?image@4182##6?&gt;: Temple
+A magnificent and sacred structure, in which remembrances of battle slumber. Rainbow-colored Order is bestowed upon all who take up its challenge.</text>
+    <text id="403440">A great cavity in the depths of Limveld. A sacred tower can be seen from the waterfall and the hollow is strewn with giant crystals, but much of it is decrepit and the ground is cracking open.
+
+The area is peppered with exotic ruins, the only things that remain of an ancient people, and a temple is buttressed by two forts, one each to the east and west, where the cursed miasma that exudes from the crystals eats away at life.
+
+Neutralizing the curse requires the protective blessing of a great crystal.</text>
+    <text id="403460">On the Change Skill menu, it is possible to replace the skill attached to a weapon in your possession.
+
+The new weapon skill is determined at random and a skill can only be replaced once per smithing table.
+
+After changing the weapon skill, the smithing table can be used a single time to revert to the original skill.
+
+Multiple players can change skills at the same smithing table.</text>
+    <text id="403461">%null%</text>
+    <text id="403462">%null%</text>
+    <text id="403463">%null%</text>
+    <text id="403464">%null%</text>
+    <text id="403465">%null%</text>
+    <text id="403466">%null%</text>
+    <text id="403467">%null%</text>
+    <text id="403468">%null%</text>
+    <text id="403469">%null%</text>
+    <text id="403470">Dormant Power grants hidden potential and can be obtained by defeating bosses at key locations.
+
+Choose a reward from the offerings. If it is an item, it can be left behind.
+
+Each item is chosen by multiple players.
+
+&lt;?keyicon@204?&gt;: Choose power to obtain
+&lt;?keyicon@209?&gt;: Leave item behind</text>
+  </entries>
+</fmg>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="9000">在禮拜堂繼續探索</text>
+<text id="9001">在寧姆韋德，尋找湖沼的地下室
+※僅會出現在&lt;?sysmsg@40000?&gt;的目標</text>
+<text id="9002">與送葬者交談</text>
+<text id="9003">在禮拜堂繼續探索</text>
+<text id="9004">與送葬者交談</text>
+<text id="9005">結束回想</text>
+<text id="9006">與小壺商人交談</text>
+<text id="9007">在禮拜堂繼續探索</text>
+<text id="9008">與送葬者交談</text>
+<text id="9009">在禮拜堂繼續探索</text>
+<text id="9010">在寧姆韋德，打倒廢棄物之王</text>
+<text id="9011">與送葬者交談</text>
+<text id="9012">調查化妝台的鏡子</text>
+<text id="9013">重新撰寫研究記錄</text>
+<text id="9100">與差役人偶交談</text>
+<text id="9101">調查禮拜堂的異狀</text>
+<text id="9102">調查禮拜堂的異狀</text>
+<text id="9103">與學者交談</text>
+<text id="9104">結束回想</text>
+<text id="9105">與女巫交談</text>
+<text id="9106">在禮拜堂祈禱</text>
+<text id="9107">與差役人偶交談</text>
+<text id="9108">在寧姆韋德，尋找學者
+※僅會出現在&lt;?sysmsg@40000?&gt;的目標</text>
+<text id="9109">與學者交談</text>
+<text id="9110">弄清楚是誰的腳步聲</text>
+</entries>
+</fmg>

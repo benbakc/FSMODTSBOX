@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="9000">在礼拜堂继续探索</text>
+<text id="9001">在宁姆韦德，寻找湖沼的地下室
+※仅会出现在&lt;?sysmsg@40000?&gt;的目标</text>
+<text id="9002">与送葬者交谈</text>
+<text id="9003">在礼拜堂继续探索</text>
+<text id="9004">与送葬者交谈</text>
+<text id="9005">结束回想</text>
+<text id="9006">与小壶商人交谈</text>
+<text id="9007">在礼拜堂继续探索</text>
+<text id="9008">与送葬者交谈</text>
+<text id="9009">在礼拜堂继续探索</text>
+<text id="9010">在宁姆韦德，打倒废弃物之王</text>
+<text id="9011">与送葬者交谈</text>
+<text id="9012">调查化妆台的镜子</text>
+<text id="9013">重新撰写研究记录</text>
+<text id="9100">与差役人偶交谈</text>
+<text id="9101">调查礼拜堂的异状</text>
+<text id="9102">调查礼拜堂的异状</text>
+<text id="9103">与学者交谈</text>
+<text id="9104">结束回想</text>
+<text id="9105">与女巫交谈</text>
+<text id="9106">在礼拜堂祈祷</text>
+<text id="9107">与差役人偶交谈</text>
+<text id="9108">在宁姆韦德，寻找学者
+※仅会出现在&lt;?sysmsg@40000?&gt;的目标</text>
+<text id="9109">与学者交谈</text>
+<text id="9110">弄清楚是谁的脚步声</text>
+</entries>
+</fmg>

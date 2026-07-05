@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">確定</text>
+<text id="2">取消</text>
+<text id="3">是</text>
+<text id="4">否</text>
+<text id="15">重試</text>
+<text id="16">繼續</text>
+<text id="17">返回標題畫面</text>
+<text id="40200">所需盧恩不足。</text>
+<text id="40201">%null%</text>
+<text id="40202">%null%</text>
+<text id="40203">%null%</text>
+<text id="40204">%null%</text>
+<text id="40205">%null%</text>
+<text id="40206">%null%</text>
+<text id="40207">%null%</text>
+<text id="40208">%null%</text>
+<text id="40209">%null%</text>
+<text id="40210">已超過限定數量，無法購買。</text>
+<text id="40300">設定將恢復成預設，
+您確定嗎？</text>
+<text id="40500">所有設定將恢復成預設，
+您確定嗎？</text>
+<text id="110000">將保存遊戲進度，返回標題畫面。
+您確定嗎？</text>
+<text id="110001">在進行連線時返回標題畫面，將會受到懲罰。
+您確定嗎？</text>
+<text id="110002">將離開連線，返回標題畫面。
+您確定嗎？</text>
+<text id="110003">將離開連線，返回標題畫面。
+您確定嗎？
+
+離開連線後，會失去個人的目標的進度。</text>
+<text id="110004">在進行連線時返回標題畫面，
+深夜的進行度將依照目前攻略情況產生變動。
+您確定嗎？
+
+※由於是其他玩家離開連線，
+　會降低進行度的減少幅度。</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">將保存遊戲進度，返回桌面。
+您確定嗎？</text>
+<text id="110011">在進行連線時返回桌面，將會受到懲罰。
+您確定嗎？</text>
+<text id="110012">將離開連線，返回桌面。
+您確定嗎？</text>
+<text id="110013">將離開連線，返回桌面。
+您確定嗎？
+
+離開連線後，會失去個人的目標的進度。</text>
+<text id="110014">在進行連線時返回桌面，
+深夜的進行度將依照目前攻略情況產生變動。
+您確定嗎？
+
+※由於是其他玩家離開連線，
+　會降低進行度的減少幅度。</text>
+<text id="110015">%null%</text>
+<text id="110016">%null%</text>
+<text id="110017">%null%</text>
+<text id="110018">%null%</text>
+<text id="110019">%null%</text>
+<text id="110020">將結束教學，您確定嗎？
+
+※稍後能再次確認教學。</text>
+<text id="110021">%null%</text>
+<text id="110022">%null%</text>
+<text id="110023">%null%</text>
+<text id="110024">%null%</text>
+<text id="110025">%null%</text>
+<text id="110026">%null%</text>
+<text id="110027">%null%</text>
+<text id="110028">%null%</text>
+<text id="110029">%null%</text>
+<text id="110030">將中斷戰鬥，前往圓桌廳堂。
+您確定嗎？</text>
+<text id="110031">%null%</text>
+<text id="110032">%null%</text>
+<text id="110033">%null%</text>
+<text id="110034">%null%</text>
+<text id="110035">%null%</text>
+<text id="110036">%null%</text>
+<text id="110037">%null%</text>
+<text id="110038">%null%</text>
+<text id="110039">%null%</text>
+<text id="110040">將中斷戰鬥，您確定嗎？</text>
+<text id="110041">%null%</text>
+<text id="110042">%null%</text>
+<text id="110043">%null%</text>
+<text id="110044">%null%</text>
+<text id="110045">%null%</text>
+<text id="110046">%null%</text>
+<text id="110047">%null%</text>
+<text id="110048">%null%</text>
+<text id="110049">%null%</text>
+<text id="110050">將暫停回想追憶，您確定嗎？</text>
+<text id="110051">%null%</text>
+<text id="110052">%null%</text>
+<text id="110053">%null%</text>
+<text id="110054">%null%</text>
+<text id="110055">%null%</text>
+<text id="110056">%null%</text>
+<text id="110057">%null%</text>
+<text id="110058">%null%</text>
+<text id="110059">%null%</text>
+<text id="110060">將暫停回想追憶，移至圓桌廳堂。
+您確定嗎？</text>
+<text id="110061">%null%</text>
+<text id="110062">%null%</text>
+<text id="110063">%null%</text>
+<text id="110064">%null%</text>
+<text id="110065">%null%</text>
+<text id="110066">%null%</text>
+<text id="110067">%null%</text>
+<text id="110068">%null%</text>
+<text id="110069">%null%</text>
+<text id="110070">要結束回想追憶，
+並將操作角色更換為&lt;?DisplayHero?&gt;嗎？</text>
+<text id="110071">%null%</text>
+<text id="110072">%null%</text>
+<text id="110073">%null%</text>
+<text id="110074">%null%</text>
+<text id="110075">%null%</text>
+<text id="110076">%null%</text>
+<text id="110077">%null%</text>
+<text id="110078">%null%</text>
+<text id="110079">%null%</text>
+<text id="110080">要暫停回想追憶，
+並將操作角色更換為&lt;?DisplayHero?&gt;嗎？</text>
+<text id="110316">如果想要改變顯示語言，
+請返回標題畫面進行設定。</text>
+<text id="110570">將略過目前的畫面，前往下一段劇情。
+您確定嗎？</text>
+<text id="111100">設定已變更，
+將在&lt;?remainingSec?&gt;秒後恢復原本的設定。
+要套用目前的設定嗎？</text>
+<text id="111101">要套用目前的設定嗎？</text>
+<text id="111102">部分設定必須在返回標題畫面後才會套用。</text>
+<text id="111103">此項目將在重新啟動遊戲後套用。</text>
+<text id="111104">設定已變更，
+將在&lt;?remainingSec?&gt;秒後恢復原本的設定。
+要套用目前的設定嗎？</text>
+<text id="111105">部分設定必須在返回標題畫面後才會套用。</text>
+<text id="111106">高動態範圍成像（ＨＤＲ）已變更為關閉。</text>
+<text id="111107">高動態範圍成像（ＨＤＲ）已變更為開啟。</text>
+<text id="111108">%null%</text>
+<text id="111109">%null%</text>
+<text id="111110">有部分變更的設定尚未套用。
+請返回標題畫面，以套用設定。</text>
+<text id="130000">深夜的進行度將下降至０。
+進行度下降後不會恢復原狀。
+
+確定繼續嗎？</text>
+<text id="130001">將下降深夜的進行度至次一級深度的中間值。
+進行度下降後不會恢復原狀。
+
+確定繼續嗎？</text>
+<text id="134000">要將操作角色
+更換為&lt;?DisplayHero?&gt;嗎？</text>
+<text id="136000">無法裝備相同的遺物。</text>
+<text id="136001">%null%</text>
+<text id="136002">沒有選擇要賣出的物品。</text>
+<text id="136003">進行此操作，將會放棄目前變更的內容。
+您確定嗎？</text>
+<text id="136004">將以&lt;?sellLobbyCurrency?&gt;暗痕，
+賣出&lt;?itemName?&gt;。
+您確定嗎？</text>
+<text id="136005">將以總共&lt;?sellLobbyCurrency?&gt;暗痕，
+賣出所選擇的遺物。
+您確定嗎？</text>
+<text id="136006">如果以&lt;?sellLobbyCurrency?&gt;暗痕，
+賣出&lt;?itemName?&gt;，
+將會超過暗痕的持有上限。
+
+賣出後，會失去超過持有上限的暗痕，
+確定要繼續嗎？</text>
+<text id="136007">如果以總共&lt;?sellLobbyCurrency?&gt;暗痕，
+賣出所有選擇的遺物，
+將會超過暗痕的持有上限。
+
+賣出後，會失去超過持有上限的暗痕，
+確定要繼續嗎？</text>
+<text id="136008">無法賣出。
+其中包含現正裝備中，或是登記成「喜愛」的遺物。</text>
+<text id="136009">將套用所選擇的預設項目，
+不會保留目前調整的設定。
+您確定嗎？</text>
+<text id="136010">將刪除所選擇的預設項目，
+您確定嗎？</text>
+<text id="136011">預設項目已到保存上限，
+無法再保存。</text>
+<text id="136012">已保存預設項目。</text>
+<text id="136013">因為效果衝突，部分效果無法生效。</text>
+<text id="138160">將再次進行教學，
+您確定嗎？</text>
+<text id="138161">正在進行配對或是參加隊伍，
+目前無法再次進行教學。</text>
+<text id="138200">離線模式時，無法顯示戰果記錄。</text>
+<text id="138262">正在回想追憶，
+目前無法再次進行教學。</text>
+<text id="140000">正在配對中，無法結束回想。</text>
+<text id="140001">正在配對中，無法暫停回想。</text>
+<text id="140100">將開始回想追憶，您確定嗎？</text>
+<text id="140101">將結束回想追憶，您確定嗎？</text>
+<text id="140102">將暫停回想追憶，您確定嗎？</text>
+<text id="140103">將繼續回想追憶，您確定嗎？</text>
+<text id="142000">將以&lt;?buyLobbyCurrency?&gt;暗痕，
+購買&lt;?itemName?&gt;。</text>
+<text id="142020">所需暗痕不足。</text>
+<text id="142021">%null%</text>
+<text id="142022">%null%</text>
+<text id="142023">%null%</text>
+<text id="142024">%null%</text>
+<text id="142025">%null%</text>
+<text id="142026">%null%</text>
+<text id="142027">%null%</text>
+<text id="142028">%null%</text>
+<text id="142029">%null%</text>
+<text id="142030">將以&lt;?buyCampaignCurrency?&gt;為王之證，
+交換&lt;?itemName?&gt;。</text>
+<text id="144000">裝備設定將恢復為角色的預設狀態。
+您確定嗎？</text>
+<text id="146000">無法讀取足跡資料。</text>
+<text id="146001">舊的戰果無法顯示效果詳情。</text>
+<text id="146002">%null%</text>
+<text id="146003">%null%</text>
+<text id="146004">%null%</text>
+<text id="146005">%null%</text>
+<text id="146006">%null%</text>
+<text id="146007">%null%</text>
+<text id="146008">%null%</text>
+<text id="146009">%null%</text>
+<text id="146010">正在連線……</text>
+<text id="146011">%null%</text>
+<text id="146012">%null%</text>
+<text id="146013">%null%</text>
+<text id="146014">%null%</text>
+<text id="146015">%null%</text>
+<text id="146016">%null%</text>
+<text id="146017">%null%</text>
+<text id="146018">%null%</text>
+<text id="146019">%null%</text>
+<text id="146020">由於是其他玩家離開連線，
+會降低進行度的減少幅度。</text>
+<text id="146100">將以所選的內容進行檢舉。</text>
+<text id="146101">%null%</text>
+<text id="146102">%null%</text>
+<text id="146103">%null%</text>
+<text id="146104">%null%</text>
+<text id="146105">%null%</text>
+<text id="146106">%null%</text>
+<text id="146107">%null%</text>
+<text id="146108">%null%</text>
+<text id="146109">%null%</text>
+<text id="146110">將以所選的內容進行檢舉。
+您確定嗎？</text>
+<text id="146111">%null%</text>
+<text id="146112">%null%</text>
+<text id="146113">%null%</text>
+<text id="146114">%null%</text>
+<text id="146115">%null%</text>
+<text id="146116">%null%</text>
+<text id="146117">%null%</text>
+<text id="146118">%null%</text>
+<text id="146119">%null%</text>
+<text id="146120">正在送件……</text>
+<text id="146121">%null%</text>
+<text id="146122">%null%</text>
+<text id="146123">%null%</text>
+<text id="146124">%null%</text>
+<text id="146125">%null%</text>
+<text id="146126">%null%</text>
+<text id="146127">%null%</text>
+<text id="146128">%null%</text>
+<text id="146129">%null%</text>
+<text id="146130">檢舉完成。
+
+如需提供詳細資訊，
+請透過萬代南夢宮的客戶服務管道聯絡。
+於聯絡時，請附上下方的檢舉ＩＤ。
+
+檢舉ＩＤ：&lt;?reportId?&gt;</text>
+<text id="146199">送件失敗。</text>
+<text id="146200">無法從伺服器取得資料。</text>
+<text id="150000">目前登記為「喜愛」的戰果記錄已達上限。
+
+如果要登記新的「喜愛」，
+請移除舊有的項目後重試。</text>
+<text id="152000">將以&lt;?buySpecialCurrency?&gt;為王之證，
+交換&lt;?itemName?&gt;。</text>
+<text id="152001">%null%</text>
+<text id="152002">%null%</text>
+<text id="152003">%null%</text>
+<text id="152004">%null%</text>
+<text id="152005">%null%</text>
+<text id="152006">%null%</text>
+<text id="152007">%null%</text>
+<text id="152008">%null%</text>
+<text id="152009">%null%</text>
+<text id="152010">所需的為王之證不足。</text>
+<text id="231000">將以&lt;?demandSoul?&gt;盧恩
+購買&lt;?itemName?&gt;。</text>
+<text id="231020">已超過持有上限，無法購買。</text>
+<text id="280001">所有設定將恢復成預設，
+您確定嗎？</text>
+<text id="280002">遊戲選項的設定將恢復成預設，
+您確定嗎？</text>
+<text id="280003">鏡頭選項的設定將恢復成預設，
+您確定嗎？</text>
+<text id="280004">顯示設定將恢復成預設，
+您確定嗎？</text>
+<text id="280005">聲音設定將恢復成預設，
+您確定嗎？</text>
+<text id="280006">連線相關設定將恢復成預設，
+您確定嗎？</text>
+<text id="280007">%null%</text>
+<text id="280008">鍵盤、滑鼠的設定將恢復成預設，
+您確定嗎？</text>
+<text id="280009">畫面設定將恢復成預設，
+您確定嗎？</text>
+<text id="280010">鍵盤設定將恢復成預設，
+您確定嗎？</text>
+<text id="280011">亮度設定將恢復成預設，
+您確定嗎？</text>
+<text id="280012">畫質調整的設定將恢復成預設，
+您確定嗎？</text>
+<text id="280013">畫面的詳細設定將恢復成預設，
+您確定嗎？</text>
+<text id="290004">角色資料保存失敗。</text>
+<text id="290100">在地圖的相關操作時，無法選用此設定。</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="401702">將以下列的玩家名稱開始遊戲：
+&lt;?InsertName?&gt;</text>
+<text id="401703">玩家名稱將恢復為預設狀態，
+您確定嗎？</text>
+<text id="404010">將放棄已設定的內容，回到前一個畫面。
+您確定嗎？</text>
+<text id="404011">%null%</text>
+<text id="404012">%null%</text>
+<text id="404013">%null%</text>
+<text id="404014">%null%</text>
+<text id="404015">%null%</text>
+<text id="404016">%null%</text>
+<text id="404017">%null%</text>
+<text id="404018">%null%</text>
+<text id="404019">%null%</text>
+<text id="404020">高動態範圍成像（ＨＤＲ）設定為開啟時，
+只能從遊戲內主選單的系統選單調整畫質。</text>
+<text id="406011">將以選擇的角色檔案開始遊戲。</text>
+<text id="406012">要刪除選擇的角色檔案，
+開始新遊戲嗎？</text>
+<text id="406013">將刪除選擇的角色檔案。
+您確定嗎？</text>
+<text id="506011">配對已中斷。</text>
+<text id="506012">要停止配對嗎？</text>
+<text id="506013">%null%</text>
+<text id="506014">沒有多人連線遊玩的暗號記錄。</text>
+<text id="506015">沒有群組暗號的記錄。</text>
+<text id="506016">%null%</text>
+<text id="506017">已取消出擊。</text>
+<text id="506018">等待出擊中，要取消嗎？</text>
+<text id="506019">%null%</text>
+<text id="506020">配對失敗。</text>
+<text id="506021">配對失敗，無法建立連線。</text>
+<text id="506022">配對失敗，無法加入連線。</text>
+<text id="506023">在離線模式下，無法進行多人連線遊玩。
+請將「配對設定」的「出擊人數」，選擇「１人」。</text>
+<text id="506024">在離線模式下，無法出擊「深夜」。</text>
+<text id="506025">%null%</text>
+<text id="506026">%null%</text>
+<text id="506027">%null%</text>
+<text id="506028">%null%</text>
+<text id="506029">%null%</text>
+<text id="506030">與Steam連線中斷，無法出擊。</text>
+<text id="506031">%null%</text>
+<text id="506032">%null%</text>
+<text id="506033">%null%</text>
+<text id="506034">%null%</text>
+<text id="506035">%null%</text>
+<text id="506036">%null%</text>
+<text id="506037">%null%</text>
+<text id="506038">%null%</text>
+<text id="506039">%null%</text>
+<text id="506040">遊戲尚未安裝完成，
+無法出擊。</text>
+<text id="506041">%null%</text>
+<text id="506042">%null%</text>
+<text id="506043">%null%</text>
+<text id="506044">%null%</text>
+<text id="506045">%null%</text>
+<text id="506046">%null%</text>
+<text id="506047">%null%</text>
+<text id="506048">%null%</text>
+<text id="506049">%null%</text>
+<text id="506050">已解散隊伍。</text>
+<text id="506051">要解散隊伍嗎？</text>
+<text id="506052">已離開隊伍。</text>
+<text id="506053">要離開隊伍嗎？</text>
+<text id="506054">無法建立隊伍。</text>
+<text id="506055">無法加入隊伍。</text>
+<text id="506056">%null%</text>
+<text id="506057">%null%</text>
+<text id="506058">%null%</text>
+<text id="506059">%null%</text>
+<text id="506060">與配對成員連線失敗，
+無法開始多人連線遊玩。
+
+將返回圓桌廳堂。</text>
+<text id="506061">%null%</text>
+<text id="506062">%null%</text>
+<text id="506063">%null%</text>
+<text id="506064">%null%</text>
+<text id="506065">%null%</text>
+<text id="506066">%null%</text>
+<text id="506067">%null%</text>
+<text id="506068">%null%</text>
+<text id="506069">%null%</text>
+<text id="506070">遺物已超過持有上限，無法出擊。
+請前往遺物儀式選單，賣出遺物。</text>
+<text id="506100">多人連線遊玩的暗號記錄</text>
+<text id="506101">群組暗號記錄</text>
+<text id="620100">本遊戲尚在開發中，部分功能有可能無法正常運作，
+（包含需使用Xbox 網路的功能）
+也有可能發生遊戲強制關閉的情況。
+
+另外，本遊戲不支援售後服務，敬請見諒。</text>
+<text id="620101">%null%</text>
+<text id="620102">%null%</text>
+<text id="620103">%null%</text>
+<text id="620104">%null%</text>
+<text id="620105">%null%</text>
+<text id="620106">%null%</text>
+<text id="620107">%null%</text>
+<text id="620108">%null%</text>
+<text id="620109">%null%</text>
+<text id="620110">本遊戲的下列規格與商品版不同：
+- 必須在有網路連線的情況下，才能遊玩。</text>
+<text id="700000">將暫停回想追憶，您確定嗎？</text>
+<text id="700001">%null%</text>
+<text id="700002">%null%</text>
+<text id="700003">%null%</text>
+<text id="700004">%null%</text>
+<text id="700005">%null%</text>
+<text id="700006">%null%</text>
+<text id="700007">%null%</text>
+<text id="700008">%null%</text>
+<text id="700009">%null%</text>
+<text id="700010">將暫停回想追憶，移至圓桌廳堂。
+您確定嗎？</text>
+<text id="700011">%null%</text>
+<text id="700012">%null%</text>
+<text id="700013">%null%</text>
+<text id="700014">%null%</text>
+<text id="700015">%null%</text>
+<text id="700016">%null%</text>
+<text id="700017">%null%</text>
+<text id="700018">%null%</text>
+<text id="700019">%null%</text>
+<text id="700020">要暫停回想追憶，
+並將操作角色更換為&lt;?DisplayHero?&gt;嗎？</text>
+<text id="20002002">是</text>
+<text id="20002003">否</text>
+<text id="21012001">要</text>
+<text id="21012002">不要</text>
+<text id="21032001">是</text>
+<text id="21032002">否</text>
+<text id="21082001">接受</text>
+<text id="21082002">拒絕</text>
+<text id="22092010">伸手拿取</text>
+<text id="22092011">不去動它</text>
+<text id="23092013">是</text>
+<text id="23092014">否</text>
+<text id="23112000">杜絕禍患</text>
+<text id="23112001">放他一馬</text>
+<text id="26092000">是</text>
+<text id="26092001">否</text>
+</entries>
+</fmg>

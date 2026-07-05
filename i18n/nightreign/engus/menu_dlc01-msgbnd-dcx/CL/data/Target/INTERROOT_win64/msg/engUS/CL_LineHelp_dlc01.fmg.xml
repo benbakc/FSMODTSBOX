@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110024">Determines whether tilting of the stick will affect camera movement speed</text>
+<text id="110025">%null%</text>
+<text id="110026">%null%</text>
+<text id="110027">%null%</text>
+<text id="110028">Set camera movement speed for the Scholar's character skill, Analyse</text>
+<text id="110029">Set mouse sensitivity for camera movement for the Scholar's character skill, Analyse</text>
+</entries>
+</fmg>

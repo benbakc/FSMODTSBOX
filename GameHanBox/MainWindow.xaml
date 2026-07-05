@@ -1,0 +1,1187 @@
+<Window x:Class="GameHanBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FSMODTSBOX"
+        Width="1180" Height="760"
+        MinWidth="980" MinHeight="660"
+        WindowStartupLocation="CenterScreen"
+        Icon="pack://application:,,,/游戏汉化盒子.ico"
+        WindowStyle="None"
+        AllowsTransparency="False"
+        Background="#0c0c16"
+        FontFamily="Microsoft YaHei UI, Segoe UI, sans-serif"
+        Foreground="#d0d0e0"
+        ResizeMode="CanResize"
+        Closing="Window_Closing">
+    <WindowChrome.WindowChrome>
+        <WindowChrome CaptionHeight="0" ResizeBorderThickness="6" CornerRadius="0" GlassFrameThickness="0" UseAeroCaptionButtons="False"/>
+    </WindowChrome.WindowChrome>
+    <Window.Resources>
+        <SolidColorBrush x:Key="BgWindow" Color="#0c0c16"/>
+        <SolidColorBrush x:Key="BgSidebar" Color="#0a0a14"/>
+        <SolidColorBrush x:Key="BgCard" Color="#13131f"/>
+        <SolidColorBrush x:Key="BgElevated" Color="#1a1a2e"/>
+        <SolidColorBrush x:Key="BgInput" Color="#0f0f1a"/>
+        <SolidColorBrush x:Key="BgHover" Color="#1a1a2e"/>
+        <SolidColorBrush x:Key="BorderSubtle" Color="#1a1a2e"/>
+        <SolidColorBrush x:Key="BorderDefault" Color="#252540"/>
+        <SolidColorBrush x:Key="BorderStrong" Color="#353550"/>
+        <SolidColorBrush x:Key="TextPrimary" Color="#e8e8f0"/>
+        <SolidColorBrush x:Key="TextSecondary" Color="#a0a0b8"/>
+        <SolidColorBrush x:Key="TextMuted" Color="#606078"/>
+        <SolidColorBrush x:Key="Accent" Color="#e8456a"/>
+        <SolidColorBrush x:Key="AccentDark" Color="#c23152"/>
+        <SolidColorBrush x:Key="AccentBlue" Color="#2d6cdf"/>
+        <SolidColorBrush x:Key="AccentBlueDark" Color="#2558c0"/>
+        <SolidColorBrush x:Key="AccentPurple" Color="#7c3aed"/>
+        <SolidColorBrush x:Key="Success" Color="#3ecf6b"/>
+        <SolidColorBrush x:Key="Warning" Color="#f5a623"/>
+        <SolidColorBrush x:Key="Error" Color="#e8456a"/>
+        <SolidColorBrush x:Key="Gold" Color="#f5b041"/>
+
+        <LinearGradientBrush x:Key="AccentGradient" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#e8456a" Offset="0"/>
+            <GradientStop Color="#c23152" Offset="1"/>
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="BlueGradient" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#3b7bef" Offset="0"/>
+            <GradientStop Color="#2558c0" Offset="1"/>
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="LogoGradient" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#e8456a" Offset="0"/>
+            <GradientStop Color="#7c3aed" Offset="1"/>
+        </LinearGradientBrush>
+
+        <!-- Line icon geometry (outlined style, 24x24 viewBox) -->
+        <StreamGeometry x:Key="IconHome">M3,11.5 L12,4 L21,11.5 L21,20 C21,20.55 20.55,21 20,21 L15,21 L15,15 L9,15 L9,21 L4,21 C3.45,21 3,20.55 3,20 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconHistory">M12,3 C7.03,3 3,7.03 3,12 C3,16.97 7.03,21 12,21 C16.97,21 21,16.97 21,12 M12,7 L12,12 L16,14 M12,3 C12.55,3 13,3.45 13,4 L13,5 M7,12 C7,9.24 9.24,7 12,7</StreamGeometry>
+        <StreamGeometry x:Key="IconDoc">M14,3 L6,3 C4.9,3 4,3.9 4,5 L4,19 C4,20.1 4.9,21 6,21 L18,21 C19.1,21 20,20.1 20,19 L20,9 Z M14,3 L20,9 M14,3 L14,9 L20,9 M8,13 L16,13 M8,17 L13,17 M8,9 L10,9</StreamGeometry>
+        <StreamGeometry x:Key="IconToolbox">M20,8 L20,19 C20,20.1 19.1,21 18,21 L6,21 C4.9,21 4,20.1 4,19 L4,8 M2,8 L22,8 M8,8 L8,5 C8,3.9 8.9,3 10,3 L14,3 C15.1,3 16,3.9 16,5 L16,8 M9,13 L15,13</StreamGeometry>
+        <StreamGeometry x:Key="IconGlobe">M12,2 C6.48,2 2,6.48 2,12 C2,17.52 6.48,22 12,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 Z M2,12 L22,12 M12,2 C14.5,5 16,8.5 16,12 C16,15.5 14.5,19 12,22 C9.5,19 8,15.5 8,12 C8,8.5 9.5,5 12,2 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconGear">M12,8 C9.79,8 8,9.79 8,12 C8,14.21 9.79,16 12,16 C14.21,16 16,14.21 16,12 C16,9.79 14.21,8 12,8 Z M19.43,12.98 C19.47,12.66 19.5,12.34 19.5,12 C19.5,11.66 19.47,11.34 19.43,11.02 L21.54,9.37 C21.73,9.22 21.79,8.95 21.66,8.73 L19.66,5.27 C19.53,5.05 19.26,4.97 19.05,5.05 L16.56,6.05 C16.04,5.66 15.47,5.34 14.87,5.11 L14.5,2.42 C14.46,2.18 14.26,2 14.02,2 L9.98,2 C9.74,2 9.54,2.18 9.5,2.42 L9.13,5.11 C8.53,5.34 7.96,5.65 7.44,6.05 L4.95,5.05 C4.73,4.97 4.47,5.05 4.34,5.27 L2.34,8.73 C2.21,8.95 2.27,9.22 2.46,9.37 L4.57,11.02 C4.53,11.34 4.5,11.66 4.5,12 C4.5,12.34 4.53,12.66 4.57,12.98 L2.46,14.63 C2.27,14.78 2.21,15.05 2.34,15.27 L4.34,18.73 C4.47,18.95 4.74,19.03 4.95,18.95 L7.44,17.95 C7.96,18.34 8.53,18.66 9.13,18.89 L9.5,21.58 C9.54,21.82 9.74,22 9.98,22 L14.02,22 C14.26,22 14.46,21.82 14.5,21.58 L14.87,18.89 C15.47,18.66 16.04,18.35 16.56,17.95 L19.05,18.95 C19.27,19.03 19.54,18.95 19.66,18.73 L21.66,15.27 C21.79,15.05 21.73,14.78 21.54,14.63 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconFolder">M3,7 C3,5.9 3.9,5 5,5 L9.17,5 L11.17,7 L19,7 C20.1,7 21,7.9 21,9 L21,17 C21,18.1 20.1,19 19,19 L5,19 C3.9,19 3,18.1 3,17 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconSearch">M10,2 C5.58,2 2,5.58 2,10 C2,14.42 5.58,18 10,18 C11.85,18 13.55,17.37 14.9,16.32 L20.29,21.71 C20.68,22.1 21.31,22.1 21.7,21.71 C22.09,21.32 22.09,20.69 21.7,20.3 L16.32,14.9 C17.37,13.55 18,11.85 18,10 C18,5.58 14.42,2 10,2 Z M10,4 C13.31,4 16,6.69 16,10 C16,13.31 13.31,16 10,16 C6.69,16 4,13.31 4,10 C4,6.69 6.69,4 10,4 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconEdit">M20.71,7.04 C21.1,6.65 21.1,6.02 20.71,5.63 L18.37,3.29 C17.98,2.9 17.35,2.9 16.96,3.29 L15.12,5.12 L18.87,8.87 Z M3,17.25 L3,21 L6.75,21 L17.81,9.94 L14.06,6.19 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconSave">M17,3 L5,3 C3.9,3 3,3.9 3,5 L3,19 C3,20.1 3.9,21 5,21 L19,21 C20.1,21 21,20.1 21,19 L21,7 Z M12,20 C10.34,20 9,18.66 9,17 C9,15.34 10.34,14 12,14 C13.66,14 15,15.34 15,17 C15,18.66 13.66,20 12,20 Z M15,9 L5,9 L5,5 L15,5 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconShield">M12,2 L4,6 L4,11 C4,16.55 7.84,21.74 12,22 C16.16,21.74 20,16.55 20,11 L20,6 Z M12,5.8 L17,8.3 L17,11 C17,15.22 14.5,18.91 12,19.92 C9.5,18.91 7,15.22 7,11 L7,8.3 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconLightning">M11,2 L4,13 L10,13 L9,22 L18,10 L12,10 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconTarget">M12,2 C6.48,2 2,6.48 2,12 C2,17.52 6.48,22 12,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 Z M12,6 C15.31,6 18,8.69 18,12 C18,15.31 15.31,18 12,18 C8.69,18 6,15.31 6,12 C6,8.69 8.69,6 12,6 Z M12,10 C10.9,10 10,10.9 10,12 C10,13.1 10.9,14 12,14 C13.1,14 14,13.1 14,12 C14,10.9 13.1,10 12,10 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconRefresh">M17.65,6.35 C16.2,4.9 14.21,4 12,4 C7.58,4 4,7.58 4,12 C4,16.42 7.58,20 12,20 C15.73,20 18.84,17.45 19.73,14 L17.65,14 C16.83,16.33 14.61,18 12,18 C8.69,18 6,15.31 6,12 C6,8.69 8.69,6 12,6 C13.66,6 15.14,6.69 16.22,7.78 L13,11 L20,11 L20,4 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconCheck">M9,16.17 L4.83,12 L3.41,13.41 L9,19 L21,7 L19.59,5.59 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconWarning">M1,21 L23,21 L12,2 Z M12,18 C12.55,18 13,18.45 13,19 C13,19.55 12.55,20 12,20 C11.45,20 11,19.55 11,19 C11,18.45 11.45,18 12,18 Z M12,10 C12.55,10 13,10.45 13,11 L13,15 C13,15.55 12.55,16 12,16 C11.45,16 11,15.55 11,15 L11,11 C11,10.45 11.45,10 12,10 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconUpload">M9,16 L15,16 L15,10 L19,10 L12,3 L5,10 L9,10 Z M5,18 L19,18 L19,20 L5,20 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconMegaphone">M3,10 L3,14 L7,14 L14,19 L14,5 L7,10 Z M16,8 C16,10.76 16,13.24 16,16 M19,6 C19,9 19,15 19,18 M16,9 L18,7 M16,15 L18,17</StreamGeometry>
+        <StreamGeometry x:Key="IconStar">M12,2 L15.09,8.26 L22,9.27 L17,14.14 L18.18,21 L12,17.77 L5.82,21 L7,14.14 L2,9.27 L8.91,8.26 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconChevronDown">M7,10 L12,15 L17,10</StreamGeometry>
+        <StreamGeometry x:Key="IconMinimize">M4,12 L20,12</StreamGeometry>
+        <StreamGeometry x:Key="IconMaximize">M4,4 L20,4 L20,20 L4,20 Z M4,10 L20,10</StreamGeometry>
+        <StreamGeometry x:Key="IconClose">M4,4 L20,20 M20,4 L4,20</StreamGeometry>
+        <StreamGeometry x:Key="IconGamepad">M7,6 C4.24,6 2,8.24 2,11 L2,13.5 C2,16.26 4.24,18.5 7,18.5 L8,18.5 L9.5,14 L14.5,14 L16,18.5 L17,18.5 C19.76,18.5 22,16.26 22,13.5 L22,11 C22,8.24 19.76,6 17,6 Z M7,10 C7.55,10 8,10.45 8,11 C8,11.55 7.55,12 7,12 C6.45,12 6,11.55 6,11 C6,10.45 6.45,10 7,10 Z M17,10 C17.55,10 18,10.45 18,11 C18,11.55 17.55,12 17,12 C16.45,12 16,11.55 16,11 C16,10.45 16.45,10 17,10 Z M8.5,12 L7.5,12 L7.5,11 L8.5,11 M8.5,14 L7.5,14 L7.5,13 L8.5,13 M10,13 L9,13 L9,12 L10,12 M18,13 C18.28,13 18.5,13.22 18.5,13.5 C18.5,13.78 18.28,14 18,14 C17.72,14 17.5,13.78 17.5,13.5 C17.5,13.22 17.72,13 18,13 Z M16,13 C16.28,13 16.5,13.22 16.5,13.5 C16.5,13.78 16.28,14 16,14 C15.72,14 15.5,13.78 15.5,13.5 C15.5,13.22 15.72,13 16,13 Z M17,14.5 C17.28,14.5 17.5,14.72 17.5,15 C17.5,15.28 17.28,15.5 17,15.5 C16.72,15.5 16.5,15.28 16.5,15 C16.5,14.72 16.72,14.5 17,14.5 Z M19,13 C19.28,13 19.5,13.22 19.5,13.5 C19.5,13.78 19.28,14 19,14 C18.72,14 18.5,13.78 18.5,13.5 C18.5,13.22 18.72,13 19,13 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconWrench">M22,2 L22,9 L16,9 L16,7 C13.68,6.25 11.68,6.43 10,7.5 L13.5,11 L6.5,18 L2,22 L3.5,23.5 L7.5,19.5 L14,13 L17.5,16.5 C18.57,14.82 18.75,12.82 18,10.5 L20,10.5 L22,10.5 Z M2.5,21.5 L4,23 L4.5,23.5 L4,22.5 Z M19,4 L21,4 L21,8 L19,8 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconPackage">M12,2 L3,7 L3,17 L12,22 L21,17 L21,7 Z M3,7 L12,12 L21,7 M12,22 L12,12 M7,4.5 L17,9.5 M12,12 L12,17</StreamGeometry>
+        <StreamGeometry x:Key="IconDropFile">M14,2 L20,8 L20,20 C20,21.1 19.1,22 18,22 L6,22 C4.9,22 4,21.1 4,20 L4,4 C4,2.9 4.9,2 6,2 Z M14,2 L14,8 L20,8</StreamGeometry>
+        <StreamGeometry x:Key="IconHeart">M12,21 C8,18 2,13 2,8 C2,5 4,2 7,2 C9,2 11,3 12,5 C13,3 15,2 17,2 C20,2 22,5 22,8 C22,13 16,18 12,21 Z</StreamGeometry>
+        <StreamGeometry x:Key="IconArrowLeft">M20,12 L4,12 M10,6 L4,12 L10,18</StreamGeometry>
+        <StreamGeometry x:Key="IconBot">M7,4 L17,4 C18.66,4 20,5.34 20,7 L20,16 C20,17.66 18.66,19 17,19 L7,19 C5.34,19 4,17.66 4,16 L4,7 C4,5.34 5.34,4 7,4 Z M9,10 C9,10.55 8.55,11 8,11 C7.45,11 7,10.55 7,10 C7,9.45 7.45,9 8,9 C8.55,9 9,9.45 9,10 Z M17,10 C17,10.55 16.55,11 16,11 C15.45,11 15,10.55 15,10 C15,9.45 15.45,9 16,9 C16.55,9 17,9.45 17,10 Z M12,2 L12,4 M10,14 L14,14</StreamGeometry>
+
+        <Style TargetType="Path" x:Key="LineIcon">
+            <Setter Property="Stroke" Value="{StaticResource TextSecondary}"/>
+            <Setter Property="Fill" Value="Transparent"/>
+            <Setter Property="StrokeThickness" Value="1.5"/>
+            <Setter Property="Stretch" Value="Uniform"/>
+            <Setter Property="SnapsToDevicePixels" Value="True"/>
+            <Setter Property="UseLayoutRounding" Value="True"/>
+        </Style>
+
+        <Style TargetType="Button" x:Key="NavItem">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="{StaticResource TextSecondary}"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Padding" Value="16,0"/>
+            <Setter Property="Height" Value="42"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" Background="{TemplateBinding Background}" BorderBrush="Transparent" BorderThickness="3,0,0,0" Padding="{TemplateBinding Padding}" CornerRadius="0">
+                            <Grid>
+                                <ContentPresenter VerticalAlignment="Center"/>
+                            </Grid>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Bd" Property="Background" Value="#161628"/>
+                                <Setter Property="Foreground" Value="{StaticResource TextPrimary}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="Button" x:Key="NavItemActive" BasedOn="{StaticResource NavItem}">
+            <Setter Property="Background" Value="#161628"/>
+            <Setter Property="Foreground" Value="{StaticResource TextPrimary}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" Background="#161628" BorderBrush="{StaticResource Accent}" BorderThickness="3,0,0,0" Padding="{TemplateBinding Padding}">
+                            <ContentPresenter VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="Button" x:Key="TabItem">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="{StaticResource TextSecondary}"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Padding" Value="10,0"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" Background="{TemplateBinding Background}" Padding="{TemplateBinding Padding}">
+                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="Button" x:Key="TabItemActive" BasedOn="{StaticResource TabItem}">
+            <Setter Property="Foreground" Value="{StaticResource TextPrimary}"/>
+        </Style>
+
+        <Style TargetType="Button" x:Key="PrimaryButton">
+            <Setter Property="Background" Value="{StaticResource AccentGradient}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Height" Value="44"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" Background="{TemplateBinding Background}" CornerRadius="8" Padding="16,0">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Bd" Property="Opacity" Value="0.9"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter TargetName="Bd" Property="Opacity" Value="0.4"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="Button" x:Key="PrimaryBlueButton">
+            <Setter Property="Background" Value="{StaticResource BlueGradient}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Height" Value="44"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" Background="{TemplateBinding Background}" CornerRadius="8" Padding="16,0">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Bd" Property="Opacity" Value="0.9"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter TargetName="Bd" Property="Opacity" Value="0.4"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="Button" x:Key="SecondaryButton">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="{StaticResource TextSecondary}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource BorderDefault}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Height" Value="36"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Padding" Value="14,0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1" CornerRadius="6" Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Bd" Property="Background" Value="#161628"/>
+                                <Setter Property="Foreground" Value="{StaticResource TextPrimary}"/>
+                                <Setter TargetName="Bd" Property="BorderBrush" Value="{StaticResource BorderStrong}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="Button" x:Key="WindowBtn">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="{StaticResource TextSecondary}"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Width" Value="40"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Bd" Property="Background" Value="#1e1e32"/>
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="Button" x:Key="CloseBtn" BasedOn="{StaticResource WindowBtn}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Bd" Property="Background" Value="#e8456a"/>
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="{StaticResource BgInput}"/>
+            <Setter Property="Foreground" Value="{StaticResource TextPrimary}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource BorderDefault}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Height" Value="34"/>
+            <Setter Property="Padding" Value="10,0"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="CaretBrush" Value="{StaticResource Accent}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border x:Name="Bd" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1" CornerRadius="6">
+                            <ScrollViewer x:Name="PART_ContentHost" Margin="{TemplateBinding Padding}" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsFocused" Value="True">
+                                <Setter TargetName="Bd" Property="BorderBrush" Value="{StaticResource Accent}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <ControlTemplate x:Key="ComboBoxToggleButtonTemplate" TargetType="ToggleButton">
+            <Grid>
+                <Border x:Name="Bg" Background="Transparent"/>
+            </Grid>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="Bg" Property="Background" Value="#10FFFFFF"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter TargetName="Bg" Property="Background" Value="#20FFFFFF"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+
+        <Style TargetType="ComboBox">
+            <Setter Property="Background" Value="{StaticResource BgInput}"/>
+            <Setter Property="Foreground" Value="{StaticResource TextPrimary}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource BorderDefault}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Height" Value="36"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Padding" Value="10,0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ComboBox">
+                        <Grid>
+                            <Border x:Name="Bd" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="6" SnapsToDevicePixels="True"/>
+                            <ToggleButton x:Name="PART_DropDown" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Focusable="False" ClickMode="Press" IsChecked="{Binding IsDropDownOpen, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}}" Template="{StaticResource ComboBoxToggleButtonTemplate}"/>
+                            <ContentPresenter x:Name="ContentSite" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="12,0,30,0" Content="{TemplateBinding SelectionBoxItem}" ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}" ContentTemplateSelector="{TemplateBinding ItemTemplateSelector}" ContentStringFormat="{TemplateBinding SelectionBoxItemStringFormat}" IsHitTestVisible="False"/>
+                            <Path x:Name="Arrow" Data="M 0 0 L 5 5 L 10 0 Z" Fill="{StaticResource TextSecondary}" Stretch="Uniform" Width="10" Height="6" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,12,0" IsHitTestVisible="False"/>
+                            <Popup x:Name="PART_Popup" IsOpen="{TemplateBinding IsDropDownOpen}" Placement="Bottom" AllowsTransparency="True" Focusable="False" PopupAnimation="Slide">
+                                <Border x:Name="DropDownBorder" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderStrong}" BorderThickness="1" CornerRadius="6" Margin="0,4,0,0" MinWidth="{TemplateBinding ActualWidth}" SnapsToDevicePixels="True">
+                                    <ScrollViewer Margin="4,4" MaxHeight="220" VerticalScrollBarVisibility="Auto">
+                                        <StackPanel IsItemsHost="True" KeyboardNavigation.DirectionalNavigation="Contained"/>
+                                    </ScrollViewer>
+                                </Border>
+                            </Popup>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Bd" Property="BorderBrush" Value="{StaticResource BorderStrong}"/>
+                            </Trigger>
+                            <Trigger Property="IsFocused" Value="True">
+                                <Setter TargetName="Bd" Property="BorderBrush" Value="{StaticResource AccentBlue}"/>
+                            </Trigger>
+                            <Trigger Property="IsDropDownOpen" Value="True">
+                                <Setter TargetName="Bd" Property="BorderBrush" Value="{StaticResource AccentBlue}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="ItemContainerStyle">
+                <Setter.Value>
+                    <Style TargetType="ComboBoxItem">
+                        <Setter Property="Background" Value="Transparent"/>
+                        <Setter Property="Foreground" Value="{StaticResource TextPrimary}"/>
+                        <Setter Property="Height" Value="32"/>
+                        <Setter Property="Padding" Value="12,0"/>
+                        <Setter Property="FontSize" Value="12"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="ComboBoxItem">
+                                    <Border x:Name="Bd" Background="{TemplateBinding Background}" Padding="{TemplateBinding Padding}" CornerRadius="4" SnapsToDevicePixels="True">
+                                        <ContentPresenter VerticalAlignment="Center"/>
+                                    </Border>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsHighlighted" Value="True">
+                                            <Setter TargetName="Bd" Property="Background" Value="#1f2a44"/>
+                                            <Setter Property="Foreground" Value="White"/>
+                                        </Trigger>
+                                        <Trigger Property="IsSelected" Value="True">
+                                            <Setter TargetName="Bd" Property="Background" Value="#1a3060"/>
+                                            <Setter Property="Foreground" Value="{StaticResource AccentBlue}"/>
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="ProgressBar">
+            <Setter Property="Foreground" Value="{StaticResource Accent}"/>
+            <Setter Property="Background" Value="{StaticResource BgElevated}"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Height" Value="6"/>
+        </Style>
+
+        <Style x:Key="ScrollBarThumb" TargetType="Thumb">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Thumb">
+                        <Border x:Name="ThumbBd" Background="#455570" CornerRadius="4"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="ScrollBar">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Width" Value="8"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ScrollBar">
+                        <Grid>
+                            <Track x:Name="PART_Track" IsDirectionReversed="True">
+                                <Track.Thumb>
+                                    <Thumb>
+                                        <Thumb.Template>
+                                            <ControlTemplate TargetType="Thumb">
+                                                <Border Background="#455570" CornerRadius="4" Margin="2,1"/>
+                                            </ControlTemplate>
+                                        </Thumb.Template>
+                                    </Thumb>
+                                </Track.Thumb>
+                                <Track.IncreaseRepeatButton>
+                                    <RepeatButton Background="Transparent" BorderThickness="0" Command="ScrollBar.PageDownCommand" Interval="50"/>
+                                </Track.IncreaseRepeatButton>
+                                <Track.DecreaseRepeatButton>
+                                    <RepeatButton Background="Transparent" BorderThickness="0" Command="ScrollBar.PageUpCommand" Interval="50"/>
+                                </Track.DecreaseRepeatButton>
+                            </Track>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="ScrollViewer">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ScrollViewer">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <ScrollContentPresenter x:Name="PART_ScrollContentPresenter" Grid.Column="0" Grid.Row="0" CanContentScroll="{TemplateBinding CanContentScroll}" Content="{TemplateBinding Content}" ContentTemplate="{TemplateBinding ContentTemplate}" Margin="{TemplateBinding Padding}"/>
+                            <ScrollBar x:Name="PART_VerticalScrollBar" Grid.Column="1" Grid.Row="0" AutomationProperties.AutomationId="VerticalScrollBar" Cursor="Arrow" Maximum="{TemplateBinding ScrollableHeight}" Minimum="0" ViewportSize="{TemplateBinding ViewportHeight}" Value="{Binding VerticalOffset, Mode=OneWay, RelativeSource={RelativeSource TemplatedParent}}" Visibility="{TemplateBinding ComputedVerticalScrollBarVisibility}"/>
+                            <ScrollBar x:Name="PART_HorizontalScrollBar" Grid.Column="0" Grid.Row="1" AutomationProperties.AutomationId="HorizontalScrollBar" Cursor="Arrow" Maximum="{TemplateBinding ScrollableWidth}" Minimum="0" Orientation="Horizontal" ViewportSize="{TemplateBinding ViewportWidth}" Value="{Binding HorizontalOffset, Mode=OneWay, RelativeSource={RelativeSource TemplatedParent}}" Visibility="{TemplateBinding ComputedHorizontalScrollBarVisibility}" Height="8"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- LEFT SIDEBAR -->
+        <Border Grid.Column="0" Background="{StaticResource BgSidebar}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="0,0,1,0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- Logo -->
+                <Border Grid.Row="0" Margin="0" Padding="16,16,16,0" MouseLeftButtonDown="TitleBar_Drag" Background="Transparent">
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <Image Width="38" Height="38" Source="pack://application:,,,/FSMODTSBOX.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            <TextBlock Text="FSMODTSBOX" FontSize="14" FontWeight="Bold" Foreground="{StaticResource TextPrimary}" Margin="10,0,0,0" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <Border Height="1" Background="{StaticResource BorderSubtle}" Margin="-4,14,-4,0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Nav items -->
+                <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+                    <StackPanel Margin="0,8,0,0">
+                        <Button x:Name="NavHome" Style="{StaticResource NavItem}" Click="NavHome_Click">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="🏠" FontFamily="Segoe UI Emoji" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                                <TextBlock x:Name="NavHomeText" Text="首页" VerticalAlignment="Center" Tag="nav_home"/>
+                            </StackPanel>
+                        </Button>
+                        <Button x:Name="NavSettings" Style="{StaticResource NavItem}" Click="SettingsBtn_Click">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="⚙" FontFamily="Segoe UI Emoji" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                                <TextBlock x:Name="NavSettingsText" Text="设置" VerticalAlignment="Center" Tag="nav_settings"/>
+                            </StackPanel>
+                        </Button>
+                        <Button x:Name="NavSponsor" Style="{StaticResource NavItem}" Click="NavSponsor_Click">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="☕" FontFamily="Segoe UI Emoji" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                                <TextBlock x:Name="NavSponsorText" Text="赞助支持" VerticalAlignment="Center" Tag="nav_sponsor"/>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+                </ScrollViewer>
+
+                <!-- Sidebar robot decoration + status -->
+                <StackPanel Grid.Row="2" Margin="16,0,16,14">
+                    <Grid Height="340" Margin="-8,0,0,0">
+                        <TextBlock Text="⚙" FontFamily="Segoe UI Emoji" FontSize="10" Foreground="#207c3aed" HorizontalAlignment="Right" Margin="0,0,4,18" VerticalAlignment="Bottom"/>
+                        <TextBlock Text="⭐" FontFamily="Segoe UI Emoji" FontSize="7" Foreground="#30f5b041" HorizontalAlignment="Left" Margin="60,0,0,10" VerticalAlignment="Bottom"/>
+                        <Ellipse Width="3" Height="3" Fill="#35ffffff" HorizontalAlignment="Left" Margin="8,8,0,0" VerticalAlignment="Top"/>
+                        <Ellipse Width="2" Height="2" Fill="#40e8456a" HorizontalAlignment="Left" Margin="18,0,0,0" VerticalAlignment="Top"/>
+                        <Ellipse Width="3" Height="3" Fill="#50e8456a" HorizontalAlignment="Left" Margin="14,0,0,18" VerticalAlignment="Bottom"/>
+                        <Path Data="M2,12 C6,8 10,16 14,10 C16,7 18,8 20,9" Stroke="#18ffffff" Fill="Transparent" StrokeThickness="1.2" Stretch="Uniform" Width="20" Height="10" HorizontalAlignment="Right" Margin="0,8,12,0" VerticalAlignment="Top"/>
+                        <Ellipse Width="4" Height="4" Fill="#28ffffff" HorizontalAlignment="Right" Margin="0,4,22,0" VerticalAlignment="Top"/>
+                        <Image Width="200" Height="300" Source="pack://application:,,,/bot.png" RenderOptions.BitmapScalingMode="HighQuality" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="4,4,0,0"/>
+                        <TextBlock Text="🎮" FontFamily="Segoe UI Emoji" FontSize="14" Foreground="#18ffffff" HorizontalAlignment="Left" Margin="54,68,0,0" VerticalAlignment="Top" Opacity="0.2"/>
+                    </Grid>
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,2">
+                        <Ellipse Width="7" Height="7" Fill="{StaticResource Success}" VerticalAlignment="Center"/>
+                        <TextBlock x:Name="SidebarStatusText" Text="程序运行正常" Tag="status_ok" FontSize="11" Foreground="{StaticResource Success}" Margin="6,0,0,0" VerticalAlignment="Center"/>
+                    </StackPanel>
+                    <TextBlock Text="" FontSize="10" Foreground="{StaticResource TextMuted}"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- RIGHT PANEL -->
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="44"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="28"/>
+            </Grid.RowDefinitions>
+
+            <!-- TOP BAR -->
+            <Border Grid.Row="0" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="0,0,0,1" MouseLeftButtonDown="TitleBar_Drag">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0" Background="Transparent" MouseLeftButtonDown="TitleBar_Drag">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        </StackPanel>
+                    </Grid>
+                    <StackPanel Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center">
+                        <Button x:Name="MinimizeBtn" Style="{StaticResource WindowBtn}" Click="MinimizeBtn_Click" ToolTip="最小化">
+                            <TextBlock Text="─" FontFamily="Segoe UI Emoji" FontSize="10" Foreground="{StaticResource TextSecondary}" VerticalAlignment="Center"/>
+                        </Button>
+                        <Button x:Name="MaximizeBtn" Style="{StaticResource WindowBtn}" Click="MaximizeBtn_Click" ToolTip="最大化">
+                            <TextBlock Text="□" FontFamily="Segoe UI Emoji" FontSize="10" Foreground="{StaticResource TextSecondary}" VerticalAlignment="Center"/>
+                        </Button>
+                        <Button x:Name="CloseBtn" Style="{StaticResource CloseBtn}" Click="CloseBtn_Click" ToolTip="关闭">
+                            <TextBlock Text="✕" FontFamily="Segoe UI Emoji" FontSize="10" Foreground="{StaticResource TextSecondary}" VerticalAlignment="Center"/>
+                        </Button>
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <!-- MAIN CONTENT -->
+            <Grid Grid.Row="1">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Padding="20,18,20,12">
+                <Grid x:Name="ContentArea">
+                    <!-- Welcome Page -->
+                    <Border x:Name="WelcomePage" Visibility="Visible">
+                        <StackPanel>
+                            <!-- Tip banner + feature icons -->
+                            <Grid Margin="0,0,0,4">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Border Grid.Column="0" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10" Padding="16,12" Margin="0,0,12,0" ClipToBounds="True">
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+                                        <TextBlock Text="📢" FontFamily="Segoe UI Emoji" Foreground="{StaticResource Accent}" VerticalAlignment="Top" Margin="0,2,0,0"/>
+                                        <StackPanel Grid.Column="1" Margin="10,0">
+                                            <TextBlock Text="贴心提示" Tag="tip_title" FontSize="13" FontWeight="Bold" Foreground="{StaticResource TextPrimary}"/>
+                                            <TextBlock x:Name="TipBodyText" FontSize="12" Foreground="{StaticResource TextSecondary}" Margin="0,2,0,0" TextWrapping="Wrap" Tag="tip_body"/>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="8,0,4,0">
+                                            <TextBlock Text="⭐" FontFamily="Segoe UI Emoji" FontSize="8" Foreground="#40e8456a" VerticalAlignment="Top" Margin="0,4,0,0"/>
+                                            <TextBlock Text="🎮" FontFamily="Segoe UI Emoji" FontSize="32" Foreground="#50e8456a" VerticalAlignment="Center" Margin="4,0,0,0"/>
+                                            <TextBlock Text="📦" FontFamily="Segoe UI Emoji" FontSize="26" Foreground="#50f5b041" VerticalAlignment="Center" Margin="-2,6,0,-4"/>
+                                            <TextBlock Text="🔄" FontFamily="Segoe UI Emoji" FontSize="8" Foreground="#403b7bef" VerticalAlignment="Top" Margin="0,2,0,0"/>
+                                            <Ellipse Width="4" Height="4" Fill="#30f5b041" VerticalAlignment="Bottom" Margin="-2,0,0,6"/>
+                                        </StackPanel>
+                                    </Grid>
+                                </Border>
+                                <StackPanel Grid.Column="1" Orientation="Horizontal">
+                                    <Border Width="72" Margin="4,0" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10" Padding="0,10">
+                                        <StackPanel HorizontalAlignment="Center">
+                                            <Border Width="36" Height="36" Background="{StaticResource BgElevated}" CornerRadius="8">
+                                                <TextBlock Text="✅" FontFamily="Segoe UI Emoji" FontSize="18" Foreground="White" VerticalAlignment="Center"/>
+                                            </Border>
+                                            <TextBlock Text="安全可靠" Tag="feature_safe_title" FontSize="11" Foreground="{StaticResource TextPrimary}" HorizontalAlignment="Center" Margin="0,6,0,1"/>
+                                            <TextBlock Text="本地处理" Tag="feature_safe_sub" FontSize="9" Foreground="{StaticResource TextMuted}" HorizontalAlignment="Center"/>
+                                        </StackPanel>
+                                    </Border>
+                                    <Border Width="72" Margin="4,0" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10" Padding="0,10">
+                                        <StackPanel HorizontalAlignment="Center">
+                                            <Border Width="36" Height="36" Background="{StaticResource BgElevated}" CornerRadius="8">
+                                                <TextBlock Text="⚡" FontFamily="Segoe UI Emoji" FontSize="16" Foreground="White" VerticalAlignment="Center"/>
+                                            </Border>
+                                            <TextBlock Text="简单易用" Tag="feature_easy_title" FontSize="11" Foreground="{StaticResource TextPrimary}" HorizontalAlignment="Center" Margin="0,6,0,1"/>
+                                            <TextBlock Text="一键翻译" Tag="feature_easy_sub" FontSize="9" Foreground="{StaticResource TextMuted}" HorizontalAlignment="Center"/>
+                                        </StackPanel>
+                                    </Border>
+                                    <Border Width="72" Margin="4,0" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10" Padding="0,10">
+                                        <StackPanel HorizontalAlignment="Center">
+                                            <Border Width="36" Height="36" Background="{StaticResource BgElevated}" CornerRadius="8">
+                                                <TextBlock Text="🎯" FontFamily="Segoe UI Emoji" FontSize="18" Foreground="White" VerticalAlignment="Center"/>
+                                            </Border>
+                                            <TextBlock Text="高效精准" Tag="feature_accurate_title" FontSize="11" Foreground="{StaticResource TextPrimary}" HorizontalAlignment="Center" Margin="0,6,0,1"/>
+                                            <TextBlock Text="智能识别" Tag="feature_accurate_sub" FontSize="9" Foreground="{StaticResource TextMuted}" HorizontalAlignment="Center"/>
+                                        </StackPanel>
+                                    </Border>
+                                    <Border Width="72" Margin="4,0" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10" Padding="0,10">
+                                        <StackPanel HorizontalAlignment="Center">
+                                            <Border Width="36" Height="36" Background="{StaticResource BgElevated}" CornerRadius="8">
+                                                <TextBlock Text="🔄" FontFamily="Segoe UI Emoji" FontSize="18" Foreground="White" VerticalAlignment="Center"/>
+                                            </Border>
+                                            <TextBlock Text="持续更新" Tag="feature_updating_title" FontSize="11" Foreground="{StaticResource TextPrimary}" HorizontalAlignment="Center" Margin="0,6,0,1"/>
+                                            <TextBlock Text="功能迭代" Tag="feature_updating_sub" FontSize="9" Foreground="{StaticResource TextMuted}" HorizontalAlignment="Center"/>
+                                        </StackPanel>
+                                    </Border>
+                                </StackPanel>
+                            </Grid>
+
+                            <!-- Two main cards -->
+                            <Grid Margin="0,16,0,0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="14"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <!-- GAME CARD (RED) -->
+                                <Border Grid.Column="0" Background="{StaticResource BgCard}" CornerRadius="14" Padding="22" BorderThickness="1.5" ClipToBounds="True">
+                                    <Border.BorderBrush>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                            <GradientStop Color="#cc4060" Offset="0"/>
+                                            <GradientStop Color="#80c23152" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </Border.BorderBrush>
+                                    <Grid>
+                                        <!-- Background watermark gamepad -->
+                                        <TextBlock Text="🎮" FontFamily="Segoe UI Emoji" FontSize="140" Foreground="#18e8456a" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,-16,-16,0" Opacity="0.5"/>
+                                        <!-- Decorative particles for icon -->
+                                        <TextBlock Text="+" FontSize="10" FontWeight="Bold" Foreground="#40e8456a" HorizontalAlignment="Left" Margin="58,4,0,0" VerticalAlignment="Top"/>
+                                        <Ellipse Width="4" Height="4" Fill="#50e8456a" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top"/>
+                                        <Ellipse Width="3" Height="3" Fill="#35f5b041" HorizontalAlignment="Left" Margin="68,56,0,0" VerticalAlignment="Top"/>
+                                        <Ellipse Width="2" Height="2" Fill="#40e8456a" HorizontalAlignment="Left" Margin="2,60,0,0" VerticalAlignment="Top"/>
+                                        <TextBlock Text="✦" FontSize="8" Foreground="#30e8456a" HorizontalAlignment="Left" Margin="42,0,0,8" VerticalAlignment="Bottom"/>
+
+                                        <StackPanel>
+                                        <!-- Card header -->
+                                        <Grid>
+                                            <StackPanel Orientation="Horizontal">
+                                                <Grid Width="64" Height="64">
+                                                    <!-- Outer glow ring -->
+                                                    <Ellipse Width="64" Height="64" Stroke="#50e8456a" StrokeThickness="1"/>
+                                                    <Ellipse Width="52" Height="52" Stroke="#30e8456a" StrokeThickness="0.7" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    <Ellipse Width="44" Height="44" Fill="#1a0f18" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    <Border BorderThickness="1.5" CornerRadius="22" Width="44" Height="44" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                                        <Border.BorderBrush>
+                                                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                                                <GradientStop Color="#e8456a" Offset="0"/>
+                                                                <GradientStop Color="#c23152" Offset="1"/>
+                                                            </LinearGradientBrush>
+                                                        </Border.BorderBrush>
+                                                        <TextBlock Text="🎮" FontSize="18" Foreground="White" FontFamily="Segoe UI Emoji" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                </Grid>
+                                                <StackPanel Margin="14,8,0,0">
+                                                    <TextBlock Text="MOD 翻译" FontSize="22" FontWeight="Bold" Foreground="{StaticResource TextPrimary}"/>
+                                                    <TextBlock Text="FromSoftware 游戏" FontSize="12" Foreground="{StaticResource TextSecondary}" Margin="0,4,0,0"/>
+                                                </StackPanel>
+                                            </StackPanel>
+                                            <Border Background="{StaticResource Accent}" CornerRadius="5" Padding="8,3" HorizontalAlignment="Right" VerticalAlignment="Top">
+                                                <StackPanel Orientation="Horizontal">
+                                                    <TextBlock Text="⭐" FontFamily="Segoe UI Emoji" FontSize="9" Foreground="White" VerticalAlignment="Center"/>
+                                                    <TextBlock Text="推荐" Foreground="White" FontSize="10" FontWeight="Bold" Margin="3,0,0,0" VerticalAlignment="Center"/>
+                                                </StackPanel>
+                                            </Border>
+                                        </Grid>
+
+                                        <!-- Steps -->
+                                        <StackPanel Margin="0,20,0,0">
+                                            <Border Background="Transparent" BorderBrush="#252538" BorderThickness="0.8" CornerRadius="7" Padding="12,10" Margin="0,0,0,6">
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Border Grid.Column="0" Width="28" Height="28" Background="{StaticResource Accent}" CornerRadius="5">
+                                                        <TextBlock Text="01" Foreground="White" FontSize="11" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                    <StackPanel Grid.Column="1" Margin="10,0">
+                                                        <TextBlock Text="选择 MOD 文件夹" FontSize="13" Foreground="{StaticResource TextPrimary}"/>
+                                                        <TextBlock Text="支持 FromSoftware 游戏 MOD" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="0,2,0,0"/>
+                                                    </StackPanel>
+                                                    <Border Width="30" Height="30" BorderBrush="#2a2a40" BorderThickness="1" CornerRadius="5" Background="Transparent">
+                                                        <TextBlock Text="📂" FontFamily="Segoe UI Emoji" FontSize="13" Foreground="{StaticResource TextSecondary}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                </Grid>
+                                            </Border>
+                                            <Border Background="Transparent" BorderBrush="#252538" BorderThickness="0.8" CornerRadius="7" Padding="12,10" Margin="0,0,0,6">
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Border Grid.Column="0" Width="28" Height="28" Background="{StaticResource Accent}" CornerRadius="5">
+                                                        <TextBlock Text="02" Foreground="White" FontSize="11" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                    <StackPanel Grid.Column="1" Margin="10,0">
+                                                        <TextBlock Text="自动分析文本" FontSize="13" Foreground="{StaticResource TextPrimary}"/>
+                                                        <TextBlock Text="智能识别 MOD 文本差异" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="0,2,0,0"/>
+                                                    </StackPanel>
+                                                    <Border Width="30" Height="30" BorderBrush="#2a2a40" BorderThickness="1" CornerRadius="5">
+                                                        <TextBlock Text="🔍" FontFamily="Segoe UI Emoji" FontSize="13" Foreground="{StaticResource TextSecondary}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                </Grid>
+                                            </Border>
+                                            <Border Background="Transparent" BorderBrush="#252538" BorderThickness="0.8" CornerRadius="7" Padding="12,10" Margin="0,0,0,6">
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Border Grid.Column="0" Width="28" Height="28" Background="{StaticResource Accent}" CornerRadius="5">
+                                                        <TextBlock Text="03" Foreground="White" FontSize="11" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                    <StackPanel Grid.Column="1" Margin="10,0">
+                                                        <TextBlock Text="AI 自动翻译" FontSize="13" Foreground="{StaticResource TextPrimary}"/>
+                                                        <TextBlock Text="支持多语言·高效准确" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="0,2,0,0"/>
+                                                    </StackPanel>
+                                                    <Border Width="30" Height="30" BorderBrush="#2a2a40" BorderThickness="1" CornerRadius="5">
+                                                        <TextBlock Text="✏" FontFamily="Segoe UI Emoji" FontSize="13" Foreground="{StaticResource TextSecondary}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                </Grid>
+                                            </Border>
+                                            <Border Background="Transparent" BorderBrush="#252538" BorderThickness="0.8" CornerRadius="7" Padding="12,10">
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Border Grid.Column="0" Width="28" Height="28" Background="{StaticResource Accent}" CornerRadius="5">
+                                                        <TextBlock Text="04" Foreground="White" FontSize="11" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                    <StackPanel Grid.Column="1" Margin="10,0">
+                                                        <TextBlock Text="自动打包回文件" FontSize="13" Foreground="{StaticResource TextPrimary}"/>
+                                                        <TextBlock Text="直接生成 .msgbnd.dcx 文件" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="0,2,0,0"/>
+                                                    </StackPanel>
+                                                    <Border Width="30" Height="30" BorderBrush="#2a2a40" BorderThickness="1" CornerRadius="5">
+                                                        <TextBlock Text="💾" FontFamily="Segoe UI Emoji" FontSize="13" Foreground="{StaticResource TextSecondary}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                </Grid>
+                                            </Border>
+                                        </StackPanel>
+
+                                        <!-- Purple info bar -->
+                                        <Border Margin="0,12,0,0" Padding="12,8" CornerRadius="6" BorderThickness="1">
+                                            <Border.Background>
+                                                <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                                                    <GradientStop Color="#201a0f2e" Offset="0"/>
+                                                    <GradientStop Color="#15251038" Offset="1"/>
+                                                </LinearGradientBrush>
+                                            </Border.Background>
+                                            <Border.BorderBrush>
+                                                <SolidColorBrush Color="#407c3aed"/>
+                                            </Border.BorderBrush>
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="✅" FontFamily="Segoe UI Emoji" FontSize="13" Foreground="{StaticResource AccentPurple}" VerticalAlignment="Center"/>
+                                                <TextBlock Text="支持 FromSoftware MOD 翻译" Foreground="{StaticResource TextPrimary}" FontSize="11.5" Margin="6,0,0,0" VerticalAlignment="Center"/>
+                                            </StackPanel>
+                                        </Border>
+
+                                        <!-- Red warning bar -->
+                                        <Border Margin="0,6,0,0" Background="#1a0f14" BorderBrush="#40e8456a" BorderThickness="1" CornerRadius="6" Padding="12,8">
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="⚠" FontFamily="Segoe UI Emoji" FontSize="12" Foreground="{StaticResource Accent}" VerticalAlignment="Center"/>
+                                                <TextBlock Text="单机 MOD 翻译，请遵守游戏使用条款" Foreground="#ff9aa8" FontSize="11.5" Margin="6,0,0,0" VerticalAlignment="Center"/>
+                                            </StackPanel>
+                                        </Border>
+
+                                        <!-- CTA Button -->
+                                        <Button x:Name="SelectModBtn" Style="{StaticResource PrimaryButton}" Margin="0,16,0,0" Click="SelectModBtn_Click">
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="🎮" FontFamily="Segoe UI Emoji" FontSize="16" Foreground="White" VerticalAlignment="Center" Margin="0,0,8,0"/>
+                                                <TextBlock Text="选择 MOD" Foreground="White" VerticalAlignment="Center"/>
+                                            </StackPanel>
+                                        </Button>
+
+                                        <!-- Drop zone -->
+                                        <Border Margin="0,8,0,0" Background="Transparent" BorderBrush="#2a2a3e" BorderThickness="1" CornerRadius="6" Padding="0,10">
+                                            <Grid>
+                                                <TextBlock Text="选择 MOD 的 msg/engus 文件夹" FontSize="11" Foreground="{StaticResource TextMuted}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                <TextBlock Text="↑" FontFamily="Segoe UI Emoji" FontSize="14" Foreground="{StaticResource TextMuted}" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,14,0"/>
+                                            </Grid>
+                                        </Border>
+                                    </StackPanel>
+                                    </Grid>
+                                </Border>
+
+                                <!-- MOD CARD (BLUE) -->
+                                <Border Background="{StaticResource BgCard}" CornerRadius="14" Padding="22" BorderThickness="1.5" ClipToBounds="True">
+                                    <Border.BorderBrush>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                            <GradientStop Color="#cc3060c0" Offset="0"/>
+                                            <GradientStop Color="#802558c0" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </Border.BorderBrush>
+                                    <Grid>
+                                        <!-- Background watermark wrench -->
+                                        <TextBlock Text="🔧" FontFamily="Segoe UI Emoji" FontSize="130" Foreground="#183b7bef" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,-14,-14,0" Opacity="0.5"/>
+                                        <!-- Decorative particles for blue icon -->
+                                        <TextBlock Text="×" FontSize="9" Foreground="#303b7bef" HorizontalAlignment="Left" Margin="58,6,0,0" VerticalAlignment="Top"/>
+                                        <Ellipse Width="4" Height="4" Fill="#453b7bef" HorizontalAlignment="Left" Margin="0,12,0,0" VerticalAlignment="Top"/>
+                                        <Ellipse Width="3" Height="3" Fill="#303ecf6b" HorizontalAlignment="Left" Margin="66,54,0,0" VerticalAlignment="Top"/>
+                                        <Ellipse Width="2" Height="2" Fill="#303b7bef" HorizontalAlignment="Left" Margin="4,58,0,0" VerticalAlignment="Top"/>
+                                        <TextBlock Text="▪" FontSize="7" Foreground="#283b7bef" HorizontalAlignment="Left" Margin="40,0,0,10" VerticalAlignment="Bottom"/>
+
+                                        <StackPanel>
+                                        <!-- Card header -->
+                                        <Grid>
+                                            <StackPanel Orientation="Horizontal">
+                                                <Grid Width="64" Height="64">
+                                                    <Ellipse Width="64" Height="64" Stroke="#503b7bef" StrokeThickness="1"/>
+                                                    <Ellipse Width="52" Height="52" Stroke="#303b7bef" StrokeThickness="0.7" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    <Ellipse Width="44" Height="44" Fill="#0f1425" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    <Border BorderThickness="1.5" CornerRadius="22" Width="44" Height="44" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                                        <Border.BorderBrush>
+                                                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                                                <GradientStop Color="#3b7bef" Offset="0"/>
+                                                                <GradientStop Color="#2558c0" Offset="1"/>
+                                                            </LinearGradientBrush>
+                                                        </Border.BorderBrush>
+                                                        <TextBlock Text="🔧" FontSize="18" Foreground="White" FontFamily="Segoe UI Emoji" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                </Grid>
+                                                <StackPanel Margin="14,8,0,0">
+                                                    <TextBlock Text="MOD 翻译" FontSize="22" FontWeight="Bold" Foreground="{StaticResource TextPrimary}"/>
+                                                    <TextBlock Text="FromSoftware MOD" FontSize="12" Foreground="{StaticResource TextSecondary}" Margin="0,4,0,0"/>
+                                                </StackPanel>
+                                            </StackPanel>
+                                        </Grid>
+
+                                        <!-- Steps -->
+                                        <StackPanel Margin="0,20,0,0">
+                                            <Border Background="Transparent" BorderBrush="#202845" BorderThickness="0.8" CornerRadius="7" Padding="12,10" Margin="0,0,0,6">
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Border Grid.Column="0" Width="28" Height="28" Background="{StaticResource AccentBlue}" CornerRadius="5">
+                                                        <TextBlock Text="01" Foreground="White" FontSize="11" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                    <StackPanel Grid.Column="1" Margin="10,0">
+                                                        <TextBlock Text="选择 msg/engUS 文件夹" FontSize="13" Foreground="{StaticResource TextPrimary}"/>
+                                                        <TextBlock Text="定位游戏语言文件" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="0,2,0,0"/>
+                                                    </StackPanel>
+                                                </Grid>
+                                            </Border>
+                                            <Border Background="Transparent" BorderBrush="#202845" BorderThickness="0.8" CornerRadius="7" Padding="12,10" Margin="0,0,0,6">
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Border Grid.Column="0" Width="28" Height="28" Background="{StaticResource AccentBlue}" CornerRadius="5">
+                                                        <TextBlock Text="02" Foreground="White" FontSize="11" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                    <StackPanel Grid.Column="1" Margin="10,0">
+                                                        <TextBlock Text="自动解包对比文本" FontSize="13" Foreground="{StaticResource TextPrimary}"/>
+                                                        <TextBlock Text="深度对比·精准匹配" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="0,2,0,0"/>
+                                                    </StackPanel>
+                                                </Grid>
+                                            </Border>
+                                            <Border Background="Transparent" BorderBrush="#202845" BorderThickness="0.8" CornerRadius="7" Padding="12,10" Margin="0,0,0,6">
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Border Grid.Column="0" Width="28" Height="28" Background="{StaticResource AccentBlue}" CornerRadius="5">
+                                                        <TextBlock Text="03" Foreground="White" FontSize="11" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                    <StackPanel Grid.Column="1" Margin="10,0">
+                                                        <TextBlock Text="翻译修改的条目" FontSize="13" Foreground="{StaticResource TextPrimary}"/>
+                                                        <TextBlock Text="支持批量编辑翻译" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="0,2,0,0"/>
+                                                    </StackPanel>
+                                                </Grid>
+                                            </Border>
+                                            <Border Background="Transparent" BorderBrush="#202845" BorderThickness="0.8" CornerRadius="7" Padding="12,10">
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Border Grid.Column="0" Width="28" Height="28" Background="{StaticResource AccentBlue}" CornerRadius="5">
+                                                        <TextBlock Text="04" Foreground="White" FontSize="11" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                    <StackPanel Grid.Column="1" Margin="10,0">
+                                                        <TextBlock Text="打包回 .msgbnd.dcx" FontSize="13" Foreground="{StaticResource TextPrimary}"/>
+                                                        <TextBlock Text="安全打包·完美兼容" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="0,2,0,0"/>
+                                                    </StackPanel>
+                                                </Grid>
+                                            </Border>
+                                        </StackPanel>
+
+                                        <!-- Game selector -->
+                                        <TextBlock Text="选择你需要翻译的游戏" FontSize="11" Foreground="{StaticResource TextMuted}" Margin="0,14,0,6"/>
+                                        <ComboBox x:Name="GameCombo" Background="{StaticResource BgInput}" Foreground="{StaticResource TextPrimary}" BorderBrush="{StaticResource BorderDefault}" Height="36" FontSize="12" Padding="10,0"/>
+
+                                        <!-- Target language selector -->
+                                        <TextBlock Text="目标语言" FontSize="11" Foreground="{StaticResource TextMuted}" Margin="0,10,0,6"/>
+                                        <ComboBox x:Name="LangCombo" Background="{StaticResource BgInput}" Foreground="{StaticResource TextPrimary}" BorderBrush="{StaticResource BorderDefault}" Height="36" FontSize="12" Padding="10,0"/>
+
+                                        <!-- Yellow warning bar -->
+                                        <Border Margin="0,8,0,0" Background="#1a170f" BorderBrush="#40f5a623" BorderThickness="1" CornerRadius="6" Padding="12,8">
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="⚠" FontFamily="Segoe UI Emoji" FontSize="12" Foreground="{StaticResource Warning}" VerticalAlignment="Center"/>
+                                                <TextBlock Text="MOD 文件可能较大，处理需耐心等待" Foreground="#ffc56b" FontSize="11.5" Margin="6,0,0,0" VerticalAlignment="Center"/>
+                                            </StackPanel>
+                                        </Border>
+
+                                        <!-- CTA Button -->
+                                        <Button x:Name="ModBtn" Style="{StaticResource PrimaryBlueButton}" Margin="0,16,0,0" Click="ModBtn_Click">
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="🔧" FontFamily="Segoe UI Emoji" FontSize="16" Foreground="White" VerticalAlignment="Center" Margin="0,0,8,0"/>
+                                                <TextBlock Text="选择 MOD" Foreground="White" VerticalAlignment="Center"/>
+                                            </StackPanel>
+                                        </Button>
+
+                                        <!-- Drop zone -->
+                                        <Border Margin="0,8,0,0" Background="Transparent" BorderBrush="#2a3050" BorderThickness="1" CornerRadius="6" Padding="0,10">
+                                            <Grid>
+                                                <TextBlock Text="将 msg/engUS 文件夹拖拽到此处" FontSize="11" Foreground="{StaticResource TextMuted}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                <TextBlock Text="↑" FontFamily="Segoe UI Emoji" FontSize="14" Foreground="{StaticResource TextMuted}" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,14,0"/>
+                                            </Grid>
+                                        </Border>
+                                    </StackPanel>
+                                    </Grid>
+                                </Border>
+                            </Grid>
+
+                            <!-- Footer -->
+                            <StackPanel HorizontalAlignment="Center" Margin="0,18,0,8" Orientation="Horizontal">
+                                <TextBlock Text="© 2026 FSMODTSBOX  |  让游戏无语言障碍  " FontSize="11" Foreground="{StaticResource TextMuted}"/>
+                                <TextBlock Text="♥" FontFamily="Segoe UI Emoji" FontSize="11" Foreground="{StaticResource Accent}"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+
+                    
+
+                    <!-- Scanning Page -->
+                    <Border x:Name="ScanningPage" Visibility="Collapsed">
+                        <Border Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="12" Padding="24">
+                            <StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="0,0,0,16">
+                                    <TextBlock Text="🔄" FontFamily="Segoe UI Emoji" FontSize="18" Foreground="{StaticResource AccentBlue}" VerticalAlignment="Center"/>
+                                    <TextBlock x:Name="ScanFileText" FontSize="16" FontWeight="SemiBold" Foreground="{StaticResource TextPrimary}" Margin="8,0,0,0" VerticalAlignment="Center"/>
+                                </StackPanel>
+                                <ProgressBar x:Name="ScanProgressBar" Minimum="0" Maximum="100" Height="6" Background="{StaticResource BgElevated}" Foreground="{StaticResource Accent}" BorderThickness="0"/>
+                                <TextBlock x:Name="ScanDetailText" FontSize="12" Foreground="{StaticResource TextSecondary}" Margin="0,12,0,0" TextWrapping="Wrap"/>
+                                <Border Margin="0,12,0,0" Background="#0d0d1a" BorderBrush="#353550" BorderThickness="1" CornerRadius="6" Height="140">
+                                    <ScrollViewer VerticalScrollBarVisibility="Auto" Padding="10">
+                                        <TextBlock x:Name="StatusText" FontSize="12" Foreground="#d0d0e0" TextWrapping="Wrap"/>
+                                    </ScrollViewer>
+                                </Border>
+                                <Button x:Name="BackToSelectBtn" Style="{StaticResource SecondaryButton}" Content="← 返回" Margin="0,12,0,0" HorizontalAlignment="Left" Padding="16,0" Click="BackToSelect_Click"/>
+                            </StackPanel>
+                        </Border>
+                    </Border>
+
+                    <!-- Editor Page -->
+                    <Border x:Name="EditorPage" Visibility="Collapsed">
+                        <StackPanel>
+                            <Border Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10" Padding="14">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Button x:Name="BackToFileSelectBtn" Style="{StaticResource SecondaryButton}" Content="← 返回" Padding="12,0" Click="BackToFileSelect_Click"/>
+                                    <TextBlock x:Name="FilePathText" Grid.Column="1" FontSize="11" Foreground="{StaticResource TextMuted}" Margin="12,0" VerticalAlignment="Center" TextTrimming="CharacterEllipsis"/>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Button x:Name="TranslateBtn" Style="{StaticResource PrimaryButton}" Content="一键翻译" Padding="14,0" Margin="0,0,6,0"/>
+                                        <Button x:Name="ApplyBtn" Style="{StaticResource PrimaryBlueButton}" Content="写入翻译" Padding="14,0" Margin="0,0,6,0"/>
+                                        <Button x:Name="SaveBtn" Style="{StaticResource SecondaryButton}" Content="保存" Padding="14,0"/>
+                                    </StackPanel>
+                                </Grid>
+                            </Border>
+                            <Border Margin="0,10,0,0" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10">
+                                <DataGrid x:Name="StringsGrid" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False"
+                                          Background="Transparent" Foreground="{StaticResource TextPrimary}" BorderThickness="0"
+                                          GridLinesVisibility="None" HeadersVisibility="Column" RowHeight="32"
+                                          AlternatingRowBackground="#161625" RowBackground="#13131f">
+                                    <DataGrid.Columns>
+                                        <DataGridTextColumn Header="原文" Binding="{Binding Original}" Width="*" IsReadOnly="True"/>
+                                        <DataGridTextColumn Header="翻译" Binding="{Binding ChineseName, Mode=TwoWay}" Width="*"/>
+                                    </DataGrid.Columns>
+                                </DataGrid>
+                            </Border>
+                            <Border Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="6" Padding="12" Margin="0,8,0,0">
+                                <Grid>
+                                    <TextBlock x:Name="EditorStatusText" FontSize="11" Foreground="{StaticResource TextMuted}" VerticalAlignment="Center"/>
+                                    <TextBlock x:Name="StringCountText" FontSize="11" Foreground="{StaticResource TextMuted}" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+                                </Grid>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Applying Page -->
+                    <Border x:Name="ApplyingPage" Visibility="Collapsed">
+                        <Border Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="12" Padding="28" HorizontalAlignment="Center" VerticalAlignment="Center" Width="620">
+                            <StackPanel>
+                                <TextBlock x:Name="ApplyingTitleText" FontSize="20" FontWeight="Bold" Foreground="{StaticResource TextPrimary}" Tag="applying_title">正在翻译…</TextBlock>
+                                <Border Margin="0,14,0,0" Background="#0d0d1a" BorderBrush="#353550" BorderThickness="1" CornerRadius="6">
+                                    <StackPanel>
+                                        <ProgressBar x:Name="ApplyProgressBar" Minimum="0" Maximum="100" Height="4" Background="{StaticResource BgElevated}" Foreground="{StaticResource Accent}" BorderThickness="0"/>
+                                        <TextBlock x:Name="ApplyPercentageText" FontSize="12" Foreground="{StaticResource TextSecondary}" Margin="10,6,10,0"/>
+                                        <TextBox x:Name="ApplyResultText" FontSize="12" Foreground="#d0d0e0" Background="Transparent" BorderThickness="0" IsReadOnly="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Padding="10,8" MinHeight="200" MaxHeight="340"/>
+                                        <Border Height="1" Background="#353550"/>
+                                        <Button Content="← 返回首页" Style="{StaticResource SecondaryButton}" HorizontalAlignment="Left" Margin="10,8" Padding="14,6" Click="NavHome_Click"/>
+                                    </StackPanel>
+                                </Border>
+                            </StackPanel>
+                        </Border>
+                    </Border>
+
+                    <!-- File Select Page -->
+                    <Border x:Name="FileSelectPage" Visibility="Collapsed">
+                        <StackPanel>
+                            <Border Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10" Padding="14">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Button x:Name="OneClickBtn" Style="{StaticResource PrimaryButton}" Content="一键翻译" Padding="14,0" Margin="0,0,8,0" Click="BackToSelect_Click"/>
+                                    <StackPanel Grid.Column="1" Margin="10,0">
+                                        <TextBlock x:Name="FileSelectStatus" FontSize="12" Foreground="{StaticResource TextPrimary}"/>
+                                        <ProgressBar x:Name="FileSelectProgress" Minimum="0" Maximum="100" Height="4" Background="{StaticResource BgElevated}" Foreground="{StaticResource Accent}" Visibility="Collapsed" Margin="0,4,0,0"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Button x:Name="SelectFolderBtn" Style="{StaticResource SecondaryButton}" Content="选择文件夹" Padding="12,0" Margin="0,0,6,0"/>
+                                        <Button x:Name="StartScanBtn" Style="{StaticResource SecondaryButton}" Content="开始扫描" Padding="12,0" Margin="0,0,6,0"/>
+                                        <Button Content="全选" Style="{StaticResource SecondaryButton}" Padding="10,0" Margin="0,0,6,0" Click="SelectAllFiles_Click"/>
+                                        <Button Content="取消全选" Style="{StaticResource SecondaryButton}" Padding="10,0" Margin="0,0,6,0" Click="DeselectAllFiles_Click"/>
+                                        <Button x:Name="TranslateSelectedBtn" Style="{StaticResource PrimaryButton}" Content="翻译选中" Padding="12,0" Margin="0,0,6,0"/>
+                                        <Button x:Name="PackFilesBtn" Style="{StaticResource PrimaryBlueButton}" Content="打包" Padding="12,0" IsEnabled="False"/>
+                                    </StackPanel>
+                                </Grid>
+                            </Border>
+                            <Border Margin="0,10,0,0" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10">
+                                <ListBox x:Name="FileListBox" Background="Transparent" Foreground="{StaticResource TextPrimary}" BorderThickness="0" Padding="6"/>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+
+                                        <!-- Sponsor Page -->
+                    <Border x:Name="SponsorPage" Visibility="Collapsed">
+                        <Border Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="14" Padding="32" HorizontalAlignment="Center" VerticalAlignment="Center" MaxWidth="640">
+                            <StackPanel>
+                                <TextBlock Text="☕" FontFamily="Segoe UI Emoji" FontSize="40" HorizontalAlignment="Center"/>
+                                <TextBlock Text="赞助支持" FontSize="20" FontWeight="Bold" Foreground="{StaticResource TextPrimary}" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+                                <RichTextBox x:Name="SponsorDescText" FontSize="13" Foreground="{StaticResource TextSecondary}" Margin="0,14,0,0"
+                                             IsReadOnly="True"
+                                             Background="Transparent" BorderThickness="0"
+                                             Padding="0" VerticalAlignment="Top"
+                                             MinHeight="60" />
+                                <Border Margin="0,20,0,0" Padding="0" CornerRadius="10" BorderThickness="1" BorderBrush="{StaticResource BorderSubtle}" HorizontalAlignment="Center" Background="#0d0d1a">
+                                    <Image Width="260" Height="260" Source="pack://application:,,,/TipCode.jpg" RenderOptions.BitmapScalingMode="HighQuality" Margin="8"/>
+                                </Border>
+                                <TextBlock Text="扫描上方二维码赞助支持" FontSize="11" Foreground="{StaticResource TextMuted}" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+                                <Button Content="← 返回首页" Style="{StaticResource SecondaryButton}" HorizontalAlignment="Center" Padding="20,6" Margin="0,16,0,0" Click="NavHome_Click"/>
+                            </StackPanel>
+                        </Border>
+                    </Border>
+
+<!-- Settings Page -->
+                    <Border x:Name="SettingsPage" Visibility="Collapsed">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="360"/>
+                                <ColumnDefinition Width="20"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <Border Grid.Column="0" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10" Padding="20">
+                                <StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="⚙" FontFamily="Segoe UI Emoji" FontSize="15" Foreground="{StaticResource TextPrimary}" VerticalAlignment="Center" Margin="0,0,6,0"/>
+                                        <TextBlock Text="翻译服务" FontSize="15" FontWeight="Bold" Foreground="{StaticResource TextPrimary}"/>
+                                    </StackPanel>
+                                    <TextBlock Text="选择翻译引擎" FontSize="11" Foreground="{StaticResource TextMuted}" Margin="0,4,0,12"/>
+                                    <ComboBox x:Name="ProviderCombo" Background="{StaticResource BgInput}" Foreground="{StaticResource TextPrimary}" BorderBrush="{StaticResource BorderDefault}" Height="36" FontSize="12" Margin="0,0,0,10" SelectionChanged="ProviderCombo_SelectionChanged"/>
+                                <Border Height="1" Background="{StaticResource BorderSubtle}" Margin="0,4,0,12"/>
+                                <StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock x:Name="SettingsLangIcon" Text="🌐" FontFamily="Segoe UI Emoji" FontSize="15" Foreground="{StaticResource TextPrimary}" VerticalAlignment="Center" Margin="0,0,6,0"/>
+                                        <TextBlock x:Name="SettingsLangLabel" Text="界面语言" FontSize="15" FontWeight="Bold" Foreground="{StaticResource TextPrimary}"/>
+                                    </StackPanel>
+                                    <ComboBox x:Name="LangUISwitch" Background="{StaticResource BgInput}" Foreground="{StaticResource TextPrimary}" BorderBrush="{StaticResource BorderDefault}" Height="36" FontSize="12" Margin="0,10,0,0" SelectionChanged="LangUISwitch_SelectionChanged"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Border>
+                            <Border Grid.Column="2" Background="{StaticResource BgCard}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="1" CornerRadius="10" Padding="20">
+                                <StackPanel>
+                                    <TextBlock Text="🔑 API 密钥配置" FontSize="15" FontWeight="Bold" Foreground="{StaticResource TextPrimary}"/>
+                                    <TextBlock x:Name="SettingsApiHintText" Text="配置你的翻译 API 密钥（留空则使用内置 Agnes 2.0 Flash）" FontSize="11" Foreground="{StaticResource TextMuted}" Margin="0,4,0,16"/>
+                                    <StackPanel x:Name="ApiKeyPanel">
+                                        <TextBlock Text="API 密钥" FontSize="11" Foreground="{StaticResource TextSecondary}" Margin="0,0,0,4"/>
+                                        <TextBox x:Name="OwnApiKeyBox"/>
+                                    </StackPanel>
+                                    <StackPanel x:Name="CustomPanel" Visibility="Collapsed">
+                                        <TextBlock Text="自定义 URL" FontSize="11" Foreground="{StaticResource TextSecondary}" Margin="0,0,0,4"/>
+                                        <TextBox x:Name="CustomUrlBox"/>
+                                        <TextBlock Text="模型名称" FontSize="11" Foreground="{StaticResource TextSecondary}" Margin="0,10,0,4"/>
+                                        <TextBox x:Name="CustomModelBox"/>
+                                        <TextBlock Text="自定义 API 密钥" FontSize="11" Foreground="{StaticResource TextSecondary}" Margin="0,10,0,4"/>
+                                        <TextBox x:Name="CustomApiKeyBox"/>
+                                    </StackPanel>
+                                    <Button Content="保存设置" Style="{StaticResource PrimaryButton}" HorizontalAlignment="Left" Padding="24,0" Margin="0,20,0,0" Click="SaveSettingsBtn_Click"/>
+                                    <TextBlock x:Name="SettingsStatusText" FontSize="11" Foreground="{StaticResource Success}" Margin="0,8,0,0"/>
+                                    <Border Margin="0,16,0,0" Padding="12" Background="#0d0d1a" BorderBrush="#353550" BorderThickness="1" CornerRadius="6">
+                                        <StackPanel>
+                                            <TextBlock Text="💡 提示" FontSize="11" FontWeight="Bold" Foreground="{StaticResource TextSecondary}"/>
+                                            <TextBlock x:Name="SettingsTipText" TextWrapping="Wrap" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="0,4,0,0">
+                                                <Run Text="内置 Agnes 2.0 Flash 为免费共享模型，随着使用人数增多可能会变慢。"/>
+                                                <LineBreak/>
+                                                <Run Text="不同模型的能力和翻译速度也不一样，如果觉得内置模型不够理想，建议使用自己的 API 密钥选择其他模型。"/>
+                                            </TextBlock>
+                                        </StackPanel>
+                                    </Border>
+                                </StackPanel>
+                            </Border>
+                            <Button Grid.Column="3" Content="← 返回" Style="{StaticResource SecondaryButton}" VerticalAlignment="Bottom" Padding="16,6" Margin="0,0,0,4" Click="NavHome_Click"/>
+                        </Grid>
+                    </Border>
+                </Grid>
+            </ScrollViewer>
+
+        </Grid>
+
+            <!-- BOTTOM STATUS BAR -->
+            <Border Grid.Row="2" Background="{StaticResource BgSidebar}" BorderBrush="{StaticResource BorderSubtle}" BorderThickness="0,1,0,0">
+                <Grid>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="14,0">
+                        <Ellipse Width="6" Height="6" Fill="{StaticResource Success}" VerticalAlignment="Center"/>
+                        <TextBlock x:Name="BottomStatusText" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="7,0,0,0" VerticalAlignment="Center">就绪</TextBlock>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,14,0">
+                        <TextBlock Text="当前版本: v1.0.0" FontSize="10.5" Foreground="{StaticResource TextMuted}" Margin="0,0,0,0" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

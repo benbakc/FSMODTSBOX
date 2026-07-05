@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="100011">Change order</text>
+<text id="101110">Change skill</text>
+<text id="101111">Revert skill</text>
+<text id="130165">Swap screen</text>
+<text id="130166">Swap screen</text>
+<text id="130167">Swap screen</text>
+<text id="200020">Switch</text>
+<text id="320123">Change name</text>
+</entries>
+</fmg>

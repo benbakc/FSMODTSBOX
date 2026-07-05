@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>FSMODTSBOX</AssemblyName>
+    <ApplicationIcon>游戏汉化盒子.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="游戏汉化盒子.ico" />
+    <Resource Include="FSMODTSBOX.png" />
+    <Resource Include="QQqun.jpg" />
+    <Resource Include="bot.png" />
+    <Resource Include="bot2.png" />
+    <Resource Include="TipCode.jpg" />
+  </ItemGroup>
+
+</Project>

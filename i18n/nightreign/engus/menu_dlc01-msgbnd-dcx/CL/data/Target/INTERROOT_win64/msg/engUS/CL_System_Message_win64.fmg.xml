@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2100">Profile</text>
+<text id="2500">Unassign</text>
+<text id="3000">Set controller vibration strength</text>
+<text id="3001">%null%</text>
+<text id="3002">%null%</text>
+<text id="3003">%null%</text>
+<text id="3004">%null%</text>
+<text id="3005">%null%</text>
+<text id="3006">%null%</text>
+<text id="3007">%null%</text>
+<text id="3008">%null%</text>
+<text id="3009">%null%</text>
+<text id="3010">Assign controller buttons</text>
+<text id="3011">%null%</text>
+<text id="3012">%null%</text>
+<text id="3013">%null%</text>
+<text id="3014">%null%</text>
+<text id="3015">%null%</text>
+<text id="3016">%null%</text>
+<text id="3017">%null%</text>
+<text id="3018">%null%</text>
+<text id="3019">%null%</text>
+<text id="3020">Press a button to assign this action</text>
+<text id="4101">Cannot connect to network.
+&lt;?errorHandling?&gt;</text>
+<text id="4102">The connection to the game server was lost.
+&lt;?errorHandling?&gt;</text>
+<text id="4160">Connection to Steam interrupted.
+&lt;?errorHandling?&gt;</text>
+<text id="4161">Frame rate unsuitable for online play.
+&lt;?errorHandling?&gt;</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">A connection error occurred.
+&lt;?errorHandling?&gt;</text>
+<text id="4171">Failed to connect to Epic Online Services (&lt;?errcodeEOS?&gt;).
+&lt;?errorHandling?&gt;</text>
+<text id="4172">Failed to connect to Steamworks (&lt;?errcodeSteam?&gt;).
+&lt;?errorHandling?&gt;</text>
+<text id="4190">A network error occurred.
+&lt;?errorHandling?&gt;</text>
+<text id="4191">Failed to save game.
+Save data is corrupted.
+
+Select "Yes" to try again.
+
+Select "No" to return to
+title menu without saving.</text>
+<text id="4192">Failed to save game.
+Save data is corrupted.
+
+Returning to title menu.</text>
+<text id="4193">Failed to save game.
+Save data is corrupted.</text>
+<text id="4194">Left session due to an extended period of inactivity
+&lt;?errorHandling?&gt;</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">Returning to title menu</text>
+<text id="4201">Switching to offline mode.
+
+To go online please return to the title menu.</text>
+<text id="4202">An error has occurred. Closing results.</text>
+<text id="4203">Closing result history and switching to offline mode.</text>
+<text id="4204">Switching to offline mode.
+
+The results of this Deep of Night session will not affect rating.
+
+To go online please return to the title menu.</text>
+<text id="100010">Gamertag</text>
+<text id="100011">Player Name</text>
+<text id="101000">PRESS ANY BUTTON</text>
+<text id="110000">Controller Settings</text>
+<text id="110001">%null%</text>
+<text id="110002">%null%</text>
+<text id="110003">%null%</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">Controller Vibration</text>
+<text id="111030">Button Settings</text>
+<text id="111031">%null%</text>
+<text id="111032">%null%</text>
+<text id="111033">%null%</text>
+<text id="111034">%null%</text>
+<text id="111035">Button Settings</text>
+<text id="200100">Text includes unsupported characters.
+Unsupported characters will be replaced with asterisks (*).</text>
+<text id="280000">This setting cannot be changed.</text>
+<text id="280001">%null%</text>
+<text id="280002">Please check your settings. 
+One or more keys are bound to more than one function.</text>
+<text id="280003">One or more keys are bound to more than one function.
+Leave menu without saving settings?</text>
+<text id="280004">Some keys cannot be bound to menu functions.
+Please check settings.</text>
+<text id="280005">%null%</text>
+<text id="280006">%null%</text>
+<text id="280007">Restoring button settings to defaults.
+Proceed?</text>
+<text id="322000">Returning to title menu to join team session.
+Joining session will sacrifice current progress.
+
+Proceed?</text>
+<text id="322001">Returning to Roundtable to join team session.
+Joining session will sacrifice current progress.
+
+Proceed?</text>
+<text id="322002">%null%</text>
+<text id="322003">%null%</text>
+<text id="322004">%null%</text>
+<text id="322005">%null%</text>
+<text id="322006">%null%</text>
+<text id="322007">%null%</text>
+<text id="322008">%null%</text>
+<text id="322009">%null%</text>
+<text id="322010">Returning to title menu to join team session.
+Leave menu without saving settings?</text>
+<text id="322011">Returning to Roundtable to join team session.
+Joining session will sacrifice current progress.
+
+Proceed?</text>
+<text id="322012">%null%</text>
+<text id="322013">%null%</text>
+<text id="322014">%null%</text>
+<text id="322015">%null%</text>
+<text id="322016">%null%</text>
+<text id="322017">%null%</text>
+<text id="322018">%null%</text>
+<text id="322019">%null%</text>
+<text id="322020">Closing tutorial and returning to title to join team session.
+Proceed?
+
+N.B. Tutorial can be resumed later.</text>
+<text id="322021">Closing tutorial to join team session.
+Proceed?
+
+N.B. Tutorial can be resumed later.</text>
+<text id="322050">No game progress data.
+Withdrawing from team session.</text>
+<text id="322051">%null%</text>
+<text id="322052">%null%</text>
+<text id="322053">%null%</text>
+<text id="322054">%null%</text>
+<text id="322055">%null%</text>
+<text id="322056">%null%</text>
+<text id="322057">%null%</text>
+<text id="322058">%null%</text>
+<text id="322059">%null%</text>
+<text id="322060">Could not join as team session is already at capacity</text>
+<text id="322061">Could not join as team session has already been disbanded</text>
+<text id="322062">Could not join team session as calibrations are out of date.
+
+Please return to the title menu to update to the latest set of calibrations.</text>
+<text id="322063">Could not join team session as expedition has already departed</text>
+<text id="322100">Waiting to join team session</text>
+<text id="322101">Unable to join team session</text>
+<text id="322102">Dialog must be closed to join team session</text>
+<text id="322103">Unable to join team session as you are currently in multiplayer</text>
+<text id="400003">At the end of the previous session, Return to Title Menu or
+Return to Desktop might not have been selected from the
+System menu.
+
+Please use either of these options when you wish to end
+your play session.
+
+Failure to end session using either of these options may result
+in loss of progress.</text>
+<text id="401102">Failed to create save data.
+Select "OK" to try again.</text>
+<text id="401103">Failed to load save data.
+Select "OK" to try again.</text>
+<text id="401104">%null%</text>
+<text id="401105">%null%</text>
+<text id="401106">Failed to save game.
+Save data is corrupted.</text>
+<text id="401107">The save data is corrupted.
+Delete corrupted data and create a new save?</text>
+<text id="401108">%null%</text>
+<text id="401109">%null%</text>
+<text id="401110">Checking save data...</text>
+<text id="401111">Creating save data...</text>
+<text id="401112">Updating save data...</text>
+<text id="401113">The game version and save data version are different.
+Quit the game and use the Steam client to update
+game data to the latest version before trying again.</text>
+<text id="401114">%null%</text>
+<text id="401115">%null%</text>
+<text id="401116">%null%</text>
+<text id="401117">%null%</text>
+<text id="401118">%null%</text>
+<text id="401119">%null%</text>
+<text id="401120">Checking network connection status...</text>
+<text id="401150">Logging in to the game server...</text>
+<text id="401151">%null%</text>
+<text id="401152">%null%</text>
+<text id="401153">%null%</text>
+<text id="401154">%null%</text>
+<text id="401155">%null%</text>
+<text id="401156">%null%</text>
+<text id="401157">%null%</text>
+<text id="401158">%null%</text>
+<text id="401159">%null%</text>
+<text id="401160">Retrieving data from the game server...</text>
+<text id="401161">%null%</text>
+<text id="401162">%null%</text>
+<text id="401163">%null%</text>
+<text id="401164">%null%</text>
+<text id="401165">Saving data to the game server...</text>
+<text id="401166">%null%</text>
+<text id="401167">%null%</text>
+<text id="401168">%null%</text>
+<text id="401169">%null%</text>
+<text id="401170">Starting in offline mode.
+
+To use network features, check to see 
+if your connection is set up properly, 
+and select "LOG IN" from title menu.
+</text>
+<text id="401171">Returning to title menu</text>
+<text id="401172">Online connection is required to play
+ELDEN RING NIGHTREIGN Network Test Ver.
+Returning to title screen.</text>
+<text id="401201">Unable to connect to the network.
+Please check your network settings.</text>
+<text id="401202">Network status check failed</text>
+<text id="401310">New downloadable content has been installed.
+You must return to the title menu to apply this content in-game.
+Select "OK" to return to title menu.</text>
+<text id="401400">Unable to start in online mode due to a detected frame rate issue.
+
+Please restart the game after resolving the issue to play online.</text>
+<text id="401401">A connection error occurred.
+Unable to start in online mode.</text>
+<text id="401402">A connection error occurred.
+Returning to title menu.</text>
+<text id="401403">Connection to Epic Online Services failed: &lt;?errcodeEOS?&gt;
+Unable to start in online mode.</text>
+<text id="401404">Connection to Steamworks failed: &lt;?errcodeSteam?&gt;
+Unable to start in online mode.</text>
+<text id="401405">Connection to Epic Online Services failed: &lt;?errcodeEOS?&gt;
+Returning to title menu.</text>
+<text id="401502">Your profile is currently not permitted to access
+game server services.</text>
+<text id="401503">Failed to log in to the game server.
+Select "OK" to attempt to log in again.</text>
+<text id="401504">An update to the game is available. To use network
+features, please install the update and restart the game.</text>
+<text id="401505">Cannot log in to the game server
+because it has been temporarily disabled or
+is undergoing maintenance.</text>
+<text id="401506">%null%</text>
+<text id="401507">Cheating detected on your account by Valve Anti-Cheat.
+You may no longer utilize services provided by
+the game servers.</text>
+<text id="401601">Failed to acquire information.
+Select "OK" to try again.</text>
+<text id="401701">Cannot create any more profiles.
+Delete an existing profile and create a new one?</text>
+<text id="401721">Failed to load save data.
+Save data is corrupted.</text>
+<text id="401722">%null%</text>
+<text id="401723">%null%</text>
+<text id="401724">%null%</text>
+<text id="401725">%null%</text>
+<text id="401726">%null%</text>
+<text id="401727">%null%</text>
+<text id="401728">%null%</text>
+<text id="401729">%null%</text>
+<text id="401730">%null%</text>
+<text id="401731">Failed to initialize character info for online play.</text>
+<text id="401820">Attempting session recovery...</text>
+<text id="401821">Unable to restore current session as it has already ended.</text>
+<text id="401822">Current session found.
+Press "OK" to restore session.
+
+Declining may result in a temporary restriction
+on multiplayer functionality.</text>
+<text id="401823">Unable to restore session.
+Press "OK" to attempt recovery again.</text>
+<text id="401824">Unable to restore current session due to lack of internet
+connectivity. Switch to online mode to restore current session?
+
+Starting in offline mode cancels the current session and may
+result in a temporary restriction on multiplayer functionality.</text>
+<text id="401825">Unable to restore current session as it has already ended.
+
+Returning to title menu.</text>
+<text id="401826">Current session found.
+Press "OK" to restore session.</text>
+<text id="401827">Unable to restore current session due to a multiplayer issue.
+
+A penalty was incurred as there is evidence to suggest that an exploit that affects other players has been used.</text>
+<text id="401991">An error has occurred.
+Returning to title menu.</text>
+<text id="506030">Connection to Steam has been lost.
+Unable to commence expedition.</text>
+<text id="606001">Accept</text>
+<text id="606002">Decline</text>
+</entries>
+</fmg>

@@ -1,0 +1,2462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4000">魔法學院雷亞盧卡利亞的基礎輝石魔法。
+
+能從手杖的輝石釋放魔力石礫。
+可以走動施展，也能連續施展。
+
+此為探索魔法之旅的起點。</text>
+<text id="4001">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能從手杖的輝石釋放大塊魔力石礫。
+可以走動施展，也能連續施展。
+
+無法戴上輝石頭罩的人們多會在此止步，
+為短暫的探索之旅畫下句點。</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能從手杖的輝石快速釋放魔力石礫。
+可以接在其他動作後，立刻銜接使用。
+
+無法戴上輝石頭罩的人們多會在此止步，
+為短暫的探索之旅畫下句點。</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能釋放拖長尾巴的魔力彗星。
+可以走動施展，也能連續施展。
+藉由蓄力能提升威力。
+
+卡勒羅斯教室所傳授的魔法。
+此教室在學院的歷史最為悠久。</text>
+<text id="4021">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能釋放等同魔力大彗星的帚星。
+可以走動施展，也能連續施展。
+藉由蓄力能提升威力。
+
+卡勒羅斯教室所傳授的，最高階的魔法。
+修得此魔法的人在歷史上少之又少。</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能釋放以漩渦狀飛出的兩道石礫。
+可以走動施展，也能連續施展。
+藉由蓄力能提升威力。
+
+卡勒羅斯教室所傳授的魔法，
+為意圖製造新彗星時，出現的失敗品。
+此教室在學院的歷史最為悠久。</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能釋放朝目標飛去的三道流星。
+可以走動施展，藉由蓄力能提升威力。
+
+奧利維尼斯教室所傳授的魔法。
+聚集此教室的人，
+皆出身蓋利德的魔法鎮瑟利亞。</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能釋放朝目標飛去的六道流星。
+可以走動施展，藉由蓄力能提升威力。
+
+奧利維尼斯教室所傳授的，最艱難的魔法。</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能連續釋放輝石結晶碎片。
+藉由蓄力能提升威力。
+
+稱作結晶派的魔法師們擁有的招式。
+他們是石中智慧的探索者，
+專門研究結晶人集團的細微思緒。</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能釋放大幅橫向擴散的魔力彎弧。
+可以走動施展，也能連續施展。
+
+贈予離開學院，踏上旅途的魔法師，
+以寡敵眾的魔法。
+無知者總是成群結隊行動。</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能釋放以拋物線飛去的魔力砲彈。
+藉由蓄力能提升威力。
+
+海摩教室所傳授的魔法，
+此教室等同學院的善惡判官。
+為了平定紛爭而存在的魔法。</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能同時釋放大量輝石結晶碎片。
+可以走動施展，藉由蓄力能提升威力。
+
+稱作結晶派的魔法師們擁有的招式。
+他們是石中智慧的探索者，
+專門研究結晶人集團的細微思緒。</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+將魔力灌入手杖尾端，刺入地面，
+在周圍引發魔力衝擊波。
+僅限一次，能使出追擊。
+
+結晶坑道的輝石礦工們使用的挖石魔法。
+學院視為落後的烙印。</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+將魔力灌入手杖尾端，刺入地面，
+在周圍引發大幅度的魔力衝擊波。
+
+持續施展不會將手杖刺入地面，
+可以走動，用灌注魔力的手杖尾端刺向敵人。
+
+結晶坑道的輝石礦工們使用的高階挖石魔法。</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能形成魔力大槌，使出敲擊。
+僅限一次，能使出追擊。
+
+海摩教室所傳授的魔法，
+此教室等同學院的善惡判官。
+為了平定紛爭而存在的魔法。</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能在地面畫出學院的魔法陣，
+在魔法陣內的人物能提升魔力攻擊力。
+
+此為在過去，從學院最高的鐘樓開始，
+覆蓋學院全境的魔法陣。
+鮮明的成功經驗類似令人瞬間領會的靈感──
+能讓還不會走的嬰兒，長成魔法師。</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能釋放浮空的小顆星光，照亮四周。
+可以走動施展。
+
+贈予離開學院，踏上旅途的魔法師的魔法。
+無星的黑夜、不見天日的地底、受囚的監牢──
+無論何時何地，星星都在魔法師身旁。</text>
+<text id="4200">起源魔法師的其中一人，亞茲勒的魔法。
+「傳說中的魔法」之一。
+
+據說輝石的故鄉位在遙遠的星空。
+能釋放星空激流──極大型彗星。
+持續施展能一直釋放。
+
+亞茲勒窺見的起源是黑暗──
+據說那黑暗的深淵除了奪去他的心神，
+也讓他感受到了恐懼。</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">過去古老觀星者發現的，最悠久的起源魔法。
+「傳說中的魔法」之一。
+
+在空中召喚出黑暗星雲，
+一定時間內，降下磅礡的星雨。
+可以走動施展，藉由蓄力能提升威力。
+
+據說此為輝石魔法的起點──
+觀星者窺見的起源化虛為實，
+在這塊土地降下了星星琥珀。</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">起源魔法師的其中一人，盧瑟特的魔法。
+「傳說中的魔法」之一。
+
+能釋放朝目標飛去的十二道深色流星。
+可以走動施展，藉由蓄力能提升威力。
+
+盧瑟特窺見的起源
+是龐大星團毀滅的瞬間──
+在那當下，他的一切也隨之崩毀。</text>
+<text id="4300">卡利亞王室的其中一種魔法。
+
+能形成魔力輝劍排成的圓陣。
+輝劍會自動飛向、攻擊附近的敵人。
+可以走動施展。
+
+贈予卡利亞魔法騎士的魔法，
+能搭配劍術使出波狀攻擊。</text>
+<text id="4301">卡利亞王室的其中一種魔法。
+
+能形成大量魔力輝劍排成的圓陣。
+輝劍會自動飛向、攻擊附近的敵人。
+可以走動施展。
+
+在魔法騎士的輝劍魔法之中，屬於高階魔法。</text>
+<text id="4302">卡利亞王室的其中一種魔法。
+
+能形成巨型魔力輝劍排成的圓陣。
+輝劍會自動飛向、攻擊附近的敵人。
+
+山妖魔法騎士們使用的魔法。
+他們與年幼的蕾娜菈訂下誓約，成為盟友。</text>
+<text id="4360">卡利亞女王的象徵魔法。
+
+能呼喚滿月降臨自身，月亮將朝敵人飛去。
+滿月能消除所有觸碰到的魔法，
+被命中的人物會暫時降低魔力屬性減傷率。
+
+蕾娜菈女王在年幼時期遇見了月亮──
+那隨後成為征服學院的優美月亮。</text>
+<text id="4361">卡利亞女王的象徵魔法。
+「傳說中的魔法」之一。
+
+能呼喚冰冷暗月降臨自身，月亮將朝敵人飛去。
+暗月能消除所有觸碰到的魔法，
+被命中的人物會暫時降低魔力屬性減傷率。
+
+透過母親蕾娜菈的引導，
+年幼的菈妮遇見了月亮──
+那是一輪冰冷又黑暗的神祕月亮。</text>
+<text id="4362">%null%</text>
+<text id="4363">%null%</text>
+<text id="4364">%null%</text>
+<text id="4365">%null%</text>
+<text id="4366">%null%</text>
+<text id="4367">%null%</text>
+<text id="4368">%null%</text>
+<text id="4369">%null%</text>
+<text id="4370">卡利亞王室的其中一種魔法。
+
+能放出浮空魔力塊，再大範圍降下魔力球。
+可以走動施展，藉由蓄力能延長有效時間。
+
+在締結古老誓約的時候，
+據說結晶人傳授了此魔法。</text>
+<text id="4371">%null%</text>
+<text id="4372">%null%</text>
+<text id="4373">%null%</text>
+<text id="4374">%null%</text>
+<text id="4375">%null%</text>
+<text id="4376">%null%</text>
+<text id="4377">%null%</text>
+<text id="4378">%null%</text>
+<text id="4379">%null%</text>
+<text id="4380">禁衛騎士羅蕾塔施展的魔法。
+
+能形成魔力大弓，射出大箭。
+藉由蓄力能強化威力，
+持續施展的期間會維持拉弓的狀態，
+不會射出大箭。
+
+據說弓是她拿手的武器。</text>
+<text id="4381">禁衛騎士羅蕾塔施展的魔法。
+
+能形成魔力大弓，同時射出四支大箭。
+藉由蓄力能強化威力，
+持續施展的期間會維持拉弓的狀態，
+不會射出大箭。
+
+羅蕾塔尋找著白金之子的安居之地。
+此為她漫長的戰鬥旅程中，
+練得爐火純青的魔法。</text>
+<text id="4382">%null%</text>
+<text id="4383">%null%</text>
+<text id="4384">%null%</text>
+<text id="4385">%null%</text>
+<text id="4386">%null%</text>
+<text id="4387">%null%</text>
+<text id="4388">%null%</text>
+<text id="4389">%null%</text>
+<text id="4390">卡利亞王室的古老魔法。
+
+能在自身頭上畫出魔法陣，
+形成延後現形、飛向敵人的輝劍。
+可以走動施展，
+藉由蓄力能延後輝劍形成的時間。
+
+據說是王室魔法騎士們施展的
+輝劍圓陣類魔法的原型。</text>
+<text id="4391">%null%</text>
+<text id="4392">%null%</text>
+<text id="4393">%null%</text>
+<text id="4394">%null%</text>
+<text id="4395">%null%</text>
+<text id="4396">%null%</text>
+<text id="4397">%null%</text>
+<text id="4398">%null%</text>
+<text id="4399">%null%</text>
+<text id="4400">據說是年邁雪魔女施展的魔法。
+
+能從手杖的輝石釋放冰冷的魔力塊。
+可以走動施展，也能連續施展。
+
+據說年邁的魔女教導了年幼的菈妮
+關於冰冷魔法，以及對暗月的畏懼。</text>
+<text id="4401">%null%</text>
+<text id="4402">%null%</text>
+<text id="4403">%null%</text>
+<text id="4404">%null%</text>
+<text id="4405">%null%</text>
+<text id="4406">%null%</text>
+<text id="4407">%null%</text>
+<text id="4408">%null%</text>
+<text id="4409">%null%</text>
+<text id="4410">薩米爾鎮流傳的寒冰魔法。
+
+能將手杖刺入地面，在周圍形成寒氣風暴。
+藉由蓄力能提升威力。
+
+身纏冰風暴的薩米爾騎士們，
+從遠古時代就在挑戰火焰巨人們。</text>
+<text id="4411">%null%</text>
+<text id="4412">%null%</text>
+<text id="4413">%null%</text>
+<text id="4414">%null%</text>
+<text id="4415">%null%</text>
+<text id="4416">%null%</text>
+<text id="4417">%null%</text>
+<text id="4418">%null%</text>
+<text id="4419">%null%</text>
+<text id="4420">據說是年邁雪魔女施展的魔法。
+
+能朝前方形成冰冷寒霧。
+可以走動施展，藉由蓄力能擴大寒霧的範圍。
+
+據說年邁的魔女教導了年幼的菈妮
+關於冰冷魔法，以及對暗月的畏懼。</text>
+<text id="4421">%null%</text>
+<text id="4422">%null%</text>
+<text id="4423">%null%</text>
+<text id="4424">%null%</text>
+<text id="4425">%null%</text>
+<text id="4426">%null%</text>
+<text id="4427">%null%</text>
+<text id="4428">%null%</text>
+<text id="4429">%null%</text>
+<text id="4430">卡利亞王室的其中一種魔法。
+
+能形成魔力大劍，使出橫掃。
+可以連續施展。
+
+將騎士的力量賜予魔法師的魔法。
+同時也是對月宣示忠誠的證明。</text>
+<text id="4431">「輝石龍」亞杜拉的魔法。
+
+能形成冰冷魔力大劍，
+使出橫掃的同時，釋放寒氣刀刃。
+可以連續施展。
+
+「吞噬魔法師」亞杜拉敗給「月之公主」菈妮，
+隨後牠以騎士身分對暗月宣示忠誠。</text>
+<text id="4432">%null%</text>
+<text id="4433">%null%</text>
+<text id="4434">%null%</text>
+<text id="4435">%null%</text>
+<text id="4436">%null%</text>
+<text id="4437">%null%</text>
+<text id="4438">%null%</text>
+<text id="4439">%null%</text>
+<text id="4440">卡利亞王室的其中一種魔法。
+
+能形成魔力劍，使出快速橫掃。
+可以接在其他動作後，立刻銜接使用。
+
+在卡利亞的劍類魔法之中，
+於戰鬥中相當實用的著名魔法。</text>
+<text id="4441">%null%</text>
+<text id="4442">%null%</text>
+<text id="4443">%null%</text>
+<text id="4444">%null%</text>
+<text id="4445">%null%</text>
+<text id="4446">%null%</text>
+<text id="4447">%null%</text>
+<text id="4448">%null%</text>
+<text id="4449">%null%</text>
+<text id="4450">卡利亞王室的其中一種魔法。
+
+能形成魔力大劍，使出突刺。
+藉由蓄力能增加向前推進的距離。
+
+「卡利亞大劍」的成對魔法。
+對上單一敵人時，傷害表現不俗。</text>
+<text id="4451">%null%</text>
+<text id="4452">%null%</text>
+<text id="4453">%null%</text>
+<text id="4454">%null%</text>
+<text id="4455">%null%</text>
+<text id="4456">%null%</text>
+<text id="4457">%null%</text>
+<text id="4458">%null%</text>
+<text id="4459">%null%</text>
+<text id="4460">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能在右手武器附加魔力屬性攻擊力。
+可以走動施展。
+
+學院傳授此魔法給杜鵑騎士們，
+作為締結契約的代價。</text>
+<text id="4461">%null%</text>
+<text id="4462">%null%</text>
+<text id="4463">%null%</text>
+<text id="4464">%null%</text>
+<text id="4465">%null%</text>
+<text id="4466">%null%</text>
+<text id="4467">%null%</text>
+<text id="4468">%null%</text>
+<text id="4469">%null%</text>
+<text id="4470">魔法學院雷亞盧卡利亞的
+其中一種輝石魔法。
+
+能以魔力提升左手盾牌的減傷率。
+可以走動施展。
+
+學院傳授此魔法給杜鵑騎士們，
+作為締結契約的代價。</text>
+<text id="4471">%null%</text>
+<text id="4472">%null%</text>
+<text id="4473">%null%</text>
+<text id="4474">%null%</text>
+<text id="4475">%null%</text>
+<text id="4476">%null%</text>
+<text id="4477">%null%</text>
+<text id="4478">%null%</text>
+<text id="4479">%null%</text>
+<text id="4480">卡利亞王室的其中一種魔法。
+
+能減輕催眠、發狂量表的累積。
+可以走動施展。
+
+卡利亞騎士絕對不失體面。</text>
+<text id="4481">%null%</text>
+<text id="4482">%null%</text>
+<text id="4483">%null%</text>
+<text id="4484">%null%</text>
+<text id="4485">%null%</text>
+<text id="4486">%null%</text>
+<text id="4487">%null%</text>
+<text id="4488">%null%</text>
+<text id="4489">%null%</text>
+<text id="4490">據說是年邁雪魔女施展的魔法。
+
+能在右手武器附加異常狀態凍傷。
+可以走動施展。
+
+據說年邁的魔女教導了年幼的菈妮
+關於冰冷魔法，以及對暗月的畏懼。</text>
+<text id="4491">%null%</text>
+<text id="4492">%null%</text>
+<text id="4493">%null%</text>
+<text id="4494">%null%</text>
+<text id="4495">%null%</text>
+<text id="4496">%null%</text>
+<text id="4497">%null%</text>
+<text id="4498">%null%</text>
+<text id="4499">%null%</text>
+<text id="4500">神祕結晶人集團的魔法。
+
+能形成結晶塊，粉碎後朝前方釋放。
+藉由蓄力能提升威力。
+
+同為無機物與生物的存在──
+結晶人的生存型態接近起源的理想。
+他們是魔法師們的座上賓。</text>
+<text id="4501">%null%</text>
+<text id="4502">%null%</text>
+<text id="4503">%null%</text>
+<text id="4504">%null%</text>
+<text id="4505">%null%</text>
+<text id="4506">%null%</text>
+<text id="4507">%null%</text>
+<text id="4508">%null%</text>
+<text id="4509">%null%</text>
+<text id="4510">神祕結晶人集團的魔法。
+
+能向空中浮起結晶塊，
+再降下大範圍、氣勢磅礡的結晶碎片。
+
+結晶人之中，只有引導者才會施展的魔法。
+因為模樣得名「結晶太陽」。</text>
+<text id="4511">%null%</text>
+<text id="4512">%null%</text>
+<text id="4513">%null%</text>
+<text id="4514">%null%</text>
+<text id="4515">%null%</text>
+<text id="4516">%null%</text>
+<text id="4517">%null%</text>
+<text id="4518">%null%</text>
+<text id="4519">%null%</text>
+<text id="4520">神祕結晶人集團的魔法。
+
+能形成結晶塊，連續釋放結晶碎片。
+持續施展的期間會繼續釋放。
+
+被稱為結晶人之怒的魔法。
+那結晶碎片各個都巨大，十分危險。</text>
+<text id="4600">魔法鎮瑟利亞的其中一種黑夜魔法。
+
+能釋放會從遠方偷襲敵人背後的石礫。
+可以連續施展。
+
+據說瑟利亞的魔法師是刺客，
+而行刺對象是魔法師同行。</text>
+<text id="4601">%null%</text>
+<text id="4602">%null%</text>
+<text id="4603">%null%</text>
+<text id="4604">%null%</text>
+<text id="4605">%null%</text>
+<text id="4606">%null%</text>
+<text id="4607">%null%</text>
+<text id="4608">%null%</text>
+<text id="4609">%null%</text>
+<text id="4610">魔法鎮瑟利亞的其中一種黑夜魔法。
+
+能快速釋放難以辨識的魔力石礫。
+可以接在其他動作後，立刻銜接使用。
+
+據說瑟利亞的魔法師是刺客，
+而行刺對象是魔法師同行。</text>
+<text id="4611">%null%</text>
+<text id="4612">%null%</text>
+<text id="4613">%null%</text>
+<text id="4614">%null%</text>
+<text id="4615">%null%</text>
+<text id="4616">%null%</text>
+<text id="4617">%null%</text>
+<text id="4618">%null%</text>
+<text id="4619">%null%</text>
+<text id="4620">魔法鎮瑟利亞的其中一種黑夜魔法。
+
+能釋放難以辨識的魔力彗星。
+可以走動施展，也能連續施展。
+藉由蓄力能提升威力。
+
+據說瑟利亞的魔法師是刺客，
+而行刺對象是魔法師同行。</text>
+<text id="4621">%null%</text>
+<text id="4622">%null%</text>
+<text id="4623">%null%</text>
+<text id="4624">%null%</text>
+<text id="4625">%null%</text>
+<text id="4626">%null%</text>
+<text id="4627">%null%</text>
+<text id="4628">%null%</text>
+<text id="4629">%null%</text>
+<text id="4630">人稱廢石的托普斯，
+賭上人生探索而來的魔法。
+
+能形成魔力力場，撥開魔法與禱告。
+持續施展的期間會接連形成力場。
+
+後世的人們肯定明白──
+那受人嘲諷的理論，
+其實是足以成立新教室的發現。</text>
+<text id="4631">%null%</text>
+<text id="4632">%null%</text>
+<text id="4633">%null%</text>
+<text id="4634">%null%</text>
+<text id="4635">%null%</text>
+<text id="4636">%null%</text>
+<text id="4637">%null%</text>
+<text id="4638">%null%</text>
+<text id="4639">%null%</text>
+<text id="4640">卡利亞王室的其中一種魔法。
+
+能揮舞手杖，消除魔法與禱告後，
+再用承受的力量化為浮空輝劍。
+
+卡利亞王室暗地防備學院而有的魔法。
+月與星，是在何時分道揚鑣？</text>
+<text id="4641">%null%</text>
+<text id="4642">%null%</text>
+<text id="4643">%null%</text>
+<text id="4644">%null%</text>
+<text id="4645">%null%</text>
+<text id="4646">%null%</text>
+<text id="4647">%null%</text>
+<text id="4648">%null%</text>
+<text id="4649">%null%</text>
+<text id="4650">魔法鎮瑟利亞的禁忌魔法。
+
+能形成黑暗，吸引魔法與禱告。
+可以走動施展。
+
+此為永恆之城的失落魔法──
+也是讓永恆之城迎來毀滅的絕望。</text>
+<text id="4651">%null%</text>
+<text id="4652">%null%</text>
+<text id="4653">%null%</text>
+<text id="4654">%null%</text>
+<text id="4655">%null%</text>
+<text id="4656">%null%</text>
+<text id="4657">%null%</text>
+<text id="4658">%null%</text>
+<text id="4659">%null%</text>
+<text id="4660">魔法鎮瑟利亞的其中一種黑夜魔法。
+
+能完全消除右手武器的模樣。
+可以走動施展。
+
+瑟利亞的刺客們使用的魔法。
+能偽裝成手無寸鐵的魔法師。</text>
+<text id="4661">%null%</text>
+<text id="4662">%null%</text>
+<text id="4663">%null%</text>
+<text id="4664">%null%</text>
+<text id="4665">%null%</text>
+<text id="4666">%null%</text>
+<text id="4667">%null%</text>
+<text id="4668">%null%</text>
+<text id="4669">%null%</text>
+<text id="4670">魔法鎮瑟利亞的其中一種黑夜魔法。
+
+將難以辨識施展者的身影。
+騎馬時，效果會遍及坐騎。
+可以走動施展。
+
+瑟利亞的刺客們使用的魔法──
+他們為了達成目的不擇手段。</text>
+<text id="4700">其中一種控制重力的輝石魔法。
+
+能從虛無空間召喚小顆隕石，引發墜落。
+持續施展的期間，隕石會不停墜落。
+
+此為擁有石質皮膚的諸位黑王，
+受人畏懼，尊稱為王的破壞力量。</text>
+<text id="4701">其中一種控制重力的輝石魔法。
+
+能從虛無空間召喚大量小顆隕石，引發墜落。
+持續施展的期間，隕石會不停墜落。
+
+此為在過去，艾絲緹將永恆之城破壞殆盡時，
+所展現的力量。</text>
+<text id="4702">%null%</text>
+<text id="4703">%null%</text>
+<text id="4704">%null%</text>
+<text id="4705">%null%</text>
+<text id="4706">%null%</text>
+<text id="4707">%null%</text>
+<text id="4708">%null%</text>
+<text id="4709">%null%</text>
+<text id="4710">其中一種控制重力的輝石魔法。
+
+能從地面召喚、釋放岩石塊。
+
+年輕時期的拉塔恩學習的重力招式。
+他的老師是擁有石質皮膚的白王。</text>
+<text id="4711">%null%</text>
+<text id="4712">%null%</text>
+<text id="4713">%null%</text>
+<text id="4714">%null%</text>
+<text id="4715">%null%</text>
+<text id="4716">%null%</text>
+<text id="4717">%null%</text>
+<text id="4718">%null%</text>
+<text id="4719">%null%</text>
+<text id="4720">其中一種控制重力的輝石魔法。
+
+能釋放重力球，
+命中的對象會被拉向自己。
+藉由蓄力能提升威力。
+
+年輕時期的拉塔恩學習的重力招式。
+他的老師是擁有石質皮膚的白王。</text>
+<text id="4721">其中一種控制重力的輝石魔法。
+
+能釋放多顆重力球，
+命中的對象會被拉向自己。
+藉由蓄力能提升威力。
+
+拉塔恩在年輕時期精通的重力招式。
+
+　老師啊，感激不盡。
+　如今的我，就能挑戰星星。</text>
+<text id="4800">格密爾的其中一種熔岩魔法。
+
+能釋放命中後會爆炸的熔岩球。
+藉由蓄力能提升威力。
+
+蕾娜菈女王的子嗣拉卡德，
+成功讓格密爾的古老咒術以魔法姿態重見天日。</text>
+<text id="4801">%null%</text>
+<text id="4802">%null%</text>
+<text id="4803">%null%</text>
+<text id="4804">%null%</text>
+<text id="4805">%null%</text>
+<text id="4806">%null%</text>
+<text id="4807">%null%</text>
+<text id="4808">%null%</text>
+<text id="4809">%null%</text>
+<text id="4810">格密爾的其中一種熔岩魔法。
+
+能從地面引起熔岩噴發，灑向四周。
+藉由蓄力能延長噴發時間。
+
+據說此魔法代表著火山之怒。
+那麼，意圖施展它的這種想法，
+可以說是人類的，或是蛇的傲慢。</text>
+<text id="4811">%null%</text>
+<text id="4812">%null%</text>
+<text id="4813">%null%</text>
+<text id="4814">%null%</text>
+<text id="4815">%null%</text>
+<text id="4816">%null%</text>
+<text id="4817">%null%</text>
+<text id="4818">%null%</text>
+<text id="4819">%null%</text>
+<text id="4820">格密爾的其中一種熔岩魔法。
+
+能釋放命中後會延遲爆炸、
+經過壓縮的熔岩球。
+藉由蓄力能強化威力，並延遲爆炸時間。
+
+蕾娜菈女王的子嗣拉卡德，
+成功讓格密爾的古老咒術以魔法姿態重見天日。</text>
+<text id="4821">%null%</text>
+<text id="4822">%null%</text>
+<text id="4823">%null%</text>
+<text id="4824">%null%</text>
+<text id="4825">%null%</text>
+<text id="4826">%null%</text>
+<text id="4827">%null%</text>
+<text id="4828">%null%</text>
+<text id="4829">%null%</text>
+<text id="4830">「褻瀆君王」拉卡德的恐怖力量。
+
+能釋放受燻燒的怨魂，在飛行的軌跡上
+引發延遲性的連續爆炸。
+
+此為英雄們死於非命的怨魂──
+他們覲見了王，受到歡迎之餘也被吞噬，
+沒入大蛇的體內，成為王的族人。</text>
+<text id="4900">受到放逐的罪人們的異端魔法。
+學院最為嫌惡的魔法。
+
+能用罪惡荊棘傷害自己，
+在周圍召喚漩渦狀的鮮血大荊棘。
+可以連續施展最多三次。
+
+雙眼被荊棘刺穿的罪人們，
+在他們永恆的黑暗中找到了鮮血星星。</text>
+<text id="4901">%null%</text>
+<text id="4902">%null%</text>
+<text id="4903">%null%</text>
+<text id="4904">%null%</text>
+<text id="4905">%null%</text>
+<text id="4906">%null%</text>
+<text id="4907">%null%</text>
+<text id="4908">%null%</text>
+<text id="4909">%null%</text>
+<text id="4910">受到放逐的罪人們的異端魔法。
+學院最為嫌惡的魔法。
+
+能用責罰荊棘傷害自己，
+召喚爬走地面的鮮血荊棘，
+從敵人腳邊竄出攻擊。
+可以連續施展。
+
+雙眼被荊棘刺穿的罪人們，
+在他們永恆的黑暗中找到了鮮血星星。</text>
+<text id="5000">侍奉死亡的人物施展的魔法。
+
+能召喚窮追不捨的怨魂群。
+藉由蓄力能強化威力。
+
+此為死術師哥瑞斯
+使之重見天日的古老死亡咒術。</text>
+<text id="5001">侍奉死亡的人物施展的魔法。
+
+能召喚大量窮追不捨的怨魂群。
+藉由蓄力能強化威力。
+
+據說是死之鳥從靈火掏出的古老死亡餘燼。</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">侍奉死亡的人物施展的魔法。
+
+能將手杖刺入地面，引發靈火爆炸，
+大範圍燃燒四周。
+
+在黃金樹尚未出現的時候，死亡會受靈火洗禮。
+死之鳥是靈火的看守者。</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">「死眠少女」菲雅的魔法。
+
+能朝前方形成死亡煙霧。
+煙霧具有引發異常狀態死亡的效果。
+可以走動施展，藉由蓄力能擴大煙霧的範圍。
+
+用來對付圓桌廳堂的魔法，
+只對渡夜者有效果。</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">侍奉死亡的人物施展的魔法。
+
+能召喚因死迷途的人群。
+施展後三位迷途者會在遠方現身，
+攻擊敵人後會消失。
+
+自古以來，死者皆是迷途羔羊，
+因此需要有人挺身引導。</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">使用古龍弗爾桑克斯
+受到死亡侵蝕後的力量的禱告。
+
+能在周圍降下劇烈的死亡落雷。
+雷電具有引發異常狀態死亡的效果。
+藉由蓄力能延長降下落雷的時間。
+
+據說是與古龍化敵為友的葛德文
+揮舞過的黃金雷電。</text>
+<text id="5100">古王朝的神官──泥人們的魔法。
+
+能釋放數個小型的魔力泡泡。
+泡泡會緩慢飛去，最後破裂。
+藉由蓄力能延長泡泡的維持時間。
+
+泥人們試圖從泡泡中找尋失落的神諭。</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">古王朝的神官──泥人們的魔法。
+
+能釋放一個大型的魔力泡泡。
+泡泡會緩慢飛去，最後破裂。
+藉由蓄力能延長泡泡的維持時間。
+
+泥人們試圖從泡泡中找尋失落的神諭。</text>
+<text id="6000">源自不祥預言的禱告。
+
+能從手中引發瞬間燃燒的火焰。
+可以接在其他動作後，立刻銜接使用。
+
+灰滅火焰是黃金樹的禁忌──
+信奉黃金樹的預言家卻窺見了那火焰，
+於是被逐出故鄉。</text>
+<text id="6001">火焰習武修士們的其中一種禱告。
+
+能從手中引發瞬間劇烈燃燒的火焰。
+藉由蓄力能強化威力。
+
+在遙遠的北方山頂，巨人火焰如今仍在燻燒。
+習武修士們是巨人火焰的監視者。</text>
+<text id="6002">%null%</text>
+<text id="6003">%null%</text>
+<text id="6004">%null%</text>
+<text id="6005">%null%</text>
+<text id="6006">%null%</text>
+<text id="6007">%null%</text>
+<text id="6008">%null%</text>
+<text id="6009">%null%</text>
+<text id="6010">源自不祥預言的禱告。
+
+能丟擲燃燒的火焰球。
+藉由蓄力能強化威力，並追加爆炸效果。
+
+灰滅火焰是黃金樹的禁忌──
+信奉黃金樹的預言家卻窺見了那火焰，
+於是被逐出故鄉。</text>
+<text id="6011">%null%</text>
+<text id="6012">%null%</text>
+<text id="6013">%null%</text>
+<text id="6014">%null%</text>
+<text id="6015">%null%</text>
+<text id="6016">%null%</text>
+<text id="6017">%null%</text>
+<text id="6018">%null%</text>
+<text id="6019">%null%</text>
+<text id="6020">直接展現火焰巨人力量的其中一種禱告。
+
+能一口氣丟擲多顆火焰球。
+藉由蓄力能強化威力，並追加爆炸效果。
+
+一般的禱告書不會記載此禱告，
+只有極少部分的主教知道它的存在。</text>
+<text id="6021">%null%</text>
+<text id="6022">%null%</text>
+<text id="6023">%null%</text>
+<text id="6024">%null%</text>
+<text id="6025">%null%</text>
+<text id="6026">%null%</text>
+<text id="6027">%null%</text>
+<text id="6028">%null%</text>
+<text id="6029">%null%</text>
+<text id="6030">火焰習武修士們的其中一種禱告。
+屬於高階禱告。
+
+能朝前方橫掃持續噴出、漩渦狀燃燒的火焰。
+藉由蓄力能強化威力，並擴大燃燒範圍。
+
+火焰會吸引注視它的人──
+因此火焰監視者，也是火焰的信徒。</text>
+<text id="6031">%null%</text>
+<text id="6032">%null%</text>
+<text id="6033">%null%</text>
+<text id="6034">%null%</text>
+<text id="6035">%null%</text>
+<text id="6036">%null%</text>
+<text id="6037">%null%</text>
+<text id="6038">%null%</text>
+<text id="6039">%null%</text>
+<text id="6040">火焰習武修士們的其中一種禱告。
+
+在自身體內燃起火焰，燃燒病原。
+能減輕中毒、猩紅腐敗量表的累積，
+治癒上述異常狀態。
+
+此禱告會些微燃燒執行者本身，
+彷彿是希望人們牢記火焰的恐怖。</text>
+<text id="6041">%null%</text>
+<text id="6042">%null%</text>
+<text id="6043">%null%</text>
+<text id="6044">%null%</text>
+<text id="6045">%null%</text>
+<text id="6046">%null%</text>
+<text id="6047">%null%</text>
+<text id="6048">%null%</text>
+<text id="6049">%null%</text>
+<text id="6050">火焰習武修士們的其中一種禱告。
+屬於高階禱告。
+
+在自身體內燃起火焰，化為力量。
+能提升物理攻擊力與火屬性攻擊力。
+
+此禱告不會燃燒執行者本身，
+因此被列為監視者們的禁術。</text>
+<text id="6051">%null%</text>
+<text id="6052">%null%</text>
+<text id="6053">%null%</text>
+<text id="6054">%null%</text>
+<text id="6055">%null%</text>
+<text id="6056">%null%</text>
+<text id="6057">%null%</text>
+<text id="6058">%null%</text>
+<text id="6059">%null%</text>
+<text id="6060">火焰習武修士們的其中一種禱告。
+最為古老的禱告。
+
+能在自身體內燃起火焰，
+大幅提升火屬性減傷率。
+
+據說此禱告曾在過去的巨人戰爭使用，
+保護黃金樹的眾英雄。</text>
+<text id="6100">直接展現火焰巨人力量的其中一種禱告。
+
+能丟擲燃燒的巨大火焰球。
+藉由蓄力能強化威力，並追加爆炸效果。
+
+一般的禱告書不會記載此禱告，
+只有極少部分的主教知道它的存在。</text>
+<text id="6101">%null%</text>
+<text id="6102">%null%</text>
+<text id="6103">%null%</text>
+<text id="6104">%null%</text>
+<text id="6105">%null%</text>
+<text id="6106">%null%</text>
+<text id="6107">%null%</text>
+<text id="6108">%null%</text>
+<text id="6109">%null%</text>
+<text id="6110">直接展現火焰巨人力量的其中一種禱告。
+「傳說中的禱告」之一。
+
+能丟擲據說有惡神寄宿其中，
+熊熊燃燒的火焰球。
+火焰球會緩慢朝目標飛去，
+引發爆炸之後，燃燒四周。
+
+此為亞當盜走的禱告，
+是「監視者之首」亞岡提隱瞞的祕密。
+據說惡神至今仍存在火焰巨人的體內。</text>
+<text id="6111">%null%</text>
+<text id="6112">%null%</text>
+<text id="6113">%null%</text>
+<text id="6114">%null%</text>
+<text id="6115">%null%</text>
+<text id="6116">%null%</text>
+<text id="6117">%null%</text>
+<text id="6118">%null%</text>
+<text id="6119">%null%</text>
+<text id="6120">直接展現火焰巨人力量的其中一種禱告。
+
+能在自身周圍燃起接連形成的火焰柱。
+藉由蓄力能增加火焰柱的數量。
+
+火焰巨人借助惡神的力量，但依然敗北──
+隨後化為火焰的永恆看守者，得以續命，
+也迎來孤獨詛咒的終點。</text>
+<text id="6210">神皮使徒們的其中一種黑焰禱告。
+
+能丟擲燃燒的黑焰球。
+藉由蓄力能強化威力，並追加爆炸效果。
+
+黑焰是沉重的火焰。
+在給予敵人傷害後，極短的時間內，
+能些微、持續減少ＨＰ。</text>
+<text id="6211">%null%</text>
+<text id="6212">%null%</text>
+<text id="6213">%null%</text>
+<text id="6214">%null%</text>
+<text id="6215">%null%</text>
+<text id="6216">%null%</text>
+<text id="6217">%null%</text>
+<text id="6218">%null%</text>
+<text id="6219">%null%</text>
+<text id="6220">火焰習武修士們的其中一種禱告。
+屬於高階禱告。
+
+能朝前方噴出持續並劇烈燃燒的火焰。
+可以走動執行，持續執行能繼續噴火。
+
+巨人火焰是燃燒黃金樹的灰滅火焰。
+因此在巨人戰爭後，火焰受到封印，
+諸位監視者隨之誕生。</text>
+<text id="6221">%null%</text>
+<text id="6222">%null%</text>
+<text id="6223">%null%</text>
+<text id="6224">%null%</text>
+<text id="6225">%null%</text>
+<text id="6226">%null%</text>
+<text id="6227">%null%</text>
+<text id="6228">%null%</text>
+<text id="6229">%null%</text>
+<text id="6230">神皮使徒們的其中一種黑焰禱告。
+
+能朝前方大幅度橫掃黑焰。
+藉由蓄力能擴大橫掃的範圍。
+
+黑焰是狩獵神祇的火焰。
+然而在瑪利喀斯封印了命定之死，
+黑焰便失去了狩獵神祇的力量。</text>
+<text id="6231">%null%</text>
+<text id="6232">%null%</text>
+<text id="6233">%null%</text>
+<text id="6234">%null%</text>
+<text id="6235">%null%</text>
+<text id="6236">%null%</text>
+<text id="6237">%null%</text>
+<text id="6238">%null%</text>
+<text id="6239">%null%</text>
+<text id="6240">神皮使徒們的其中一種黑焰禱告。
+屬於高階禱告。
+
+能在自身周圍燃起環繞的黑焰柱。
+藉由蓄力能擴大火柱環繞的範圍。
+
+宵色眼眸的女王率領使徒們，
+據說她是指頭選出的神人。</text>
+<text id="6241">%null%</text>
+<text id="6242">%null%</text>
+<text id="6243">%null%</text>
+<text id="6244">%null%</text>
+<text id="6245">%null%</text>
+<text id="6246">%null%</text>
+<text id="6247">%null%</text>
+<text id="6248">%null%</text>
+<text id="6249">%null%</text>
+<text id="6250">神皮使徒們的其中一種黑焰禱告。
+
+能在右手武器纏繞黑焰。
+可以接在其他動作後，立刻銜接使用。
+
+黑焰是沉重的火焰。
+在給予敵人傷害後，極短的時間內，
+能些微、持續減少ＨＰ。</text>
+<text id="6251">%null%</text>
+<text id="6252">%null%</text>
+<text id="6253">%null%</text>
+<text id="6254">%null%</text>
+<text id="6255">%null%</text>
+<text id="6256">%null%</text>
+<text id="6257">%null%</text>
+<text id="6258">%null%</text>
+<text id="6259">%null%</text>
+<text id="6260">神皮使徒們的其中一種黑焰禱告。
+
+能在自身體內燃起黑焰，提升物理減傷率。
+但會減少各種手段的ＨＰ恢復量。
+
+所有的使徒皆受到宵色眼眸女王擁抱，
+讓黑焰成為他們內在的盔甲。</text>
+<text id="6261">%null%</text>
+<text id="6262">%null%</text>
+<text id="6263">%null%</text>
+<text id="6264">%null%</text>
+<text id="6265">%null%</text>
+<text id="6266">%null%</text>
+<text id="6267">%null%</text>
+<text id="6268">%null%</text>
+<text id="6269">%null%</text>
+<text id="6270">神皮貴族展現的古老力量。
+
+能大幅度突出腹部，
+形成彈飛周圍人物的衝擊波。
+藉由蓄力能強化威力，打飛敵人。
+
+在過去，這代表著神祇之怒，
+但後來化為貴族狩獵神祇的榮耀象徵之一。</text>
+<text id="6300">鮮血君王分享的力量，其中一種血盟禱告。
+
+能朝前方形成血焰爪痕，隨後引發爆炸。
+可以連續執行。
+
+血焰在給予敵人傷害後，極短的時間內，
+能些微累積出血量表。</text>
+<text id="6301">%null%</text>
+<text id="6302">%null%</text>
+<text id="6303">%null%</text>
+<text id="6304">%null%</text>
+<text id="6305">%null%</text>
+<text id="6306">%null%</text>
+<text id="6307">%null%</text>
+<text id="6308">%null%</text>
+<text id="6309">%null%</text>
+<text id="6310">「鮮血君王」蒙格的神聖禱告。
+
+將手伸進無形之母體內，
+再朝前方噴灑母親的血焰，引發燃燒。
+可以走動執行。
+
+在地底深處見到渴望傷口的真實之母時，
+蒙格的詛咒之血化成了火焰──
+從那之後，他深愛著與生俱來的玷汙特質。</text>
+<text id="6311">%null%</text>
+<text id="6312">%null%</text>
+<text id="6313">%null%</text>
+<text id="6314">%null%</text>
+<text id="6315">%null%</text>
+<text id="6316">%null%</text>
+<text id="6317">%null%</text>
+<text id="6318">%null%</text>
+<text id="6319">%null%</text>
+<text id="6320">鮮血君王分享的力量，其中一種血盟禱告。
+
+能在右手武器纏繞血焰。
+可以走動執行。
+
+血焰在給予敵人傷害後，極短的時間內，
+能些微累積出血量表。</text>
+<text id="6321">%null%</text>
+<text id="6322">%null%</text>
+<text id="6323">%null%</text>
+<text id="6324">%null%</text>
+<text id="6325">%null%</text>
+<text id="6326">%null%</text>
+<text id="6327">%null%</text>
+<text id="6328">%null%</text>
+<text id="6329">%null%</text>
+<text id="6330">黃金樹信仰的其中一種禱告。
+
+能包含周圍我方人物，
+大幅提升魔力屬性減傷率。
+持續執行的期間能維持禱告狀態，不會生效。
+
+在「紅髮」拉達岡成為英雄的契機──
+那總共爆發兩次的利耶尼亞戰爭中，
+據說黃金樹的眾英雄執行過此禱告。</text>
+<text id="6331">%null%</text>
+<text id="6332">%null%</text>
+<text id="6333">%null%</text>
+<text id="6334">%null%</text>
+<text id="6335">%null%</text>
+<text id="6336">%null%</text>
+<text id="6337">%null%</text>
+<text id="6338">%null%</text>
+<text id="6339">%null%</text>
+<text id="6340">黃金樹信仰的其中一種禱告。
+屬於最高階的禱告。
+
+能包含周圍我方人物，提升所有屬性的減傷率，
+但不包含物理減傷率。
+持續執行的期間能維持禱告狀態，不會生效。
+
+在最一開始，黃金樹與所有勢力為敵。
+歷經無數次的戰爭，贏得勝利後，成為了律法。</text>
+<text id="6400">雙指信徒們的禱告。
+
+能形成彈飛周圍人物的衝擊波。
+藉由蓄力能增加衝擊波的幅度。
+
+　褪色者啊，既然全然信任指引，
+　就請您拒絕其他一切事物。</text>
+<text id="6401">%null%</text>
+<text id="6402">%null%</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">黃金樹信仰的其中一種禱告。
+屬於高階禱告。
+
+能形成彈飛周圍人物的黃金衝擊波。
+藉由蓄力能增加衝擊波的幅度。
+
+在艾爾登法環破碎之際發現的禱告。
+人們深信這代表著黃金樹之怒。</text>
+<text id="6411">%null%</text>
+<text id="6412">%null%</text>
+<text id="6413">%null%</text>
+<text id="6414">%null%</text>
+<text id="6415">%null%</text>
+<text id="6416">%null%</text>
+<text id="6417">%null%</text>
+<text id="6418">%null%</text>
+<text id="6419">%null%</text>
+<text id="6420">雙指信徒們的禱告。
+
+能些微恢復ＨＰ。
+可以走動執行。
+
+即使受傷也不會倒下，
+會為了使命不停戰鬥──
+雙指如此期望褪色者。</text>
+<text id="6421">雙指信徒們的禱告。
+
+能包含周圍我方人物，恢復ＨＰ。
+持續執行的期間能維持禱告狀態，不會生效。
+
+即使受傷也不會倒下，
+會為了使命不停戰鬥──
+雙指如此期望褪色者。</text>
+<text id="6422">雙指信徒們的禱告。
+屬於高階禱告。
+
+能包含周圍我方人物，大幅恢復ＨＰ。
+持續執行的期間能維持禱告狀態，不會生效。
+
+即使受傷也不會倒下，
+會為了使命不停戰鬥──
+雙指如此期望褪色者。</text>
+<text id="6423">雙指特別賜予
+具有為王器量的褪色者的禱告。
+
+能包含周圍我方人物，極大幅恢復ＨＰ。
+持續執行的期間能維持禱告狀態，不會生效。
+
+　褪色者啊，褪色者。
+　朝黃金樹前進，覲見瑪莉卡女王──
+　成為艾爾登之王吧。</text>
+<text id="6424">遠古黃金樹的其中一種禱告。
+
+能包含周圍我方人物，巨幅恢復ＨＰ。
+持續執行的期間能維持禱告狀態，不會生效。
+
+在過去，黃金樹曾經豐饒富足，
+然而那風光轉眼即逝──
+如同一般生命地短暫。</text>
+<text id="6425">%null%</text>
+<text id="6426">%null%</text>
+<text id="6427">%null%</text>
+<text id="6428">%null%</text>
+<text id="6429">%null%</text>
+<text id="6430">遠古黃金樹的其中一種禱告。
+
+能包含周圍我方人物，賜予恩惠賜福。
+具有緩慢恢復ＨＰ的效果。
+持續執行的期間能維持禱告狀態，不會生效。
+
+在過去，黃金樹曾滴落恩惠露滴──
+這可能是恩惠露滴殘留的碎屑。</text>
+<text id="6431">遠古黃金樹的其中一種禱告。
+
+能包含周圍我方人物，賜予強大的恩惠賜福。
+具有緩慢、大幅恢復ＨＰ的效果。
+持續執行的期間能維持禱告狀態，不會生效。
+
+在過去，黃金樹曾經豐饒富足，
+然而那風光轉眼即逝──
+如同一般生命地短暫。</text>
+<text id="6432">%null%</text>
+<text id="6433">%null%</text>
+<text id="6434">%null%</text>
+<text id="6435">%null%</text>
+<text id="6436">%null%</text>
+<text id="6437">%null%</text>
+<text id="6438">%null%</text>
+<text id="6439">%null%</text>
+<text id="6440">雙指信徒們的禱告。
+
+能減輕中毒量表的累積，治癒中毒狀態。
+可以走動執行。
+
+即使受傷也不會倒下，
+會為了使命不停戰鬥──
+雙指如此期望褪色者。</text>
+<text id="6441">雙指特別賜予
+具有為王器量的褪色者的禱告。
+
+能包含周圍我方人物，
+減輕中毒、出血、催眠量表的累積，
+並治癒異常狀態中毒。
+
+持續執行的期間能維持禱告狀態，不會生效。</text>
+<text id="6442">%null%</text>
+<text id="6443">%null%</text>
+<text id="6444">%null%</text>
+<text id="6445">%null%</text>
+<text id="6446">%null%</text>
+<text id="6447">%null%</text>
+<text id="6448">%null%</text>
+<text id="6449">%null%</text>
+<text id="6450">雙指信徒們的禱告。
+
+能提升火屬性減傷率。
+可以走動執行。
+
+在引導之路的前頭，敵人無數──
+習武修士、魔法師、古龍騎士，
+甚至是黃金後裔。
+交界地不歡迎褪色者，要謹記在心。</text>
+<text id="6451">%null%</text>
+<text id="6452">%null%</text>
+<text id="6453">%null%</text>
+<text id="6454">%null%</text>
+<text id="6455">%null%</text>
+<text id="6456">%null%</text>
+<text id="6457">%null%</text>
+<text id="6458">%null%</text>
+<text id="6459">%null%</text>
+<text id="6460">雙指信徒們的禱告。
+
+能提升魔力屬性減傷率。
+可以走動執行。
+
+在引導之路的前頭，敵人無數──
+習武修士、魔法師、古龍騎士，
+甚至是黃金後裔。
+交界地不歡迎褪色者，要謹記在心。</text>
+<text id="6461">%null%</text>
+<text id="6462">%null%</text>
+<text id="6463">%null%</text>
+<text id="6464">%null%</text>
+<text id="6465">%null%</text>
+<text id="6466">%null%</text>
+<text id="6467">%null%</text>
+<text id="6468">%null%</text>
+<text id="6469">%null%</text>
+<text id="6470">雙指信徒們的禱告。
+
+能提升雷屬性減傷率。
+可以走動執行。
+
+在引導之路的前頭，敵人無數──
+習武修士、魔法師、古龍騎士，
+甚至是黃金後裔。
+交界地不歡迎褪色者，要謹記在心。</text>
+<text id="6471">%null%</text>
+<text id="6472">%null%</text>
+<text id="6473">%null%</text>
+<text id="6474">%null%</text>
+<text id="6475">%null%</text>
+<text id="6476">%null%</text>
+<text id="6477">%null%</text>
+<text id="6478">%null%</text>
+<text id="6479">%null%</text>
+<text id="6480">雙指信徒們的禱告。
+
+能提升聖屬性減傷率。
+可以走動執行。
+
+在引導之路的前頭，敵人無數──
+習武修士、魔法師、古龍騎士，
+甚至是黃金後裔。
+交界地不歡迎褪色者，要謹記在心。</text>
+<text id="6481">%null%</text>
+<text id="6482">%null%</text>
+<text id="6483">%null%</text>
+<text id="6484">%null%</text>
+<text id="6485">%null%</text>
+<text id="6486">%null%</text>
+<text id="6487">%null%</text>
+<text id="6488">%null%</text>
+<text id="6489">%null%</text>
+<text id="6490">雙指賜予「百智爵士」基甸的禱告。
+
+能包含周圍我方人物，大幅提升聖屬性減傷率。
+持續執行的期間能維持禱告狀態，不會生效。
+
+與雙指的長時間對談後，基甸徹底理解：
+從很久以前，所有的一切就已經毀壞了──
+包含那枯老乾瘦、顫巍巍的指頭，還有黃金樹。</text>
+<text id="6491">%null%</text>
+<text id="6492">%null%</text>
+<text id="6493">%null%</text>
+<text id="6494">%null%</text>
+<text id="6495">%null%</text>
+<text id="6496">%null%</text>
+<text id="6497">%null%</text>
+<text id="6498">%null%</text>
+<text id="6499">%null%</text>
+<text id="6500">魔法鎮瑟利亞的其中一種黑夜魔法。
+
+能朝前方形成侵蝕生命的銀色煙霧。
+包含施展者，給予觸碰到煙霧的人物傷害。
+可以走動施展。
+
+瑟利亞的地底下沉睡著「永恆之城」諾克隆恩。
+據說此為該城女巫的魔法。</text>
+<text id="6501">%null%</text>
+<text id="6502">%null%</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">過去作為圓桌廳堂的刺客，
+侍奉雙指的人們執行的禱告。
+
+能完全消除執行者的腳步聲，
+並降低落下損傷與落地聲響。
+可以走動執行。
+
+負責處理那些背離引導的褪色者，
+就是刺客的職責所在。</text>
+<text id="6511">%null%</text>
+<text id="6512">%null%</text>
+<text id="6513">%null%</text>
+<text id="6514">%null%</text>
+<text id="6515">%null%</text>
+<text id="6516">%null%</text>
+<text id="6517">%null%</text>
+<text id="6518">%null%</text>
+<text id="6519">%null%</text>
+<text id="6520">過去作為圓桌廳堂的刺客，
+侍奉雙指的人們執行的禱告。
+
+能朝前方放出淡金色的影子，
+吸引有著人類之身的敵人攻擊。
+即使對方在戰鬥狀態，也會有效。
+可以走動執行。
+
+據說那影子會讓人看到可恨的仇敵。</text>
+<text id="6521">%null%</text>
+<text id="6522">%null%</text>
+<text id="6523">%null%</text>
+<text id="6524">%null%</text>
+<text id="6525">%null%</text>
+<text id="6526">%null%</text>
+<text id="6527">%null%</text>
+<text id="6528">%null%</text>
+<text id="6529">%null%</text>
+<text id="6530">過去作為圓桌廳堂的刺客，
+侍奉雙指的人們執行的禱告。
+
+能讓黑暗覆蓋四周，隱藏執行者的身影。
+可以走動執行。
+
+刺客是看不見引導的褪色者。
+他們在沒有賜福的黑暗中，尋求使命。</text>
+<text id="6600">黃金樹信仰的其中一種禱告。
+
+能包含周圍我方人物，提升攻擊力與減傷率。
+持續執行的期間能維持禱告狀態，不會生效。
+
+王城眾騎士傳承而來，歷史悠久的禱告。
+據說此禱告鼓舞了遠征騎士們的士氣。</text>
+<text id="6700">黃金律法基本主義的其中一種禱告。
+
+能朝前方形成、釋放黃金光環。
+光環會飛回執行者附近後再消失。
+可以連續執行。
+
+此為年幼的米凱拉贈予父親拉達岡的禱告。</text>
+<text id="6701">黃金律法基本主義的其中一種禱告。
+
+能朝前方形成、釋放三個黃金光環。
+光環會飛回執行者附近後再消失。
+可以連續執行。
+
+此為年幼的米凱拉贈予父親拉達岡的禱告。</text>
+<text id="6702">%null%</text>
+<text id="6703">%null%</text>
+<text id="6704">%null%</text>
+<text id="6705">%null%</text>
+<text id="6706">%null%</text>
+<text id="6707">%null%</text>
+<text id="6708">%null%</text>
+<text id="6709">%null%</text>
+<text id="6710">黃金律法基本主義的其中一種禱告。
+父親拉達岡贈予年幼米凱拉的回禮。
+
+能形成、擴大黃金光環，攻擊四周。
+藉由蓄力能擴大攻擊的範圍。
+
+然而年幼的米凱拉拋棄了基本主義──
+因為對於瑪蓮妮亞的宿疾，基本主義無能為力。
+此為「純淨無比的黃金」的起點。</text>
+<text id="6711">%null%</text>
+<text id="6712">%null%</text>
+<text id="6713">%null%</text>
+<text id="6714">%null%</text>
+<text id="6715">%null%</text>
+<text id="6716">%null%</text>
+<text id="6717">%null%</text>
+<text id="6718">%null%</text>
+<text id="6719">%null%</text>
+<text id="6720">據說是最古老的黃金樹禱告。
+「傳說中的禱告」之一。
+
+能形成無數顆黃金流星，攻擊四周。
+
+在過去，無上意志將黃金流星
+連同一隻野獸送往交界地──
+據說那後來化成了艾爾登法環。</text>
+<text id="6721">%null%</text>
+<text id="6722">%null%</text>
+<text id="6723">%null%</text>
+<text id="6724">%null%</text>
+<text id="6725">%null%</text>
+<text id="6726">%null%</text>
+<text id="6727">%null%</text>
+<text id="6728">%null%</text>
+<text id="6729">%null%</text>
+<text id="6730">黃金律法基本主義的禱告。
+形成根基的禱告之一。
+
+能治癒所有異常狀態，並消除特殊效果，
+去除所有擬態，揭露真面目。
+
+基本主義用兩種力量
+解釋黃金律法──回歸與因果。
+所謂的回歸，意指將萬物朝不變收斂，
+屬於含義上的引力。</text>
+<text id="6731">%null%</text>
+<text id="6732">%null%</text>
+<text id="6733">%null%</text>
+<text id="6734">%null%</text>
+<text id="6735">%null%</text>
+<text id="6736">%null%</text>
+<text id="6737">%null%</text>
+<text id="6738">%null%</text>
+<text id="6739">%null%</text>
+<text id="6740">黃金律法基本主義的其中一種禱告。
+
+能將回歸光芒寄宿在左手盾牌，
+提升所有屬性、異常狀態的減傷率，
+但不包含物理的減傷率。
+
+基本主義根基的兩種概念，
+與其中一種概念「回歸性原理」相關的禱告。</text>
+<text id="6741">%null%</text>
+<text id="6742">%null%</text>
+<text id="6743">%null%</text>
+<text id="6744">%null%</text>
+<text id="6745">%null%</text>
+<text id="6746">%null%</text>
+<text id="6747">%null%</text>
+<text id="6748">%null%</text>
+<text id="6749">%null%</text>
+<text id="6750">黃金律法基本主義的其中一種禱告。
+狩獵死誕者的人們執行的禱告。
+
+能模仿聖律的模樣，對周圍給予聖屬性傷害。
+對死誕者的傷害尤為巨大，
+死誕者被此禱告打敗之後，不會復活。
+
+獵人們意圖滅絕玷污的法則──
+一切都為了成就黃金律法的完美。</text>
+<text id="6751">%null%</text>
+<text id="6752">%null%</text>
+<text id="6753">%null%</text>
+<text id="6754">%null%</text>
+<text id="6755">%null%</text>
+<text id="6756">%null%</text>
+<text id="6757">%null%</text>
+<text id="6758">%null%</text>
+<text id="6759">%null%</text>
+<text id="6760">黃金律法基本主義的禱告。
+形成根基的禱告之一。
+
+在自身體內寄宿小型的因果光環，
+受到一定程度的攻擊後，會自動反擊。
+
+基本主義用兩種力量
+解釋黃金律法──回歸與因果。
+所謂的因果，意指讓萬物環環相扣，
+屬於含義間的引力。</text>
+<text id="6761">%null%</text>
+<text id="6762">%null%</text>
+<text id="6763">%null%</text>
+<text id="6764">%null%</text>
+<text id="6765">%null%</text>
+<text id="6766">%null%</text>
+<text id="6767">%null%</text>
+<text id="6768">%null%</text>
+<text id="6769">%null%</text>
+<text id="6770">黃金律法基本主義的其中一種禱告。
+狩獵死誕者的人們執行的禱告。
+
+能在右手武器附加聖屬性攻擊力。
+對死誕者的傷害尤為巨大，
+死誕者被此禱告打敗之後，不會復活。
+
+獵人們意圖滅絕玷污的法則──
+一切都為了成就黃金律法的完美。</text>
+<text id="6771">%null%</text>
+<text id="6772">%null%</text>
+<text id="6773">%null%</text>
+<text id="6774">%null%</text>
+<text id="6775">%null%</text>
+<text id="6776">%null%</text>
+<text id="6777">%null%</text>
+<text id="6778">%null%</text>
+<text id="6779">%null%</text>
+<text id="6780">黃金律法基本主義的其中一種禱告。
+狩獵死誕者的人們執行的禱告。
+
+能減輕死亡量表的累積。
+
+金面具看見獵人們的作為，大為感嘆。
+
+　將學問轉為信仰狂熱，太過容易──
+　那群愚蠢的善人，
+　只希望有絕對邪惡的存在罷了。
+
+　這怎能稱得上是律法的基本？</text>
+<text id="6800">「野獸祭司」古蘭格傳授的禱告。
+
+能快速釋放大量銳利石片。
+可以接在其他動作後，立刻銜接使用。
+
+據說在黃金樹時代以前，
+石頭是獲得智慧的野獸們最一開始的武器。</text>
+<text id="6801">%null%</text>
+<text id="6802">%null%</text>
+<text id="6803">%null%</text>
+<text id="6804">%null%</text>
+<text id="6805">%null%</text>
+<text id="6806">%null%</text>
+<text id="6807">%null%</text>
+<text id="6808">%null%</text>
+<text id="6809">%null%</text>
+<text id="6810">「野獸祭司」古蘭格傳授的禱告。
+屬於高階禱告。
+
+能朝前方丟擲巨大岩石。
+可以連續執行。
+
+據說從前，古蘭格是恐怖的野獸。
+他的古名意義等同半神的死亡。</text>
+<text id="6811">%null%</text>
+<text id="6812">%null%</text>
+<text id="6813">%null%</text>
+<text id="6814">%null%</text>
+<text id="6815">%null%</text>
+<text id="6816">%null%</text>
+<text id="6817">%null%</text>
+<text id="6818">%null%</text>
+<text id="6819">%null%</text>
+<text id="6820">「野獸祭司」古蘭格傳授的禱告。
+
+能長出獸爪，以衝擊撕裂地面。
+藉由蓄力能提升威力。
+
+此為重回獸形的古蘭格擁有的憤怒，
+可能也是他的焦慮。</text>
+<text id="6821">%null%</text>
+<text id="6822">%null%</text>
+<text id="6823">%null%</text>
+<text id="6824">%null%</text>
+<text id="6825">%null%</text>
+<text id="6826">%null%</text>
+<text id="6827">%null%</text>
+<text id="6828">%null%</text>
+<text id="6829">%null%</text>
+<text id="6830">「野獸祭司」古蘭格傳授的禱告。
+屬於高階禱告。
+
+能長出獸爪，以衝擊撕裂四周。
+
+據說從前，古蘭格是恐怖的野獸。
+他的古名意義等同半神的死亡。</text>
+<text id="6831">%null%</text>
+<text id="6832">%null%</text>
+<text id="6833">%null%</text>
+<text id="6834">%null%</text>
+<text id="6835">%null%</text>
+<text id="6836">%null%</text>
+<text id="6837">%null%</text>
+<text id="6838">%null%</text>
+<text id="6839">%null%</text>
+<text id="6840">「野獸祭司」古蘭格傳授的禱告。
+
+將野獸的活力寄宿在體內，
+能一定時間內，持續恢復ＨＰ。
+
+獲得智慧的野獸們可能也明白──
+文明最終會讓野性消失。</text>
+<text id="6841">%null%</text>
+<text id="6842">%null%</text>
+<text id="6843">%null%</text>
+<text id="6844">%null%</text>
+<text id="6845">%null%</text>
+<text id="6846">%null%</text>
+<text id="6847">%null%</text>
+<text id="6848">%null%</text>
+<text id="6849">%null%</text>
+<text id="6850">「野獸祭司」古蘭格傳授的禱告。
+
+將野獸的活力寄宿在體內，
+能減輕出血、凍傷量表的累積。
+
+獲得智慧的野獸們可能也明白──
+文明最終會讓野性消失。</text>
+<text id="6851">%null%</text>
+<text id="6852">%null%</text>
+<text id="6853">%null%</text>
+<text id="6854">%null%</text>
+<text id="6855">%null%</text>
+<text id="6856">%null%</text>
+<text id="6857">%null%</text>
+<text id="6858">%null%</text>
+<text id="6859">%null%</text>
+<text id="6860">%null%</text>
+<text id="6900">王城古龍信仰的其中一種禱告。
+
+能召喚雷電槍，朝前方丟擲。
+藉由蓄力能在命中後，附加落雷。
+
+在過去，「黃金」葛德文戰勝
+古龍弗爾桑克斯，隨後化敵為友──
+此為王城古龍信仰的起源。</text>
+<text id="6901">%null%</text>
+<text id="6902">%null%</text>
+<text id="6903">%null%</text>
+<text id="6904">%null%</text>
+<text id="6905">%null%</text>
+<text id="6906">%null%</text>
+<text id="6907">%null%</text>
+<text id="6908">%null%</text>
+<text id="6909">%null%</text>
+<text id="6910">王城古龍信仰不為人知的禱告。
+
+能召喚紅落雷，朝周圍爬竄。
+藉由蓄力能擴大落雷降下的範圍。
+
+根據古老的傳說，
+紅色雷電是古龍所使用的武器。</text>
+<text id="6911">%null%</text>
+<text id="6912">%null%</text>
+<text id="6913">%null%</text>
+<text id="6914">%null%</text>
+<text id="6915">%null%</text>
+<text id="6916">%null%</text>
+<text id="6917">%null%</text>
+<text id="6918">%null%</text>
+<text id="6919">%null%</text>
+<text id="6920">王城古龍信仰的其中一種禱告。
+
+能召喚落雷，朝前方爬竄。
+可以連續執行。
+
+古龍身體覆滿碎石鱗片，
+以雷電為武器，是龍的祖先。
+據說曾與王城羅德爾為敵交戰。</text>
+<text id="6921">能展現龍人士兵力量的禱告。
+
+能召喚冰雷槍，從空中刺入地面。
+雷槍反彈後，會朝前方釋放落雷。
+
+龍人士兵誕生自永恆之城，
+他們沒見過真正的天空與雷電，
+將冰雷作為自己的武器。</text>
+<text id="6922">%null%</text>
+<text id="6923">%null%</text>
+<text id="6924">%null%</text>
+<text id="6925">%null%</text>
+<text id="6926">%null%</text>
+<text id="6927">%null%</text>
+<text id="6928">%null%</text>
+<text id="6929">%null%</text>
+<text id="6930">王城古龍信仰的其中一種禱告。
+
+能在目標頭上降下落雷。
+可以連續執行。
+
+在過去，「黃金」葛德文戰勝
+古龍弗爾桑克斯，隨後化敵為友──
+此為王城古龍信仰的起源。</text>
+<text id="6931">%null%</text>
+<text id="6932">%null%</text>
+<text id="6933">%null%</text>
+<text id="6934">%null%</text>
+<text id="6935">%null%</text>
+<text id="6936">%null%</text>
+<text id="6937">%null%</text>
+<text id="6938">%null%</text>
+<text id="6939">%null%</text>
+<text id="6940">王城古龍信仰不為人知的禱告。
+
+能召喚紅雷槍，從空中刺入地面。
+雷槍反彈後，會朝周圍釋放雷電。
+
+根據古老的傳說，
+紅色雷電是古龍所使用的武器。</text>
+<text id="6941">能展現古龍弗爾桑克斯力量的禱告。
+
+能召喚兩支紅雷槍，從空中連續刺入地面。
+雷槍反彈後，會朝周圍釋放雷電。
+
+在古龍戰爭中，紅色的雙雷
+是擁有最強岩石之名的古龍的象徵。</text>
+<text id="6942">%null%</text>
+<text id="6943">%null%</text>
+<text id="6944">%null%</text>
+<text id="6945">%null%</text>
+<text id="6946">%null%</text>
+<text id="6947">%null%</text>
+<text id="6948">%null%</text>
+<text id="6949">%null%</text>
+<text id="6950">能展現古龍蘭斯桑克斯力量的禱告。
+
+能召喚紅雷薙刀，從空中橫掃。
+揮出的斬擊會釋放雷電。
+
+蘭斯桑克斯是弗爾桑克斯的姊姊。
+據說她幻化成人型，
+作為古龍信仰的祭司與騎士們互動。</text>
+<text id="6951">%null%</text>
+<text id="6952">%null%</text>
+<text id="6953">%null%</text>
+<text id="6954">%null%</text>
+<text id="6955">%null%</text>
+<text id="6956">%null%</text>
+<text id="6957">%null%</text>
+<text id="6958">%null%</text>
+<text id="6959">%null%</text>
+<text id="6960">王城古龍信仰的其中一種禱告。
+
+能在右手武器附加雷屬性攻擊力。
+
+在過去，「黃金」葛德文戰勝
+古龍弗爾桑克斯，隨後化敵為友──
+此為王城古龍信仰的起源。</text>
+<text id="6961">%null%</text>
+<text id="6962">%null%</text>
+<text id="6963">%null%</text>
+<text id="6964">%null%</text>
+<text id="6965">%null%</text>
+<text id="6966">%null%</text>
+<text id="6967">%null%</text>
+<text id="6968">%null%</text>
+<text id="6969">%null%</text>
+<text id="6970">「圓桌騎士」維克的禱告。
+
+召喚紅色雷電，纏繞右手武器與全身。
+能在武器附加雷屬性攻擊力，
+並且提升裝備重量上限，
+但是會降低雷屬性減傷率。
+
+維克擁有另一個別稱「龍槍」，
+是蘭斯桑克斯最喜愛的騎士。</text>
+<text id="6971">王城古龍信仰的其中一種禱告。
+屬於高階禱告。
+
+能召喚雷電，纏繞執行者全身。
+身體會變得容易彈開攻擊，
+並且提升對所有異常狀態的抵抗力，
+但是會降低雷屬性減傷率。
+
+只有受龍喜愛的人物，才能讓雷電纏繞身上。</text>
+<text id="7000">其中一種龍饗禱告。
+
+能將自身化為龍，噴出火焰吐息。
+藉由蓄力能延長噴出吐息的時間。
+
+狩獵龍，獻上、吞噬龍心臟的人們擁有的招式。
+那是既純粹，又壓倒性強大的力量。</text>
+<text id="7001">其中一種龍饗禱告。屬於高階禱告。
+能展現「飛龍」亞基爾的力量。
+
+能將自身化為龍，從空中噴出火焰吐息。
+藉由蓄力能延長噴出吐息的時間。
+在跳躍期間也能使用。
+
+在寧姆格福的湖泊，長生者們望向天空，
+祈禱龍的吐息能夠燒死自己。</text>
+<text id="7002">%null%</text>
+<text id="7003">%null%</text>
+<text id="7004">%null%</text>
+<text id="7005">%null%</text>
+<text id="7006">%null%</text>
+<text id="7007">%null%</text>
+<text id="7008">%null%</text>
+<text id="7009">%null%</text>
+<text id="7010">其中一種龍饗禱告。
+
+能將自身化為土龍，噴出熔岩吐息。
+僅限一次，能使出追擊。
+
+執行龍饗的人，都會漸漸成為非人──
+伏地的土龍就是那悲哀的後果。</text>
+<text id="7011">其中一種龍饗禱告。屬於高階禱告。
+能展現「大土龍」席歐朵利克的力量。
+
+能將自身化為大土龍，噴出大量熔岩吐息。
+僅限一次，能使出追擊。
+
+古老山妖戰士席歐朵利克的名號，
+是以巨人戰爭的其中一位英雄流傳後世。</text>
+<text id="7012">%null%</text>
+<text id="7013">%null%</text>
+<text id="7014">%null%</text>
+<text id="7015">%null%</text>
+<text id="7016">%null%</text>
+<text id="7017">%null%</text>
+<text id="7018">%null%</text>
+<text id="7019">%null%</text>
+<text id="7020">其中一種龍饗禱告。
+
+能將自身化為龍，噴出寒冰吐息。
+藉由蓄力能延長噴出吐息的時間。
+
+不斷執行龍饗，超越凡人的人物，
+才能得到「龍心者」的稱呼。</text>
+<text id="7021">其中一種龍饗禱告。屬於高階禱告。
+能展現「凍結冰霧」玻列琉斯的力量。
+
+能將自身化為龍，從空中噴出寒冰吐息。
+藉由蓄力能延長噴出吐息的時間。
+在跳躍期間也能使用。
+
+許久以前，冰龍曾是山頂的主人，
+然而在敗給火焰巨人們之後，被趕離了山頂。</text>
+<text id="7022">%null%</text>
+<text id="7023">%null%</text>
+<text id="7024">%null%</text>
+<text id="7025">%null%</text>
+<text id="7026">%null%</text>
+<text id="7027">%null%</text>
+<text id="7028">%null%</text>
+<text id="7029">%null%</text>
+<text id="7030">其中一種龍饗禱告。
+
+能將自身化為龍，噴出猩紅腐敗吐息。
+藉由蓄力能延長噴出吐息的時間。
+
+不斷執行龍饗，超越凡人的人物，
+才能得到「龍心者」的稱呼。</text>
+<text id="7031">其中一種龍饗禱告。屬於高階禱告。
+能展現「步入腐敗」艾格基斯的力量。
+
+能將自身化為龍，從空中噴出猩紅腐敗吐息。
+藉由蓄力能延長噴出吐息的時間。
+在跳躍期間也能使用。
+
+「龍饗復仇者」艾格基斯
+即使受猩紅腐敗侵蝕，也不忘心中的仇恨。</text>
+<text id="7032">%null%</text>
+<text id="7033">%null%</text>
+<text id="7034">%null%</text>
+<text id="7035">%null%</text>
+<text id="7036">%null%</text>
+<text id="7037">%null%</text>
+<text id="7038">%null%</text>
+<text id="7039">%null%</text>
+<text id="7040">其中一種龍饗禱告。
+
+能將自身化為龍，噴出魔力吐息。
+藉由蓄力能延長噴出吐息的時間。
+
+不斷執行龍饗，超越凡人的人物，
+才能得到「龍心者」的稱呼。</text>
+<text id="7041">其中一種龍饗禱告。屬於高階禱告。
+能展現「輝石龍」史瑪拉格的力量。
+
+能將自身化為龍，從空中噴出魔力吐息。
+藉由蓄力能延長噴出吐息的時間。
+在跳躍期間也能使用。
+
+「吞噬魔法師」史瑪拉格，
+最後受到那輝石的侵蝕。</text>
+<text id="7042">%null%</text>
+<text id="7043">%null%</text>
+<text id="7044">%null%</text>
+<text id="7045">%null%</text>
+<text id="7046">%null%</text>
+<text id="7047">%null%</text>
+<text id="7048">%null%</text>
+<text id="7049">%null%</text>
+<text id="7050">從「龍王」普拉頓桑克斯的追憶獲得的力量。
+
+能將自身化為龍王，從空中噴出金色吐息。
+在跳躍期間也能使用。
+
+龍王永遠坐鎮在時空夾縫之中──
+據說此為他凋零之際，發出的痛苦哀號。</text>
+<text id="7051">%null%</text>
+<text id="7052">%null%</text>
+<text id="7053">%null%</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">其中一種龍饗禱告。
+
+能將自身化為龍，以龍爪撕裂敵人。
+僅限一次，能使出追擊。
+
+狩獵龍，獻上、吞噬龍心臟的人們擁有的招式。
+那是既純粹，又壓倒性強大的力量。</text>
+<text id="7080">其中一種龍饗禱告。
+
+能將自身化為龍，朝前方咬碎敵人。
+
+狩獵龍，獻上、吞噬龍心臟的人們擁有的招式。
+那是既純粹，又壓倒性強大的力量。</text>
+<text id="7081">%null%</text>
+<text id="7082">%null%</text>
+<text id="7083">%null%</text>
+<text id="7084">%null%</text>
+<text id="7085">%null%</text>
+<text id="7086">%null%</text>
+<text id="7087">%null%</text>
+<text id="7088">%null%</text>
+<text id="7089">%null%</text>
+<text id="7090">其中一種龍饗禱告。屬於高階禱告。
+能展現「古老龍」桂奧爾的力量。
+「傳說中的禱告」之一。
+
+能將自身化為龍，響徹巨響咆哮。
+降低周圍敵人的攻擊力與減傷率。
+
+「龍之祖母」桂奧爾是須敬畏三分的巖山。</text>
+<text id="7091">%null%</text>
+<text id="7092">%null%</text>
+<text id="7093">%null%</text>
+<text id="7094">%null%</text>
+<text id="7095">%null%</text>
+<text id="7096">%null%</text>
+<text id="7097">%null%</text>
+<text id="7098">%null%</text>
+<text id="7099">%null%</text>
+<text id="7100">%null%</text>
+<text id="7200">意圖侍奉腐敗的人物執行的禱告。
+
+能分泌大量具黏性的絲線，朝前方釋放。
+
+在猩紅腐敗之地蠕動的慘白蟲群的招式。
+蟲群是女神的棄子。
+
+　……您對腐敗禱告有興趣嗎？</text>
+<text id="7201">%null%</text>
+<text id="7202">%null%</text>
+<text id="7203">%null%</text>
+<text id="7204">%null%</text>
+<text id="7205">%null%</text>
+<text id="7206">%null%</text>
+<text id="7207">%null%</text>
+<text id="7208">%null%</text>
+<text id="7209">%null%</text>
+<text id="7210">鮮血君王分享的力量，其中一種血盟禱告。
+
+能朝前方釋放一群血蠅，襲擊敵人。
+蠅群給予敵人傷害的同時，也會累積出血量表。
+可以走動執行。
+
+鮮血君王的新王朝有著鮮血池沼，
+據說蠅群是從該地的糞便孵化湧出。</text>
+<text id="7211">%null%</text>
+<text id="7212">%null%</text>
+<text id="7213">%null%</text>
+<text id="7214">%null%</text>
+<text id="7215">%null%</text>
+<text id="7216">%null%</text>
+<text id="7217">%null%</text>
+<text id="7218">%null%</text>
+<text id="7219">%null%</text>
+<text id="7220">意圖侍奉腐敗的人物執行的禱告。
+
+能朝前方形成毒性煙霧。
+可以走動執行。
+
+生活在毒物中的人物瞭解腐敗──
+人人平等皆有的生命，那是為此存在的死亡，
+也就是所謂的輪迴法則。</text>
+<text id="7221">%null%</text>
+<text id="7222">%null%</text>
+<text id="7223">%null%</text>
+<text id="7224">%null%</text>
+<text id="7225">%null%</text>
+<text id="7226">%null%</text>
+<text id="7227">%null%</text>
+<text id="7228">%null%</text>
+<text id="7229">%null%</text>
+<text id="7230">意圖侍奉腐敗的人物執行的禱告。
+
+能在右手武器纏繞毒素。
+可以走動執行。
+
+生活在毒物中的人物瞭解腐敗──
+人人平等皆有的生命，那是為此存在的死亡，
+也就是所謂的輪迴法則。</text>
+<text id="7231">%null%</text>
+<text id="7232">%null%</text>
+<text id="7233">%null%</text>
+<text id="7234">%null%</text>
+<text id="7235">%null%</text>
+<text id="7236">%null%</text>
+<text id="7237">%null%</text>
+<text id="7238">%null%</text>
+<text id="7239">%null%</text>
+<text id="7240">瑪蓮妮亞身為腐敗女神的招式。
+
+能綻放大株花朵，引爆猩紅腐敗。
+
+猩紅花每綻放一次，瑪蓮妮亞會腐敗一分。
+如今那花已綻放兩次──
+而第三次，她肯定會化為女神。</text>
+<text id="7300">源自癲狂參指的禱告。
+
+能從眼睛燃起黃色癲火，抓住目標，
+傳染異常狀態發狂。
+執行者本身也會累積發狂量表。
+只對渡夜者有效。
+
+眼神相對、互相凝視──
+這大概是人類最為密切的接觸。</text>
+<text id="7301">%null%</text>
+<text id="7302">%null%</text>
+<text id="7303">%null%</text>
+<text id="7304">%null%</text>
+<text id="7305">%null%</text>
+<text id="7306">%null%</text>
+<text id="7307">%null%</text>
+<text id="7308">%null%</text>
+<text id="7309">%null%</text>
+<text id="7310">源自癲狂參指的禱告。
+
+能從眼睛迸發黃色癲火。
+藉由蓄力能擴大迸發的範圍。
+
+癲火在給予敵人傷害的同時，
+也會累積發狂量表，
+執行者本身也會累積發狂量表。
+發狂只對渡夜者有效。</text>
+<text id="7311">源自癲狂參指的禱告。
+
+能從眼睛迸發劇烈黃色癲火。
+持續執行的期間會繼續迸發癲火。
+可以走動執行。
+
+受癲火影響，眼珠因此燒爛的罹病者，
+症狀伴隨令人抓狂的劇痛，
+此為難以忍受所流下的淚水。</text>
+<text id="7312">%null%</text>
+<text id="7313">%null%</text>
+<text id="7314">%null%</text>
+<text id="7315">%null%</text>
+<text id="7316">%null%</text>
+<text id="7317">%null%</text>
+<text id="7318">%null%</text>
+<text id="7319">%null%</text>
+<text id="7320">源自癲狂參指的禱告。
+
+能從眼睛凝聚、釋放黃色癲火。
+藉由蓄力能強化威力、突破防禦。
+
+過去試圖駕馭癲火的人物，
+在那些絕望的內在戰爭最後，
+所有人都以發狂收場，無一例外。
+此禱告為稍微勝過癲火的證明。</text>
+<text id="7321">%null%</text>
+<text id="7322">%null%</text>
+<text id="7323">%null%</text>
+<text id="7324">%null%</text>
+<text id="7325">%null%</text>
+<text id="7326">%null%</text>
+<text id="7327">%null%</text>
+<text id="7328">%null%</text>
+<text id="7329">%null%</text>
+<text id="7330">源自癲狂參指的禱告。
+
+能發出瘋狂吼聲，
+讓自己與周圍人物累積發狂量表，
+變得容易受敵人攻擊。
+也能提升攻擊力，但會降低減傷率。
+
+據說夏玻利利是癲火病的病原，
+是史上最受人憎恨的男人。</text>
+<text id="7500">遠古黃金樹的其中一種禱告。
+
+能形成修長的尾巴，橫掃前方。
+藉由蓄力能強化威力。
+
+此為黃金樹的初始生命力量，
+熔爐的百相之一。
+在過去，生命是相互混合，不分彼此。</text>
+<text id="7501">%null%</text>
+<text id="7502">%null%</text>
+<text id="7503">%null%</text>
+<text id="7504">%null%</text>
+<text id="7505">%null%</text>
+<text id="7506">%null%</text>
+<text id="7507">%null%</text>
+<text id="7508">%null%</text>
+<text id="7509">%null%</text>
+<text id="7510">遠古黃金樹的其中一種禱告。
+
+能在肩膀形成硬角，壓低姿勢再向上突刺。
+藉由蓄力能向前推進。
+
+此為黃金樹的初始生命力量，
+熔爐的百相之一。
+在過去，生命是相互混合，不分彼此。</text>
+<text id="7511">%null%</text>
+<text id="7512">%null%</text>
+<text id="7513">%null%</text>
+<text id="7514">%null%</text>
+<text id="7515">%null%</text>
+<text id="7516">%null%</text>
+<text id="7517">%null%</text>
+<text id="7518">%null%</text>
+<text id="7519">%null%</text>
+<text id="7520">遠古黃金樹的其中一種禱告。
+
+能形成巨大喉囊，一邊走動一邊噴出火焰吐息。
+藉由蓄力能延長噴出吐息的時間。
+
+此為黃金樹的初始生命力量，
+熔爐的百相之一。
+在過去，生命是相互混合，不分彼此。</text>
+<text id="7521">%null%</text>
+<text id="7522">%null%</text>
+<text id="7523">%null%</text>
+<text id="7524">%null%</text>
+<text id="7525">%null%</text>
+<text id="7526">%null%</text>
+<text id="7527">%null%</text>
+<text id="7528">%null%</text>
+<text id="7529">%null%</text>
+<text id="7530">從瑪利喀斯的追憶獲得的力量。
+
+能形成黑劍的幻影，朝前方跳躍，
+旋轉劍身的同時攻擊敵人，再釋放光波。
+僅限一次，能使出追擊。
+
+過去寄宿命定之死的黑劍，
+在給予敵人傷害後，會減少ＨＰ上限，
+並在極短的時間內，些微、持續減少ＨＰ。</text>
+<text id="7900">源自最為不祥的預言的禱告。
+
+能引發劇烈自燃，連同周圍一起燃燒。
+執行者身上的火焰短時間內不會消失，
+會持續燃燒執行者以及其附近的人物。
+藉由蓄力能強化威力。
+
+預言家仰望黃金樹，感到絕望──
+因為火種就要伴隨灰滅，燃起大火。
+
+　……燒毀黃金樹是最為原始的重罪，
+　那是身為人之子萬萬不得做出的事。</text>
+<text id="7901">%null%</text>
+<text id="7902">%null%</text>
+<text id="7903">黃金樹信仰的其中一種禱告。
+
+能包含周圍我方人物，大幅提升雷屬性減傷率。
+持續執行的期間能維持禱告狀態，不會生效。
+
+在「大古龍」古蘭桑克斯來襲，
+以及後續爆發的古龍戰爭時，
+幫助黃金騎士們度過難關的禱告。</text>
+<text id="8100">專用戰技：風暴管束者
+
+在對抗黑夜王的過程中，出現的傳說戰技。
+舉起武器維持架式，能讓風暴纏繞武器；
+使出攻擊後，會釋放纏繞在武器上的風暴。</text>
+<text id="8101">專用戰技：風暴管束者
+
+在對抗黑夜王的過程中，出現的傳說戰技。
+舉起武器維持架式，能讓風暴纏繞武器；
+使出攻擊後，會釋放纏繞在武器上的風暴。</text>
+<text id="9999">Traditional Chinese</text>
+</entries>
+</fmg>

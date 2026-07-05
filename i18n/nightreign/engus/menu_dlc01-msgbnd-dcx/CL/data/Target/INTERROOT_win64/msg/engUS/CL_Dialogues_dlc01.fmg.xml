@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+  <compression>None</compression>
+  <version>DarkSouls3</version>
+  <bigendian>False</bigendian>
+  <entries>
+    <text id="110005">Returning to title screen during session will affect Depth rating depending on progress.
+Proceed?</text>
+    <text id="110006">%null%</text>
+    <text id="110007">%null%</text>
+    <text id="110008">%null%</text>
+    <text id="110009">%null%</text>
+    <text id="110010">%null%</text>
+    <text id="110011">%null%</text>
+    <text id="110012">%null%</text>
+    <text id="110013">%null%</text>
+    <text id="110014">%null%</text>
+    <text id="110015">Returning to desktop during session will affect Depth rating depending on progress.
+Proceed?</text>
+    <text id="136014">スペシャルイベント 6</text>
+    <text id="136015">This will overwrite present placement. Current placement will be lost. Proceed?</text>
+    <text id="136016">All relics are selected.
+
+Are you certain you wish to sell all relics?</text>
+    <text id="140002">Cannot begin remembrance while matchmaking</text>
+    <text id="140003">Cannot resume remembrance while matchmaking</text>
+  </entries>
+</fmg>

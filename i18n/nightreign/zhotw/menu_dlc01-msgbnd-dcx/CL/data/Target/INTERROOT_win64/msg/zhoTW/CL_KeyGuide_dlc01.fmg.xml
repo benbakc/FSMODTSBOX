@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="100011">變更排序</text>
+<text id="101110">變更戰技</text>
+<text id="101111">恢復戰技</text>
+<text id="130165">切換顯示</text>
+<text id="130166">切換顯示</text>
+<text id="130167">切換顯示</text>
+<text id="200020">替換</text>
+<text id="320123">變更名字</text>
+</entries>
+</fmg>

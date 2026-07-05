@@ -1,0 +1,1748 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Simplified Chinese</text>
+<text id="101090">长按&lt;?keyicon@106?&gt;＋&lt;?keyMove?&gt;：冲刺</text>
+<text id="101110">&lt;?keyicon@112?&gt;：锁定／解除锁定目标
+锁定目标时，推动&lt;?keyControlCamera?&gt;：切换目标</text>
+<text id="101111">%null%</text>
+<text id="101112">%null%</text>
+<text id="101113">%null%</text>
+<text id="101114">%null%</text>
+<text id="101115">%null%</text>
+<text id="101116">%null%</text>
+<text id="101117">%null%</text>
+<text id="101118">%null%</text>
+<text id="101119">%null%</text>
+<text id="101120">&lt;?keyicon@119?&gt;：防御
+&lt;?keyMove?&gt;＋&lt;?keyicon@106?&gt;：闪避</text>
+<text id="101200">&lt;?keyMove?&gt;：&lt;?keyActName@101?&gt;
+&lt;?keyControlCamera?&gt;：操作镜头</text>
+<text id="101201">%null%</text>
+<text id="101202">%null%</text>
+<text id="101203">%null%</text>
+<text id="101204">%null%</text>
+<text id="101205">%null%</text>
+<text id="101206">%null%</text>
+<text id="101207">%null%</text>
+<text id="101208">%null%</text>
+<text id="101209">%null%</text>
+<text id="101210">&lt;?keyicon@117?&gt;：轻攻击
+&lt;?keyicon@118?&gt;：重攻击</text>
+<text id="101211">%null%</text>
+<text id="101212">%null%</text>
+<text id="101213">%null%</text>
+<text id="101214">%null%</text>
+<text id="101215">%null%</text>
+<text id="101216">%null%</text>
+<text id="101217">%null%</text>
+<text id="101218">%null%</text>
+<text id="101219">%null%</text>
+<text id="101220">&lt;?keyicon@107?&gt;：&lt;?keyActFullName@107?&gt;
+跳跃期间，对着高处推动&lt;?keyMove?&gt;：攀登</text>
+<text id="101240">&lt;?keyMove?&gt;＋&lt;?keyicon@105?&gt;：急速冲刺</text>
+<text id="101241">%null%</text>
+<text id="101242">%null%</text>
+<text id="101243">%null%</text>
+<text id="101244">%null%</text>
+<text id="101245">%null%</text>
+<text id="101246">%null%</text>
+<text id="101247">%null%</text>
+<text id="101248">%null%</text>
+<text id="101249">%null%</text>
+<text id="101250">跳跃期间，对着墙壁按下&lt;?keyicon@107?&gt;：踢墙跳跃</text>
+<text id="101251">%null%</text>
+<text id="101252">%null%</text>
+<text id="101253">%null%</text>
+<text id="101254">%null%</text>
+<text id="101255">%null%</text>
+<text id="101256">%null%</text>
+<text id="101257">%null%</text>
+<text id="101258">%null%</text>
+<text id="101259">%null%</text>
+<text id="101260">&lt;?keyicon@121?&gt;：&lt;?keyActFullName@121?&gt;</text>
+<text id="101261">%null%</text>
+<text id="101262">%null%</text>
+<text id="101263">%null%</text>
+<text id="101264">%null%</text>
+<text id="101265">%null%</text>
+<text id="101266">%null%</text>
+<text id="101267">%null%</text>
+<text id="101268">%null%</text>
+<text id="101269">%null%</text>
+<text id="101270">&lt;?keyicon@113?&gt;：&lt;?keyActFullName@113?&gt;
+&lt;?keyicon@114?&gt;：&lt;?keyActFullName@114?&gt;
+&lt;?keyicon@130?&gt;：&lt;?keyActFullName@130?&gt;</text>
+<text id="101271">%null%</text>
+<text id="101272">%null%</text>
+<text id="101273">%null%</text>
+<text id="101274">%null%</text>
+<text id="101275">获得的道具能装备在道具空格。
+道具的种类繁多，从获得特殊效果，
+到作为攻击手段使用皆有。
+
+多半的道具在使用后会消失，
+也有能重复使用，但需要消耗专注值的道具。
+此外，部分道具能在空中使用。
+
+&lt;?keyicon@113?&gt;：&lt;?keyActFullName@113?&gt;
+&lt;?keyicon@114?&gt;：&lt;?keyActFullName@114?&gt;
+&lt;?keyicon@130?&gt;：&lt;?keyActFullName@130?&gt;</text>
+<text id="101276">%null%</text>
+<text id="101277">%null%</text>
+<text id="101278">%null%</text>
+<text id="101279">%null%</text>
+<text id="101280">“技艺”是游玩角色拥有的固有技术。
+
+每位角色的技艺各有特色。
+使用过后，必须等到冷却时间结束，
+才能再次使用。
+
+追踪者的技艺是“钩爪射击”：
+能射出钩爪拉近敌人，
+或是让自己快速移动。
+
+&lt;?keyicon@127?&gt;：&lt;?keyActFullName@127?&gt;
+※操作指示如果有“＋”符号，
+　代表需先长按左方操作，再按下右方操作。</text>
+<text id="101281">%null%</text>
+<text id="101282">%null%</text>
+<text id="101283">%null%</text>
+<text id="101284">%null%</text>
+<text id="101285">&lt;?keyicon@127?&gt;：&lt;?keyActFullName@127?&gt;
+
+※操作指示如果有“＋”符号，
+　代表需先长按左方操作，再按下右方操作。</text>
+<text id="101286">%null%</text>
+<text id="101287">%null%</text>
+<text id="101288">%null%</text>
+<text id="101289">%null%</text>
+<text id="101290">失去所有血量之后，会陷入“濒死状态”。
+陷入濒死状态后，角色只能进行移动操作；
+在一定时间后，就会死亡。
+
+受黑夜吞噬之前的缓冲时间，会显示濒死量表。
+借由攻击能驱散黑夜，进行“救援”，
+让角色避免死亡、继续行动。
+
+在连续陷入濒死状态时，会累积量表；
+维持存活状态能减少量表的累积。
+此外，靠近赐福能够重置量表。</text>
+<text id="101291">%null%</text>
+<text id="101292">%null%</text>
+<text id="101293">%null%</text>
+<text id="101294">%null%</text>
+<text id="101295">攻击陷入濒死的我方人物：救援</text>
+<text id="101296">%null%</text>
+<text id="101297">%null%</text>
+<text id="101298">%null%</text>
+<text id="101299">%null%</text>
+<text id="101300">死亡之后，会在附近的地点复活。
+此时，角色的等级会降低一级。
+
+重返原有等级所需的卢恩，
+以及持有的卢恩，将会留在原地。
+回到死亡地点能够拿回卢恩，
+但如果在那之前再次死亡，卢恩将会消失。
+
+掉落的卢恩有可能会被附近的敌人偷走，
+打倒该名敌人后，就能拿回。</text>
+<text id="101301">%null%</text>
+<text id="101302">%null%</text>
+<text id="101303">%null%</text>
+<text id="101304">%null%</text>
+<text id="101305">%null%</text>
+<text id="101306">%null%</text>
+<text id="101307">%null%</text>
+<text id="101308">%null%</text>
+<text id="101309">%null%</text>
+<text id="101310">“绝招”是游玩角色拥有的固有绝技，
+具有大幅改变战况的力量。
+
+当绝招量表累积到极限后，就能使用。
+
+追踪者的绝招是“袭击桩柱”：
+能伴随爆炸打出铁柱，使出强力一击。
+
+&lt;?keyicon@126?&gt;：&lt;?keyActFullName@126?&gt;
+※操作指示如果有“＋”符号，
+　代表需先长按左方操作，再按下右方操作。</text>
+<text id="101311">%null%</text>
+<text id="101312">%null%</text>
+<text id="101313">%null%</text>
+<text id="101314">%null%</text>
+<text id="101315">&lt;?keyicon@126?&gt;：&lt;?keyActFullName@126?&gt;</text>
+<text id="101316">%null%</text>
+<text id="101317">%null%</text>
+<text id="101318">%null%</text>
+<text id="101319">%null%</text>
+<text id="101320">失去所有血量之后，会陷入“濒死状态”。
+陷入濒死状态后，角色只能进行移动操作。
+
+维持濒死状态一定时间后，角色会死亡。</text>
+<text id="101321">%null%</text>
+<text id="101322">%null%</text>
+<text id="101323">%null%</text>
+<text id="101324">%null%</text>
+<text id="101325">%null%</text>
+<text id="101326">%null%</text>
+<text id="101327">%null%</text>
+<text id="101328">%null%</text>
+<text id="101329">%null%</text>
+<text id="101330">&lt;?keyicon@1?&gt;：打开装备菜单
+&lt;?keyicon@116?&gt;／&lt;?keyicon@115?&gt;：切换武器</text>
+<text id="101331">%null%</text>
+<text id="101332">%null%</text>
+<text id="101333">%null%</text>
+<text id="101334">%null%</text>
+<text id="101335">%null%</text>
+<text id="101336">%null%</text>
+<text id="101337">%null%</text>
+<text id="101338">%null%</text>
+<text id="101339">%null%</text>
+<text id="101340">在地图菜单之外，也有能使用的图钉操作。
+
+我方玩家钉下图钉时，会以强调的方式显示。
+移动镜头，将图钉对到画面中心之后，
+就能在相同位置钉下自己的图钉。
+
+移动镜头，将强调显示的我方玩家图钉
+对到画面中心，长按&lt;?keyicon@311?&gt;：叠放图钉
+
+想要快速共享情报时，
+也能在自己的所在位置快速钉下图钉。
+&lt;?keyicon@128?&gt;：在自己的位置快速钉下图钉</text>
+<text id="101341">%null%</text>
+<text id="101342">%null%</text>
+<text id="101343">%null%</text>
+<text id="101344">%null%</text>
+<text id="101345">%null%</text>
+<text id="101346">%null%</text>
+<text id="101347">%null%</text>
+<text id="101348">%null%</text>
+<text id="101349">%null%</text>
+<text id="101350">图钉是用于标示地点的功能，
+能与我方玩家共享行动方针或是情报。
+
+在地图菜单上钉下图钉，
+场景画面上会出现相对应的光柱。
+图钉会共享在我方玩家的方位条上。
+再次点选钉过的图钉，能够拔起。
+
+在地图菜单上
+&lt;?keyControlCamera?&gt;：移动光标
+&lt;?keyicon@311?&gt;：钉下图钉</text>
+<text id="201020">可攻略的地点散落各处。
+
+前往各个地点探索，
+比较容易获得装备物品和卢恩，
+但有可能遭遇敌人或机关阻挠。
+
+地图上会显示可攻略的地点。
+一边查看地图，一边探索场景，
+增强自身能力吧。
+
+&lt;?keyicon@2?&gt;：&lt;?keyActFullName@2?&gt;</text>
+<text id="201021">%null%</text>
+<text id="201022">%null%</text>
+<text id="201023">%null%</text>
+<text id="201024">%null%</text>
+<text id="201025">&lt;?keyicon@2?&gt;：&lt;?keyActFullName@2?&gt;打开菜单</text>
+<text id="201100">左手与右手各能装备３把武器，
+自由切换使用。
+
+如果左手与右手持有相同武器类别的武器，
+会变成双手各持一把武器，双手都能施展攻击。
+
+此外，也能以双手共持武器。
+双手共持武器时，攻击比较不会被盾牌弹开，
+给予敌人的伤害会比较高。
+（部分武器例外）
+
+&lt;?keyicon@116?&gt;：&lt;?keyActFullName@116?&gt;
+&lt;?keyicon@115?&gt;：&lt;?keyActFullName@115?&gt;
+在双手各持武器的状态按下&lt;?keyicon@119?&gt;：双手施展攻击
+&lt;?keyicon@124?&gt;／&lt;?keyicon@125?&gt;：双手共持武器</text>
+<text id="201101">%null%</text>
+<text id="201102">%null%</text>
+<text id="201103">%null%</text>
+<text id="201104">%null%</text>
+<text id="201105">&lt;?keyicon@120?&gt;：&lt;?keyActFullName@120?&gt;
+&lt;?keyicon@124?&gt;：双手共持右手武器
+&lt;?keyicon@125?&gt;：双手共持左手武器</text>
+<text id="201106">%null%</text>
+<text id="201107">%null%</text>
+<text id="201108">%null%</text>
+<text id="201109">%null%</text>
+<text id="201110">在有黑夜雨倾注而下的区域，
+会逐渐减少血量，因此不宜久留。</text>
+<text id="201111">在有黑夜雨倾注而下的区域，
+会逐渐减少血量。
+
+随着时间越接近夜晚，减少的血量会随之增加。
+
+另外，要是长时间被雨淋，
+减少的血量将遽增，会完全无法承受淋雨伤害，
+因此不宜久留。</text>
+<text id="201112">%null%</text>
+<text id="201113">%null%</text>
+<text id="201114">%null%</text>
+<text id="201115">%null%</text>
+<text id="201116">%null%</text>
+<text id="201117">%null%</text>
+<text id="201118">%null%</text>
+<text id="201119">%null%</text>
+<text id="201120">捡到的装备物品有“稀有度”与“附加效果”。
+
+稀有度越高，装备物品的性能会越好。
+但是在角色等级不够高时，
+有可能无法完全发挥效果。
+
+附加效果则是持有装备物品，就能触发效果。
+如果获得重复效果，则会叠加。（部分例外）
+获得的装备物品信息，能在装备菜单确认。
+
+&lt;?keyicon@1?&gt;：打开装备菜单</text>
+<text id="201250">在跳跃期间，对着墙壁再度跳跃，
+就能使出“踢墙跳跃”。
+
+能通过推动&lt;?keyMove?&gt;控制跳跃方向。
+根据墙壁的高度，决定是否能攀登上墙。
+
+跳跃期间，对着墙壁按下&lt;?keyicon@107?&gt;：踢墙跳跃</text>
+<text id="252520">防住敌人攻击的当下，能立刻使出防御反击。
+防御反击容易让敌人失去平衡。
+
+防住敌人攻击后
+立刻按下&lt;?keyicon@118?&gt;：防御反击</text>
+<text id="252550">部分敌人会使出缠绕黑暗的强力攻击。
+
+配合时机，以翻滚闪避此种攻击后，
+就能夺走黑暗，转而增加绝招量表，
+创造反击的机会。
+
+当敌人使出暗蓝色光的攻击，配合时机
+&lt;?keyMove?&gt;＋&lt;?keyicon@106?&gt;：逆转闪避</text>
+<text id="252570">装备手杖、圣印记等等触媒，
+就能消耗专注值，使用魔法、祷告。
+
+每个触媒存放着两种魔法、祷告，
+能够分别使用。
+
+在右手装备触媒
+&lt;?keyicon@117?&gt;：使用第一种魔法、祷告
+&lt;?keyicon@118?&gt;：使用第二种魔法、祷告
+
+※以左手装备时，为&lt;?keyicon@119?&gt;与&lt;?keyicon@120?&gt;。</text>
+<text id="252571">%null%</text>
+<text id="252572">%null%</text>
+<text id="252573">%null%</text>
+<text id="252574">%null%</text>
+<text id="252575">%null%</text>
+<text id="252576">%null%</text>
+<text id="252577">%null%</text>
+<text id="252578">%null%</text>
+<text id="252579">%null%</text>
+<text id="252580">游玩角色能够装备弓，射箭攻击。
+箭、弩箭没有使用数量的限制。
+
+在双手共持弓的时候，
+能够利用精密射击，瞄准目标。
+装备大弓、弩、弩炮也能精密射击。
+
+双手共持弓
+长按&lt;?keyicon@119?&gt;：精密射击
+&lt;?keyControlCamera?&gt;：移动精密射击的准心</text>
+<text id="252581">%null%</text>
+<text id="252582">%null%</text>
+<text id="252583">%null%</text>
+<text id="252584">%null%</text>
+<text id="252585">%null%</text>
+<text id="252586">%null%</text>
+<text id="252587">%null%</text>
+<text id="252588">%null%</text>
+<text id="252589">%null%</text>
+<text id="252590">当附近有掉落地面的道具时，
+能够快速选取，或是直接使用。
+
+通过特定方式，能增加空格的持有道具上限。
+最多能增加到持有８个道具。
+
+&lt;?keyicon@122?&gt;：获得道具
+&lt;?keyicon@132?&gt;／&lt;?keyicon@131?&gt;：切换选择的道具
+&lt;?keyicon@129?&gt;：直接使用道具</text>
+<text id="252591">%null%</text>
+<text id="252592">%null%</text>
+<text id="252593">%null%</text>
+<text id="252594">%null%</text>
+<text id="252595">%null%</text>
+<text id="252596">%null%</text>
+<text id="252597">%null%</text>
+<text id="252598">%null%</text>
+<text id="252599">%null%</text>
+<text id="252600">敌人会因为我方的攻击而失去平衡，
+此时就有机会使出致命一击。
+
+以蓄力攻击、跳跃攻击，
+或是挑敌人的弱点属性攻击，
+特别容易让对方失去平衡。
+
+另外，受到敌人攻击时，
+操作角色有可能不会陷入僵直。
+
+借由以双手挥舞重型武器等等提高强韧度后，
+比较不会因为敌人的攻击而陷入僵直。
+
+
+长按&lt;?keyicon@118?&gt;：蓄力攻击
+跳跃期间按下&lt;?keyicon@118?&gt;：跳跃攻击
+靠近失去平衡的敌人，按下&lt;?keyicon@117?&gt;：致命一击</text>
+<text id="252601">%null%</text>
+<text id="252602">%null%</text>
+<text id="252603">%null%</text>
+<text id="252604">%null%</text>
+<text id="252605">%null%</text>
+<text id="252606">%null%</text>
+<text id="252607">%null%</text>
+<text id="252608">%null%</text>
+<text id="252609">%null%</text>
+<text id="252610">在武器、法术、道具，或是敌人使出的攻击中，
+有些会具有引发异常状态的效果。
+
+受到具有此类效果的攻击时，
+游玩角色与敌人都会累积异常状态的量表。
+当量表累积突破界限，就会引发异常状态。
+
+异常状态大致分为７种：
+
+&lt;?image@4300##11?&gt;中毒　　：会持续给予伤害
+&lt;?image@4301##11?&gt;猩红腐败：会持续给予伤害
+&lt;?image@4302##11?&gt;出血　　：会根据血量上限给予一定比例的伤害
+&lt;?image@4303##11?&gt;冻伤　　：会根据血量上限给予一定比例的伤害
+　　　　　　　并在一定时间内，受到攻击时的伤害加剧
+&lt;?image@4304##11?&gt;催眠　　：会减少专注值
+　　　　　　　并在一定时间内，会变得毫无防备
+&lt;?image@4305##11?&gt;发狂　　：会大量减少血量、专注值
+&lt;?image@4306##11?&gt;死亡　　：立刻死亡
+
+每位游玩角色与敌人
+对异常状态的抵抗力，各有强弱。</text>
+<text id="252611">%null%</text>
+<text id="252612">%null%</text>
+<text id="252613">%null%</text>
+<text id="252614">%null%</text>
+<text id="252615">%null%</text>
+<text id="252616">%null%</text>
+<text id="252617">%null%</text>
+<text id="252618">%null%</text>
+<text id="252619">%null%</text>
+<text id="252620">在武器、法术、道具，或是敌人使出的攻击，
+会带有攻击属性。
+
+攻击属性分为物理，以及其他四种属性。
+
+物理包含普通、打击、斩击、突刺属性。
+武器的攻击部位或挥舞方式，会包含任一属性。
+
+其他四种属性，则是：
+&lt;?image@4401##12?&gt;火
+&lt;?image@4400##12?&gt;魔力
+&lt;?image@4402##12?&gt;雷
+&lt;?image@4403##12?&gt;圣
+
+以敌人的弱点属性攻击，能增加给予的伤害，
+在特定条件下也能让对方陷入僵直。
+针对情况切换，能在战斗中取得优势。</text>
+<text id="252640">血量是生存的力量。
+
+受到伤害时会减少，归零时会死亡。
+游玩角色则是会陷入“濒死状态”。
+
+能够使用圣杯瓶，或是触碰赐福恢复血量。
+
+&lt;?keyicon@121?&gt;：使用圣杯瓶</text>
+<text id="252641">%null%</text>
+<text id="252642">%null%</text>
+<text id="252643">%null%</text>
+<text id="252644">%null%</text>
+<text id="252645">%null%</text>
+<text id="252646">%null%</text>
+<text id="252647">%null%</text>
+<text id="252648">%null%</text>
+<text id="252649">%null%</text>
+<text id="252650">精力是进行各种行动时的力量。
+
+当游玩角色攻击或闪避等等，
+执行特定行动时会减少；
+精力用尽时，会无法采取行动。
+
+精力在一定时间后会自动恢复；
+并且在交战时，才会消耗。</text>
+<text id="252651">%null%</text>
+<text id="252652">%null%</text>
+<text id="252653">%null%</text>
+<text id="252654">%null%</text>
+<text id="252655">%null%</text>
+<text id="252656">%null%</text>
+<text id="252657">%null%</text>
+<text id="252658">%null%</text>
+<text id="252659">%null%</text>
+<text id="252660">专注值是使用魔法、祷告或战技时所需的力量。
+
+在使用魔法、祷告、战技时，会消耗专注值；
+专注值用尽时，会无法发挥效果。
+
+能够使用特定道具，
+或是触碰赐福恢复专注值。</text>
+<text id="252661">%null%</text>
+<text id="252662">%null%</text>
+<text id="252663">%null%</text>
+<text id="252664">%null%</text>
+<text id="252665">%null%</text>
+<text id="252666">%null%</text>
+<text id="252667">%null%</text>
+<text id="252668">%null%</text>
+<text id="252669">%null%</text>
+<text id="252670">游玩角色们有８种能力值。
+
+每位角色的能力值强弱不同，
+所以各有擅长使用的武器与法术等等。
+
+提升等级后，各能力值也会随之自动提升，
+连带影响武器与法术的性能。
+
+生命力：提升血量
+集中力：提升专注值
+耐力　：提升精力
+力气　：提升重型武器的攻击力
+灵巧　：提升精密武器的攻击力
+智力　：提升魔法的攻击力
+信仰　：提升祷告的攻击力与恢复力
+感应　：增加所有异常状态量表的累积</text>
+<text id="252671">%null%</text>
+<text id="252672">%null%</text>
+<text id="252673">%null%</text>
+<text id="252674">%null%</text>
+<text id="252675">%null%</text>
+<text id="252676">%null%</text>
+<text id="252677">%null%</text>
+<text id="252678">%null%</text>
+<text id="252679">%null%</text>
+<text id="252680">“能力”是游玩角色拥有的固有力量。
+
+角色能随时施展能力，
+善加运用，有益于攻略。</text>
+<text id="252681">%null%</text>
+<text id="252682">%null%</text>
+<text id="252683">%null%</text>
+<text id="252684">%null%</text>
+<text id="252685">%null%</text>
+<text id="252686">%null%</text>
+<text id="252687">%null%</text>
+<text id="252688">%null%</text>
+<text id="252689">%null%</text>
+<text id="252690">游玩角色有多种移动的方式。
+
+在冲刺时，消耗的精力较少；
+但是急速冲刺时，会大幅消耗精力。
+
+&lt;?keyMove?&gt;：&lt;?keyActName@101?&gt;
+&lt;?keyMove?&gt;＋长按&lt;?keyicon@106?&gt;：冲刺
+&lt;?keyMove?&gt;＋&lt;?keyicon@105?&gt;：急速冲刺</text>
+<text id="252691">%null%</text>
+<text id="252692">%null%</text>
+<text id="252693">%null%</text>
+<text id="252694">%null%</text>
+<text id="252695">%null%</text>
+<text id="252696">%null%</text>
+<text id="252697">%null%</text>
+<text id="252698">%null%</text>
+<text id="252699">%null%</text>
+<text id="252700">在环顾四周、注视敌人的情况下，
+能使用“锁定目标”。
+
+&lt;?keyControlCamera?&gt;：操作镜头
+&lt;?keyicon@112?&gt;：锁定／解除锁定目标
+在锁定目标时，推动&lt;?keyControlCamera?&gt;：切换锁定的目标</text>
+<text id="252701">%null%</text>
+<text id="252702">%null%</text>
+<text id="252703">%null%</text>
+<text id="252704">%null%</text>
+<text id="252705">%null%</text>
+<text id="252706">%null%</text>
+<text id="252707">%null%</text>
+<text id="252708">%null%</text>
+<text id="252709">%null%</text>
+<text id="252710">一般情况下，能以跳跃跳过有高低落差的地面。
+
+当遇到即使跳跃，还是有些微差距的时候，
+能改用“攀登”动作爬上去。
+
+在跳跃期间，对着墙壁再次跳跃，
+就能使出“踢墙跳跃”。
+
+踢墙跳跃能通过推动&lt;?keyMove?&gt;调整跳跃方向。
+根据墙壁的高度，决定是否能攀登上墙。
+
+&lt;?keyicon@107?&gt;：&lt;?keyActFullName@107?&gt;
+跳跃期间，对着高处推动&lt;?keyMove?&gt;：攀登
+跳跃期间，对着墙壁按下&lt;?keyicon@107?&gt;：踢墙跳跃</text>
+<text id="252711">%null%</text>
+<text id="252712">%null%</text>
+<text id="252713">%null%</text>
+<text id="252714">%null%</text>
+<text id="252715">%null%</text>
+<text id="252716">%null%</text>
+<text id="252717">%null%</text>
+<text id="252718">%null%</text>
+<text id="252719">%null%</text>
+<text id="252720">据说黄金圣杯承接过恩惠露滴，
+此为参考黄金圣杯制成的瓶子。
+
+装满红色露滴之后，使用能恢复血量。
+游玩角色都持有圣杯瓶。
+
+在靠近赐福，或是死亡后会获得补充。
+此外，圣杯瓶也会随着时间逐渐补充；
+但是在深夜时刻，或是特定战斗时不会补充。
+
+&lt;?keyicon@121?&gt;：&lt;?keyActFullName@121?&gt;</text>
+<text id="252721">%null%</text>
+<text id="252722">%null%</text>
+<text id="252723">%null%</text>
+<text id="252724">%null%</text>
+<text id="252725">%null%</text>
+<text id="252726">%null%</text>
+<text id="252727">%null%</text>
+<text id="252728">%null%</text>
+<text id="252729">%null%</text>
+<text id="252730">游玩角色有多种攻击的方式。
+
+武器的挥舞方式、攻击间隔、伤害高低，
+以及造成敌人失去平衡的性能各有不同。
+
+不论哪一种武器，都能在冲刺、跳跃等等，
+各种动作之后接着使出攻击；
+也能以左手装备的武器进行攻击。
+
+&lt;?keyicon@117?&gt;：&lt;?keyActFullName@117?&gt;
+&lt;?keyicon@118?&gt;：&lt;?keyActFullName@118?&gt;
+长按&lt;?keyicon@118?&gt;：蓄力攻击
+按下&lt;?keyicon@119?&gt;：以左手武器攻击</text>
+<text id="252731">%null%</text>
+<text id="252732">%null%</text>
+<text id="252733">%null%</text>
+<text id="252734">%null%</text>
+<text id="252735">%null%</text>
+<text id="252736">%null%</text>
+<text id="252737">%null%</text>
+<text id="252738">%null%</text>
+<text id="252739">%null%</text>
+<text id="252740">翻滚或是后跃能闪避敌人的攻击。
+两种动作使用时，都会消耗精力。
+
+&lt;?keyMove?&gt;＋&lt;?keyicon@106?&gt;：闪避
+按下&lt;?keyicon@106?&gt;：后跃
+
+
+部分敌人会使出缠绕黑暗的强力攻击。
+配合时机，成功闪避此种攻击后，
+就能夺走黑暗，转而增加绝招量表。
+
+当敌人使出闪着深蓝色光芒的攻击，配合时机
+&lt;?keyMove?&gt;＋&lt;?keyicon@106?&gt;：闪避</text>
+<text id="252741">%null%</text>
+<text id="252742">%null%</text>
+<text id="252743">%null%</text>
+<text id="252744">%null%</text>
+<text id="252745">%null%</text>
+<text id="252746">%null%</text>
+<text id="252747">%null%</text>
+<text id="252748">%null%</text>
+<text id="252749">%null%</text>
+<text id="252750">以左手武器，或是双手共持的武器
+能防御敌人的攻击。
+其中以盾类武器防御，效果最佳。
+
+防御攻击时会消耗精力；
+精力归零时，会失去平衡。
+
+&lt;?keyicon@119?&gt;：防御</text>
+<text id="252751">%null%</text>
+<text id="252752">%null%</text>
+<text id="252753">%null%</text>
+<text id="252754">%null%</text>
+<text id="252755">%null%</text>
+<text id="252756">%null%</text>
+<text id="252757">%null%</text>
+<text id="252758">%null%</text>
+<text id="252759">%null%</text>
+<text id="252760">“技艺”是游玩角色拥有的固有技术。
+
+每位角色的技艺各有特色。
+使用过后，必须等到冷却时间结束，
+才能再次使用。
+
+能通过选择角色菜单，
+或是图鉴菜单的角色项目确认详情。
+
+&lt;?keyicon@127?&gt;：&lt;?keyActFullName@127?&gt;
+※操作指示如果有“＋”符号，
+　代表需先长按左方操作，再按下右方操作。</text>
+<text id="252761">%null%</text>
+<text id="252762">%null%</text>
+<text id="252763">%null%</text>
+<text id="252764">%null%</text>
+<text id="252765">%null%</text>
+<text id="252766">%null%</text>
+<text id="252767">%null%</text>
+<text id="252768">%null%</text>
+<text id="252769">%null%</text>
+<text id="252770">“绝招”是游玩角色拥有的固有绝技。
+当绝招量表累积到极限后，就能使用。
+
+能通过选择角色菜单，
+或是图鉴菜单的角色项目确认详情。
+
+&lt;?keyicon@126?&gt;：&lt;?keyActFullName@126?&gt;
+※操作指示如果有“＋”符号，
+　代表需先长按左方操作，再按下右方操作。</text>
+<text id="252810">%null%</text>
+<text id="252811">%null%</text>
+<text id="252812">%null%</text>
+<text id="252813">%null%</text>
+<text id="252814">%null%</text>
+<text id="252815">%null%</text>
+<text id="252816">%null%</text>
+<text id="252817">%null%</text>
+<text id="252818">%null%</text>
+<text id="252819">%null%</text>
+<text id="252820">%null%</text>
+<text id="252821">%null%</text>
+<text id="252822">%null%</text>
+<text id="252823">%null%</text>
+<text id="252824">%null%</text>
+<text id="252825">%null%</text>
+<text id="252826">%null%</text>
+<text id="252827">%null%</text>
+<text id="252828">%null%</text>
+<text id="252829">%null%</text>
+<text id="252830">%null%</text>
+<text id="252831">%null%</text>
+<text id="252832">%null%</text>
+<text id="252833">%null%</text>
+<text id="252834">%null%</text>
+<text id="252835">%null%</text>
+<text id="252836">%null%</text>
+<text id="252837">%null%</text>
+<text id="252838">%null%</text>
+<text id="252839">%null%</text>
+<text id="252840">%null%</text>
+<text id="252841">%null%</text>
+<text id="252842">%null%</text>
+<text id="252843">%null%</text>
+<text id="252844">%null%</text>
+<text id="252845">%null%</text>
+<text id="252846">%null%</text>
+<text id="252847">%null%</text>
+<text id="252848">%null%</text>
+<text id="252849">%null%</text>
+<text id="252850">%null%</text>
+<text id="252851">%null%</text>
+<text id="252852">%null%</text>
+<text id="252853">%null%</text>
+<text id="252854">%null%</text>
+<text id="252855">%null%</text>
+<text id="252856">%null%</text>
+<text id="252857">%null%</text>
+<text id="252858">%null%</text>
+<text id="252859">%null%</text>
+<text id="252860">%null%</text>
+<text id="252861">%null%</text>
+<text id="252862">%null%</text>
+<text id="252863">%null%</text>
+<text id="252864">%null%</text>
+<text id="252865">%null%</text>
+<text id="252866">%null%</text>
+<text id="252867">%null%</text>
+<text id="252868">%null%</text>
+<text id="252869">%null%</text>
+<text id="252870">%null%</text>
+<text id="252871">%null%</text>
+<text id="252872">%null%</text>
+<text id="252873">%null%</text>
+<text id="252874">%null%</text>
+<text id="252875">%null%</text>
+<text id="252876">%null%</text>
+<text id="252877">%null%</text>
+<text id="252878">%null%</text>
+<text id="252879">%null%</text>
+<text id="252880">%null%</text>
+<text id="252900">隐士的技艺“混合魔法”，
+需要在收集三个属性痕之后，才能使用。
+
+根据收集的属性，施展的魔法会产生变化。
+
+&lt;?image@4201##9?&gt; 【魔力】
+放出魔力核心环绕敌人。
+核心会在一定时间间隔内缠绕引爆，给予伤害。
+
+&lt;?image@4200##9?&gt; 【火】
+能丢掷漩涡状火焰。
+在命中后会暂时维持小范围燃烧、扩散。
+
+&lt;?image@4202##9?&gt; 【雷】
+全身缠绕雷电，一定时间内强化闪避能力。
+
+&lt;?image@4203##9?&gt; 【圣】
+全身缠绕神圣光芒，
+一定时间内，提升强韧度与减伤率。</text>
+<text id="252901">%null%</text>
+<text id="252902">%null%</text>
+<text id="252903">隐士的技艺“混合魔法”，
+需要在收集三个属性痕之后，才能使用。
+
+根据收集的属性，施展的魔法会产生变化。
+
+&lt;?image@4204##9?&gt; 【魔力、火】
+能释放追踪敌人、进行攻击的鬼火。
+
+&lt;?image@4207##9?&gt; 【魔力、雷】
+能形成魔力刀刃，朝前方迅速一挥。
+长按能维持架式，进行移动。
+
+&lt;?image@4208##9?&gt; 【魔力、圣】
+朝周围放下魔力帷幕，
+让自己与周围我方人物的专注值消耗归零。
+短时间内有效。</text>
+<text id="252904">隐士的技艺“混合魔法”，
+需要在收集三个属性痕之后，才能使用。
+
+根据收集的属性，施展的魔法会产生变化。
+
+&lt;?image@4205##9?&gt; 【火、雷】
+将自身化为火球，朝前方快速推进。
+再以自己为中心降下落雷，攻击周围。
+
+&lt;?image@4206##9?&gt; 【火、圣】
+释放高挂的火球，在一定时间内，
+提升周围我方血量上限，降低敌人血量上限。
+并减轻异常状态量表的累积。
+
+&lt;?image@4209##9?&gt; 【雷、圣】
+展开雷光护膜，能自动格挡敌人的攻击。
+一定时间内有效。</text>
+<text id="252905">%null%</text>
+<text id="252906">%null%</text>
+<text id="252907">隐士的技艺“混合魔法”，
+需要在收集三个属性痕之后，才能使用。
+
+根据收集的属性，施展的魔法会产生变化。
+（收集顺序不影响结果）
+
+&lt;?image@4210##9?&gt; 【魔力、火、雷】
+能形成重力球，拉近敌人的同时越变越大，
+再引发爆炸，给予大伤害。
+
+&lt;?image@4211##9?&gt; 【魔力、火、圣】
+能喷出混合属性的吐息。
+触碰到吐息的敌人会受到伤害；
+触碰到吐息的我方则会恢复血量、专注值。
+
+&lt;?image@4212##9?&gt; 【火、雷、圣】
+能做出避雷针，朝前方打进地面。
+一定时间后，会在避雷针降下白雷。
+
+&lt;?image@4213##9?&gt; 【魔力、雷、圣】
+能形成大范围的寒气风暴，
+同时将自身关进冰块之中，进入无敌状态。</text>
+<text id="301020">靠近赐福能完全恢复血量、专注值，
+治愈异常状态等等，也能补充圣杯瓶。
+
+此外，也能在赐福进行升级。</text>
+<text id="301900">圆桌厅堂是推进游戏时的活动据点。
+
+能够从大赐福出击，前往交界地，
+也能变更游玩角色、执行遗物仪式，
+或是进行各种出击的准备。
+
+从圆桌厅堂菜单能选择各项设施，直接前往。
+&lt;?keyicon@2?&gt;：圆桌厅堂菜单
+
+※此类说明会记录在圆桌厅堂的图鉴，
+　方便随时重温。</text>
+<text id="301901">网络测试版的目标，
+是打倒交界地的“三头野兽”。
+
+在圆桌厅堂，能够从大赐福出击，前往交界地。
+或是变更游玩角色，进行各种出击的准备。
+
+从圆桌厅堂菜单能选择各项设施，直接前往。
+&lt;?keyicon@2?&gt;：圆桌厅堂菜单
+
+※此类说明会记录在圆桌厅堂的图鉴，
+　方便随时重温。</text>
+<text id="301902">感谢您的游玩。
+
+网络测试版的游玩范围到此为止。
+敬请期待商品版的推出。
+
+※网络测试期间，能够保存进度、继续游玩。</text>
+<text id="301903">%null%</text>
+<text id="301904">%null%</text>
+<text id="301905">在训练场，能够确认操作方式，
+以及练习如何战斗。
+
+在训练用品菜单，能设置装备物品；
+在训练设置菜单，能进行训练时的细部调整。
+
+出击时，在训练场更换的装备物品会重置，
+不能在出击时使用。
+
+&lt;?keyicon@2?&gt;：训练设置菜单</text>
+<text id="301920">在出击菜单，新增了“深夜”。
+
+在“深夜”会无法选择目标，
+也会根据所处的深度提高难度。
+获胜后能提升进行度，前往下一个深度。
+
+无尽的黑暗，将无尽地延伸。</text>
+<text id="301921">%null%</text>
+<text id="301922">%null%</text>
+<text id="301923">%null%</text>
+<text id="301924">%null%</text>
+<text id="301925">%null%</text>
+<text id="301926">%null%</text>
+<text id="301927">%null%</text>
+<text id="301928">%null%</text>
+<text id="301929">%null%</text>
+<text id="301930">置物区经过整理后，
+腾出空间放了一组化妆台。
+
+通过化妆台，能换上持有的服装；
+也能添购其他件服装。
+
+从圆桌厅堂菜单，能直接跳至更换服装菜单。
+&lt;?keyicon@2?&gt;：圆桌厅堂菜单</text>
+<text id="301931">%null%</text>
+<text id="301932">%null%</text>
+<text id="301933">%null%</text>
+<text id="301934">%null%</text>
+<text id="301935">%null%</text>
+<text id="301936">%null%</text>
+<text id="301937">%null%</text>
+<text id="301938">%null%</text>
+<text id="301939">%null%</text>
+<text id="301940">在获得遗物后，能够通过遗物仪式，
+将深藏其中的意念化为力量。
+
+仪式中使用的遗物不会消失，能重复使用。
+
+从圆桌厅堂菜单，能直接跳至遗物仪式菜单。
+&lt;?keyicon@2?&gt;：圆桌厅堂菜单</text>
+<text id="301941">%null%</text>
+<text id="301942">%null%</text>
+<text id="301943">%null%</text>
+<text id="301944">%null%</text>
+<text id="301945">%null%</text>
+<text id="301946">%null%</text>
+<text id="301947">%null%</text>
+<text id="301948">%null%</text>
+<text id="301949">%null%</text>
+<text id="301950">受到“深夜”的接触，供具的深层显露而出。
+
+在深层取得的遗物，能放在供具的新位置。
+而此种力量只会在“深夜”发挥效果。</text>
+<text id="301951">%null%</text>
+<text id="301952">%null%</text>
+<text id="301953">%null%</text>
+<text id="301954">%null%</text>
+<text id="301955">%null%</text>
+<text id="301956">%null%</text>
+<text id="301957">%null%</text>
+<text id="301958">%null%</text>
+<text id="301959">%null%</text>
+<text id="301960">“女爵”将作为圆桌厅堂的战士，参与战斗。
+能从“出击角色”进行选择。
+
+女爵擅长连续、快速闪避等等的动作，
+是行动十分灵活的角色。</text>
+<text id="301961">%null%</text>
+<text id="301962">%null%</text>
+<text id="301963">%null%</text>
+<text id="301964">%null%</text>
+<text id="301965">%null%</text>
+<text id="301966">%null%</text>
+<text id="301967">%null%</text>
+<text id="301968">%null%</text>
+<text id="301969">%null%</text>
+<text id="301970">“复仇者”将作为圆桌厅堂的战士，参与战斗。
+能从“出击角色”进行选择。
+
+复仇者能召唤灵魂，联手共同战斗，
+是讲求战术安排的角色。</text>
+<text id="301971">%null%</text>
+<text id="301972">%null%</text>
+<text id="301973">%null%</text>
+<text id="301974">%null%</text>
+<text id="301975">%null%</text>
+<text id="301976">%null%</text>
+<text id="301977">%null%</text>
+<text id="301978">%null%</text>
+<text id="301979">%null%</text>
+<text id="301980">在打倒黑夜王等等的行动之后，
+有可能会让交界地的环境产生变化。
+
+此类变化称之为“特异地形”。
+据说有多种变化，能从中获得有用的物品。
+
+特异地形出现之后，会暂时维持。
+历经数次出击，或是在圆桌厅堂消磨时间后，
+就会消失，回归平常。
+
+推进时间：调查床铺</text>
+<text id="302000">在追忆片段中，
+有部分能唤起蕴藏其中的记忆，
+重现当时的情境。
+
+在日志选择“开始回想”，
+就能进入追忆中的世界。</text>
+<text id="302001">%null%</text>
+<text id="302002">%null%</text>
+<text id="302003">%null%</text>
+<text id="302004">%null%</text>
+<text id="302005">%null%</text>
+<text id="302006">%null%</text>
+<text id="302007">%null%</text>
+<text id="302008">%null%</text>
+<text id="302009">%null%</text>
+<text id="302010">能通过追忆的世界，推进各个角色的剧情。
+
+只要完成剧情的指定条件，
+就能结束回想，返回现在的世界。
+
+在日志菜单选择“暂停回想”，
+也能从剧情中返回现在的世界。
+
+推进剧情时，如果现在的世界出现变化，
+也有可能会暂停回想。</text>
+<text id="302011">%null%</text>
+<text id="302012">%null%</text>
+<text id="302013">%null%</text>
+<text id="302014">%null%</text>
+<text id="302015">%null%</text>
+<text id="302016">%null%</text>
+<text id="302017">%null%</text>
+<text id="302018">%null%</text>
+<text id="302019">%null%</text>
+<text id="302020">在追忆的世界中，完成剧情的指定条件，
+会出现“追忆的出口”。
+
+穿越出口能结束回想，返回现在的世界。</text>
+<text id="302021">%null%</text>
+<text id="302022">%null%</text>
+<text id="302023">%null%</text>
+<text id="302024">%null%</text>
+<text id="302025">%null%</text>
+<text id="302026">%null%</text>
+<text id="302027">%null%</text>
+<text id="302028">%null%</text>
+<text id="302029">%null%</text>
+<text id="302030">在追忆的世界推进剧情，
+会新增需要在交界地达成的“个人的目标”。
+
+在追忆的世界里出击，
+完成个人的目标，就能推进各角色的剧情。
+
+每一次出击，
+只会进行一位玩家的“个人的目标”。
+
+※不包含目标是“要打败的目标”的情况</text>
+<text id="302031">%null%</text>
+<text id="302032">%null%</text>
+<text id="302033">%null%</text>
+<text id="302034">%null%</text>
+<text id="302035">%null%</text>
+<text id="302036">%null%</text>
+<text id="302037">%null%</text>
+<text id="302038">%null%</text>
+<text id="302039">%null%</text>
+<text id="302040">在游戏通关后，会回到
+打倒初始黑夜王之前的圆桌厅堂。
+
+而通关时，所持有的遗物、暗痕等等，
+这类资料会继承下来。
+敬请继续享受游戏。</text>
+<text id="302041">%null%</text>
+<text id="302042">%null%</text>
+<text id="302043">%null%</text>
+<text id="302044">%null%</text>
+<text id="302045">%null%</text>
+<text id="302046">%null%</text>
+<text id="302047">%null%</text>
+<text id="302048">%null%</text>
+<text id="302049">%null%</text>
+<text id="302050">在圆桌厅堂，能通过追忆的世界，
+推进各个角色的剧情。
+
+只要完成剧情的指定条件，
+就能结束回想，返回现在的世界。
+
+此外，通过日志菜单，
+也能从剧情中返回现在的世界。</text>
+<text id="302051">%null%</text>
+<text id="302052">%null%</text>
+<text id="302053">%null%</text>
+<text id="302054">%null%</text>
+<text id="302055">%null%</text>
+<text id="302056">%null%</text>
+<text id="302057">%null%</text>
+<text id="302058">%null%</text>
+<text id="302059">%null%</text>
+<text id="302060">为王之证
+是永夜之王身上的王的特质。
+
+受到那散发的光芒吸引，
+有人前来圆桌厅堂，想要进行交易。
+
+看来对方会提供稀有物品，
+借此换取为王之证……</text>
+<text id="302061">%null%</text>
+<text id="302062">%null%</text>
+<text id="302063">%null%</text>
+<text id="302064">%null%</text>
+<text id="302065">%null%</text>
+<text id="302066">%null%</text>
+<text id="302067">%null%</text>
+<text id="302068">%null%</text>
+<text id="302069">%null%</text>
+<text id="302070">在图鉴里的“入门书”与“指南书”，
+能够确认操作方式、可攻略地点的详情等等，
+各种对战斗有帮助的情报。
+
+如果发现游戏进行得不顺利，
+也许能参考这些信息。</text>
+<text id="302430">战技是武器具备的特殊招式。
+
+战技的种类繁多，像拨开敌人攻击的“格挡”，
+或是使出强大攻击，到产生短暂特殊效果皆有。
+使用时会消耗专注值。
+
+&lt;?keyicon@120?&gt;：&lt;?keyActFullName@120?&gt;</text>
+<text id="400000">通过入门书，能学习基础动作以及操作，
+也能获得有助于探索的知识。
+
+此外，在显示此说明时，
+按下&lt;?keyicon@209?&gt;，能再次确认游戏开头的教学。
+
+&lt;?keyicon@209?&gt;：开始教学</text>
+<text id="402020">在装备菜单，能确认持有的装备物品。
+由此选择替换，或是放置地面。
+
+&lt;?keyicon@1?&gt;：打开／关闭装备菜单
+&lt;?keyicon@204?&gt;：替换
+&lt;?keyicon@209?&gt;：放置</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">在状态菜单，能确认自己或我方人物的
+装备物品与特殊效果等等。
+
+基本能力、武器攻击力的数值，
+会根据特殊效果加以计算。
+
+此外，也能确认特殊效果的详细信息。
+在状态菜单，按下&lt;?keyicon@210?&gt;：显示特殊效果的详细信息</text>
+<text id="402100">在地图菜单，能确认我方人物的位置，
+以及可攻略地点的情报。
+
+在地图上钉下图钉，能作为探索的标记，
+也能和我方人物共享位置信息。
+
+按下“详情”能确认可攻略地点的补充信息。
+
+在地图菜单
+&lt;?keyicon@311?&gt;：在目的地放置图钉
+&lt;?keyicon@308?&gt;：切换详情</text>
+<text id="402200">在升级菜单，能花费卢恩提升等级。
+
+每一次升级能提升数个能力值，
+而能力值的提升幅度因游玩角色而异。
+
+当等级越来越高，
+提升等级所需的卢恩也会越来越多。</text>
+<text id="402300">在商店能花费卢恩，购买道具。
+
+基本上，各个商人贩卖的品项都相同，
+其中会有数量有限的道具。
+
+不过，也有部分商人会贩卖不一样的道具。</text>
+<text id="402390">在强化武器菜单，能消耗锻造石强化武器。
+每强化一个阶段，会消耗一颗锻造石。
+
+锻造石【１】：能将常见武器强化至少见武器。
+
+锻造石【２】：能将少见武器强化至稀有武器。</text>
+<text id="402391">%null%</text>
+<text id="402392">%null%</text>
+<text id="402393">%null%</text>
+<text id="402394">%null%</text>
+<text id="402395">在这块大地的某处，
+放着与独特锻造术相关的特殊锻造台。
+
+在特殊锻造台，能将所有稀有度的武器
+强化至传说武器。
+
+每次出击时，
+每位玩家只能使用一次特殊锻造台。</text>
+<text id="403020">在出击菜单，能选择作为目标的头目。
+
+选择“出击”后，会进行联机匹配，
+自动寻找有着相同目标的同伴。
+设置人数凑满后，就会出击。
+能从“匹配设置”变更设置人数等等设置。
+
+在出击之前，能在圆桌厅堂内自由活动。</text>
+<text id="403021">在出击菜单，能自动匹配同伴。
+凑满三位同伴后即可出击。
+
+在凑满同伴前的时间，
+能够在圆桌厅堂内自由活动。</text>
+<text id="403022">在队伍出击时，
+会由邀请成员的玩家作为代表，
+进行选择目标等等的操作。
+
+在全部成员准备完毕后，就会出击。
+
+※请注意，如果成员之间的进度不同，
+　进度较慢的成员可能会看到后续的内容。</text>
+<text id="403023">%null%</text>
+<text id="403024">%null%</text>
+<text id="403025">%null%</text>
+<text id="403026">%null%</text>
+<text id="403027">%null%</text>
+<text id="403028">%null%</text>
+<text id="403029">%null%</text>
+<text id="403030">%null%</text>
+<text id="403031">在出击角色菜单，能选择游玩的角色。
+
+在图鉴或训练场，
+能够确认角色的特色与详细信息。</text>
+<text id="403032">%null%</text>
+<text id="403033">%null%</text>
+<text id="403034">%null%</text>
+<text id="403035">%null%</text>
+<text id="403036">%null%</text>
+<text id="403037">%null%</text>
+<text id="403038">%null%</text>
+<text id="403039">%null%</text>
+<text id="403040">在更换服装菜单，能改变游玩角色的外表。
+改变外表不会影响角色的能力。</text>
+<text id="403041">%null%</text>
+<text id="403042">%null%</text>
+<text id="403043">%null%</text>
+<text id="403044">%null%</text>
+<text id="403045">%null%</text>
+<text id="403046">%null%</text>
+<text id="403047">%null%</text>
+<text id="403048">%null%</text>
+<text id="403049">%null%</text>
+<text id="403050">在遗物仪式菜单，能通过仪式，
+将深藏在遗物内的意念化为力量，
+于出击时发挥效果。
+遗物能重复使用。
+
+遗物放进供具时，有颜色限制，
+只能放在颜色相同的位置。
+每位游玩角色都有不同的供具，
+能通过与小壶商人购买等等方式取得。
+
+此外，也能卖出持有的遗物。</text>
+<text id="403051">在遗物仪式菜单，能通过仪式，
+将深藏在遗物内的意念化为力量，
+于出击时发挥效果。
+遗物能重复使用。
+
+遗物放进供具时，有颜色限制，
+只能放在颜色相同的位置。
+
+此外，也能卖出持有的遗物。</text>
+<text id="403052">%null%</text>
+<text id="403053">%null%</text>
+<text id="403054">%null%</text>
+<text id="403055">%null%</text>
+<text id="403056">%null%</text>
+<text id="403057">%null%</text>
+<text id="403058">%null%</text>
+<text id="403059">%null%</text>
+<text id="403060">在图鉴菜单，
+能浏览游玩时的统计数据等等资料。
+
+入门书：基础说明与基础知识
+指南书：关于战斗的详细资料
+
+战果记录则是能浏览过去出击的记录。</text>
+<text id="403061">在图鉴菜单，能确认目前为止看过的说明，
+也能浏览各种有利于探索的信息。</text>
+<text id="403062">%null%</text>
+<text id="403063">%null%</text>
+<text id="403064">%null%</text>
+<text id="403065">%null%</text>
+<text id="403066">%null%</text>
+<text id="403067">%null%</text>
+<text id="403068">%null%</text>
+<text id="403069">%null%</text>
+<text id="403070">在日志，能确认各角色的剧情进度。
+
+各个游玩角色──
+渡夜的战士们因为投身漫长的战争，
+造成他们丧失了部分的记忆。
+
+回收他们遗失的“追忆片段”后，
+就能将想起的记忆，登录在日志上。
+
+在战斗途中，能发现追忆片段。
+有时候会需要圆桌厅堂的同伴，才有办法发现。</text>
+<text id="403071">%null%</text>
+<text id="403072">%null%</text>
+<text id="403073">%null%</text>
+<text id="403074">%null%</text>
+<text id="403075">%null%</text>
+<text id="403076">%null%</text>
+<text id="403077">%null%</text>
+<text id="403078">%null%</text>
+<text id="403079">%null%</text>
+<text id="403080">能够花费暗痕
+与小壶商人巴萨交易，购买道具。
+
+与巴萨购买的道具，不会因为出击而消失。</text>
+<text id="403091">在训练用品菜单，
+能装备各种武器、道具，进行试用。
+
+能从指南书确认关于战斗的提示与说明。</text>
+<text id="403092">在训练设置菜单，
+能调整能力值、血量、专注值等等的设置。
+
+此外，也能变更游玩角色。</text>
+<text id="403130">可攻略的地点，会以下列图案显示：
+
+&lt;?image@4007##6?&gt;：村落
+&lt;?image@4003##6?&gt;：教堂
+&lt;?image@4018##6?&gt;：小型要塞
+&lt;?image@4151##6?&gt;：大教堂
+&lt;?image@4017##6?&gt;：魔法师塔
+&lt;?image@4150##6?&gt;：古老魔法师塔
+&lt;?image@4024##6?&gt;：大型营地
+&lt;?image@4005##6?&gt;：遗迹
+&lt;?image@4009##6?&gt;：封印监牢
+&lt;?image@4025##6?&gt;：要塞</text>
+<text id="403131">%null%</text>
+<text id="403132">%null%</text>
+<text id="403133">%null%</text>
+<text id="403134">%null%</text>
+<text id="403135">%null%</text>
+<text id="403136">%null%</text>
+<text id="403137">%null%</text>
+<text id="403138">%null%</text>
+<text id="403139">%null%</text>
+<text id="403140">场景内的情报，会以下列图案显示：
+
+&lt;?image@4001##6?&gt;：赐福
+&lt;?image@4055##6?&gt;：灵魂鹰的栖木
+&lt;?image@4137##6?&gt;：灵脉
+&lt;?image@4016##6?&gt;：场景头目
+&lt;?image@4058##6?&gt;：粪金龟
+&lt;?image@4092##6?&gt;：行动目标
+&lt;?image@4152##6?&gt;：坑道入口
+&lt;?image@4153##6?&gt;：隐藏宝藏</text>
+<text id="403141">%null%</text>
+<text id="403142">%null%</text>
+<text id="403143">%null%</text>
+<text id="403144">%null%</text>
+<text id="403145">在地图菜单的详细信息，
+会显示各地点可能获得的武器或道具。
+将以下列图案显示：
+
+&lt;?image@4160##6?&gt;：圣杯瓶的使用次数
+&lt;?image@4161##6?&gt;：隐藏在周边的情报
+&lt;?image@4162##6?&gt;：商人与锻造台
+&lt;?image@4164##6?&gt;：能获得弓
+&lt;?image@4163##6?&gt;：能获得手杖
+&lt;?image@4165##6?&gt;：能获得圣印记
+
+在地图菜单上&lt;?keyicon@308?&gt;：详细信息</text>
+<text id="403170">在复制武器菜单，能选择持有的任一武器，
+复制出另一把同样性能的武器。
+
+每次出击时，
+每位玩家只能使用一次复制武器。</text>
+<text id="403171">%null%</text>
+<text id="403172">%null%</text>
+<text id="403173">%null%</text>
+<text id="403174">%null%</text>
+<text id="403175">%null%</text>
+<text id="403176">%null%</text>
+<text id="403177">%null%</text>
+<text id="403178">%null%</text>
+<text id="403179">%null%</text>
+<text id="403180">在圆桌厅堂的大厅会有来自其他世界，
+打败目标的幻影漂流至此。
+能从幻影们的持有物品，推断战况。
+
+※仅限联机模式有效。</text>
+<text id="403181">%null%</text>
+<text id="403182">%null%</text>
+<text id="403183">%null%</text>
+<text id="403184">%null%</text>
+<text id="403185">%null%</text>
+<text id="403186">%null%</text>
+<text id="403187">%null%</text>
+<text id="403188">%null%</text>
+<text id="403189">%null%</text>
+<text id="403190">可攻略的地点，会以下列图案显示：
+
+&lt;?image@4018##6?&gt;：小型要塞
+士兵进驻的前哨区。
+能借由作战地图，获得周围的隐藏情报。
+
+&lt;?image@4151##6?&gt;：大教堂
+腐朽破败的教堂。
+信徒们的圣印记会遗留于此。
+
+&lt;?image@4024##6?&gt;：大型营地
+隶属某一势力的驻营地。
+大量的强大敌人会在此停留。
+
+&lt;?image@4005##6?&gt;：遗迹
+自远古时代留存至今的遗迹。
+会有强大敌人徘徊其中，也会有隐藏的地下室。</text>
+<text id="403191">%null%</text>
+<text id="403192">%null%</text>
+<text id="403193">%null%</text>
+<text id="403194">%null%</text>
+<text id="403195">%null%</text>
+<text id="403196">%null%</text>
+<text id="403197">%null%</text>
+<text id="403198">%null%</text>
+<text id="403199">%null%</text>
+<text id="403200">可攻略的地点，会以下列图案显示：
+
+&lt;?image@4152##6?&gt;：坑道入口
+开采中的坑道。
+能获得锻造武器用的矿石。
+
+&lt;?image@4025##6?&gt;：要塞
+威胁倾巢而出的城堡。
+对身手有自信的人，才能挑战的敌方根据地。
+
+&lt;?image@4016##6?&gt;：场景头目
+四处徘徊的强大敌人。
+如果误判对方的实力，可能兵败如山倒。
+
+&lt;?image@4009##6?&gt;：封印监牢
+封印囚犯用的监牢。
+封印的力量随着时间流逝，逐渐转弱。</text>
+<text id="403201">%null%</text>
+<text id="403202">%null%</text>
+<text id="403203">%null%</text>
+<text id="403204">%null%</text>
+<text id="403205">%null%</text>
+<text id="403206">%null%</text>
+<text id="403207">%null%</text>
+<text id="403208">%null%</text>
+<text id="403209">%null%</text>
+<text id="403210">可攻略的地点，会以下列图案显示：
+
+&lt;?image@4007##6?&gt;：村落
+杳无人烟的安全场地。
+商人会在此地贩卖稀有的物品。
+
+&lt;?image@4003##6?&gt;：教堂
+巡礼者的教堂。
+能增加圣杯瓶的使用次数。
+
+&lt;?image@4017##6?&gt;：魔法师塔
+魔法师于研究时使用的塔。
+会以暗号上锁，保护研究成果。
+少数情况下，能发现古老魔法师使用的塔。</text>
+<text id="403211">%null%</text>
+<text id="403212">%null%</text>
+<text id="403213">%null%</text>
+<text id="403214">%null%</text>
+<text id="403215">%null%</text>
+<text id="403216">%null%</text>
+<text id="403217">%null%</text>
+<text id="403218">%null%</text>
+<text id="403219">%null%</text>
+<text id="403220">场景环境的信息，会以下列图案显示：
+
+&lt;?image@4001##6?&gt;：赐福
+让战士们的心得以平静之处。
+能进行恢复与补充圣杯瓶。
+另外，也能花费卢恩提升等级。
+
+&lt;?image@4055##6?&gt;：灵魂鹰的栖木
+灵魂鹰用于休憩的树。
+它们会在空中沿着灵路，运送战士。
+在地图上能确认灵路的走向。
+
+&lt;?image@4137##6?&gt;：灵脉
+从大地裂缝溢出的力量。
+会将与之共鸣的人运往高处。</text>
+<text id="403221">%null%</text>
+<text id="403222">%null%</text>
+<text id="403223">%null%</text>
+<text id="403224">%null%</text>
+<text id="403225">%null%</text>
+<text id="403226">%null%</text>
+<text id="403227">%null%</text>
+<text id="403228">%null%</text>
+<text id="403229">%null%</text>
+<text id="403230">其他的场景信息，会以下列图案显示：
+
+&lt;?image@4058##6?&gt;：粪金龟
+贵重物品的搬运工。
+能从它们手中夺取护符。
+
+&lt;?image@4153##6?&gt;：隐藏宝藏
+被隐藏的宝箱。
+某些人刻意藏匿的稀有珍品放置其中。
+
+&lt;?image@4092##6?&gt;：行动目标
+渡夜战士们的目标。
+会根据情况标示在地图上。</text>
+<text id="403300">能够对地面道具钉上图钉，
+将道具的位置共享给我方人物。
+
+从地图菜单也能确认道具的详细信息。
+
+对地面的道具按下&lt;?keyicon@128?&gt;：道具图钉</text>
+<text id="403301">%null%</text>
+<text id="403302">%null%</text>
+<text id="403303">%null%</text>
+<text id="403304">%null%</text>
+<text id="403305">%null%</text>
+<text id="403306">%null%</text>
+<text id="403307">%null%</text>
+<text id="403308">%null%</text>
+<text id="403309">%null%</text>
+<text id="403310">交界地各处生长的果实、花朵，
+或是蝴蝶等等生物，皆能作为材料。
+采集材料后，能带来暂时性的效用。
+
+在我方人物采集过后，材料会暂时活化，
+到材料的所在地，能获得相同的效用。
+
+靠近花草等等，按下&lt;?keyicon@122?&gt;：采集材料</text>
+<text id="403311">%null%</text>
+<text id="403312">%null%</text>
+<text id="403313">%null%</text>
+<text id="403314">%null%</text>
+<text id="403315">%null%</text>
+<text id="403316">%null%</text>
+<text id="403317">%null%</text>
+<text id="403318">%null%</text>
+<text id="403319">%null%</text>
+<text id="403320">在交界地，偶尔会看见游玩角色的幻影，
+那是来自其他世界的产物。
+
+那些幻影会在短时间内消失，
+但如果在消失前触碰他们，
+就能产生共鸣，累积绝招量表。
+
+此外，通过死亡幻影，
+能拿到游玩角色死亡时的装备物品──
+将自身的不甘化为力量，托付给他人。
+
+※仅限联机模式有效。
+※触碰过幻影后，在脱机模式也能看见幻影。</text>
+<text id="403321">%null%</text>
+<text id="403322">%null%</text>
+<text id="403323">%null%</text>
+<text id="403324">%null%</text>
+<text id="403325">%null%</text>
+<text id="403326">%null%</text>
+<text id="403327">%null%</text>
+<text id="403328">%null%</text>
+<text id="403329">%null%</text>
+<text id="403330">通过装备菜单，或是在捡拾武器的时候，
+能确认武器的攻击力或附加效果；
+会依照角色当时的能力值，计算武器的攻击力。
+
+装备菜单也能确认战技、附加效果的详细信息。
+
+在装备菜单&lt;?keyicon@210?&gt;：详细信息</text>
+<text id="403331">%null%</text>
+<text id="403332">%null%</text>
+<text id="403333">%null%</text>
+<text id="403334">%null%</text>
+<text id="403335">%null%</text>
+<text id="403336">%null%</text>
+<text id="403337">%null%</text>
+<text id="403338">%null%</text>
+<text id="403339">%null%</text>
+<text id="403340">在地图菜单，能显示每一层的地底坑道。
+
+根据环境差异，
+也可能显示坑道以外的地底空间。
+
+在地图菜单上&lt;?keyicon@307?&gt;：显示坑道</text>
+<text id="403360">当自己或我方玩家钉下图钉时，
+能对着图钉再一次钉下自己的图钉。
+
+移动镜头，将图钉对到画面中心
+长按&lt;?keyicon@311?&gt;：叠放图钉</text>
+<text id="403361">%null%</text>
+<text id="403362">%null%</text>
+<text id="403363">%null%</text>
+<text id="403364">%null%</text>
+<text id="403365">%null%</text>
+<text id="403366">%null%</text>
+<text id="403367">%null%</text>
+<text id="403368">%null%</text>
+<text id="403369">%null%</text>
+<text id="403370">从装备菜单，能选择肢体动作，
+做出简单的姿势。
+
+肢体动作能通过向小壶商人巴萨购买，
+或是其他方式取得。
+
+打开装备菜单，按下&lt;?keyicon@208?&gt;：显示肢体动作</text>
+<text id="403371">%null%</text>
+<text id="403372">%null%</text>
+<text id="403373">%null%</text>
+<text id="403374">%null%</text>
+<text id="403375">%null%</text>
+<text id="403376">%null%</text>
+<text id="403377">%null%</text>
+<text id="403378">%null%</text>
+<text id="403379">%null%</text>
+<text id="403380">在交界地打倒敌人后，能获得“卢恩”。
+卢恩能用于提升游玩角色的等级，
+或是购买道具。
+
+出击之后，能在圆桌厅堂获得“暗痕”。
+暗痕能用于和小壶商人巴萨等等人物购买道具。
+
+在每一次出击时，都会失去卢恩；
+暗痕则是主动使用时，才会消失。</text>
+<text id="403381">%null%</text>
+<text id="403382">%null%</text>
+<text id="403383">%null%</text>
+<text id="403384">%null%</text>
+<text id="403385">%null%</text>
+<text id="403386">%null%</text>
+<text id="403387">%null%</text>
+<text id="403388">%null%</text>
+<text id="403389">%null%</text>
+<text id="403390">所谓的灾域，指的是黑夜渗出的区域。
+
+黑夜污浊聚集，深陷其中的人会失去自我，
+但同时也能激发出令人畏惧的力量。
+
+此外，据说灾域和其他世界有所联系，
+无法渡过黑夜的人们会由此展开攻击。
+
+在灾域中能获得高阶装备物品，或大量的卢恩，
+但是会伴随着风险，需多加留意。</text>
+<text id="403391">%null%</text>
+<text id="403392">%null%</text>
+<text id="403393">%null%</text>
+<text id="403394">%null%</text>
+<text id="403395">%null%</text>
+<text id="403396">%null%</text>
+<text id="403397">%null%</text>
+<text id="403398">%null%</text>
+<text id="403399">%null%</text>
+<text id="403400">受到外在神祇力量的影响，产生异变的森林。
+猩红腐败充斥其中，侵蚀林中万物。
+
+仍留在森林的人们，寻找与之对抗的方法──
+他们在森林里培育能暂时治愈腐败状态的材料，
+也建起了能驱散腐败瘴气的火焰灯塔。
+
+森林中藏有庇佑，据说灯塔里能找到相关线索。
+
+另外，那些前往寻宝，最后沦为徘徊死者的人，
+可能随处都能找到他们的遗物。</text>
+<text id="403401">%null%</text>
+<text id="403402">%null%</text>
+<text id="403403">%null%</text>
+<text id="403404">%null%</text>
+<text id="403405">%null%</text>
+<text id="403406">%null%</text>
+<text id="403407">%null%</text>
+<text id="403408">%null%</text>
+<text id="403409">%null%</text>
+<text id="403410">一夜之间陷入毁灭的隐藏城市。
+原本被封于地底，如今浮现地表。
+
+城市的规模庞大，却了无生机，
+只有死者与诅咒充斥其中──
+据说永恒之城收藏着秘密宝藏，那是为此而来，
+也为此而亡的人们，最后的下场。
+
+城内供奉着自远古时代遗留下来的物体，
+据说那拥有复制各种武器的力量。</text>
+<text id="403411">%null%</text>
+<text id="403412">%null%</text>
+<text id="403413">%null%</text>
+<text id="403414">%null%</text>
+<text id="403415">%null%</text>
+<text id="403416">%null%</text>
+<text id="403417">%null%</text>
+<text id="403418">%null%</text>
+<text id="403419">%null%</text>
+<text id="403420">初始的群山。
+此为遵从弱肉强食规则的酷寒之地。
+掌控寒气的龙，位居此地的生物顶点。
+
+据说位于山顶的庇佑具有操控寒气的力量，
+意图夺取那力量的人，想必会受到龙的阻挠。</text>
+<text id="403421">%null%</text>
+<text id="403422">%null%</text>
+<text id="403423">%null%</text>
+<text id="403424">%null%</text>
+<text id="403425">%null%</text>
+<text id="403426">%null%</text>
+<text id="403427">%null%</text>
+<text id="403428">%null%</text>
+<text id="403429">%null%</text>
+<text id="403430">火星熏烧的神秘火山口。
+古老神殿显露而出──
+据说用于敬神仪式的锻造术，供奉于此。
+
+在多次爆发之下，历史的轨迹几乎消失。
+但是在火山口旁，
+仍留有其中一种最古老的锻造术。
+
+据说只要抵达该处，就能锻造传说武器。</text>
+<text id="403500">在“深夜”的胜负，会关系到进行度的增减。
+
+到达一定的进行度后，就会增加深度。
+进行度持续减少，连带的也会降低深度，
+但是在深度２时，不会减少成深度１。
+而在深度３之后，仅有一定次数不会降低深度。
+
+深度分成５个阶段：
+
+　&lt;?image@4500##17?&gt;深度１：进行度０～
+　&lt;?image@4501##17?&gt;深度２：进行度１０００～
+　&lt;?image@4502##17?&gt;深度３：进行度２０００～
+　&lt;?image@4503##17?&gt;深度４：进行度４０００～
+　&lt;?image@4504##17?&gt;深度５：进行度６０００～
+
+在匹配时，会寻找相同深度的成员。
+但如果匹配花费的时间过长，
+有可能会匹配到不同深度的成员。</text>
+</entries>
+</fmg>

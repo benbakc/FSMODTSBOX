@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1893">戦技を変更する</text>
+<text id="1894">戦技の変更を戻す</text>
+<text id="2820">物理と朱い腐敗の攻撃力を高める</text>
+<text id="2821">ＦＰを回復する</text>
+<text id="2822">輝剣の円陣を展開する</text>
+<text id="2823">ＨＰを回復する</text>
+<text id="7910">原核を取る</text>
+<text id="7911">日誌を拾う</text>
+<text id="7980">扉を開く</text>
+<text id="7981">光に触れる</text>
+<text id="7982">読み解く</text>
+<text id="7983">叩き潰す</text>
+<text id="7984">夜の力を取り込む</text>
+<text id="7985">調べる</text>
+<text id="7986">祈りを捧げる</text>
+<text id="7987">読む</text>
+<text id="7988">読み解く</text>
+<text id="7989">読む</text>
+<text id="7990">書き直す</text>
+<text id="7991">声をかける</text>
+<text id="7992">鏡に映る自身を見る</text>
+<text id="9200">共鳴する</text>
+<text id="9201">大結晶の加護を得る</text>
+<text id="9202">別の場所へ移動する</text>
+<text id="9203">封印を解く</text>
+<text id="9204">大ルーンの虚像に触れる</text>
+<text id="9820">火を灯す</text>
+</entries>
+</fmg>

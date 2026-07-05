@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3030">設定是否根據搖桿傾斜度，加快運鏡速度</text>
+<text id="40000">附加內容</text>
+<text id="130100">隊伍內，有成員未擁有附加內容，
+無法選擇此目標。
+
+需要所有隊伍成員擁有下列的附加內容：
+
+&lt;?requiredDlcList?&gt;</text>
+<text id="130101">隊伍內，有成員未擁有附加內容，
+因此排除部分目標。
+
+若要選擇被排除在外的目標，
+需要所有隊伍成員擁有下列的附加內容：
+
+&lt;?requiredDlcList?&gt;</text>
+<text id="131123">有成員未擁有附加內容，
+無法引發此特異地形。</text>
+<text id="131124">有成員未擁有附加內容，
+無法觸發此個人的目標。</text>
+<text id="401130">找不到下列必要的附加內容：
+
+&lt;?requiredDlcList?&gt;
+
+安裝完上述附加內容後，才能讀取此角色檔案。</text>
+<text id="401131">The Forsaken Hollows</text>
+<text id="506080">未持有附加內容的成員加入了連線，
+已取消準備完畢。</text>
+<text id="506081">未持有附加內容的成員正加入連線，
+已取消準備完畢。</text>
+</entries>
+</fmg>

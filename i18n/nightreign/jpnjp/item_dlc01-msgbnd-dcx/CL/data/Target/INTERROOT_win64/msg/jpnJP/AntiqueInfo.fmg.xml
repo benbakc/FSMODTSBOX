@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">テストいにしえ1：説明</text>
+<text id="2">テストいにしえ2：説明</text>
+<text id="3">テストいにしえ3：説明</text>
+<text id="4">テストHPアップ：説明</text>
+<text id="5">テストスタミナアップ【PT】：説明</text>
+<text id="6">HPFPスタミナアップ：説明</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">円卓内で取引に使用できる祝福の痕</text>
+<text id="11">円卓内で取引に使用できる常夜の光</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">%null%</text>
+</entries>
+</fmg>

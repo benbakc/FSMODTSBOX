@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="8360000">战斗时，加快绝招量表的自然累积速度</text>
+<text id="8970040">在生死关头时，能隐藏自己的身影
+短暂时间内，让所有攻击失效</text>
+<text id="8970041">%null%</text>
+<text id="8970042">%null%</text>
+<text id="8970043">%null%</text>
+<text id="8970044">%null%</text>
+<text id="8970045">%null%</text>
+<text id="8970046">%null%</text>
+<text id="8970047">%null%</text>
+<text id="8970048">%null%</text>
+<text id="8970049">%null%</text>
+<text id="8970050">连续攻击时，恢复包含我方人物的精力
+并提升精力恢复速度</text>
+<text id="8970051">%null%</text>
+<text id="8970052">%null%</text>
+<text id="8970053">%null%</text>
+<text id="8970054">%null%</text>
+<text id="8970055">%null%</text>
+<text id="8970056">%null%</text>
+<text id="8970057">%null%</text>
+<text id="8970058">%null%</text>
+<text id="8970059">%null%</text>
+<text id="8970060">在濒死时，偶尔能自行脱险
+受到救援时，会提升攻击力</text>
+<text id="9990000">加快绝招量表的自然累积速度</text>
+<text id="9990021">提升血量上限
+受到损伤时，能通过攻击恢复部分血量</text>
+<text id="9990050">让结晶的诅咒气息失效
+圣杯瓶数量归零时，能累积绝招量表</text>
+<text id="9990051">%null%</text>
+<text id="9990052">%null%</text>
+<text id="9990053">%null%</text>
+<text id="9990054">%null%</text>
+<text id="9990055">%null%</text>
+<text id="9990056">%null%</text>
+<text id="9990057">%null%</text>
+<text id="9990058">%null%</text>
+<text id="9990059">%null%</text>
+<text id="9990060">加快绝招量表的自然累积速度
+此外，战斗结束后，会额外获得暗痕</text>
+<text id="10001000">用来收纳单眼镜，经过长期使用的皮革袋</text>
+<text id="10001001">学者体内的核心</text>
+<text id="10001002">渗出黑夜的透明结晶</text>
+<text id="10001003">某位侍奉王室的男人写下的日记</text>
+<text id="10001004">针对侵袭白金之子的流行病，制作的特效药</text>
+<text id="10001005">被退还的单眼镜收纳袋</text>
+<text id="10001006">黄金之地的居民配戴的头冠</text>
+<text id="10001007">由学者书写而成的调查记录</text>
+<text id="10001008">从初始黑夜王身上扯下来的手指</text>
+</entries>
+</fmg>

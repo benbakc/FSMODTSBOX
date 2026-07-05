@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3030">スティックの傾きに応じて、カメラ速度へ加速度的に影響を与えます</text>
+<text id="40000">追加コンテンツ</text>
+<text id="130100">チーム内に追加コンテンツを所有していないメンバーがいるため
+この標的は選択できません
+
+チームのメンバー全員が
+以下の追加コンテンツを所有している必要があります
+
+&lt;?requiredDlcList?&gt;</text>
+<text id="130101">チーム内に追加コンテンツを所有していないメンバーがいるため
+一部の標的を選択対象から除外しました
+
+除外された標的を選択するには
+チームのメンバー全員が
+以下の追加コンテンツを所有している必要があります
+
+&lt;?requiredDlcList?&gt;</text>
+<text id="131123">追加コンテンツ不足のメンバーにより
+発生しません</text>
+<text id="131124">追加コンテンツ不足のメンバーにより
+発生しません</text>
+<text id="401130">以下の必要な追加コンテンツが見つかりません
+
+&lt;?requiredDlcList?&gt;
+
+再度、追加コンテンツをインストールするまで
+このプロファイルは読み込めません</text>
+<text id="401131">The Forsaken Hollows</text>
+<text id="506080">追加コンテンツ不足のメンバーが参加したため
+準備完了を取り消しました</text>
+<text id="506081">追加コンテンツ不足のメンバーが参加しているため
+準備完了を取り消しました</text>
+</entries>
+</fmg>

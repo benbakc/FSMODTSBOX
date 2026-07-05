@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110005">セッション進行中にタイトル画面に戻ると
+現在の進行度で深き夜のレートが変動します
+よろしいですか？</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">%null%</text>
+<text id="110011">%null%</text>
+<text id="110012">%null%</text>
+<text id="110013">%null%</text>
+<text id="110014">%null%</text>
+<text id="110015">セッション進行中にデスクトップに戻ると
+現在の進行度で深き夜のレートが変動します
+よろしいですか？</text>
+<text id="136014">プリセットを以下の名前で登録します</text>
+<text id="136015">現在の配置を上書きして登録します
+元の配置状況は失われます
+よろしいですか？</text>
+<text id="136016">遺物が全て選択されています
+
+本当に売却してよろしいですか？</text>
+<text id="140002">マッチング中のため追憶の開始は行えません</text>
+<text id="140003">マッチング中のため追憶の再開は行えません</text>
+</entries>
+</fmg>

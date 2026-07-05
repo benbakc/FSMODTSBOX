@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1893">变更战技</text>
+<text id="1894">恢复为原本的战技</text>
+<text id="2820">提升物理与腥红腐败的攻击力</text>
+<text id="2821">恢复专注值</text>
+<text id="2822">形成辉剑排成的圆阵</text>
+<text id="2823">恢复血量</text>
+<text id="7910">取出原核</text>
+<text id="7911">捡拾日记</text>
+<text id="7980">开门</text>
+<text id="7981">触碰光芒</text>
+<text id="7982">解读</text>
+<text id="7983">敲碎</text>
+<text id="7984">吸收黑夜的力量</text>
+<text id="7985">调查</text>
+<text id="7986">祈祷</text>
+<text id="7987">阅读</text>
+<text id="7988">解读</text>
+<text id="7989">阅读</text>
+<text id="7990">重新撰写</text>
+<text id="7991">上前搭话</text>
+<text id="7992">查看镜中的自己</text>
+<text id="9200">触发共鸣</text>
+<text id="9201">获得大结晶庇佑</text>
+<text id="9202">移动到其他地方</text>
+<text id="9203">解开封印</text>
+<text id="9204">触碰大卢恩的虚像</text>
+<text id="9820">点火</text>
+</entries>
+</fmg>

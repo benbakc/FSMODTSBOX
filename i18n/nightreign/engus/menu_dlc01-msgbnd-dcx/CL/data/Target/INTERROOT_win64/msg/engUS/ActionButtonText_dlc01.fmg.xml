@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+  <compression>None</compression>
+  <version>DarkSouls3</version>
+  <bigendian>False</bigendian>
+  <entries>
+    <text id="1893">Change skill</text>
+    <text id="1894">Revert skill</text>
+    <text id="2820">Boost physical and scarlet rot damage</text>
+    <text id="2821">Restore FP</text>
+    <text id="2822">Create arch of magic glintblades</text>
+    <text id="2823">Restore HP</text>
+    <text id="7910">Take primal core</text>
+    <text id="7911">Pick up journal</text>
+    <text id="7980">Open door</text>
+    <text id="7981">Touch light</text>
+    <text id="7982">Examine</text>
+    <text id="7983">Smash</text>
+    <text id="7984">Absorb Night's power</text>
+    <text id="7985">Examine</text>
+    <text id="7986">Offer prayer</text>
+    <text id="7987">Read</text>
+    <text id="7988">スペシャルイベント 3</text>
+    <text id="7989">Read</text>
+    <text id="7990">Rewrite</text>
+    <text id="7991">Talk</text>
+    <text id="7992">Look at self in mirror</text>
+    <text id="9200">Resonate</text>
+    <text id="9201">Gain the power of the great crystal</text>
+    <text id="9202">Travel to another location</text>
+    <text id="9203">Break seal</text>
+    <text id="9204">Touch false vision of a Great Rune</text>
+    <text id="9820">Light flame</text>
+  </entries>
+</fmg>

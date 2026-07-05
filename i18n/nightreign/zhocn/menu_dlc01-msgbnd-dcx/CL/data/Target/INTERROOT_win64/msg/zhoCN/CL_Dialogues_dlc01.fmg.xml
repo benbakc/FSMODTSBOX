@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110005">在进行联机时返回首页画面，
+深夜的进行度将依照目前攻略情况产生变动。
+您确定吗？</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">%null%</text>
+<text id="110011">%null%</text>
+<text id="110012">%null%</text>
+<text id="110013">%null%</text>
+<text id="110014">%null%</text>
+<text id="110015">在进行联机时返回桌面，
+深夜的进行度将依照目前攻略情况产生变动。
+您确定吗？</text>
+<text id="136014">将以下列名字保存至默认</text>
+<text id="136015">将覆盖并保存目前的设置。
+不会保留先前调整的设置。
+您确定吗？</text>
+<text id="136016">已全选遗物。
+
+确定要卖出吗？</text>
+<text id="140002">正在匹配中，无法开始回想。</text>
+<text id="140003">正在匹配中，无法开始回想。</text>
+</entries>
+</fmg>
