@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-GPLv3-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
 
-**FSMODTSBOX** 是一款基于 WPF .NET8 的 FromSoftware 游戏 MOD 翻译工具，支持一键汉化游戏 MOD 文本，现已全面开源免费。
+**FSMODTSBOX** 是一款基于 WPF .NET8 的 FromSoftware 游戏 MOD 翻译工具，支持一键翻译游戏 MOD 文本，支持14种不同语言，现已全面开源免费。
 
 ## 支持的游戏
 
