@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-GPLv3-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
 
-**FSMODTSBOX** 是一款基于 WPF .NET8 的 FromSoftware 游戏 MOD 翻译工具，支持一键汉化游戏 MOD 文本。前身为 FSMODBOX（闭源版），现已全面开源免费。
+**FSMODTSBOX** 是一款基于 WPF .NET8 的 FromSoftware 游戏 MOD 翻译工具，支持一键汉化游戏 MOD 文本，现已全面开源免费。
 
 ## 支持的游戏
 
@@ -14,7 +14,6 @@
 - **黑暗之魂 2** (Dark Souls II) ✓
 - **黑暗之魂** (Dark Souls / Remastered) ✓
 - **只狼** (Sekiro: Shadows Die Twice) ✓
-- **装甲核心 6** (Armored Core VI) ✓
 - 更多游戏持续添加中...
 
 ## 核心特性
