@@ -39,12 +39,16 @@
 
 ### 📁 项目结构
 ```
-FSMODTSBOX_Release/
-├── FSMODTSBOX.exe      # 主程序
-├── FSMODTSBOX.dll      # 核心库
-├── FSMODTSBOX.pdb      # 调试符号
-├── tools/Yabber/       # Yabber 解包工具
-└── i18n/               # 多语言资源文件
+FSMODTSBOX/
+├── FSMODTSBOX/            # WPF 源码目录
+│   ├── FSMODTSBOX.csproj  # .NET8 项目文件
+│   ├── App.xaml           # 应用入口
+│   ├── MainWindow.xaml    # 主界面
+│   ├── Models/            # 数据模型
+│   └── Services/          # 核心服务
+├── i18n/                  # 多语言翻译缓存
+├── tools/                 # Yabber 解包工具
+└── icon/                  # 应用图标
 ```
 
 ## 快速开始
@@ -98,10 +102,10 @@ ui:
 ```bash
 git clone https://github.com/benbakc/FSMODTSBOX.git
 cd FSMODTSBOX
-dotnet publish -c Release -r win-x64 --self-contained true
+dotnet publish FSMODTSBOX/FSMODTSBOX.csproj -c Release -r win-x64 --self-contained true
 ```
 
-发布产物位于 `bin/Release/net8.0-windows/win-x64/publish/`。
+发布产物位于 `FSMODTSBOX/bin/Release/net8.0-windows/win-x64/publish/`。
 
 ## 开源协议
 
